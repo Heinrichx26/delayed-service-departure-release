@@ -1,0 +1,2128 @@
+{
+  "passed": true,
+  "date": "2026-10-28",
+  "source_sha256": "9a4213ac4849534e811f262ffc97d32fc5847aa2f3fa5e3b182c521e1aac84d9",
+  "acquisition_sha256": "e8c47b5ab7fd51091908bdbb427dc08322f5e216bcf5dafd96d84b854fcd5e0f",
+  "physical_sha256": "45c40c169ee0626f1c1ca19635acd47d8747bc8fbc4357ea2ae4c371aa9222c3",
+  "legacy_manifest_sha256": "870e1bc2ac388cf1cbf56aa5ea2e715dd22ef381edaa31d638c1b27d36620397",
+  "selective_source_sha256": "5c66ddde51b1be121efb972b582717ea908f392b2ddae54ea7a12275aef0e119",
+  "panel_source_sha256": "bb18fe8605c284a9a085b0f130465f185839c653ed709eda0de87b501d664b55",
+  "design_sha256": "feca1d2a226edbca5a36ac3ad1de86858b5a5c58d434dd6d8b578882e750ea2c",
+  "windows": 94,
+  "airport_day_clusters": 32,
+  "box_policy_runs": 4184,
+  "point_policy_rows": 188,
+  "point_policy_available": 188,
+  "covered_complete_runs": 2576,
+  "covered_complete_all_preserving": true,
+  "selective_covered_complete_equal": true,
+  "selective_out_of_support_release_divergences": 276,
+  "elapsed_seconds": 37.17681670002639,
+  "training_static_menu_exclusions": [
+    {
+      "case_id": "c4b6c01141f8_k1",
+      "cluster": "DEN_2024-01-24",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "4853318f0ec9_k1",
+      "cluster": "DEN_2024-01-25",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "ae2ab6d22677_k1",
+      "cluster": "DEN_2024-01-25",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "3243afd96686_k1",
+      "cluster": "DEN_2024-01-26",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "a9f0dcdc0f1a_k1",
+      "cluster": "DEN_2024-01-26",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "1b72b60d2b7f_k1",
+      "cluster": "DEN_2024-01-26",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "f6a8b9476469_k1",
+      "cluster": "DEN_2024-01-27",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "61bd244218d1_k1",
+      "cluster": "DEN_2024-01-28",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "f97180eb25ff_k1",
+      "cluster": "DEN_2024-01-28",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "9a08f1c96ebe_k1",
+      "cluster": "DEN_2024-01-29",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "a294e0034f7e_k1",
+      "cluster": "DEN_2024-01-29",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "e238bc9faa10_k1",
+      "cluster": "DEN_2024-01-30",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "c1d70c79374e_k1",
+      "cluster": "DEN_2024-01-30",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "dcd750867fe4_k1",
+      "cluster": "DEN_2024-01-31",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "5579ca1049f4_k1",
+      "cluster": "DEN_2025-01-24",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "48caceee5858_k1",
+      "cluster": "DEN_2025-01-25",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "59045bfeae70_k1",
+      "cluster": "DEN_2025-01-26",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "b7e6843ed1d5_k1",
+      "cluster": "DEN_2025-01-27",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "99d498d9c254_k1",
+      "cluster": "DEN_2025-01-28",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "2b5bf1e65e1a_k1",
+      "cluster": "DEN_2025-01-29",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "9e98e1fec712_k1",
+      "cluster": "DEN_2025-01-30",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "1da1e19f9862_k1",
+      "cluster": "DEN_2025-01-31",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "931988388d77_k1",
+      "cluster": "PHX_2024-01-24",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "7d9ab330a350_k1",
+      "cluster": "PHX_2024-01-24",
+      "capacity_label": "ceil_N_over_4",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "7d9ab330a350_k1",
+      "cluster": "PHX_2024-01-24",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "7d183f703566_k1",
+      "cluster": "PHX_2024-01-24",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "fe16ec2c8c14_k1",
+      "cluster": "PHX_2024-01-25",
+      "capacity_label": "ceil_N_over_4",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "fe16ec2c8c14_k1",
+      "cluster": "PHX_2024-01-25",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "b169711b9300_k1",
+      "cluster": "PHX_2024-01-25",
+      "capacity_label": "ceil_N_over_4",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "b169711b9300_k1",
+      "cluster": "PHX_2024-01-25",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "fd79c579e024_k1",
+      "cluster": "PHX_2024-01-25",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "02b530f1ff54_k1",
+      "cluster": "PHX_2024-01-26",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "e7d458760b7a_k1",
+      "cluster": "PHX_2024-01-26",
+      "capacity_label": "ceil_N_over_4",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "e7d458760b7a_k1",
+      "cluster": "PHX_2024-01-26",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "31657684e212_k1",
+      "cluster": "PHX_2024-01-26",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "e51575848067_k1",
+      "cluster": "PHX_2024-01-27",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "c56e779e7309_k1",
+      "cluster": "PHX_2024-01-27",
+      "capacity_label": "ceil_N_over_4",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "c56e779e7309_k1",
+      "cluster": "PHX_2024-01-27",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "e81c6d61d8cd_k1",
+      "cluster": "PHX_2024-01-27",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "8c6680353b56_k1",
+      "cluster": "PHX_2024-01-28",
+      "capacity_label": "ceil_N_over_4",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "8c6680353b56_k1",
+      "cluster": "PHX_2024-01-28",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "bbb69ab77864_k1",
+      "cluster": "PHX_2024-01-28",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "b200ab66dada_k1",
+      "cluster": "PHX_2024-01-28",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "ca45c4476b05_k1",
+      "cluster": "PHX_2024-01-29",
+      "capacity_label": "ceil_N_over_4",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "ca45c4476b05_k1",
+      "cluster": "PHX_2024-01-29",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "54a5150d4062_k1",
+      "cluster": "PHX_2024-01-29",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "239d60de119d_k1",
+      "cluster": "PHX_2024-01-29",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "96c6142ceaf0_k1",
+      "cluster": "PHX_2024-01-30",
+      "capacity_label": "ceil_N_over_4",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "96c6142ceaf0_k1",
+      "cluster": "PHX_2024-01-30",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "da720273ad96_k1",
+      "cluster": "PHX_2024-01-30",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "8b73d05e0771_k1",
+      "cluster": "PHX_2024-01-30",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "d04ea99d5b1f_k1",
+      "cluster": "PHX_2024-01-31",
+      "capacity_label": "ceil_N_over_4",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "d04ea99d5b1f_k1",
+      "cluster": "PHX_2024-01-31",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "aaf2b060ae89_k1",
+      "cluster": "PHX_2024-01-31",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "f0ae15964801_k1",
+      "cluster": "PHX_2025-01-24",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "fa66e94dae74_k1",
+      "cluster": "PHX_2025-01-24",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "651f9eee1ea0_k1",
+      "cluster": "PHX_2025-01-24",
+      "capacity_label": "ceil_N_over_4",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "651f9eee1ea0_k1",
+      "cluster": "PHX_2025-01-24",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "02a04a0e4cf7_k1",
+      "cluster": "PHX_2025-01-24",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "8f8bea2dca47_k1",
+      "cluster": "PHX_2025-01-25",
+      "capacity_label": "ceil_N_over_4",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "8f8bea2dca47_k1",
+      "cluster": "PHX_2025-01-25",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "85117eb5abcf_k1",
+      "cluster": "PHX_2025-01-25",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "f6a422d8ce90_k1",
+      "cluster": "PHX_2025-01-26",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "bc82113c2112_k1",
+      "cluster": "PHX_2025-01-26",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "73e26ea86000_k1",
+      "cluster": "PHX_2025-01-26",
+      "capacity_label": "ceil_N_over_4",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "73e26ea86000_k1",
+      "cluster": "PHX_2025-01-26",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "40546485a254_k1",
+      "cluster": "PHX_2025-01-26",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "613e128c1ed4_k1",
+      "cluster": "PHX_2025-01-27",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "1d27ba32be62_k1",
+      "cluster": "PHX_2025-01-27",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "df29de0cd7fb_k1",
+      "cluster": "PHX_2025-01-27",
+      "capacity_label": "ceil_N_over_4",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "df29de0cd7fb_k1",
+      "cluster": "PHX_2025-01-27",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "7d7bcfb76f04_k1",
+      "cluster": "PHX_2025-01-28",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "543cea52342b_k1",
+      "cluster": "PHX_2025-01-28",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "69bfcab932fa_k1",
+      "cluster": "PHX_2025-01-29",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "1f9cf4206750_k1",
+      "cluster": "PHX_2025-01-29",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "f00701be5e16_k1",
+      "cluster": "PHX_2025-01-30",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "2d79ad6a4c40_k1",
+      "cluster": "PHX_2025-01-30",
+      "capacity_label": "ceil_N_over_4",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "2d79ad6a4c40_k1",
+      "cluster": "PHX_2025-01-30",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "070c4b3750d6_k1",
+      "cluster": "PHX_2025-01-30",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "a1e175b31f3e_k1",
+      "cluster": "PHX_2025-01-31",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "3101f9edb289_k1",
+      "cluster": "PHX_2025-01-31",
+      "capacity_label": "ceil_N_over_4",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    },
+    {
+      "case_id": "3101f9edb289_k1",
+      "cluster": "PHX_2025-01-31",
+      "capacity_label": "ceil_N_over_8",
+      "method": "training_static_menu",
+      "reason": "Incomplete training reference"
+    }
+  ],
+  "nonzero_truncation_windows": 0,
+  "summary": [
+    {
+      "capacity_label": "original",
+      "radius": 0,
+      "method": "past_only",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 1,
+      "covered_complete": 1,
+      "covered_complete_preserving": 1,
+      "completion_preserving_complete": 72,
+      "completion_loss_complete": 22,
+      "completion_loss_all": 22,
+      "fallback_runs": 93,
+      "maximum_completion_deficit": 4,
+      "mean_completion_deficit_aircraft_minutes": 20.319148936170212,
+      "mean_absolute_terminal_unserved": 0.40425531914893614,
+      "mean_waiting_minutes_per_aircraft": 15.856642684541711,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 4.747992094474302,
+      "mean_actual_confirmed_coordinates": 0,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "original",
+      "radius": 0,
+      "method": "training_static_menu",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 1,
+      "covered_complete": 1,
+      "covered_complete_preserving": 1,
+      "completion_preserving_complete": 52,
+      "completion_loss_complete": 42,
+      "completion_loss_all": 42,
+      "fallback_runs": 93,
+      "maximum_completion_deficit": 12,
+      "mean_completion_deficit_aircraft_minutes": 58.255319148936174,
+      "mean_absolute_terminal_unserved": 1.1382978723404256,
+      "mean_waiting_minutes_per_aircraft": 19.050183508660282,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 6.587102661499946,
+      "mean_actual_confirmed_coordinates": 2.5319148936170213,
+      "mean_ex_ante_static_fee": 4.5212765957446805
+    },
+    {
+      "capacity_label": "original",
+      "radius": 0,
+      "method": "all_available",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 1,
+      "covered_complete": 1,
+      "covered_complete_preserving": 1,
+      "completion_preserving_complete": 55,
+      "completion_loss_complete": 39,
+      "completion_loss_all": 39,
+      "fallback_runs": 93,
+      "maximum_completion_deficit": 12,
+      "mean_completion_deficit_aircraft_minutes": 55.46808510638298,
+      "mean_absolute_terminal_unserved": 1.0851063829787233,
+      "mean_waiting_minutes_per_aircraft": 19.166754751814754,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 6.940837870428458,
+      "mean_actual_confirmed_coordinates": 2.5425531914893615,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "original",
+      "radius": 0,
+      "method": "selective_available",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 1,
+      "covered_complete": 1,
+      "covered_complete_preserving": 1,
+      "completion_preserving_complete": 44,
+      "completion_loss_complete": 50,
+      "completion_loss_all": 50,
+      "fallback_runs": 93,
+      "maximum_completion_deficit": 12,
+      "mean_completion_deficit_aircraft_minutes": 65.87234042553192,
+      "mean_absolute_terminal_unserved": 1.2553191489361701,
+      "mean_waiting_minutes_per_aircraft": 18.60127124419799,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 4.962856118923301,
+      "mean_actual_confirmed_coordinates": 2.3297872340425534,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "original",
+      "radius": 1,
+      "method": "past_only",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 58,
+      "covered_complete": 58,
+      "covered_complete_preserving": 58,
+      "completion_preserving_complete": 94,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 36,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 16.531210561305482,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 6.02057226343314,
+      "mean_actual_confirmed_coordinates": 0,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "original",
+      "radius": 1,
+      "method": "training_static_menu",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 58,
+      "covered_complete": 58,
+      "covered_complete_preserving": 58,
+      "completion_preserving_complete": 93,
+      "completion_loss_complete": 1,
+      "completion_loss_all": 1,
+      "fallback_runs": 36,
+      "maximum_completion_deficit": 1,
+      "mean_completion_deficit_aircraft_minutes": 0.5531914893617021,
+      "mean_absolute_terminal_unserved": 0.010638297872340425,
+      "mean_waiting_minutes_per_aircraft": 13.25880153979049,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 2.7224138451338584,
+      "mean_actual_confirmed_coordinates": 4.276595744680851,
+      "mean_ex_ante_static_fee": 4.5212765957446805
+    },
+    {
+      "capacity_label": "original",
+      "radius": 1,
+      "method": "all_available",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 58,
+      "covered_complete": 58,
+      "covered_complete_preserving": 58,
+      "completion_preserving_complete": 94,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 36,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 11.804579188346336,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 1.2939408904739966,
+      "mean_actual_confirmed_coordinates": 10.191489361702128,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "original",
+      "radius": 1,
+      "method": "selective_available",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 58,
+      "covered_complete": 58,
+      "covered_complete_preserving": 58,
+      "completion_preserving_complete": 94,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 36,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 11.273389794562057,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 0.7627514966897165,
+      "mean_actual_confirmed_coordinates": 8.851063829787234,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "original",
+      "radius": 2,
+      "method": "past_only",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 91,
+      "covered_complete": 91,
+      "covered_complete_preserving": 91,
+      "completion_preserving_complete": 94,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 3,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 17.465182322069026,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 6.954544024196686,
+      "mean_actual_confirmed_coordinates": 0,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "original",
+      "radius": 2,
+      "method": "training_static_menu",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 91,
+      "covered_complete": 91,
+      "covered_complete_preserving": 91,
+      "completion_preserving_complete": 94,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 3,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 13.608521636526937,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 3.097883338654597,
+      "mean_actual_confirmed_coordinates": 4.26595744680851,
+      "mean_ex_ante_static_fee": 4.5212765957446805
+    },
+    {
+      "capacity_label": "original",
+      "radius": 2,
+      "method": "all_available",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 91,
+      "covered_complete": 91,
+      "covered_complete_preserving": 91,
+      "completion_preserving_complete": 94,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 3,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 10.656747535635064,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 0.14610923776272466,
+      "mean_actual_confirmed_coordinates": 12.553191489361701,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "original",
+      "radius": 2,
+      "method": "selective_available",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 91,
+      "covered_complete": 91,
+      "covered_complete_preserving": 91,
+      "completion_preserving_complete": 94,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 3,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 10.613136979897147,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 0.10249868202480777,
+      "mean_actual_confirmed_coordinates": 10.617021276595745,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "original",
+      "radius": 4,
+      "method": "past_only",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 94,
+      "covered_complete": 94,
+      "covered_complete_preserving": 94,
+      "completion_preserving_complete": 94,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 0,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 18.326265011939547,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 7.815626714067205,
+      "mean_actual_confirmed_coordinates": 0,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "original",
+      "radius": 4,
+      "method": "training_static_menu",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 94,
+      "covered_complete": 94,
+      "covered_complete_preserving": 94,
+      "completion_preserving_complete": 94,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 0,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 14.066601929755427,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 3.5559636318830865,
+      "mean_actual_confirmed_coordinates": 4.202127659574468,
+      "mean_ex_ante_static_fee": 4.5212765957446805
+    },
+    {
+      "capacity_label": "original",
+      "radius": 4,
+      "method": "all_available",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 94,
+      "covered_complete": 94,
+      "covered_complete_preserving": 94,
+      "completion_preserving_complete": 94,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 0,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 10.51063829787234,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 0.0,
+      "mean_actual_confirmed_coordinates": 12.904255319148936,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "original",
+      "radius": 4,
+      "method": "selective_available",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 94,
+      "covered_complete": 94,
+      "covered_complete_preserving": 94,
+      "completion_preserving_complete": 94,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 0,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 10.51063829787234,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 0.0,
+      "mean_actual_confirmed_coordinates": 10.904255319148936,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_4",
+      "radius": 0,
+      "method": "past_only",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 1,
+      "covered_complete": 1,
+      "covered_complete_preserving": 1,
+      "completion_preserving_complete": 69,
+      "completion_loss_complete": 25,
+      "completion_loss_all": 25,
+      "fallback_runs": 93,
+      "maximum_completion_deficit": 4,
+      "mean_completion_deficit_aircraft_minutes": 22.06382978723404,
+      "mean_absolute_terminal_unserved": 0.43617021276595747,
+      "mean_waiting_minutes_per_aircraft": 16.147436270816332,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 4.546618762009144,
+      "mean_actual_confirmed_coordinates": 0,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_4",
+      "radius": 0,
+      "method": "training_static_menu",
+      "windows": 79,
+      "actual_reference_complete": 79,
+      "actual_reference_incomplete": 0,
+      "covered": 1,
+      "covered_complete": 1,
+      "covered_complete_preserving": 1,
+      "completion_preserving_complete": 44,
+      "completion_loss_complete": 35,
+      "completion_loss_all": 35,
+      "fallback_runs": 78,
+      "maximum_completion_deficit": 12,
+      "mean_completion_deficit_aircraft_minutes": 63.949367088607595,
+      "mean_absolute_terminal_unserved": 1.2531645569620253,
+      "mean_waiting_minutes_per_aircraft": 17.892482585363993,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 4.718265672117335,
+      "mean_actual_confirmed_coordinates": 2.518987341772152,
+      "mean_ex_ante_static_fee": 4.518987341772152
+    },
+    {
+      "capacity_label": "ceil_N_over_4",
+      "radius": 0,
+      "method": "all_available",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 1,
+      "covered_complete": 1,
+      "covered_complete_preserving": 1,
+      "completion_preserving_complete": 55,
+      "completion_loss_complete": 39,
+      "completion_loss_all": 39,
+      "fallback_runs": 93,
+      "maximum_completion_deficit": 12,
+      "mean_completion_deficit_aircraft_minutes": 54.91489361702128,
+      "mean_absolute_terminal_unserved": 1.074468085106383,
+      "mean_waiting_minutes_per_aircraft": 18.036774632656815,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 5.129196009282687,
+      "mean_actual_confirmed_coordinates": 2.5425531914893615,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_4",
+      "radius": 0,
+      "method": "selective_available",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 1,
+      "covered_complete": 1,
+      "covered_complete_preserving": 1,
+      "completion_preserving_complete": 43,
+      "completion_loss_complete": 51,
+      "completion_loss_all": 51,
+      "fallback_runs": 93,
+      "maximum_completion_deficit": 12,
+      "mean_completion_deficit_aircraft_minutes": 68.1063829787234,
+      "mean_absolute_terminal_unserved": 1.297872340425532,
+      "mean_waiting_minutes_per_aircraft": 18.198922124437566,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 3.877731393784733,
+      "mean_actual_confirmed_coordinates": 2.3404255319148937,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_4",
+      "radius": 1,
+      "method": "past_only",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 58,
+      "covered_complete": 58,
+      "covered_complete_preserving": 58,
+      "completion_preserving_complete": 94,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 36,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 16.121176396124255,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 5.576026953368431,
+      "mean_actual_confirmed_coordinates": 0,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_4",
+      "radius": 1,
+      "method": "training_static_menu",
+      "windows": 79,
+      "actual_reference_complete": 79,
+      "actual_reference_incomplete": 0,
+      "covered": 45,
+      "covered_complete": 45,
+      "covered_complete_preserving": 45,
+      "completion_preserving_complete": 78,
+      "completion_loss_complete": 1,
+      "completion_loss_all": 1,
+      "fallback_runs": 34,
+      "maximum_completion_deficit": 1,
+      "mean_completion_deficit_aircraft_minutes": 0.6582278481012658,
+      "mean_absolute_terminal_unserved": 0.012658227848101266,
+      "mean_waiting_minutes_per_aircraft": 13.367851661370159,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 2.708877232120325,
+      "mean_actual_confirmed_coordinates": 4.291139240506329,
+      "mean_ex_ante_static_fee": 4.518987341772152
+    },
+    {
+      "capacity_label": "ceil_N_over_4",
+      "radius": 1,
+      "method": "all_available",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 58,
+      "covered_complete": 58,
+      "covered_complete_preserving": 58,
+      "completion_preserving_complete": 94,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 36,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 11.57394100485709,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 1.0287915621012649,
+      "mean_actual_confirmed_coordinates": 10.191489361702128,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_4",
+      "radius": 1,
+      "method": "selective_available",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 58,
+      "covered_complete": 58,
+      "covered_complete_preserving": 58,
+      "completion_preserving_complete": 93,
+      "completion_loss_complete": 1,
+      "completion_loss_all": 1,
+      "fallback_runs": 36,
+      "maximum_completion_deficit": 1,
+      "mean_completion_deficit_aircraft_minutes": 0.5531914893617021,
+      "mean_absolute_terminal_unserved": 0.010638297872340425,
+      "mean_waiting_minutes_per_aircraft": 11.203736321874954,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 0.6119050176042796,
+      "mean_actual_confirmed_coordinates": 8.851063829787234,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_4",
+      "radius": 2,
+      "method": "past_only",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 91,
+      "covered_complete": 91,
+      "covered_complete_preserving": 91,
+      "completion_preserving_complete": 94,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 3,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 16.613305678778772,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 6.068156236022948,
+      "mean_actual_confirmed_coordinates": 0,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_4",
+      "radius": 2,
+      "method": "training_static_menu",
+      "windows": 79,
+      "actual_reference_complete": 79,
+      "actual_reference_incomplete": 0,
+      "covered": 76,
+      "covered_complete": 76,
+      "covered_complete_preserving": 76,
+      "completion_preserving_complete": 79,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 3,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 13.93354422184014,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 3.305379664878115,
+      "mean_actual_confirmed_coordinates": 4.291139240506329,
+      "mean_ex_ante_static_fee": 4.518987341772152
+    },
+    {
+      "capacity_label": "ceil_N_over_4",
+      "radius": 2,
+      "method": "all_available",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 91,
+      "covered_complete": 91,
+      "covered_complete_preserving": 91,
+      "completion_preserving_complete": 94,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 3,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 10.726447891504515,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 0.18129844874868897,
+      "mean_actual_confirmed_coordinates": 12.553191489361701,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_4",
+      "radius": 2,
+      "method": "selective_available",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 91,
+      "covered_complete": 91,
+      "covered_complete_preserving": 91,
+      "completion_preserving_complete": 94,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 3,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 10.690625823128956,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 0.1454763803731307,
+      "mean_actual_confirmed_coordinates": 10.617021276595745,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_4",
+      "radius": 4,
+      "method": "past_only",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 94,
+      "covered_complete": 94,
+      "covered_complete_preserving": 94,
+      "completion_preserving_complete": 94,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 0,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 16.86669380405941,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 6.321544361303582,
+      "mean_actual_confirmed_coordinates": 0,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_4",
+      "radius": 4,
+      "method": "training_static_menu",
+      "windows": 79,
+      "actual_reference_complete": 79,
+      "actual_reference_incomplete": 0,
+      "covered": 79,
+      "covered_complete": 79,
+      "covered_complete_preserving": 79,
+      "completion_preserving_complete": 79,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 0,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 14.62288956112287,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 3.994725004160844,
+      "mean_actual_confirmed_coordinates": 4.265822784810126,
+      "mean_ex_ante_static_fee": 4.518987341772152
+    },
+    {
+      "capacity_label": "ceil_N_over_4",
+      "radius": 4,
+      "method": "all_available",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 94,
+      "covered_complete": 94,
+      "covered_complete_preserving": 94,
+      "completion_preserving_complete": 94,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 0,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 10.649443907156673,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 0.10429446440084737,
+      "mean_actual_confirmed_coordinates": 12.904255319148936,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_4",
+      "radius": 4,
+      "method": "selective_available",
+      "windows": 94,
+      "actual_reference_complete": 94,
+      "actual_reference_incomplete": 0,
+      "covered": 94,
+      "covered_complete": 94,
+      "covered_complete_preserving": 94,
+      "completion_preserving_complete": 94,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 0,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 10.649443907156673,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 0.10429446440084737,
+      "mean_actual_confirmed_coordinates": 10.904255319148936,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_8",
+      "radius": 0,
+      "method": "past_only",
+      "windows": 94,
+      "actual_reference_complete": 77,
+      "actual_reference_incomplete": 17,
+      "covered": 1,
+      "covered_complete": 1,
+      "covered_complete_preserving": 1,
+      "completion_preserving_complete": 60,
+      "completion_loss_complete": 17,
+      "completion_loss_all": 20,
+      "fallback_runs": 93,
+      "maximum_completion_deficit": 4,
+      "mean_completion_deficit_aircraft_minutes": 17.404255319148938,
+      "mean_absolute_terminal_unserved": 0.6063829787234043,
+      "mean_waiting_minutes_per_aircraft": 16.148335994580215,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 3.928685690007777,
+      "mean_actual_confirmed_coordinates": 0,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_8",
+      "radius": 0,
+      "method": "training_static_menu",
+      "windows": 27,
+      "actual_reference_complete": 27,
+      "actual_reference_incomplete": 0,
+      "covered": 1,
+      "covered_complete": 1,
+      "covered_complete_preserving": 1,
+      "completion_preserving_complete": 16,
+      "completion_loss_complete": 11,
+      "completion_loss_all": 11,
+      "fallback_runs": 26,
+      "maximum_completion_deficit": 8,
+      "mean_completion_deficit_aircraft_minutes": 39.925925925925924,
+      "mean_absolute_terminal_unserved": 0.8148148148148148,
+      "mean_waiting_minutes_per_aircraft": 16.06269129542034,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 4.073892542642542,
+      "mean_actual_confirmed_coordinates": 2.8518518518518516,
+      "mean_ex_ante_static_fee": 4.962962962962963
+    },
+    {
+      "capacity_label": "ceil_N_over_8",
+      "radius": 0,
+      "method": "all_available",
+      "windows": 94,
+      "actual_reference_complete": 77,
+      "actual_reference_incomplete": 17,
+      "covered": 1,
+      "covered_complete": 1,
+      "covered_complete_preserving": 1,
+      "completion_preserving_complete": 45,
+      "completion_loss_complete": 32,
+      "completion_loss_all": 36,
+      "fallback_runs": 93,
+      "maximum_completion_deficit": 12,
+      "mean_completion_deficit_aircraft_minutes": 48.4468085106383,
+      "mean_absolute_terminal_unserved": 1.202127659574468,
+      "mean_waiting_minutes_per_aircraft": 17.730284183337158,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 3.9353599871115796,
+      "mean_actual_confirmed_coordinates": 2.4574468085106385,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_8",
+      "radius": 0,
+      "method": "selective_available",
+      "windows": 94,
+      "actual_reference_complete": 77,
+      "actual_reference_incomplete": 17,
+      "covered": 1,
+      "covered_complete": 1,
+      "covered_complete_preserving": 1,
+      "completion_preserving_complete": 39,
+      "completion_loss_complete": 38,
+      "completion_loss_all": 43,
+      "fallback_runs": 93,
+      "maximum_completion_deficit": 12,
+      "mean_completion_deficit_aircraft_minutes": 57.170212765957444,
+      "mean_absolute_terminal_unserved": 1.351063829787234,
+      "mean_waiting_minutes_per_aircraft": 17.762189768570597,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 3.233836959263626,
+      "mean_actual_confirmed_coordinates": 2.148936170212766,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_8",
+      "radius": 1,
+      "method": "past_only",
+      "windows": 94,
+      "actual_reference_complete": 77,
+      "actual_reference_incomplete": 17,
+      "covered": 58,
+      "covered_complete": 47,
+      "covered_complete_preserving": 47,
+      "completion_preserving_complete": 77,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 39,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0.2553191489361702,
+      "mean_waiting_minutes_per_aircraft": 15.728200391979463,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 4.382063081505611,
+      "mean_actual_confirmed_coordinates": 0,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_8",
+      "radius": 1,
+      "method": "training_static_menu",
+      "windows": 27,
+      "actual_reference_complete": 27,
+      "actual_reference_incomplete": 0,
+      "covered": 15,
+      "covered_complete": 15,
+      "covered_complete_preserving": 15,
+      "completion_preserving_complete": 27,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 12,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 13.322936836465102,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 3.0599444790282995,
+      "mean_actual_confirmed_coordinates": 4.62962962962963,
+      "mean_ex_ante_static_fee": 4.962962962962963
+    },
+    {
+      "capacity_label": "ceil_N_over_8",
+      "radius": 1,
+      "method": "all_available",
+      "windows": 94,
+      "actual_reference_complete": 77,
+      "actual_reference_incomplete": 17,
+      "covered": 58,
+      "covered_complete": 47,
+      "covered_complete_preserving": 47,
+      "completion_preserving_complete": 76,
+      "completion_loss_complete": 1,
+      "completion_loss_all": 1,
+      "fallback_runs": 47,
+      "maximum_completion_deficit": 1,
+      "mean_completion_deficit_aircraft_minutes": 0.5319148936170213,
+      "mean_absolute_terminal_unserved": 0.26595744680851063,
+      "mean_waiting_minutes_per_aircraft": 12.123927316117056,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 0.9867720700309873,
+      "mean_actual_confirmed_coordinates": 12.680851063829786,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_8",
+      "radius": 1,
+      "method": "selective_available",
+      "windows": 94,
+      "actual_reference_complete": 77,
+      "actual_reference_incomplete": 17,
+      "covered": 58,
+      "covered_complete": 47,
+      "covered_complete_preserving": 47,
+      "completion_preserving_complete": 73,
+      "completion_loss_complete": 4,
+      "completion_loss_all": 5,
+      "fallback_runs": 47,
+      "maximum_completion_deficit": 1,
+      "mean_completion_deficit_aircraft_minutes": 2.382978723404255,
+      "mean_absolute_terminal_unserved": 0.30851063829787234,
+      "mean_waiting_minutes_per_aircraft": 11.968027355713348,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 0.7837519255919984,
+      "mean_actual_confirmed_coordinates": 11.574468085106384,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_8",
+      "radius": 2,
+      "method": "past_only",
+      "windows": 94,
+      "actual_reference_complete": 77,
+      "actual_reference_incomplete": 17,
+      "covered": 91,
+      "covered_complete": 74,
+      "covered_complete_preserving": 74,
+      "completion_preserving_complete": 77,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 4,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0.2553191489361702,
+      "mean_waiting_minutes_per_aircraft": 15.787201686815024,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 4.454090636239933,
+      "mean_actual_confirmed_coordinates": 0,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_8",
+      "radius": 2,
+      "method": "training_static_menu",
+      "windows": 27,
+      "actual_reference_complete": 27,
+      "actual_reference_incomplete": 0,
+      "covered": 27,
+      "covered_complete": 27,
+      "covered_complete_preserving": 27,
+      "completion_preserving_complete": 27,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 0,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 14.558524199070009,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 4.295531841633206,
+      "mean_actual_confirmed_coordinates": 4.555555555555555,
+      "mean_ex_ante_static_fee": 4.962962962962963
+    },
+    {
+      "capacity_label": "ceil_N_over_8",
+      "radius": 2,
+      "method": "all_available",
+      "windows": 94,
+      "actual_reference_complete": 77,
+      "actual_reference_incomplete": 17,
+      "covered": 91,
+      "covered_complete": 74,
+      "covered_complete_preserving": 74,
+      "completion_preserving_complete": 77,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 20,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0.2553191489361702,
+      "mean_waiting_minutes_per_aircraft": 11.448556986012795,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 0.6291155964232342,
+      "mean_actual_confirmed_coordinates": 16.26595744680851,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_8",
+      "radius": 2,
+      "method": "selective_available",
+      "windows": 94,
+      "actual_reference_complete": 77,
+      "actual_reference_incomplete": 17,
+      "covered": 91,
+      "covered_complete": 74,
+      "covered_complete_preserving": 74,
+      "completion_preserving_complete": 77,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 20,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0.2553191489361702,
+      "mean_waiting_minutes_per_aircraft": 11.337178632636292,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 0.6108961347255117,
+      "mean_actual_confirmed_coordinates": 14.574468085106384,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_8",
+      "radius": 4,
+      "method": "past_only",
+      "windows": 94,
+      "actual_reference_complete": 77,
+      "actual_reference_incomplete": 17,
+      "covered": 94,
+      "covered_complete": 77,
+      "covered_complete_preserving": 77,
+      "completion_preserving_complete": 77,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 0,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0.2553191489361702,
+      "mean_waiting_minutes_per_aircraft": 15.787201686815024,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 4.454090636239933,
+      "mean_actual_confirmed_coordinates": 0,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_8",
+      "radius": 4,
+      "method": "training_static_menu",
+      "windows": 27,
+      "actual_reference_complete": 27,
+      "actual_reference_incomplete": 0,
+      "covered": 27,
+      "covered_complete": 27,
+      "covered_complete_preserving": 27,
+      "completion_preserving_complete": 27,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 0,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0,
+      "mean_waiting_minutes_per_aircraft": 15.415550728962035,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 5.152558371525233,
+      "mean_actual_confirmed_coordinates": 4.555555555555555,
+      "mean_ex_ante_static_fee": 4.962962962962963
+    },
+    {
+      "capacity_label": "ceil_N_over_8",
+      "radius": 4,
+      "method": "all_available",
+      "windows": 94,
+      "actual_reference_complete": 77,
+      "actual_reference_incomplete": 17,
+      "covered": 94,
+      "covered_complete": 77,
+      "covered_complete_preserving": 77,
+      "completion_preserving_complete": 77,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 17,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0.2553191489361702,
+      "mean_waiting_minutes_per_aircraft": 11.584953110989288,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 0.800819956784148,
+      "mean_actual_confirmed_coordinates": 16.627659574468087,
+      "mean_ex_ante_static_fee": null
+    },
+    {
+      "capacity_label": "ceil_N_over_8",
+      "radius": 4,
+      "method": "selective_available",
+      "windows": 94,
+      "actual_reference_complete": 77,
+      "actual_reference_incomplete": 17,
+      "covered": 94,
+      "covered_complete": 77,
+      "covered_complete_preserving": 77,
+      "completion_preserving_complete": 77,
+      "completion_loss_complete": 0,
+      "completion_loss_all": 0,
+      "fallback_runs": 17,
+      "maximum_completion_deficit": 0,
+      "mean_completion_deficit_aircraft_minutes": 0,
+      "mean_absolute_terminal_unserved": 0.2553191489361702,
+      "mean_waiting_minutes_per_aircraft": 11.492754529429003,
+      "mean_excess_waiting_minutes_per_aircraft_preserving_complete": 0.800819956784148,
+      "mean_actual_confirmed_coordinates": 14.882978723404255,
+      "mean_ex_ante_static_fee": null
+    }
+  ],
+  "window_outputs": [
+    {
+      "case_id": "473d817f7137_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\473d817f7137_k1.json",
+      "detail_sha256": "86b5bc38ee3ab55a43dce2c9def9f7057a1cd97e2c7e87c207b1b63e1b85fddc"
+    },
+    {
+      "case_id": "c4b6c01141f8_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\c4b6c01141f8_k1.json",
+      "detail_sha256": "8c7d39d995403c9e167605aa8e4d29127ba60ddac7b61281d06fd3762a99afe0"
+    },
+    {
+      "case_id": "4853318f0ec9_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\4853318f0ec9_k1.json",
+      "detail_sha256": "4b07baa202906c680f3888a8d6d802007e91c87820f4e21f0f3e218b2a30575c"
+    },
+    {
+      "case_id": "ae2ab6d22677_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\ae2ab6d22677_k1.json",
+      "detail_sha256": "463ba21f113396508c7b97ec7072c2bc7a5fc7101d3f6ab6308076efe6020d44"
+    },
+    {
+      "case_id": "3243afd96686_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\3243afd96686_k1.json",
+      "detail_sha256": "4999e4eff464a932e108816583be8863c48a3fc1299015f80cd91136c1494822"
+    },
+    {
+      "case_id": "a9f0dcdc0f1a_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\a9f0dcdc0f1a_k1.json",
+      "detail_sha256": "11ec7a196c53c3dc6177571d535c4895947f5f1cad2b3004b61980790e5d2e88"
+    },
+    {
+      "case_id": "1b72b60d2b7f_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\1b72b60d2b7f_k1.json",
+      "detail_sha256": "bbe1a2353d64925ecd4aaffb4f25db3360abd238e7026b9a0b79e97518b2e5f6"
+    },
+    {
+      "case_id": "f6a8b9476469_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\f6a8b9476469_k1.json",
+      "detail_sha256": "a3e97600644ec4df2c375b1a617e7638c2301b178a660b1f1fce435c7ceb242d"
+    },
+    {
+      "case_id": "61bd244218d1_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\61bd244218d1_k1.json",
+      "detail_sha256": "faf047f1ae0ff067364d0c72bfbaab7ad5548b79c06495d9137fe5333f77dc92"
+    },
+    {
+      "case_id": "f97180eb25ff_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\f97180eb25ff_k1.json",
+      "detail_sha256": "97a218ddad1b89c880299f7919342ee66b04bd60e75c6c5d20d45af570a29421"
+    },
+    {
+      "case_id": "9a08f1c96ebe_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\9a08f1c96ebe_k1.json",
+      "detail_sha256": "18a7831975f4cf42663b116c14b611414fb821a24d15e071e824a7e0fd1c8184"
+    },
+    {
+      "case_id": "a294e0034f7e_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\a294e0034f7e_k1.json",
+      "detail_sha256": "9ad553c61766be7a9e670f85ce50449d7f99636dd8fc4fac69d8b96613effc56"
+    },
+    {
+      "case_id": "e238bc9faa10_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\e238bc9faa10_k1.json",
+      "detail_sha256": "b897583027c9c34b8eefeb8171124989b0d084b1d433fe119cec54bf6eb17bea"
+    },
+    {
+      "case_id": "c1d70c79374e_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\c1d70c79374e_k1.json",
+      "detail_sha256": "d4a8bfa076480c6141624d5712c3fcbae0bb409b5cff63546dd2b1e58d77753c"
+    },
+    {
+      "case_id": "ac1bc05e9cfe_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\ac1bc05e9cfe_k1.json",
+      "detail_sha256": "b55a5e6c9d1e6c63acf9a86542c1350cb0ab3745161e284fcb177bbd801ac0cd"
+    },
+    {
+      "case_id": "dcd750867fe4_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\dcd750867fe4_k1.json",
+      "detail_sha256": "a833cbf67a4e1af870c97e667c777b815f76e8797dfcbf868336f987f82f4322"
+    },
+    {
+      "case_id": "5579ca1049f4_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\5579ca1049f4_k1.json",
+      "detail_sha256": "e436a362d46ae7fd7c5f726bba8b8df62155d45947f846dd01d2a259e75645f0"
+    },
+    {
+      "case_id": "48caceee5858_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\48caceee5858_k1.json",
+      "detail_sha256": "0d409cd0be2b4f52d1be7d74f9c24c789db929c4ef4f3a97cf2670a6fc406565"
+    },
+    {
+      "case_id": "59045bfeae70_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\59045bfeae70_k1.json",
+      "detail_sha256": "ff2c7ee904e45a214d8f9c80d443cbf65b39d202435ab581c4831af7db191020"
+    },
+    {
+      "case_id": "b7e6843ed1d5_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\b7e6843ed1d5_k1.json",
+      "detail_sha256": "9237bf92fa5dd3bb908e610b73db285043cd02b4d6355582448312c2715c30e6"
+    },
+    {
+      "case_id": "99d498d9c254_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\99d498d9c254_k1.json",
+      "detail_sha256": "522499a30e33b694e266fe57b2362c375cb10994c4b52c22a236d50aeb8674d2"
+    },
+    {
+      "case_id": "2b5bf1e65e1a_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\2b5bf1e65e1a_k1.json",
+      "detail_sha256": "4d986d9dfd168c29390b15e513b4dd170804e5a727ad91dc2a4683fc80130160"
+    },
+    {
+      "case_id": "9e98e1fec712_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\9e98e1fec712_k1.json",
+      "detail_sha256": "6b0477f8362024741772659c14f3fafdc0adb4a078cc443934bfc3fbb571eea9"
+    },
+    {
+      "case_id": "1da1e19f9862_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\1da1e19f9862_k1.json",
+      "detail_sha256": "932c895093436d09739d9f4816331a169ed60b5c347990f15bdf541660bb8def"
+    },
+    {
+      "case_id": "931988388d77_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\931988388d77_k1.json",
+      "detail_sha256": "27223427db33b442fe17bd8e29b7d593157e2d930b6a23eca439c055f79544e2"
+    },
+    {
+      "case_id": "7d9ab330a350_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\7d9ab330a350_k1.json",
+      "detail_sha256": "ca49424beba525cf679a22908fc82d3176c39c3316bfc8c9d2cb31ad03edacbd"
+    },
+    {
+      "case_id": "11e07ec6222d_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\11e07ec6222d_k1.json",
+      "detail_sha256": "0c72c02e18d909f82998a09c62f1942c619fb6326493ce1b2e10c6083745100e"
+    },
+    {
+      "case_id": "7d183f703566_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\7d183f703566_k1.json",
+      "detail_sha256": "7d0f0dc2cedadfb517a0e7497afb661674fdfdb2dc5e62ee02425369626e244b"
+    },
+    {
+      "case_id": "02706cf72d9a_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\02706cf72d9a_k1.json",
+      "detail_sha256": "7cf99646ea49e94c91cb5821dc9b47d59470ad815a008a74f46221098cd47fae"
+    },
+    {
+      "case_id": "fe16ec2c8c14_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\fe16ec2c8c14_k1.json",
+      "detail_sha256": "c05769b61263476628bdd849929fc373839f0893dd9b612e3d2fb7f5280ae3b2"
+    },
+    {
+      "case_id": "b169711b9300_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\b169711b9300_k1.json",
+      "detail_sha256": "4b1286056c6c5d543a7307f54bd646f6d2c87f7f11c890304b5e1aa4e0aa73da"
+    },
+    {
+      "case_id": "fd79c579e024_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\fd79c579e024_k1.json",
+      "detail_sha256": "494134bc4759600b2f3e9e98a50be8b4d768af837e5eb2c1eab9ee0170f3c9cc"
+    },
+    {
+      "case_id": "02b530f1ff54_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\02b530f1ff54_k1.json",
+      "detail_sha256": "f04249e2cd66ab666673bdf23887354a83cc18d1b937ab47ae0675b32c884286"
+    },
+    {
+      "case_id": "e7d458760b7a_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\e7d458760b7a_k1.json",
+      "detail_sha256": "9c968cc5ed0cd398d5ab138b44d555813d9e91266e72067b126f934a0a7d3957"
+    },
+    {
+      "case_id": "565f11ebb432_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\565f11ebb432_k1.json",
+      "detail_sha256": "0bac21d7249733d68fecdc8f49d7be06770c943a31b6506194db40ab87efed4f"
+    },
+    {
+      "case_id": "31657684e212_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\31657684e212_k1.json",
+      "detail_sha256": "d2e633a5d76b1c5c1746232a70b4f9ff1f1104a54e090598b43b074bbbba71b4"
+    },
+    {
+      "case_id": "52bb3f97e4fd_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\52bb3f97e4fd_k1.json",
+      "detail_sha256": "86063f1346ffcea38bd32c04b70d20c544a234dca710fe9163e45199d68f54ee"
+    },
+    {
+      "case_id": "e51575848067_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\e51575848067_k1.json",
+      "detail_sha256": "fbe9fcb36d2691beb255c1a4be519d382155da81510bdf581b8886346d0c2072"
+    },
+    {
+      "case_id": "c56e779e7309_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\c56e779e7309_k1.json",
+      "detail_sha256": "2f772549c8a3597eb6a6d92a8f71c3c7929d2853f9e02178900ecb93837485ae"
+    },
+    {
+      "case_id": "e81c6d61d8cd_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\e81c6d61d8cd_k1.json",
+      "detail_sha256": "0ea0664c13452941caa15049d4a802eb8cdc0dd4421d73ded3b5b0be21c71503"
+    },
+    {
+      "case_id": "09c88a626481_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\09c88a626481_k1.json",
+      "detail_sha256": "22e7988cf4574c117542251cf292456d55324f1ae4c5546a07075eb2c1f0d617"
+    },
+    {
+      "case_id": "8c6680353b56_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\8c6680353b56_k1.json",
+      "detail_sha256": "2d6fbd4600e635ac0c98ba54542e1716e4ca167361426b73ef937e9e97e163f5"
+    },
+    {
+      "case_id": "bbb69ab77864_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\bbb69ab77864_k1.json",
+      "detail_sha256": "57c92af4e15d64c965ef42901866dd2cabe05b35257512ac206039096fe0dedb"
+    },
+    {
+      "case_id": "b200ab66dada_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\b200ab66dada_k1.json",
+      "detail_sha256": "3d9888641bce6b08d08f8a030ff784bf832c3112e0d80fdbc54831f97c5e68d3"
+    },
+    {
+      "case_id": "742653e022ee_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\742653e022ee_k1.json",
+      "detail_sha256": "ebaa5866889a32e485d7d1fcd9c6a8ec5685ade868503658f25ac1c8221ea7c9"
+    },
+    {
+      "case_id": "ca45c4476b05_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\ca45c4476b05_k1.json",
+      "detail_sha256": "37a76d1c2d5a74576ed77c597f74d362fc047500c2d36647f88fb224dd415ba2"
+    },
+    {
+      "case_id": "54a5150d4062_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\54a5150d4062_k1.json",
+      "detail_sha256": "2e9d70c1af55458f8c15d68ebc6f6478fccad39be2ba22b9a1e5f2d788597f5a"
+    },
+    {
+      "case_id": "239d60de119d_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\239d60de119d_k1.json",
+      "detail_sha256": "74832fa488144a084fad730b20ed9ae9a58359e875f515badbdfc73c7f129f9f"
+    },
+    {
+      "case_id": "e58323f9b070_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\e58323f9b070_k1.json",
+      "detail_sha256": "d3c9830a099ea79c01485038efb738758a72250295bca957fdeeebd31f060072"
+    },
+    {
+      "case_id": "96c6142ceaf0_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\96c6142ceaf0_k1.json",
+      "detail_sha256": "14ebbdf93e503a08f6e2372837830355783ef3bfc7a3dd7b88685025474ac815"
+    },
+    {
+      "case_id": "da720273ad96_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\da720273ad96_k1.json",
+      "detail_sha256": "ebcff44df4e803af5457ed26d7647102385cd5a0bbcd2666b3aca9b4d17a43b0"
+    },
+    {
+      "case_id": "8b73d05e0771_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\8b73d05e0771_k1.json",
+      "detail_sha256": "b287398189a33cc1ff0333c99f57b62b852367b140a8d093161c36137a68cae0"
+    },
+    {
+      "case_id": "6bcad57aa426_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\6bcad57aa426_k1.json",
+      "detail_sha256": "192a2e8d94579bd4727237008e822ff62c2b83517073eb2a1faf43f1bc831789"
+    },
+    {
+      "case_id": "d04ea99d5b1f_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\d04ea99d5b1f_k1.json",
+      "detail_sha256": "04c5208de3cd73e8de7fc42eac5e502a4a8a39ac30890a5d90388ce1fcea4835"
+    },
+    {
+      "case_id": "aaf2b060ae89_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\aaf2b060ae89_k1.json",
+      "detail_sha256": "33df0fa92b57b5754eabaebb56ca505980c4fddd84148d5b9b4fed22493d8c5e"
+    },
+    {
+      "case_id": "b59ce7d2b1e3_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\b59ce7d2b1e3_k1.json",
+      "detail_sha256": "141d72fd068f83fadc54179eaf5933c3aaab82cb6451c2cc5922ce0732d81631"
+    },
+    {
+      "case_id": "fd6a7e54eebe_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\fd6a7e54eebe_k1.json",
+      "detail_sha256": "ee2fa530229b0ffb8674cb91e333a88848c42a36dd0eb5362d930cf2a038d78d"
+    },
+    {
+      "case_id": "f0ae15964801_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\f0ae15964801_k1.json",
+      "detail_sha256": "ad0d4d36a178774f7490b1dd1b8f5726d7b21c631a3586822920af8703b5fb79"
+    },
+    {
+      "case_id": "fa66e94dae74_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\fa66e94dae74_k1.json",
+      "detail_sha256": "00a2e72f3ea09d50c1f93231e283950661d6e5f0953cf4b5ef27bc1c94adfeb6"
+    },
+    {
+      "case_id": "651f9eee1ea0_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\651f9eee1ea0_k1.json",
+      "detail_sha256": "e613180b91aca106655e37ea86b26e2c8b0753e7b58dfee4cb338ad017279b02"
+    },
+    {
+      "case_id": "02a04a0e4cf7_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\02a04a0e4cf7_k1.json",
+      "detail_sha256": "39a9e1c2d72a2f55c16a02c7c3347b0a4b1ae1df81cd8b5a6c66015d45541bbd"
+    },
+    {
+      "case_id": "787a37e38e8f_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\787a37e38e8f_k1.json",
+      "detail_sha256": "0807116557c6c11aae99e0991cae1b11cb6fad258717978b10e69b11474a6257"
+    },
+    {
+      "case_id": "266990b726bc_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\266990b726bc_k1.json",
+      "detail_sha256": "cb5b6960c7fced4ee7dcbdbac778f03952a94d69ddabc96b92ee1ee7fd523c37"
+    },
+    {
+      "case_id": "61febf1486c6_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\61febf1486c6_k1.json",
+      "detail_sha256": "e84267e353a91ed077677cce65f07d10a0f7536430c43a7670560d66535f22c2"
+    },
+    {
+      "case_id": "8f8bea2dca47_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\8f8bea2dca47_k1.json",
+      "detail_sha256": "d8eb685730d76ee0eec12cc01423617b626be9c5cc8b57529868914ece42b9cd"
+    },
+    {
+      "case_id": "85117eb5abcf_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\85117eb5abcf_k1.json",
+      "detail_sha256": "95cafc754a430bed0a57aa33c335cbb1cb51fa32f7ad2046b292989aa91a23f3"
+    },
+    {
+      "case_id": "36b8ed9894d7_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\36b8ed9894d7_k1.json",
+      "detail_sha256": "96f50a89fe6237506b8e218be5c0444d84362a07985b442925a2185d6cad34b2"
+    },
+    {
+      "case_id": "f6a422d8ce90_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\f6a422d8ce90_k1.json",
+      "detail_sha256": "dda2ec6bdff32292765ae26a66d5bd9220b09bdf566564075d7d9098c914d4c0"
+    },
+    {
+      "case_id": "bc82113c2112_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\bc82113c2112_k1.json",
+      "detail_sha256": "6114b65d836658ce85b0d7b3b36f5359a7cbfcc19d0de4af6d9a615c96fbeb09"
+    },
+    {
+      "case_id": "73e26ea86000_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\73e26ea86000_k1.json",
+      "detail_sha256": "1a3a4172d9f1c7dd5c92f1062782fd0e3a86273a7d66bdcc4fbda2db4c4bcdcf"
+    },
+    {
+      "case_id": "40546485a254_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\40546485a254_k1.json",
+      "detail_sha256": "495443f6a84f1821d5fa95b8fee558ea89a8fd4f36e087068685f2e545a80c42"
+    },
+    {
+      "case_id": "54525b39887e_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\54525b39887e_k1.json",
+      "detail_sha256": "7c3f538d2fc18c0ebfb7be1b8f32b7cad9f309276a43485cc04d393a8a26d30b"
+    },
+    {
+      "case_id": "613e128c1ed4_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\613e128c1ed4_k1.json",
+      "detail_sha256": "9b59e5aac4ba89e9dbb3d11db1b29b5e40088b4aabc62451e58f93328cc40bc0"
+    },
+    {
+      "case_id": "1d27ba32be62_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\1d27ba32be62_k1.json",
+      "detail_sha256": "bf1fbc19a4c1342440fec446eaa36a47c6a8d0fb72aa61ba824c91516341772c"
+    },
+    {
+      "case_id": "df29de0cd7fb_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\df29de0cd7fb_k1.json",
+      "detail_sha256": "b26a9171e034af2aec69c06f43ce66508c821c92a68c45a04421b0853d66e642"
+    },
+    {
+      "case_id": "58b5a3dbb489_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\58b5a3dbb489_k1.json",
+      "detail_sha256": "238d1ccaf860498a9baa01d6d55b925b5553071ce3e3aafe573f65d5117d625f"
+    },
+    {
+      "case_id": "dbd6118c71c5_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\dbd6118c71c5_k1.json",
+      "detail_sha256": "c4f83dd24fa5c5e6c003c94d2c6203f7a378182357d641462e4542d67be6329b"
+    },
+    {
+      "case_id": "7d7bcfb76f04_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\7d7bcfb76f04_k1.json",
+      "detail_sha256": "c7dcb4d05c6fa7d5dd9f6acb428d31d9eae0ee6ed2ddec7117223a282eda5ba9"
+    },
+    {
+      "case_id": "543cea52342b_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\543cea52342b_k1.json",
+      "detail_sha256": "051a5ad0d526800591dd424aeb03bcc0a4d26fe4125baa8229914f7394020cb0"
+    },
+    {
+      "case_id": "bf2ae50a1eca_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\bf2ae50a1eca_k1.json",
+      "detail_sha256": "eb0c8a67f1a4683ae6233b15b0bd607d81512b5199e117449b6bf23dac752e26"
+    },
+    {
+      "case_id": "7622d022ce69_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\7622d022ce69_k1.json",
+      "detail_sha256": "cb5f4f39f793537e47b2a6253c71d2e06fe8d71e0a989e8e152e112c28fdb77c"
+    },
+    {
+      "case_id": "69bfcab932fa_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\69bfcab932fa_k1.json",
+      "detail_sha256": "43c26b5b46a6521dd9aa1af56f65307550fdde675a7d6a502b8ad9cfbd7783ed"
+    },
+    {
+      "case_id": "1f9cf4206750_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\1f9cf4206750_k1.json",
+      "detail_sha256": "6503033c7d2e32f5a7bcbe29eda7c4dd730307b1635870085a82b3a9ee4c38b6"
+    },
+    {
+      "case_id": "6ee6fe579959_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\6ee6fe579959_k1.json",
+      "detail_sha256": "d1338f98d7ce372bcb06422cb8a5d83cc8f4214bc2f84a2e6c048558320b645f"
+    },
+    {
+      "case_id": "190353191197_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\190353191197_k1.json",
+      "detail_sha256": "d680f2484c94949124852a084292137c8e072d9aed73d54568e4a81a10c4180b"
+    },
+    {
+      "case_id": "f00701be5e16_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\f00701be5e16_k1.json",
+      "detail_sha256": "c0aec2865e83a7fa18121e24530248bf9e73d5870f0344fa7eb57153428d66fb"
+    },
+    {
+      "case_id": "89f9e52e84d9_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\89f9e52e84d9_k1.json",
+      "detail_sha256": "7b4f3e1a2d07984fbb3bc6435ee0cec53d5f0d6b5a151dfb84e6e1d581caba4e"
+    },
+    {
+      "case_id": "2d79ad6a4c40_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\2d79ad6a4c40_k1.json",
+      "detail_sha256": "909af965f5098d045dd0a60d0b3f9ccc7806db29903837b1f3740a21bf3ce373"
+    },
+    {
+      "case_id": "070c4b3750d6_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\070c4b3750d6_k1.json",
+      "detail_sha256": "9e7008c2426d68d9b3eb134f69a733f5546d71f2cb95252f69e44d1de247b807"
+    },
+    {
+      "case_id": "60a511c24d8c_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\60a511c24d8c_k1.json",
+      "detail_sha256": "ec8e91af9c22a0cb578ece92ca7b1a092aecaafd6986817dba63264923431dbc"
+    },
+    {
+      "case_id": "95086cf51f85_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\95086cf51f85_k1.json",
+      "detail_sha256": "20213100b0d996a8113e1e45a004a8de2e0725d2be411f7425b748ce66186c68"
+    },
+    {
+      "case_id": "a1e175b31f3e_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\a1e175b31f3e_k1.json",
+      "detail_sha256": "3172d0535e908b0bb48d263e871a194ccb4139a1f2ef0c15e3cd445b5f671b34"
+    },
+    {
+      "case_id": "3101f9edb289_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\3101f9edb289_k1.json",
+      "detail_sha256": "b1133fb6df4b4e2719b2d612922833172e22ec4671cf552c5c8210f299361882"
+    },
+    {
+      "case_id": "578fe31022e1_k1",
+      "detail_path": "results\\revision_20261028\\substantive_strengthening\\holdout_boxes\\panel_windows\\578fe31022e1_k1.json",
+      "detail_sha256": "72d6751ba70ba0bca040269ef49d7e4f50f8fd550d6dd375544652a9c5cb01b7"
+    }
+  ]
+}

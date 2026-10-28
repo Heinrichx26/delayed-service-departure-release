@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this software when using the code or derived numerical inputs."
+type: software
+title: "Departure release with delayed service reports: computation package"
+authors:
+  - family-names: Lu
+    given-names: Yanhong
+  - family-names: Du
+    given-names: Yuxian
+  - family-names: Chen
+    given-names: Zhaoxin
+  - family-names: Wen
+    given-names: Tao
+version: 1.0.0
+date-released: 2026-10-28
+license: MIT
+repository-code: "https://github.com/Heinrichx26/delayed-service-departure-release"

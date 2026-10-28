@@ -1,0 +1,46 @@
+[
+  {
+    "delay": 1,
+    "budget": 1,
+    "solved": 200,
+    "fixed_waiting": 11.303094313706096,
+    "adaptive_waiting": 11.286737229638138,
+    "adaptive_saving": 0.016357084067958265,
+    "strictly_improved": 123,
+    "fixed_queries": 4.18,
+    "adaptive_queries": 2.579375
+  },
+  {
+    "delay": 1,
+    "budget": 2,
+    "solved": 200,
+    "fixed_waiting": 11.157310916092143,
+    "adaptive_waiting": 11.157310916092143,
+    "adaptive_saving": 0.0,
+    "strictly_improved": 0,
+    "fixed_queries": 4.65,
+    "adaptive_queries": 2.921875
+  },
+  {
+    "delay": 2,
+    "budget": 1,
+    "solved": 200,
+    "fixed_waiting": 11.798340511206943,
+    "adaptive_waiting": 11.789838206129774,
+    "adaptive_saving": 0.008502305077169172,
+    "strictly_improved": 70,
+    "fixed_queries": 3.98,
+    "adaptive_queries": 2.908125
+  },
+  {
+    "delay": 2,
+    "budget": 2,
+    "solved": 200,
+    "fixed_waiting": 11.673859595018392,
+    "adaptive_waiting": 11.673859595018392,
+    "adaptive_saving": 0.0,
+    "strictly_improved": 0,
+    "fixed_queries": 4.695,
+    "adaptive_queries": 3.6665625
+  }
+]

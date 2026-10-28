@@ -1,0 +1,5288 @@
+{
+  "passed": true,
+  "conditions": 480,
+  "seconds": 0.7586076000006869,
+  "seed": 2026102829,
+  "rows": [
+    {
+      "case": 0,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        21,
+        12
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        27,
+        0
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        27,
+        0
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        21,
+        12
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        27,
+        0
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        27,
+        0
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        25,
+        7
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        27,
+        0
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        27,
+        0
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        23,
+        14
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        27,
+        0
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        27,
+        0
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        20,
+        0
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        20,
+        0
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        20,
+        0
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        20,
+        0
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        20,
+        0
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        20,
+        0
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        20,
+        0
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        20,
+        0
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        20,
+        0
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        20,
+        0
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        20,
+        0
+      ]
+    },
+    {
+      "case": 0,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        20,
+        0
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        8,
+        2
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        8,
+        2
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        9,
+        0
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        8,
+        2
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        8,
+        2
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        9,
+        0
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        9,
+        0
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        9,
+        0
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        9,
+        0
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        9,
+        0
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        9,
+        0
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        9,
+        0
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        3,
+        0
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        3,
+        0
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        3,
+        0
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        3,
+        0
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        3,
+        0
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        3,
+        0
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        3,
+        0
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        3,
+        0
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        3,
+        0
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        3,
+        0
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        3,
+        0
+      ]
+    },
+    {
+      "case": 1,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        3,
+        0
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        22,
+        11
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        25,
+        11
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        42,
+        0
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        22,
+        11
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        25,
+        11
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        42,
+        0
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        27,
+        11
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        27,
+        11
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        42,
+        0
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        27,
+        11
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        27,
+        11
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        42,
+        0
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        31,
+        0
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        31,
+        0
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        31,
+        0
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        31,
+        0
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        31,
+        0
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        31,
+        0
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        31,
+        0
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        31,
+        0
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        31,
+        0
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        31,
+        0
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        31,
+        0
+      ]
+    },
+    {
+      "case": 2,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        31,
+        0
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        12,
+        4
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        12,
+        4
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        16,
+        0
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        12,
+        4
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        12,
+        4
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        16,
+        0
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        13,
+        4
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        13,
+        4
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        16,
+        0
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        13,
+        4
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        13,
+        4
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        16,
+        0
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        12,
+        0
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        12,
+        0
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        12,
+        0
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        12,
+        0
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        12,
+        0
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        12,
+        0
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        12,
+        0
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        12,
+        0
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        12,
+        0
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        12,
+        0
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        12,
+        0
+      ]
+    },
+    {
+      "case": 3,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        12,
+        0
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        41,
+        9
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        49,
+        9
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        65,
+        0
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        41,
+        9
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        49,
+        9
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        65,
+        0
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        55,
+        9
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        55,
+        9
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        65,
+        0
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        55,
+        9
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        55,
+        9
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        65,
+        0
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        47,
+        0
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        47,
+        0
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        47,
+        0
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        47,
+        0
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        47,
+        0
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        47,
+        0
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        47,
+        0
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        47,
+        0
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        47,
+        0
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        47,
+        0
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        47,
+        0
+      ]
+    },
+    {
+      "case": 4,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        47,
+        0
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        14,
+        7
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        20,
+        7
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        35,
+        0
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        14,
+        7
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        20,
+        7
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        35,
+        0
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        35,
+        0
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        35,
+        0
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        35,
+        0
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        35,
+        0
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        35,
+        0
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        35,
+        0
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        21,
+        0
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        21,
+        0
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        21,
+        0
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        21,
+        0
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        21,
+        0
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        21,
+        0
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        21,
+        0
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        21,
+        0
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        21,
+        0
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        21,
+        0
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        21,
+        0
+      ]
+    },
+    {
+      "case": 5,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        21,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        2,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        2,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        2,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        2,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        2,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        2,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        2,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        2,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        2,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        2,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        2,
+        0
+      ]
+    },
+    {
+      "case": 6,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        2,
+        0
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        6,
+        3
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        6,
+        3
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        9,
+        0
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        9,
+        0
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        9,
+        0
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        9,
+        0
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        9,
+        0
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        9,
+        0
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        9,
+        0
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        9,
+        0
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        9,
+        0
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        9,
+        0
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        9,
+        0
+      ]
+    },
+    {
+      "case": 7,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        9,
+        0
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        8,
+        4
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        11,
+        0
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        11,
+        0
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        8,
+        4
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        11,
+        0
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        11,
+        0
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        11,
+        0
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        11,
+        0
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        11,
+        0
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        11,
+        0
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        11,
+        0
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        11,
+        0
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        15,
+        0
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        15,
+        0
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        15,
+        0
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        15,
+        0
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        15,
+        0
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        15,
+        0
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        15,
+        0
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        15,
+        0
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        15,
+        0
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        15,
+        0
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        15,
+        0
+      ]
+    },
+    {
+      "case": 8,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        15,
+        0
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        21,
+        5
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        21,
+        5
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        23,
+        0
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        21,
+        5
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        21,
+        5
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        23,
+        0
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        23,
+        0
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        23,
+        0
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        23,
+        0
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        23,
+        0
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        23,
+        0
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        23,
+        0
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        13,
+        0
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        13,
+        0
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        13,
+        0
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        13,
+        0
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        13,
+        0
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 2,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        13,
+        0
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        13,
+        0
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        13,
+        0
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        13,
+        0
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        13,
+        0
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        13,
+        0
+      ]
+    },
+    {
+      "case": 9,
+      "prefix": 2,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        13,
+        0
+      ]
+    },
+    {
+      "case": 10,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        20,
+        11
+      ]
+    },
+    {
+      "case": 10,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        22,
+        11
+      ]
+    },
+    {
+      "case": 10,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        49,
+        0
+      ]
+    },
+    {
+      "case": 10,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        20,
+        11
+      ]
+    },
+    {
+      "case": 10,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        22,
+        11
+      ]
+    },
+    {
+      "case": 10,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        49,
+        0
+      ]
+    },
+    {
+      "case": 10,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        39,
+        6
+      ]
+    },
+    {
+      "case": 10,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        39,
+        6
+      ]
+    },
+    {
+      "case": 10,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        49,
+        0
+      ]
+    },
+    {
+      "case": 10,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        39,
+        6
+      ]
+    },
+    {
+      "case": 10,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        39,
+        6
+      ]
+    },
+    {
+      "case": 10,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        49,
+        0
+      ]
+    },
+    {
+      "case": 11,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        11,
+        9
+      ]
+    },
+    {
+      "case": 11,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        17,
+        0
+      ]
+    },
+    {
+      "case": 11,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        17,
+        0
+      ]
+    },
+    {
+      "case": 11,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        11,
+        9
+      ]
+    },
+    {
+      "case": 11,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        17,
+        0
+      ]
+    },
+    {
+      "case": 11,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        17,
+        0
+      ]
+    },
+    {
+      "case": 11,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        15,
+        5
+      ]
+    },
+    {
+      "case": 11,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        17,
+        0
+      ]
+    },
+    {
+      "case": 11,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        17,
+        0
+      ]
+    },
+    {
+      "case": 11,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        15,
+        5
+      ]
+    },
+    {
+      "case": 11,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        17,
+        0
+      ]
+    },
+    {
+      "case": 11,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        17,
+        0
+      ]
+    },
+    {
+      "case": 12,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        16,
+        7
+      ]
+    },
+    {
+      "case": 12,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        18,
+        4
+      ]
+    },
+    {
+      "case": 12,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        27,
+        0
+      ]
+    },
+    {
+      "case": 12,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        16,
+        7
+      ]
+    },
+    {
+      "case": 12,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        18,
+        4
+      ]
+    },
+    {
+      "case": 12,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        27,
+        0
+      ]
+    },
+    {
+      "case": 12,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        21,
+        4
+      ]
+    },
+    {
+      "case": 12,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        21,
+        4
+      ]
+    },
+    {
+      "case": 12,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        27,
+        0
+      ]
+    },
+    {
+      "case": 12,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        21,
+        4
+      ]
+    },
+    {
+      "case": 12,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        21,
+        4
+      ]
+    },
+    {
+      "case": 12,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        27,
+        0
+      ]
+    },
+    {
+      "case": 13,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        51,
+        20
+      ]
+    },
+    {
+      "case": 13,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        59,
+        12
+      ]
+    },
+    {
+      "case": 13,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        70,
+        0
+      ]
+    },
+    {
+      "case": 13,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        51,
+        20
+      ]
+    },
+    {
+      "case": 13,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        59,
+        12
+      ]
+    },
+    {
+      "case": 13,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        70,
+        0
+      ]
+    },
+    {
+      "case": 13,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        66,
+        12
+      ]
+    },
+    {
+      "case": 13,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        70,
+        0
+      ]
+    },
+    {
+      "case": 13,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        70,
+        0
+      ]
+    },
+    {
+      "case": 13,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        66,
+        12
+      ]
+    },
+    {
+      "case": 13,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        70,
+        0
+      ]
+    },
+    {
+      "case": 13,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        70,
+        0
+      ]
+    },
+    {
+      "case": 14,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        41,
+        9
+      ]
+    },
+    {
+      "case": 14,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        41,
+        9
+      ]
+    },
+    {
+      "case": 14,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        46,
+        0
+      ]
+    },
+    {
+      "case": 14,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        41,
+        9
+      ]
+    },
+    {
+      "case": 14,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        41,
+        9
+      ]
+    },
+    {
+      "case": 14,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        46,
+        0
+      ]
+    },
+    {
+      "case": 14,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        46,
+        0
+      ]
+    },
+    {
+      "case": 14,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        46,
+        0
+      ]
+    },
+    {
+      "case": 14,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        46,
+        0
+      ]
+    },
+    {
+      "case": 14,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        46,
+        0
+      ]
+    },
+    {
+      "case": 14,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        46,
+        0
+      ]
+    },
+    {
+      "case": 14,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        46,
+        0
+      ]
+    },
+    {
+      "case": 15,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        4,
+        2
+      ]
+    },
+    {
+      "case": 15,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        6,
+        0
+      ]
+    },
+    {
+      "case": 15,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        6,
+        0
+      ]
+    },
+    {
+      "case": 15,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        4,
+        2
+      ]
+    },
+    {
+      "case": 15,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        6,
+        0
+      ]
+    },
+    {
+      "case": 15,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        6,
+        0
+      ]
+    },
+    {
+      "case": 15,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        5,
+        2
+      ]
+    },
+    {
+      "case": 15,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        6,
+        0
+      ]
+    },
+    {
+      "case": 15,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        6,
+        0
+      ]
+    },
+    {
+      "case": 15,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        5,
+        2
+      ]
+    },
+    {
+      "case": 15,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        6,
+        0
+      ]
+    },
+    {
+      "case": 15,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        6,
+        0
+      ]
+    },
+    {
+      "case": 16,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        12,
+        3
+      ]
+    },
+    {
+      "case": 16,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        12,
+        3
+      ]
+    },
+    {
+      "case": 16,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        14,
+        0
+      ]
+    },
+    {
+      "case": 16,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        12,
+        3
+      ]
+    },
+    {
+      "case": 16,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        12,
+        3
+      ]
+    },
+    {
+      "case": 16,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        14,
+        0
+      ]
+    },
+    {
+      "case": 16,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        14,
+        0
+      ]
+    },
+    {
+      "case": 16,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        14,
+        0
+      ]
+    },
+    {
+      "case": 16,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        14,
+        0
+      ]
+    },
+    {
+      "case": 16,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        14,
+        0
+      ]
+    },
+    {
+      "case": 16,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        14,
+        0
+      ]
+    },
+    {
+      "case": 16,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        14,
+        0
+      ]
+    },
+    {
+      "case": 17,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        18,
+        7
+      ]
+    },
+    {
+      "case": 17,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        22,
+        0
+      ]
+    },
+    {
+      "case": 17,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        22,
+        0
+      ]
+    },
+    {
+      "case": 17,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        18,
+        7
+      ]
+    },
+    {
+      "case": 17,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        22,
+        0
+      ]
+    },
+    {
+      "case": 17,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        22,
+        0
+      ]
+    },
+    {
+      "case": 17,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        18,
+        7
+      ]
+    },
+    {
+      "case": 17,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        22,
+        0
+      ]
+    },
+    {
+      "case": 17,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        22,
+        0
+      ]
+    },
+    {
+      "case": 17,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        18,
+        7
+      ]
+    },
+    {
+      "case": 17,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        22,
+        0
+      ]
+    },
+    {
+      "case": 17,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        22,
+        0
+      ]
+    },
+    {
+      "case": 18,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        21,
+        19
+      ]
+    },
+    {
+      "case": 18,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        39,
+        10
+      ]
+    },
+    {
+      "case": 18,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        40,
+        0
+      ]
+    },
+    {
+      "case": 18,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        21,
+        19
+      ]
+    },
+    {
+      "case": 18,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        39,
+        10
+      ]
+    },
+    {
+      "case": 18,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        40,
+        0
+      ]
+    },
+    {
+      "case": 18,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        35,
+        10
+      ]
+    },
+    {
+      "case": 18,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        40,
+        0
+      ]
+    },
+    {
+      "case": 18,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        40,
+        0
+      ]
+    },
+    {
+      "case": 18,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        35,
+        10
+      ]
+    },
+    {
+      "case": 18,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        40,
+        0
+      ]
+    },
+    {
+      "case": 18,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        40,
+        0
+      ]
+    },
+    {
+      "case": 19,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        17,
+        8
+      ]
+    },
+    {
+      "case": 19,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        24,
+        0
+      ]
+    },
+    {
+      "case": 19,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        24,
+        0
+      ]
+    },
+    {
+      "case": 19,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        17,
+        8
+      ]
+    },
+    {
+      "case": 19,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        24,
+        0
+      ]
+    },
+    {
+      "case": 19,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        24,
+        0
+      ]
+    },
+    {
+      "case": 19,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        21,
+        10
+      ]
+    },
+    {
+      "case": 19,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        24,
+        0
+      ]
+    },
+    {
+      "case": 19,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        24,
+        0
+      ]
+    },
+    {
+      "case": 19,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        21,
+        10
+      ]
+    },
+    {
+      "case": 19,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        24,
+        0
+      ]
+    },
+    {
+      "case": 19,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        24,
+        0
+      ]
+    },
+    {
+      "case": 20,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        18,
+        14
+      ]
+    },
+    {
+      "case": 20,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        27,
+        0
+      ]
+    },
+    {
+      "case": 20,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        27,
+        0
+      ]
+    },
+    {
+      "case": 20,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        18,
+        14
+      ]
+    },
+    {
+      "case": 20,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        27,
+        0
+      ]
+    },
+    {
+      "case": 20,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        27,
+        0
+      ]
+    },
+    {
+      "case": 20,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        18,
+        18
+      ]
+    },
+    {
+      "case": 20,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        27,
+        0
+      ]
+    },
+    {
+      "case": 20,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        27,
+        0
+      ]
+    },
+    {
+      "case": 20,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        18,
+        18
+      ]
+    },
+    {
+      "case": 20,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        27,
+        0
+      ]
+    },
+    {
+      "case": 20,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        27,
+        0
+      ]
+    },
+    {
+      "case": 21,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        37,
+        10
+      ]
+    },
+    {
+      "case": 21,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        37,
+        10
+      ]
+    },
+    {
+      "case": 21,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        41,
+        0
+      ]
+    },
+    {
+      "case": 21,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        29,
+        14
+      ]
+    },
+    {
+      "case": 21,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        29,
+        14
+      ]
+    },
+    {
+      "case": 21,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        41,
+        0
+      ]
+    },
+    {
+      "case": 21,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        41,
+        0
+      ]
+    },
+    {
+      "case": 21,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        41,
+        0
+      ]
+    },
+    {
+      "case": 21,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        41,
+        0
+      ]
+    },
+    {
+      "case": 21,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        37,
+        14
+      ]
+    },
+    {
+      "case": 21,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        37,
+        14
+      ]
+    },
+    {
+      "case": 21,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        41,
+        0
+      ]
+    },
+    {
+      "case": 22,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        6,
+        3
+      ]
+    },
+    {
+      "case": 22,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 22,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 22,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        6,
+        3
+      ]
+    },
+    {
+      "case": 22,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 22,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 22,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 22,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 22,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 22,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 22,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 22,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        8,
+        0
+      ]
+    },
+    {
+      "case": 23,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        32,
+        9
+      ]
+    },
+    {
+      "case": 23,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        32,
+        9
+      ]
+    },
+    {
+      "case": 23,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        40,
+        0
+      ]
+    },
+    {
+      "case": 23,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        32,
+        9
+      ]
+    },
+    {
+      "case": 23,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        32,
+        9
+      ]
+    },
+    {
+      "case": 23,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        40,
+        0
+      ]
+    },
+    {
+      "case": 23,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        32,
+        9
+      ]
+    },
+    {
+      "case": 23,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        32,
+        9
+      ]
+    },
+    {
+      "case": 23,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        40,
+        0
+      ]
+    },
+    {
+      "case": 23,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        32,
+        9
+      ]
+    },
+    {
+      "case": 23,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        32,
+        9
+      ]
+    },
+    {
+      "case": 23,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        40,
+        0
+      ]
+    },
+    {
+      "case": 24,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        30,
+        15
+      ]
+    },
+    {
+      "case": 24,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        37,
+        15
+      ]
+    },
+    {
+      "case": 24,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        63,
+        0
+      ]
+    },
+    {
+      "case": 24,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        30,
+        15
+      ]
+    },
+    {
+      "case": 24,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        37,
+        15
+      ]
+    },
+    {
+      "case": 24,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        63,
+        0
+      ]
+    },
+    {
+      "case": 24,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        63,
+        0
+      ]
+    },
+    {
+      "case": 24,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        63,
+        0
+      ]
+    },
+    {
+      "case": 24,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        63,
+        0
+      ]
+    },
+    {
+      "case": 24,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        63,
+        0
+      ]
+    },
+    {
+      "case": 24,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        63,
+        0
+      ]
+    },
+    {
+      "case": 24,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        63,
+        0
+      ]
+    },
+    {
+      "case": 25,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        10,
+        8
+      ]
+    },
+    {
+      "case": 25,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        11,
+        5
+      ]
+    },
+    {
+      "case": 25,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        16,
+        0
+      ]
+    },
+    {
+      "case": 25,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        10,
+        8
+      ]
+    },
+    {
+      "case": 25,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        11,
+        5
+      ]
+    },
+    {
+      "case": 25,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        16,
+        0
+      ]
+    },
+    {
+      "case": 25,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        12,
+        10
+      ]
+    },
+    {
+      "case": 25,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        13,
+        5
+      ]
+    },
+    {
+      "case": 25,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        16,
+        0
+      ]
+    },
+    {
+      "case": 25,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        12,
+        10
+      ]
+    },
+    {
+      "case": 25,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        13,
+        5
+      ]
+    },
+    {
+      "case": 25,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        16,
+        0
+      ]
+    },
+    {
+      "case": 26,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        46,
+        19
+      ]
+    },
+    {
+      "case": 26,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        58,
+        0
+      ]
+    },
+    {
+      "case": 26,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        58,
+        0
+      ]
+    },
+    {
+      "case": 26,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        42,
+        26
+      ]
+    },
+    {
+      "case": 26,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        58,
+        0
+      ]
+    },
+    {
+      "case": 26,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        58,
+        0
+      ]
+    },
+    {
+      "case": 26,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        50,
+        13
+      ]
+    },
+    {
+      "case": 26,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        58,
+        0
+      ]
+    },
+    {
+      "case": 26,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        58,
+        0
+      ]
+    },
+    {
+      "case": 26,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        46,
+        26
+      ]
+    },
+    {
+      "case": 26,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        58,
+        0
+      ]
+    },
+    {
+      "case": 26,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        58,
+        0
+      ]
+    },
+    {
+      "case": 27,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        10,
+        3
+      ]
+    },
+    {
+      "case": 27,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        10,
+        3
+      ]
+    },
+    {
+      "case": 27,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        14,
+        0
+      ]
+    },
+    {
+      "case": 27,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        10,
+        3
+      ]
+    },
+    {
+      "case": 27,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        10,
+        3
+      ]
+    },
+    {
+      "case": 27,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        14,
+        0
+      ]
+    },
+    {
+      "case": 27,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        12,
+        3
+      ]
+    },
+    {
+      "case": 27,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        12,
+        3
+      ]
+    },
+    {
+      "case": 27,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        14,
+        0
+      ]
+    },
+    {
+      "case": 27,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        12,
+        3
+      ]
+    },
+    {
+      "case": 27,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        12,
+        3
+      ]
+    },
+    {
+      "case": 27,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        14,
+        0
+      ]
+    },
+    {
+      "case": 28,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        28,
+        17
+      ]
+    },
+    {
+      "case": 28,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        30,
+        9
+      ]
+    },
+    {
+      "case": 28,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        38,
+        0
+      ]
+    },
+    {
+      "case": 28,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        28,
+        17
+      ]
+    },
+    {
+      "case": 28,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        30,
+        9
+      ]
+    },
+    {
+      "case": 28,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        38,
+        0
+      ]
+    },
+    {
+      "case": 28,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        30,
+        9
+      ]
+    },
+    {
+      "case": 28,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        34,
+        9
+      ]
+    },
+    {
+      "case": 28,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        38,
+        0
+      ]
+    },
+    {
+      "case": 28,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        29,
+        18
+      ]
+    },
+    {
+      "case": 28,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        34,
+        9
+      ]
+    },
+    {
+      "case": 28,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        38,
+        0
+      ]
+    },
+    {
+      "case": 29,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        18,
+        9
+      ]
+    },
+    {
+      "case": 29,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        22,
+        0
+      ]
+    },
+    {
+      "case": 29,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        22,
+        0
+      ]
+    },
+    {
+      "case": 29,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        18,
+        9
+      ]
+    },
+    {
+      "case": 29,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        22,
+        0
+      ]
+    },
+    {
+      "case": 29,
+      "prefix": 0,
+      "delay": 1,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        22,
+        0
+      ]
+    },
+    {
+      "case": 29,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 1,
+      "value": [
+        22,
+        0
+      ]
+    },
+    {
+      "case": 29,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 2,
+      "value": [
+        22,
+        0
+      ]
+    },
+    {
+      "case": 29,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 1,
+      "width": 4,
+      "value": [
+        22,
+        0
+      ]
+    },
+    {
+      "case": 29,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 1,
+      "value": [
+        22,
+        0
+      ]
+    },
+    {
+      "case": 29,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 2,
+      "value": [
+        22,
+        0
+      ]
+    },
+    {
+      "case": 29,
+      "prefix": 0,
+      "delay": 2,
+      "budget": 2,
+      "width": 4,
+      "value": [
+        22,
+        0
+      ]
+    }
+  ]
+}

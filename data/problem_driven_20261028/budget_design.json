@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-28",
+  "frozen_before_panel": true,
+  "source_sha256": "501d1170dc6bb30c54c1fa18c05dc00215b0af723bd1e0feaecc3bf32f424476",
+  "input_sha256": "870e1bc2ac388cf1cbf56aa5ea2e715dd22ef381edaa31d638c1b27d36620397",
+  "smoke_sha256": "a011ec164b01c9f041ccb9758a921ab7408fa142eefa04ceff96f22174fb2fcb",
+  "prefix": 0,
+  "lead": "lag+2",
+  "budgets": "Every integer from zero to minimum static full-recovery menu size",
+  "coverage": "Every complete support among all 282 candidate configurations",
+  "method": "Messages binary; cumulative releases continuous; zero relative MIP gap; independent integer frontier replay."
+}

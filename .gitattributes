@@ -1,0 +1,6 @@
+* -text
+*.py diff
+*.md diff
+*.json diff
+*.csv diff
+*.cff diff

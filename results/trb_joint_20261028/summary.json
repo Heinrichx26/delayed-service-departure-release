@@ -1,0 +1,54 @@
+[
+  {
+    "delay": 1,
+    "budget": 1,
+    "solved": 200,
+    "improved": 182,
+    "uniform_waiting": 11.614380004258102,
+    "joint_waiting": 11.286737229638138,
+    "mean_saving": 0.32764277461996383,
+    "max_saving": 1.21875,
+    "excess_over_unlimited": 0.13584744449837433,
+    "queries": 2.579375,
+    "max_states": 1300
+  },
+  {
+    "delay": 1,
+    "budget": 2,
+    "solved": 200,
+    "improved": 3,
+    "uniform_waiting": 11.158575797044525,
+    "joint_waiting": 11.157310916092143,
+    "mean_saving": 0.0012648809523813044,
+    "max_saving": 0.10714285714285943,
+    "excess_over_unlimited": 0.006421130952380593,
+    "queries": 2.921875,
+    "max_states": 1474
+  },
+  {
+    "delay": 2,
+    "budget": 1,
+    "solved": 200,
+    "improved": 185,
+    "uniform_waiting": 12.15776452246788,
+    "joint_waiting": 11.789838206129774,
+    "mean_saving": 0.36792631633810685,
+    "max_saving": 1.5,
+    "excess_over_unlimited": 0.12573336233603463,
+    "queries": 2.908125,
+    "max_states": 3490
+  },
+  {
+    "delay": 2,
+    "budget": 2,
+    "solved": 200,
+    "improved": 65,
+    "uniform_waiting": 11.751566098136983,
+    "joint_waiting": 11.673859595018392,
+    "mean_saving": 0.07770650311859191,
+    "max_saving": 0.90625,
+    "excess_over_unlimited": 0.009754751224652499,
+    "queries": 3.6665625,
+    "max_states": 8927
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "source_sha256": "5a2b94fa70122423bf9fa688bb8452be319cbc583f8ed7216d543a657673d81a",
+  "parent_rows_sha256": "acf0f7a5b826fc4a773661cac071ed1f2702e2d7e8bed07fae775078e8537654",
+  "parent_design_sha256": "0bc5c0d8a0ff076adf365e45dd200967fdec2ba0e73396fdf34add135477c847",
+  "rule": "Search integer request limits upward for the same delayed target; reuse certified b=1,2 answers. Export independently replayed attainable policies.",
+  "upper_bound": "L-delay+1 nonredundant requests in one slot",
+  "no_new_operational_assumptions": true
+}

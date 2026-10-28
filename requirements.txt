@@ -1,0 +1,6 @@
+numpy==2.4.6
+pandas==2.3.3
+scipy==1.17.1
+matplotlib==3.10.9
+airportsdata==20260315
+tzdata==2026.2

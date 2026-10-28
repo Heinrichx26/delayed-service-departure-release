@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-28",
+  "frozen_before_panel": true,
+  "input_manifest_sha256": "870e1bc2ac388cf1cbf56aa5ea2e715dd22ef381edaa31d638c1b27d36620397",
+  "smoke_sha256": "bf62d6bc4f85f84f39f8898525041847afd5859c0f55e3a597c36c9a6fdf3f87",
+  "exact_panel_sha256": "c5c40f7611b67c7c70c28fdd6d6039cd6364991d0a7540e180f5eb13f83bab35",
+  "source_sha256": "2e1ac778a6dd9cb96a49e2336be6ab10f9963718b163cc40acdfc3405922151b",
+  "leads": [
+    "transport_plus_two",
+    "full_horizon"
+  ],
+  "comparator": "Greedy expected removal of probability-weighted pairs with different current target releases; exact arithmetic; earliest-slot ties.",
+  "prefixes": [
+    0,
+    1
+  ],
+  "coverage": "Every complete support in the 282 candidates."
+}

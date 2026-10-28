@@ -1,0 +1,15 @@
+{
+  "flight_archives": [
+    {
+      "year": 2024,
+      "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_1.zip",
+      "sha256": "fe089b45523f9d4ac0ccd0e176a543d274e914ee5ae5bd384dbaafc7dc06ebfd"
+    },
+    {
+      "year": 2025,
+      "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2025_1.zip",
+      "sha256": "868387dcedaef1b8d8392e608e642219fde50d594c3cf2094aec858167629ccf"
+    }
+  ],
+  "field_definitions": "https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FGJ"
+}

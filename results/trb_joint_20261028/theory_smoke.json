@@ -1,0 +1,2168 @@
+{
+  "passed": true,
+  "comparisons": 192,
+  "seed": 2026102817,
+  "seconds": 0.16809940000530332,
+  "rows": [
+    {
+      "case": 0,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        3,
+        3
+      ],
+      "states": 7,
+      "raw_states": 37
+    },
+    {
+      "case": 0,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        3,
+        3
+      ],
+      "states": 7,
+      "raw_states": 37
+    },
+    {
+      "case": 0,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        5,
+        0
+      ],
+      "states": 7,
+      "raw_states": 39
+    },
+    {
+      "case": 0,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        5,
+        0
+      ],
+      "states": 7,
+      "raw_states": 41
+    },
+    {
+      "case": 0,
+      "reset": 2,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 9
+    },
+    {
+      "case": 0,
+      "reset": 2,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 9
+    },
+    {
+      "case": 0,
+      "reset": 2,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 9
+    },
+    {
+      "case": 0,
+      "reset": 2,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 9
+    },
+    {
+      "case": 1,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        3,
+        3
+      ],
+      "states": 10,
+      "raw_states": 50
+    },
+    {
+      "case": 1,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        3,
+        3
+      ],
+      "states": 10,
+      "raw_states": 50
+    },
+    {
+      "case": 1,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        3,
+        3
+      ],
+      "states": 11,
+      "raw_states": 71
+    },
+    {
+      "case": 1,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        3,
+        3
+      ],
+      "states": 11,
+      "raw_states": 74
+    },
+    {
+      "case": 1,
+      "reset": 2,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        5,
+        0
+      ],
+      "states": 1,
+      "raw_states": 10
+    },
+    {
+      "case": 1,
+      "reset": 2,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        5,
+        0
+      ],
+      "states": 1,
+      "raw_states": 10
+    },
+    {
+      "case": 1,
+      "reset": 2,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        5,
+        0
+      ],
+      "states": 1,
+      "raw_states": 9
+    },
+    {
+      "case": 1,
+      "reset": 2,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        5,
+        0
+      ],
+      "states": 1,
+      "raw_states": 9
+    },
+    {
+      "case": 2,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        3,
+        3
+      ],
+      "states": 10,
+      "raw_states": 58
+    },
+    {
+      "case": 2,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        3,
+        3
+      ],
+      "states": 10,
+      "raw_states": 58
+    },
+    {
+      "case": 2,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        3,
+        3
+      ],
+      "states": 12,
+      "raw_states": 86
+    },
+    {
+      "case": 2,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        3,
+        3
+      ],
+      "states": 12,
+      "raw_states": 90
+    },
+    {
+      "case": 2,
+      "reset": 2,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        7,
+        0
+      ],
+      "states": 1,
+      "raw_states": 11
+    },
+    {
+      "case": 2,
+      "reset": 2,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        7,
+        0
+      ],
+      "states": 1,
+      "raw_states": 11
+    },
+    {
+      "case": 2,
+      "reset": 2,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        7,
+        0
+      ],
+      "states": 1,
+      "raw_states": 14
+    },
+    {
+      "case": 2,
+      "reset": 2,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        7,
+        0
+      ],
+      "states": 1,
+      "raw_states": 15
+    },
+    {
+      "case": 3,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        4,
+        0
+      ],
+      "states": 1,
+      "raw_states": 21
+    },
+    {
+      "case": 3,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        4,
+        0
+      ],
+      "states": 1,
+      "raw_states": 21
+    },
+    {
+      "case": 3,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        4,
+        0
+      ],
+      "states": 1,
+      "raw_states": 21
+    },
+    {
+      "case": 3,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        4,
+        0
+      ],
+      "states": 1,
+      "raw_states": 21
+    },
+    {
+      "case": 3,
+      "reset": 2,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 5
+    },
+    {
+      "case": 3,
+      "reset": 2,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 5
+    },
+    {
+      "case": 3,
+      "reset": 2,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 5
+    },
+    {
+      "case": 3,
+      "reset": 2,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 5
+    },
+    {
+      "case": 4,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        4,
+        2
+      ],
+      "states": 11,
+      "raw_states": 106
+    },
+    {
+      "case": 4,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        4,
+        2
+      ],
+      "states": 11,
+      "raw_states": 106
+    },
+    {
+      "case": 4,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        4,
+        2
+      ],
+      "states": 12,
+      "raw_states": 159
+    },
+    {
+      "case": 4,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        4,
+        2
+      ],
+      "states": 12,
+      "raw_states": 167
+    },
+    {
+      "case": 4,
+      "reset": 2,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        7,
+        0
+      ],
+      "states": 1,
+      "raw_states": 11
+    },
+    {
+      "case": 4,
+      "reset": 2,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        7,
+        0
+      ],
+      "states": 1,
+      "raw_states": 11
+    },
+    {
+      "case": 4,
+      "reset": 2,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        7,
+        0
+      ],
+      "states": 1,
+      "raw_states": 14
+    },
+    {
+      "case": 4,
+      "reset": 2,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        7,
+        0
+      ],
+      "states": 1,
+      "raw_states": 15
+    },
+    {
+      "case": 5,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        4,
+        6
+      ],
+      "states": 21,
+      "raw_states": 96
+    },
+    {
+      "case": 5,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        4,
+        6
+      ],
+      "states": 21,
+      "raw_states": 96
+    },
+    {
+      "case": 5,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        4,
+        8
+      ],
+      "states": 27,
+      "raw_states": 147
+    },
+    {
+      "case": 5,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        4,
+        8
+      ],
+      "states": 31,
+      "raw_states": 162
+    },
+    {
+      "case": 5,
+      "reset": 2,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        7,
+        0
+      ],
+      "states": 1,
+      "raw_states": 18
+    },
+    {
+      "case": 5,
+      "reset": 2,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        7,
+        0
+      ],
+      "states": 1,
+      "raw_states": 18
+    },
+    {
+      "case": 5,
+      "reset": 2,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        7,
+        0
+      ],
+      "states": 1,
+      "raw_states": 18
+    },
+    {
+      "case": 5,
+      "reset": 2,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        7,
+        0
+      ],
+      "states": 1,
+      "raw_states": 19
+    },
+    {
+      "case": 6,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        6,
+        5
+      ],
+      "states": 21,
+      "raw_states": 176
+    },
+    {
+      "case": 6,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        6,
+        5
+      ],
+      "states": 23,
+      "raw_states": 179
+    },
+    {
+      "case": 6,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        10,
+        3
+      ],
+      "states": 21,
+      "raw_states": 224
+    },
+    {
+      "case": 6,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        10,
+        3
+      ],
+      "states": 25,
+      "raw_states": 273
+    },
+    {
+      "case": 6,
+      "reset": 2,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        11,
+        0
+      ],
+      "states": 1,
+      "raw_states": 14
+    },
+    {
+      "case": 6,
+      "reset": 2,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        11,
+        0
+      ],
+      "states": 1,
+      "raw_states": 14
+    },
+    {
+      "case": 6,
+      "reset": 2,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        11,
+        0
+      ],
+      "states": 1,
+      "raw_states": 18
+    },
+    {
+      "case": 6,
+      "reset": 2,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        11,
+        0
+      ],
+      "states": 1,
+      "raw_states": 20
+    },
+    {
+      "case": 7,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 19
+    },
+    {
+      "case": 7,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 19
+    },
+    {
+      "case": 7,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 19
+    },
+    {
+      "case": 7,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 19
+    },
+    {
+      "case": 7,
+      "reset": 2,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 5
+    },
+    {
+      "case": 7,
+      "reset": 2,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 5
+    },
+    {
+      "case": 7,
+      "reset": 2,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 5
+    },
+    {
+      "case": 7,
+      "reset": 2,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 5
+    },
+    {
+      "case": 8,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        4,
+        2
+      ],
+      "states": 7,
+      "raw_states": 69
+    },
+    {
+      "case": 8,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        4,
+        2
+      ],
+      "states": 7,
+      "raw_states": 69
+    },
+    {
+      "case": 8,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        5,
+        0
+      ],
+      "states": 7,
+      "raw_states": 73
+    },
+    {
+      "case": 8,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        5,
+        0
+      ],
+      "states": 7,
+      "raw_states": 75
+    },
+    {
+      "case": 8,
+      "reset": 2,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        5,
+        0
+      ],
+      "states": 1,
+      "raw_states": 9
+    },
+    {
+      "case": 8,
+      "reset": 2,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        5,
+        0
+      ],
+      "states": 1,
+      "raw_states": 9
+    },
+    {
+      "case": 8,
+      "reset": 2,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        5,
+        0
+      ],
+      "states": 1,
+      "raw_states": 9
+    },
+    {
+      "case": 8,
+      "reset": 2,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        5,
+        0
+      ],
+      "states": 1,
+      "raw_states": 9
+    },
+    {
+      "case": 9,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 23
+    },
+    {
+      "case": 9,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 23
+    },
+    {
+      "case": 9,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 23
+    },
+    {
+      "case": 9,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 23
+    },
+    {
+      "case": 9,
+      "reset": 2,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        4,
+        0
+      ],
+      "states": 1,
+      "raw_states": 5
+    },
+    {
+      "case": 9,
+      "reset": 2,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        4,
+        0
+      ],
+      "states": 1,
+      "raw_states": 5
+    },
+    {
+      "case": 9,
+      "reset": 2,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        4,
+        0
+      ],
+      "states": 1,
+      "raw_states": 5
+    },
+    {
+      "case": 9,
+      "reset": 2,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        4,
+        0
+      ],
+      "states": 1,
+      "raw_states": 5
+    },
+    {
+      "case": 10,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 14
+    },
+    {
+      "case": 10,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 14
+    },
+    {
+      "case": 10,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 14
+    },
+    {
+      "case": 10,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 14
+    },
+    {
+      "case": 10,
+      "reset": 2,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        0,
+        0
+      ],
+      "states": 1,
+      "raw_states": 5
+    },
+    {
+      "case": 10,
+      "reset": 2,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        0,
+        0
+      ],
+      "states": 1,
+      "raw_states": 5
+    },
+    {
+      "case": 10,
+      "reset": 2,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        0,
+        0
+      ],
+      "states": 1,
+      "raw_states": 5
+    },
+    {
+      "case": 10,
+      "reset": 2,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        0,
+        0
+      ],
+      "states": 1,
+      "raw_states": 5
+    },
+    {
+      "case": 11,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        4,
+        7
+      ],
+      "states": 16,
+      "raw_states": 74
+    },
+    {
+      "case": 11,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        4,
+        7
+      ],
+      "states": 18,
+      "raw_states": 76
+    },
+    {
+      "case": 11,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        11,
+        0
+      ],
+      "states": 11,
+      "raw_states": 95
+    },
+    {
+      "case": 11,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        11,
+        0
+      ],
+      "states": 13,
+      "raw_states": 100
+    },
+    {
+      "case": 11,
+      "reset": 2,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        7,
+        0
+      ],
+      "states": 1,
+      "raw_states": 14
+    },
+    {
+      "case": 11,
+      "reset": 2,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        7,
+        0
+      ],
+      "states": 1,
+      "raw_states": 14
+    },
+    {
+      "case": 11,
+      "reset": 2,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        7,
+        0
+      ],
+      "states": 1,
+      "raw_states": 16
+    },
+    {
+      "case": 11,
+      "reset": 2,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        7,
+        0
+      ],
+      "states": 1,
+      "raw_states": 16
+    },
+    {
+      "case": 12,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        4,
+        7
+      ],
+      "states": 17,
+      "raw_states": 74
+    },
+    {
+      "case": 12,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        4,
+        7
+      ],
+      "states": 18,
+      "raw_states": 76
+    },
+    {
+      "case": 12,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        9,
+        0
+      ],
+      "states": 14,
+      "raw_states": 100
+    },
+    {
+      "case": 12,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        9,
+        0
+      ],
+      "states": 18,
+      "raw_states": 119
+    },
+    {
+      "case": 13,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        7,
+        5
+      ],
+      "states": 19,
+      "raw_states": 177
+    },
+    {
+      "case": 13,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        7,
+        5
+      ],
+      "states": 19,
+      "raw_states": 177
+    },
+    {
+      "case": 13,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        10,
+        3
+      ],
+      "states": 18,
+      "raw_states": 197
+    },
+    {
+      "case": 13,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        10,
+        3
+      ],
+      "states": 19,
+      "raw_states": 209
+    },
+    {
+      "case": 14,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        7,
+        5
+      ],
+      "states": 19,
+      "raw_states": 179
+    },
+    {
+      "case": 14,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        7,
+        5
+      ],
+      "states": 20,
+      "raw_states": 181
+    },
+    {
+      "case": 14,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        10,
+        0
+      ],
+      "states": 16,
+      "raw_states": 239
+    },
+    {
+      "case": 14,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        10,
+        0
+      ],
+      "states": 18,
+      "raw_states": 246
+    },
+    {
+      "case": 15,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        9,
+        2
+      ],
+      "states": 7,
+      "raw_states": 50
+    },
+    {
+      "case": 15,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        9,
+        2
+      ],
+      "states": 7,
+      "raw_states": 50
+    },
+    {
+      "case": 15,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        12,
+        0
+      ],
+      "states": 6,
+      "raw_states": 39
+    },
+    {
+      "case": 15,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        12,
+        0
+      ],
+      "states": 6,
+      "raw_states": 39
+    },
+    {
+      "case": 16,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        4,
+        2
+      ],
+      "states": 9,
+      "raw_states": 81
+    },
+    {
+      "case": 16,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        4,
+        2
+      ],
+      "states": 9,
+      "raw_states": 81
+    },
+    {
+      "case": 16,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        5,
+        2
+      ],
+      "states": 8,
+      "raw_states": 79
+    },
+    {
+      "case": 16,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        5,
+        2
+      ],
+      "states": 8,
+      "raw_states": 79
+    },
+    {
+      "case": 17,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        10,
+        6
+      ],
+      "states": 28,
+      "raw_states": 191
+    },
+    {
+      "case": 17,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        9,
+        8
+      ],
+      "states": 29,
+      "raw_states": 200
+    },
+    {
+      "case": 17,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        13,
+        4
+      ],
+      "states": 24,
+      "raw_states": 247
+    },
+    {
+      "case": 17,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        12,
+        8
+      ],
+      "states": 29,
+      "raw_states": 309
+    },
+    {
+      "case": 18,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        9,
+        4
+      ],
+      "states": 16,
+      "raw_states": 133
+    },
+    {
+      "case": 18,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        9,
+        4
+      ],
+      "states": 17,
+      "raw_states": 135
+    },
+    {
+      "case": 18,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        11,
+        4
+      ],
+      "states": 19,
+      "raw_states": 167
+    },
+    {
+      "case": 18,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        11,
+        4
+      ],
+      "states": 23,
+      "raw_states": 191
+    },
+    {
+      "case": 19,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        9,
+        8
+      ],
+      "states": 32,
+      "raw_states": 203
+    },
+    {
+      "case": 19,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        9,
+        8
+      ],
+      "states": 36,
+      "raw_states": 211
+    },
+    {
+      "case": 19,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        13,
+        4
+      ],
+      "states": 33,
+      "raw_states": 269
+    },
+    {
+      "case": 19,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        12,
+        8
+      ],
+      "states": 42,
+      "raw_states": 355
+    },
+    {
+      "case": 20,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        4,
+        2
+      ],
+      "states": 9,
+      "raw_states": 97
+    },
+    {
+      "case": 20,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        4,
+        2
+      ],
+      "states": 9,
+      "raw_states": 97
+    },
+    {
+      "case": 20,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        6,
+        0
+      ],
+      "states": 8,
+      "raw_states": 89
+    },
+    {
+      "case": 20,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        6,
+        0
+      ],
+      "states": 8,
+      "raw_states": 89
+    },
+    {
+      "case": 21,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        4,
+        4
+      ],
+      "states": 6,
+      "raw_states": 37
+    },
+    {
+      "case": 21,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        4,
+        4
+      ],
+      "states": 6,
+      "raw_states": 37
+    },
+    {
+      "case": 21,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        7,
+        0
+      ],
+      "states": 7,
+      "raw_states": 46
+    },
+    {
+      "case": 21,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        7,
+        0
+      ],
+      "states": 7,
+      "raw_states": 48
+    },
+    {
+      "case": 22,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        4,
+        0
+      ],
+      "states": 1,
+      "raw_states": 22
+    },
+    {
+      "case": 22,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        4,
+        0
+      ],
+      "states": 1,
+      "raw_states": 22
+    },
+    {
+      "case": 22,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        4,
+        0
+      ],
+      "states": 1,
+      "raw_states": 22
+    },
+    {
+      "case": 22,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        4,
+        0
+      ],
+      "states": 1,
+      "raw_states": 22
+    },
+    {
+      "case": 23,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        5,
+        2
+      ],
+      "states": 9,
+      "raw_states": 68
+    },
+    {
+      "case": 23,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        5,
+        2
+      ],
+      "states": 9,
+      "raw_states": 68
+    },
+    {
+      "case": 23,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        5,
+        2
+      ],
+      "states": 9,
+      "raw_states": 105
+    },
+    {
+      "case": 23,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        5,
+        2
+      ],
+      "states": 9,
+      "raw_states": 121
+    },
+    {
+      "case": 24,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        2,
+        2
+      ],
+      "states": 6,
+      "raw_states": 37
+    },
+    {
+      "case": 24,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        2,
+        2
+      ],
+      "states": 6,
+      "raw_states": 37
+    },
+    {
+      "case": 24,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        3,
+        0
+      ],
+      "states": 7,
+      "raw_states": 46
+    },
+    {
+      "case": 24,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        3,
+        0
+      ],
+      "states": 7,
+      "raw_states": 48
+    },
+    {
+      "case": 25,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        4,
+        4
+      ],
+      "states": 10,
+      "raw_states": 53
+    },
+    {
+      "case": 25,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        4,
+        4
+      ],
+      "states": 10,
+      "raw_states": 53
+    },
+    {
+      "case": 25,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        4,
+        4
+      ],
+      "states": 11,
+      "raw_states": 71
+    },
+    {
+      "case": 25,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        4,
+        4
+      ],
+      "states": 11,
+      "raw_states": 71
+    },
+    {
+      "case": 26,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        5,
+        2
+      ],
+      "states": 10,
+      "raw_states": 134
+    },
+    {
+      "case": 26,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        5,
+        2
+      ],
+      "states": 10,
+      "raw_states": 134
+    },
+    {
+      "case": 26,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        5,
+        2
+      ],
+      "states": 11,
+      "raw_states": 185
+    },
+    {
+      "case": 26,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        5,
+        2
+      ],
+      "states": 11,
+      "raw_states": 185
+    },
+    {
+      "case": 27,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        2,
+        2
+      ],
+      "states": 6,
+      "raw_states": 41
+    },
+    {
+      "case": 27,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        2,
+        2
+      ],
+      "states": 6,
+      "raw_states": 41
+    },
+    {
+      "case": 27,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        4,
+        0
+      ],
+      "states": 7,
+      "raw_states": 52
+    },
+    {
+      "case": 27,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        4,
+        0
+      ],
+      "states": 7,
+      "raw_states": 52
+    },
+    {
+      "case": 28,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        4,
+        2
+      ],
+      "states": 9,
+      "raw_states": 100
+    },
+    {
+      "case": 28,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        4,
+        2
+      ],
+      "states": 9,
+      "raw_states": 100
+    },
+    {
+      "case": 28,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        4,
+        2
+      ],
+      "states": 11,
+      "raw_states": 139
+    },
+    {
+      "case": 28,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        4,
+        2
+      ],
+      "states": 11,
+      "raw_states": 139
+    },
+    {
+      "case": 29,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        6,
+        5
+      ],
+      "states": 20,
+      "raw_states": 158
+    },
+    {
+      "case": 29,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        6,
+        5
+      ],
+      "states": 21,
+      "raw_states": 160
+    },
+    {
+      "case": 29,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        9,
+        0
+      ],
+      "states": 19,
+      "raw_states": 210
+    },
+    {
+      "case": 29,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        9,
+        0
+      ],
+      "states": 23,
+      "raw_states": 243
+    },
+    {
+      "case": 30,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        6,
+        5
+      ],
+      "states": 21,
+      "raw_states": 192
+    },
+    {
+      "case": 30,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        6,
+        5
+      ],
+      "states": 21,
+      "raw_states": 192
+    },
+    {
+      "case": 30,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        6,
+        6
+      ],
+      "states": 25,
+      "raw_states": 293
+    },
+    {
+      "case": 30,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        6,
+        6
+      ],
+      "states": 28,
+      "raw_states": 321
+    },
+    {
+      "case": 31,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        4,
+        4
+      ],
+      "states": 6,
+      "raw_states": 41
+    },
+    {
+      "case": 31,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        4,
+        4
+      ],
+      "states": 6,
+      "raw_states": 41
+    },
+    {
+      "case": 31,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        8,
+        0
+      ],
+      "states": 7,
+      "raw_states": 52
+    },
+    {
+      "case": 31,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        8,
+        0
+      ],
+      "states": 7,
+      "raw_states": 52
+    },
+    {
+      "case": 32,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        3,
+        5
+      ],
+      "states": 17,
+      "raw_states": 79
+    },
+    {
+      "case": 32,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        3,
+        5
+      ],
+      "states": 18,
+      "raw_states": 79
+    },
+    {
+      "case": 32,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        8,
+        0
+      ],
+      "states": 8,
+      "raw_states": 67
+    },
+    {
+      "case": 32,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        8,
+        0
+      ],
+      "states": 8,
+      "raw_states": 71
+    },
+    {
+      "case": 33,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        6,
+        5
+      ],
+      "states": 17,
+      "raw_states": 191
+    },
+    {
+      "case": 33,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        6,
+        5
+      ],
+      "states": 18,
+      "raw_states": 191
+    },
+    {
+      "case": 33,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        17,
+        0
+      ],
+      "states": 8,
+      "raw_states": 272
+    },
+    {
+      "case": 33,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        17,
+        0
+      ],
+      "states": 8,
+      "raw_states": 284
+    },
+    {
+      "case": 34,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 14
+    },
+    {
+      "case": 34,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 14
+    },
+    {
+      "case": 34,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 14
+    },
+    {
+      "case": 34,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        2,
+        0
+      ],
+      "states": 1,
+      "raw_states": 14
+    },
+    {
+      "case": 35,
+      "delay": 1,
+      "budget": 1,
+      "value": [
+        2,
+        2
+      ],
+      "states": 7,
+      "raw_states": 37
+    },
+    {
+      "case": 35,
+      "delay": 1,
+      "budget": 2,
+      "value": [
+        2,
+        2
+      ],
+      "states": 7,
+      "raw_states": 37
+    },
+    {
+      "case": 35,
+      "delay": 2,
+      "budget": 1,
+      "value": [
+        3,
+        0
+      ],
+      "states": 7,
+      "raw_states": 39
+    },
+    {
+      "case": 35,
+      "delay": 2,
+      "budget": 2,
+      "value": [
+        3,
+        0
+      ],
+      "states": 7,
+      "raw_states": 41
+    }
+  ]
+}

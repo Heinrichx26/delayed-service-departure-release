@@ -1,0 +1,1825 @@
+{
+  "jobs": [
+    {
+      "case_id": "473d817f7137_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\473d817f7137_k1.json",
+      "input_sha256": "3fdbb7445f1c4f880cf823d62190a4dc77e34d42d153d3445242c2e9eeba1a38",
+      "airport": "DEN",
+      "day": "2024-01-24",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "473d817f7137_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\473d817f7137_k1.json",
+      "input_sha256": "3fdbb7445f1c4f880cf823d62190a4dc77e34d42d153d3445242c2e9eeba1a38",
+      "airport": "DEN",
+      "day": "2024-01-24",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "473d817f7137_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\473d817f7137_k1.json",
+      "input_sha256": "3fdbb7445f1c4f880cf823d62190a4dc77e34d42d153d3445242c2e9eeba1a38",
+      "airport": "DEN",
+      "day": "2024-01-24",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "c4b6c01141f8_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\c4b6c01141f8_k1.json",
+      "input_sha256": "d49a0c2a07214c46c9efcf2d3a716e5d04b480a7e939556d79b4d0400363dc11",
+      "airport": "DEN",
+      "day": "2024-01-24",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "c4b6c01141f8_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\c4b6c01141f8_k1.json",
+      "input_sha256": "d49a0c2a07214c46c9efcf2d3a716e5d04b480a7e939556d79b4d0400363dc11",
+      "airport": "DEN",
+      "day": "2024-01-24",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "4853318f0ec9_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\4853318f0ec9_k1.json",
+      "input_sha256": "f3bfd8c45f177e68166046f980d61e9ea0824ffaf275576ee419f914b5f95099",
+      "airport": "DEN",
+      "day": "2024-01-25",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "4853318f0ec9_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\4853318f0ec9_k1.json",
+      "input_sha256": "f3bfd8c45f177e68166046f980d61e9ea0824ffaf275576ee419f914b5f95099",
+      "airport": "DEN",
+      "day": "2024-01-25",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "ae2ab6d22677_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\ae2ab6d22677_k1.json",
+      "input_sha256": "4775700bf04ae3fda8cf5d8ac13262821d924b44a8ebdcd9803ae0e2403ee573",
+      "airport": "DEN",
+      "day": "2024-01-25",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "ae2ab6d22677_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\ae2ab6d22677_k1.json",
+      "input_sha256": "4775700bf04ae3fda8cf5d8ac13262821d924b44a8ebdcd9803ae0e2403ee573",
+      "airport": "DEN",
+      "day": "2024-01-25",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "3243afd96686_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\3243afd96686_k1.json",
+      "input_sha256": "f771484f00ca4c9acae95d5083083d05f8ddd86d342be1f9d03edf1f4e9d0eab",
+      "airport": "DEN",
+      "day": "2024-01-26",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "3243afd96686_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\3243afd96686_k1.json",
+      "input_sha256": "f771484f00ca4c9acae95d5083083d05f8ddd86d342be1f9d03edf1f4e9d0eab",
+      "airport": "DEN",
+      "day": "2024-01-26",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "a9f0dcdc0f1a_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\a9f0dcdc0f1a_k1.json",
+      "input_sha256": "4d62304f1a2d7eb6ec1ce00bbd728bcdf935549bdfcc9b8b269174df696887a5",
+      "airport": "DEN",
+      "day": "2024-01-26",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "a9f0dcdc0f1a_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\a9f0dcdc0f1a_k1.json",
+      "input_sha256": "4d62304f1a2d7eb6ec1ce00bbd728bcdf935549bdfcc9b8b269174df696887a5",
+      "airport": "DEN",
+      "day": "2024-01-26",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "1b72b60d2b7f_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\1b72b60d2b7f_k1.json",
+      "input_sha256": "4532ff233264b1c7afd9fc13949dead5c222bc5fc0e44ec45c17c7f4d67f903e",
+      "airport": "DEN",
+      "day": "2024-01-26",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "1b72b60d2b7f_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\1b72b60d2b7f_k1.json",
+      "input_sha256": "4532ff233264b1c7afd9fc13949dead5c222bc5fc0e44ec45c17c7f4d67f903e",
+      "airport": "DEN",
+      "day": "2024-01-26",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "f6a8b9476469_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\f6a8b9476469_k1.json",
+      "input_sha256": "14735a38cf6e4ee23949b8f1de5a039aaff0992e420bdf54fa31f6063cf26295",
+      "airport": "DEN",
+      "day": "2024-01-27",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "f6a8b9476469_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\f6a8b9476469_k1.json",
+      "input_sha256": "14735a38cf6e4ee23949b8f1de5a039aaff0992e420bdf54fa31f6063cf26295",
+      "airport": "DEN",
+      "day": "2024-01-27",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "61bd244218d1_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\61bd244218d1_k1.json",
+      "input_sha256": "55e7d3b0d4fe433b75ba451af0a37b57b00d80f5fb58e01ea1ac80b386c75f89",
+      "airport": "DEN",
+      "day": "2024-01-28",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "61bd244218d1_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\61bd244218d1_k1.json",
+      "input_sha256": "55e7d3b0d4fe433b75ba451af0a37b57b00d80f5fb58e01ea1ac80b386c75f89",
+      "airport": "DEN",
+      "day": "2024-01-28",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "f97180eb25ff_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\f97180eb25ff_k1.json",
+      "input_sha256": "de6442075aaf3fa197a23c84eafc2b60785a579c2869e37548c42eeeb502365d",
+      "airport": "DEN",
+      "day": "2024-01-28",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "f97180eb25ff_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\f97180eb25ff_k1.json",
+      "input_sha256": "de6442075aaf3fa197a23c84eafc2b60785a579c2869e37548c42eeeb502365d",
+      "airport": "DEN",
+      "day": "2024-01-28",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "9a08f1c96ebe_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\9a08f1c96ebe_k1.json",
+      "input_sha256": "af39a04921073c2d582d13e45eb8b6f8d9efaafae71186b0a37b44b4db52f704",
+      "airport": "DEN",
+      "day": "2024-01-29",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "9a08f1c96ebe_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\9a08f1c96ebe_k1.json",
+      "input_sha256": "af39a04921073c2d582d13e45eb8b6f8d9efaafae71186b0a37b44b4db52f704",
+      "airport": "DEN",
+      "day": "2024-01-29",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "a294e0034f7e_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\a294e0034f7e_k1.json",
+      "input_sha256": "1bc599a554f1dec5bbd2f2ef5f9f5d5a46bb499d29918550acae04ebe48f6e63",
+      "airport": "DEN",
+      "day": "2024-01-29",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "a294e0034f7e_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\a294e0034f7e_k1.json",
+      "input_sha256": "1bc599a554f1dec5bbd2f2ef5f9f5d5a46bb499d29918550acae04ebe48f6e63",
+      "airport": "DEN",
+      "day": "2024-01-29",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "e238bc9faa10_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\e238bc9faa10_k1.json",
+      "input_sha256": "bea517b1d2d962fdecf4efe4485374b4521629a31b2129403a6789fe2f49f546",
+      "airport": "DEN",
+      "day": "2024-01-30",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "e238bc9faa10_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\e238bc9faa10_k1.json",
+      "input_sha256": "bea517b1d2d962fdecf4efe4485374b4521629a31b2129403a6789fe2f49f546",
+      "airport": "DEN",
+      "day": "2024-01-30",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "c1d70c79374e_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\c1d70c79374e_k1.json",
+      "input_sha256": "7301f0f0bed5de9bcda098e05c61af8622c27dbbec6531b679e2ea0a0a78f522",
+      "airport": "DEN",
+      "day": "2024-01-30",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "c1d70c79374e_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\c1d70c79374e_k1.json",
+      "input_sha256": "7301f0f0bed5de9bcda098e05c61af8622c27dbbec6531b679e2ea0a0a78f522",
+      "airport": "DEN",
+      "day": "2024-01-30",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "ac1bc05e9cfe_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\ac1bc05e9cfe_k1.json",
+      "input_sha256": "d82943dd9913dba1b93dcbe6f540aca622d79fbd3f7eb5961f210f0247e7ef68",
+      "airport": "DEN",
+      "day": "2024-01-31",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "ac1bc05e9cfe_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\ac1bc05e9cfe_k1.json",
+      "input_sha256": "d82943dd9913dba1b93dcbe6f540aca622d79fbd3f7eb5961f210f0247e7ef68",
+      "airport": "DEN",
+      "day": "2024-01-31",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "ac1bc05e9cfe_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\ac1bc05e9cfe_k1.json",
+      "input_sha256": "d82943dd9913dba1b93dcbe6f540aca622d79fbd3f7eb5961f210f0247e7ef68",
+      "airport": "DEN",
+      "day": "2024-01-31",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "dcd750867fe4_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\dcd750867fe4_k1.json",
+      "input_sha256": "58662385def1b4ab1ff996be8ab771232ba13451e79ff77eb5eefda0f8b14661",
+      "airport": "DEN",
+      "day": "2024-01-31",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "dcd750867fe4_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\dcd750867fe4_k1.json",
+      "input_sha256": "58662385def1b4ab1ff996be8ab771232ba13451e79ff77eb5eefda0f8b14661",
+      "airport": "DEN",
+      "day": "2024-01-31",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "5579ca1049f4_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\5579ca1049f4_k1.json",
+      "input_sha256": "1f0f27b49ecb5d253ad268d275399da0fdc6360293a000878a69016fdf91d87b",
+      "airport": "DEN",
+      "day": "2025-01-24",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "5579ca1049f4_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\5579ca1049f4_k1.json",
+      "input_sha256": "1f0f27b49ecb5d253ad268d275399da0fdc6360293a000878a69016fdf91d87b",
+      "airport": "DEN",
+      "day": "2025-01-24",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "48caceee5858_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\48caceee5858_k1.json",
+      "input_sha256": "3f7734886475580e8a54bf3befbf83a57d8a8148b69e6b35f8ad3e46a7adf580",
+      "airport": "DEN",
+      "day": "2025-01-25",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "48caceee5858_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\48caceee5858_k1.json",
+      "input_sha256": "3f7734886475580e8a54bf3befbf83a57d8a8148b69e6b35f8ad3e46a7adf580",
+      "airport": "DEN",
+      "day": "2025-01-25",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "59045bfeae70_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\59045bfeae70_k1.json",
+      "input_sha256": "22740ba07efff790d2fe9f05844ea952b51f88de69134bdabc252c60325c52cf",
+      "airport": "DEN",
+      "day": "2025-01-26",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "59045bfeae70_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\59045bfeae70_k1.json",
+      "input_sha256": "22740ba07efff790d2fe9f05844ea952b51f88de69134bdabc252c60325c52cf",
+      "airport": "DEN",
+      "day": "2025-01-26",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "b7e6843ed1d5_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\b7e6843ed1d5_k1.json",
+      "input_sha256": "05338dbde26a9664b3739cf47d2d21a8b9b14d650637ac50c4fa0e216b45d719",
+      "airport": "DEN",
+      "day": "2025-01-27",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "b7e6843ed1d5_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\b7e6843ed1d5_k1.json",
+      "input_sha256": "05338dbde26a9664b3739cf47d2d21a8b9b14d650637ac50c4fa0e216b45d719",
+      "airport": "DEN",
+      "day": "2025-01-27",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "99d498d9c254_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\99d498d9c254_k1.json",
+      "input_sha256": "c636bf3f8981bf0d056f04e00e1b5c5825f56fd2f95e457f4864f6272c2f7176",
+      "airport": "DEN",
+      "day": "2025-01-28",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "99d498d9c254_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\99d498d9c254_k1.json",
+      "input_sha256": "c636bf3f8981bf0d056f04e00e1b5c5825f56fd2f95e457f4864f6272c2f7176",
+      "airport": "DEN",
+      "day": "2025-01-28",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "2b5bf1e65e1a_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\2b5bf1e65e1a_k1.json",
+      "input_sha256": "055cc9db10f3eefa8df0933e2065f23d9ba8c7b7b0e5142773411cc289b49764",
+      "airport": "DEN",
+      "day": "2025-01-29",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "2b5bf1e65e1a_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\2b5bf1e65e1a_k1.json",
+      "input_sha256": "055cc9db10f3eefa8df0933e2065f23d9ba8c7b7b0e5142773411cc289b49764",
+      "airport": "DEN",
+      "day": "2025-01-29",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "9e98e1fec712_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\9e98e1fec712_k1.json",
+      "input_sha256": "5d212b300cc19ba1e3c65613e163cbbf223a4e002f3259f3452207095396741c",
+      "airport": "DEN",
+      "day": "2025-01-30",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "9e98e1fec712_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\9e98e1fec712_k1.json",
+      "input_sha256": "5d212b300cc19ba1e3c65613e163cbbf223a4e002f3259f3452207095396741c",
+      "airport": "DEN",
+      "day": "2025-01-30",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "1da1e19f9862_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\1da1e19f9862_k1.json",
+      "input_sha256": "2f9bba82a49f3193364a3fbfa1dc25e84c1484412b5872a120fd8dd11d441bed",
+      "airport": "DEN",
+      "day": "2025-01-31",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "1da1e19f9862_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\1da1e19f9862_k1.json",
+      "input_sha256": "2f9bba82a49f3193364a3fbfa1dc25e84c1484412b5872a120fd8dd11d441bed",
+      "airport": "DEN",
+      "day": "2025-01-31",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "931988388d77_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\931988388d77_k1.json",
+      "input_sha256": "56fa9f2e7d96bb64a4833377bfa717974e32430b8b63401c91d3dccd2b95e228",
+      "airport": "PHX",
+      "day": "2024-01-24",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "931988388d77_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\931988388d77_k1.json",
+      "input_sha256": "56fa9f2e7d96bb64a4833377bfa717974e32430b8b63401c91d3dccd2b95e228",
+      "airport": "PHX",
+      "day": "2024-01-24",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "7d9ab330a350_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\7d9ab330a350_k1.json",
+      "input_sha256": "3edf4244b0ad2ecd052c2c937f485483b2f643804ed766e3f69a77d7a2e684f2",
+      "airport": "PHX",
+      "day": "2024-01-24",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "11e07ec6222d_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\11e07ec6222d_k1.json",
+      "input_sha256": "9e5edc32646bd4268b5cade06af9c2e58d39c99ea8e41d672c1c70127b3d98a1",
+      "airport": "PHX",
+      "day": "2024-01-24",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "11e07ec6222d_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\11e07ec6222d_k1.json",
+      "input_sha256": "9e5edc32646bd4268b5cade06af9c2e58d39c99ea8e41d672c1c70127b3d98a1",
+      "airport": "PHX",
+      "day": "2024-01-24",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "11e07ec6222d_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\11e07ec6222d_k1.json",
+      "input_sha256": "9e5edc32646bd4268b5cade06af9c2e58d39c99ea8e41d672c1c70127b3d98a1",
+      "airport": "PHX",
+      "day": "2024-01-24",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "7d183f703566_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\7d183f703566_k1.json",
+      "input_sha256": "2b73846cefeffdabc1c2e738ca0086338880cc5568b414ca8133425c7df0f59c",
+      "airport": "PHX",
+      "day": "2024-01-24",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "7d183f703566_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\7d183f703566_k1.json",
+      "input_sha256": "2b73846cefeffdabc1c2e738ca0086338880cc5568b414ca8133425c7df0f59c",
+      "airport": "PHX",
+      "day": "2024-01-24",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "02706cf72d9a_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\02706cf72d9a_k1.json",
+      "input_sha256": "2a6472a64e787c3dbff1c67302215532908cd824c5e32a648c3ae57ccadd9779",
+      "airport": "PHX",
+      "day": "2024-01-25",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "02706cf72d9a_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\02706cf72d9a_k1.json",
+      "input_sha256": "2a6472a64e787c3dbff1c67302215532908cd824c5e32a648c3ae57ccadd9779",
+      "airport": "PHX",
+      "day": "2024-01-25",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "02706cf72d9a_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\02706cf72d9a_k1.json",
+      "input_sha256": "2a6472a64e787c3dbff1c67302215532908cd824c5e32a648c3ae57ccadd9779",
+      "airport": "PHX",
+      "day": "2024-01-25",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "fe16ec2c8c14_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\fe16ec2c8c14_k1.json",
+      "input_sha256": "cf3a1d93a81a45893bf8addbe5907f2f3c1e91d4c32567acddbfbb97fdb38489",
+      "airport": "PHX",
+      "day": "2024-01-25",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "b169711b9300_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\b169711b9300_k1.json",
+      "input_sha256": "b35f980914841f76f96850ce9d6e3387670b316f6154ba91373f4a8521e96f58",
+      "airport": "PHX",
+      "day": "2024-01-25",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "fd79c579e024_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\fd79c579e024_k1.json",
+      "input_sha256": "03592fa49019fea858e45a919952f19f274db85ec389e6bf30f8a7ff81230b5e",
+      "airport": "PHX",
+      "day": "2024-01-25",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "fd79c579e024_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\fd79c579e024_k1.json",
+      "input_sha256": "03592fa49019fea858e45a919952f19f274db85ec389e6bf30f8a7ff81230b5e",
+      "airport": "PHX",
+      "day": "2024-01-25",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "02b530f1ff54_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\02b530f1ff54_k1.json",
+      "input_sha256": "580dfc2428768792a12a452b6c42ee403de5ceb8ba348df8da3c8ee8d7e7fa35",
+      "airport": "PHX",
+      "day": "2024-01-26",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "02b530f1ff54_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\02b530f1ff54_k1.json",
+      "input_sha256": "580dfc2428768792a12a452b6c42ee403de5ceb8ba348df8da3c8ee8d7e7fa35",
+      "airport": "PHX",
+      "day": "2024-01-26",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "e7d458760b7a_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\e7d458760b7a_k1.json",
+      "input_sha256": "c8a5dce5993130dabda4d10a3f541a59dd73ec1a8d88c9198269639fb28793ea",
+      "airport": "PHX",
+      "day": "2024-01-26",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "565f11ebb432_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\565f11ebb432_k1.json",
+      "input_sha256": "431b4f610e5c053faeba24827e23723fba3592c46be58e7862e8180c4922e718",
+      "airport": "PHX",
+      "day": "2024-01-26",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "565f11ebb432_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\565f11ebb432_k1.json",
+      "input_sha256": "431b4f610e5c053faeba24827e23723fba3592c46be58e7862e8180c4922e718",
+      "airport": "PHX",
+      "day": "2024-01-26",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "565f11ebb432_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\565f11ebb432_k1.json",
+      "input_sha256": "431b4f610e5c053faeba24827e23723fba3592c46be58e7862e8180c4922e718",
+      "airport": "PHX",
+      "day": "2024-01-26",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "31657684e212_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\31657684e212_k1.json",
+      "input_sha256": "dc5af377e69fb15fcc4262840b025b08d5d23ce330a03da84df880178988bff5",
+      "airport": "PHX",
+      "day": "2024-01-26",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "31657684e212_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\31657684e212_k1.json",
+      "input_sha256": "dc5af377e69fb15fcc4262840b025b08d5d23ce330a03da84df880178988bff5",
+      "airport": "PHX",
+      "day": "2024-01-26",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "52bb3f97e4fd_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\52bb3f97e4fd_k1.json",
+      "input_sha256": "d687d437b38a859872177e6a0631adf286a5ba4fa03b6951c7f43b6b1e062fbf",
+      "airport": "PHX",
+      "day": "2024-01-27",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "52bb3f97e4fd_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\52bb3f97e4fd_k1.json",
+      "input_sha256": "d687d437b38a859872177e6a0631adf286a5ba4fa03b6951c7f43b6b1e062fbf",
+      "airport": "PHX",
+      "day": "2024-01-27",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "52bb3f97e4fd_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\52bb3f97e4fd_k1.json",
+      "input_sha256": "d687d437b38a859872177e6a0631adf286a5ba4fa03b6951c7f43b6b1e062fbf",
+      "airport": "PHX",
+      "day": "2024-01-27",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "e51575848067_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\e51575848067_k1.json",
+      "input_sha256": "2d81db481787ace4033745b49c3ff932dc78ad2c9638a98b01bcdfc3f94419d6",
+      "airport": "PHX",
+      "day": "2024-01-27",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "e51575848067_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\e51575848067_k1.json",
+      "input_sha256": "2d81db481787ace4033745b49c3ff932dc78ad2c9638a98b01bcdfc3f94419d6",
+      "airport": "PHX",
+      "day": "2024-01-27",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "c56e779e7309_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\c56e779e7309_k1.json",
+      "input_sha256": "3e00d4546188852e83820e8321b8f1eadb61eb1fa4cb96e02f3cef4815b3a352",
+      "airport": "PHX",
+      "day": "2024-01-27",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "e81c6d61d8cd_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\e81c6d61d8cd_k1.json",
+      "input_sha256": "25e8f4c638927302c34ca43ee4928559eca7b9be4e3ee73d1f6ce03e23a052b2",
+      "airport": "PHX",
+      "day": "2024-01-27",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "e81c6d61d8cd_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\e81c6d61d8cd_k1.json",
+      "input_sha256": "25e8f4c638927302c34ca43ee4928559eca7b9be4e3ee73d1f6ce03e23a052b2",
+      "airport": "PHX",
+      "day": "2024-01-27",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "09c88a626481_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\09c88a626481_k1.json",
+      "input_sha256": "f1a69b50b318353fcbd44de04a3d53ce0817788ac04c72ef0c54afb6997fa324",
+      "airport": "PHX",
+      "day": "2024-01-28",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "09c88a626481_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\09c88a626481_k1.json",
+      "input_sha256": "f1a69b50b318353fcbd44de04a3d53ce0817788ac04c72ef0c54afb6997fa324",
+      "airport": "PHX",
+      "day": "2024-01-28",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "09c88a626481_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\09c88a626481_k1.json",
+      "input_sha256": "f1a69b50b318353fcbd44de04a3d53ce0817788ac04c72ef0c54afb6997fa324",
+      "airport": "PHX",
+      "day": "2024-01-28",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "8c6680353b56_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\8c6680353b56_k1.json",
+      "input_sha256": "2772e93c1f94d3a24f3f09c086be87cbcbf748236e9e8f4e1d89c27ea3b133df",
+      "airport": "PHX",
+      "day": "2024-01-28",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "bbb69ab77864_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\bbb69ab77864_k1.json",
+      "input_sha256": "e942d57e2b423ddc2b80851926a493d47f50f128cfc590f0f5fdbbf9589248fc",
+      "airport": "PHX",
+      "day": "2024-01-28",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "bbb69ab77864_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\bbb69ab77864_k1.json",
+      "input_sha256": "e942d57e2b423ddc2b80851926a493d47f50f128cfc590f0f5fdbbf9589248fc",
+      "airport": "PHX",
+      "day": "2024-01-28",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "b200ab66dada_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\b200ab66dada_k1.json",
+      "input_sha256": "88afbe0c44e85d5c3b9eab1936316ab817e2d448948579d9756bba8039080e2b",
+      "airport": "PHX",
+      "day": "2024-01-28",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "b200ab66dada_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\b200ab66dada_k1.json",
+      "input_sha256": "88afbe0c44e85d5c3b9eab1936316ab817e2d448948579d9756bba8039080e2b",
+      "airport": "PHX",
+      "day": "2024-01-28",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "742653e022ee_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\742653e022ee_k1.json",
+      "input_sha256": "12b3ceb90b6f64cc0872d758857d6f0d4b3bc8c01f4ee75c3a0b7c796ce3ac12",
+      "airport": "PHX",
+      "day": "2024-01-29",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "742653e022ee_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\742653e022ee_k1.json",
+      "input_sha256": "12b3ceb90b6f64cc0872d758857d6f0d4b3bc8c01f4ee75c3a0b7c796ce3ac12",
+      "airport": "PHX",
+      "day": "2024-01-29",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "742653e022ee_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\742653e022ee_k1.json",
+      "input_sha256": "12b3ceb90b6f64cc0872d758857d6f0d4b3bc8c01f4ee75c3a0b7c796ce3ac12",
+      "airport": "PHX",
+      "day": "2024-01-29",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "ca45c4476b05_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\ca45c4476b05_k1.json",
+      "input_sha256": "725e4b7d349f394c433275e086cc4f8df2a61f31ba5964bf97cb1f3d19a38951",
+      "airport": "PHX",
+      "day": "2024-01-29",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "54a5150d4062_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\54a5150d4062_k1.json",
+      "input_sha256": "efd05aef5e038d4bf34744e9140f054a7f1bc1a3f88ebd7c1e7a53cd1b87d35d",
+      "airport": "PHX",
+      "day": "2024-01-29",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "54a5150d4062_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\54a5150d4062_k1.json",
+      "input_sha256": "efd05aef5e038d4bf34744e9140f054a7f1bc1a3f88ebd7c1e7a53cd1b87d35d",
+      "airport": "PHX",
+      "day": "2024-01-29",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "239d60de119d_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\239d60de119d_k1.json",
+      "input_sha256": "957055876acf6a8cb6459aab4565664d305f4fd029afb94ac8a8574530ca9ea7",
+      "airport": "PHX",
+      "day": "2024-01-29",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "239d60de119d_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\239d60de119d_k1.json",
+      "input_sha256": "957055876acf6a8cb6459aab4565664d305f4fd029afb94ac8a8574530ca9ea7",
+      "airport": "PHX",
+      "day": "2024-01-29",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "e58323f9b070_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\e58323f9b070_k1.json",
+      "input_sha256": "e7ed920860873417ba72cd289bfc8e854a35b52a95cc7e49a44c226adbf41bd9",
+      "airport": "PHX",
+      "day": "2024-01-30",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "e58323f9b070_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\e58323f9b070_k1.json",
+      "input_sha256": "e7ed920860873417ba72cd289bfc8e854a35b52a95cc7e49a44c226adbf41bd9",
+      "airport": "PHX",
+      "day": "2024-01-30",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "e58323f9b070_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\e58323f9b070_k1.json",
+      "input_sha256": "e7ed920860873417ba72cd289bfc8e854a35b52a95cc7e49a44c226adbf41bd9",
+      "airport": "PHX",
+      "day": "2024-01-30",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "96c6142ceaf0_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\96c6142ceaf0_k1.json",
+      "input_sha256": "a1b69f630ed9822bd43ccc85b45f1fbb4d03664c890b8fa671a602467d278f33",
+      "airport": "PHX",
+      "day": "2024-01-30",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "da720273ad96_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\da720273ad96_k1.json",
+      "input_sha256": "27c2c58ff493abebe57c9a05cc1b44ec34beebe0add5fb7a3eb3f6034eca64b3",
+      "airport": "PHX",
+      "day": "2024-01-30",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "da720273ad96_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\da720273ad96_k1.json",
+      "input_sha256": "27c2c58ff493abebe57c9a05cc1b44ec34beebe0add5fb7a3eb3f6034eca64b3",
+      "airport": "PHX",
+      "day": "2024-01-30",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "8b73d05e0771_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\8b73d05e0771_k1.json",
+      "input_sha256": "4c3341de2d4af4df2af664b12c9f7a219dd3ac1e27fad7a9a53dfbe6be61fe9e",
+      "airport": "PHX",
+      "day": "2024-01-30",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "8b73d05e0771_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\8b73d05e0771_k1.json",
+      "input_sha256": "4c3341de2d4af4df2af664b12c9f7a219dd3ac1e27fad7a9a53dfbe6be61fe9e",
+      "airport": "PHX",
+      "day": "2024-01-30",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "6bcad57aa426_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\6bcad57aa426_k1.json",
+      "input_sha256": "e0c3d3ca958d916d2b66d64403a40fc629d937d2d3963ad0c669de4dbf82caf3",
+      "airport": "PHX",
+      "day": "2024-01-31",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "6bcad57aa426_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\6bcad57aa426_k1.json",
+      "input_sha256": "e0c3d3ca958d916d2b66d64403a40fc629d937d2d3963ad0c669de4dbf82caf3",
+      "airport": "PHX",
+      "day": "2024-01-31",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "6bcad57aa426_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\6bcad57aa426_k1.json",
+      "input_sha256": "e0c3d3ca958d916d2b66d64403a40fc629d937d2d3963ad0c669de4dbf82caf3",
+      "airport": "PHX",
+      "day": "2024-01-31",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "d04ea99d5b1f_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\d04ea99d5b1f_k1.json",
+      "input_sha256": "35269dfdb10adb65d44f26cb9e4b249d7384616f48524f1a505cc786473d42be",
+      "airport": "PHX",
+      "day": "2024-01-31",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "aaf2b060ae89_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\aaf2b060ae89_k1.json",
+      "input_sha256": "0a06c79ce7bf953c305fb5aedaebea91f4b8f8f63ff7243f4725218b8a0d3147",
+      "airport": "PHX",
+      "day": "2024-01-31",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "aaf2b060ae89_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\aaf2b060ae89_k1.json",
+      "input_sha256": "0a06c79ce7bf953c305fb5aedaebea91f4b8f8f63ff7243f4725218b8a0d3147",
+      "airport": "PHX",
+      "day": "2024-01-31",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "b59ce7d2b1e3_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\b59ce7d2b1e3_k1.json",
+      "input_sha256": "fc33ddfa9d6f38f36f56f9184103801a24c5b830bc24ee36351492bf335ece06",
+      "airport": "PHX",
+      "day": "2024-01-31",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "b59ce7d2b1e3_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\b59ce7d2b1e3_k1.json",
+      "input_sha256": "fc33ddfa9d6f38f36f56f9184103801a24c5b830bc24ee36351492bf335ece06",
+      "airport": "PHX",
+      "day": "2024-01-31",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "b59ce7d2b1e3_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\b59ce7d2b1e3_k1.json",
+      "input_sha256": "fc33ddfa9d6f38f36f56f9184103801a24c5b830bc24ee36351492bf335ece06",
+      "airport": "PHX",
+      "day": "2024-01-31",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "fd6a7e54eebe_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\fd6a7e54eebe_k1.json",
+      "input_sha256": "c60ed181e18c44289f003af9e4245e8e9c527df53da0cb4a0776e30955e66914",
+      "airport": "PHX",
+      "day": "2025-01-24",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "fd6a7e54eebe_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\fd6a7e54eebe_k1.json",
+      "input_sha256": "c60ed181e18c44289f003af9e4245e8e9c527df53da0cb4a0776e30955e66914",
+      "airport": "PHX",
+      "day": "2025-01-24",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "fd6a7e54eebe_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\fd6a7e54eebe_k1.json",
+      "input_sha256": "c60ed181e18c44289f003af9e4245e8e9c527df53da0cb4a0776e30955e66914",
+      "airport": "PHX",
+      "day": "2025-01-24",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "f0ae15964801_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\f0ae15964801_k1.json",
+      "input_sha256": "0dffa88220b7189f67ce8126b9f77912ea2d79b72981d68d85660a17f0353adc",
+      "airport": "PHX",
+      "day": "2025-01-24",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "f0ae15964801_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\f0ae15964801_k1.json",
+      "input_sha256": "0dffa88220b7189f67ce8126b9f77912ea2d79b72981d68d85660a17f0353adc",
+      "airport": "PHX",
+      "day": "2025-01-24",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "fa66e94dae74_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\fa66e94dae74_k1.json",
+      "input_sha256": "46cdabd4481dfc1333a8640eb1e98393b703db15e95172d45c4c9d431bf6a724",
+      "airport": "PHX",
+      "day": "2025-01-24",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "fa66e94dae74_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\fa66e94dae74_k1.json",
+      "input_sha256": "46cdabd4481dfc1333a8640eb1e98393b703db15e95172d45c4c9d431bf6a724",
+      "airport": "PHX",
+      "day": "2025-01-24",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "651f9eee1ea0_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\651f9eee1ea0_k1.json",
+      "input_sha256": "c9f2589810b390fcf99a8f9d7ce523e53ba4488e04084f137e47a63a99d09913",
+      "airport": "PHX",
+      "day": "2025-01-24",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "02a04a0e4cf7_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\02a04a0e4cf7_k1.json",
+      "input_sha256": "818eba1efbcef73715c4fa4f1afdd5edcb8a905b3eb9a615db5391b03ae564af",
+      "airport": "PHX",
+      "day": "2025-01-24",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "02a04a0e4cf7_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\02a04a0e4cf7_k1.json",
+      "input_sha256": "818eba1efbcef73715c4fa4f1afdd5edcb8a905b3eb9a615db5391b03ae564af",
+      "airport": "PHX",
+      "day": "2025-01-24",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "787a37e38e8f_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\787a37e38e8f_k1.json",
+      "input_sha256": "4006545f9e74780e8d387b5ae05979fd9ceef2a9208a7e6390c3da8ed04f0d39",
+      "airport": "PHX",
+      "day": "2025-01-25",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "787a37e38e8f_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\787a37e38e8f_k1.json",
+      "input_sha256": "4006545f9e74780e8d387b5ae05979fd9ceef2a9208a7e6390c3da8ed04f0d39",
+      "airport": "PHX",
+      "day": "2025-01-25",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "787a37e38e8f_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\787a37e38e8f_k1.json",
+      "input_sha256": "4006545f9e74780e8d387b5ae05979fd9ceef2a9208a7e6390c3da8ed04f0d39",
+      "airport": "PHX",
+      "day": "2025-01-25",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "266990b726bc_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\266990b726bc_k1.json",
+      "input_sha256": "d23273bfa7c0de331731879afac8c2e077404bb30630d181988c8c0908b2bff6",
+      "airport": "PHX",
+      "day": "2025-01-25",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "266990b726bc_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\266990b726bc_k1.json",
+      "input_sha256": "d23273bfa7c0de331731879afac8c2e077404bb30630d181988c8c0908b2bff6",
+      "airport": "PHX",
+      "day": "2025-01-25",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "266990b726bc_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\266990b726bc_k1.json",
+      "input_sha256": "d23273bfa7c0de331731879afac8c2e077404bb30630d181988c8c0908b2bff6",
+      "airport": "PHX",
+      "day": "2025-01-25",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "61febf1486c6_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\61febf1486c6_k1.json",
+      "input_sha256": "0a8520bf364fb084777686070062e3d62732422e3dc4b1d552dd362981d420dc",
+      "airport": "PHX",
+      "day": "2025-01-25",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "61febf1486c6_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\61febf1486c6_k1.json",
+      "input_sha256": "0a8520bf364fb084777686070062e3d62732422e3dc4b1d552dd362981d420dc",
+      "airport": "PHX",
+      "day": "2025-01-25",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "61febf1486c6_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\61febf1486c6_k1.json",
+      "input_sha256": "0a8520bf364fb084777686070062e3d62732422e3dc4b1d552dd362981d420dc",
+      "airport": "PHX",
+      "day": "2025-01-25",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "8f8bea2dca47_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\8f8bea2dca47_k1.json",
+      "input_sha256": "6eac7cd379667e29cc8bf975c1039ec8407f95ea8ecec6807abb5b209ad709cb",
+      "airport": "PHX",
+      "day": "2025-01-25",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "85117eb5abcf_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\85117eb5abcf_k1.json",
+      "input_sha256": "26d51b463ed03266a4be3ad9ce97510e60e42db03453057dc8f0f2ddcc02b85b",
+      "airport": "PHX",
+      "day": "2025-01-25",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "85117eb5abcf_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\85117eb5abcf_k1.json",
+      "input_sha256": "26d51b463ed03266a4be3ad9ce97510e60e42db03453057dc8f0f2ddcc02b85b",
+      "airport": "PHX",
+      "day": "2025-01-25",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "36b8ed9894d7_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\36b8ed9894d7_k1.json",
+      "input_sha256": "5d225160a732348c3f61d9a106882bb2ac49bff15bae2fafed63eca91f8332fd",
+      "airport": "PHX",
+      "day": "2025-01-26",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "36b8ed9894d7_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\36b8ed9894d7_k1.json",
+      "input_sha256": "5d225160a732348c3f61d9a106882bb2ac49bff15bae2fafed63eca91f8332fd",
+      "airport": "PHX",
+      "day": "2025-01-26",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "36b8ed9894d7_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\36b8ed9894d7_k1.json",
+      "input_sha256": "5d225160a732348c3f61d9a106882bb2ac49bff15bae2fafed63eca91f8332fd",
+      "airport": "PHX",
+      "day": "2025-01-26",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "f6a422d8ce90_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\f6a422d8ce90_k1.json",
+      "input_sha256": "064d0424eeeea55da1b3763a6307d27864696380534529e9092cd87624553172",
+      "airport": "PHX",
+      "day": "2025-01-26",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "f6a422d8ce90_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\f6a422d8ce90_k1.json",
+      "input_sha256": "064d0424eeeea55da1b3763a6307d27864696380534529e9092cd87624553172",
+      "airport": "PHX",
+      "day": "2025-01-26",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "bc82113c2112_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\bc82113c2112_k1.json",
+      "input_sha256": "815e097915782b4e3a2466b03f1e20f25baf8996ca9b7fd3cb4c7d3997891027",
+      "airport": "PHX",
+      "day": "2025-01-26",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "bc82113c2112_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\bc82113c2112_k1.json",
+      "input_sha256": "815e097915782b4e3a2466b03f1e20f25baf8996ca9b7fd3cb4c7d3997891027",
+      "airport": "PHX",
+      "day": "2025-01-26",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "73e26ea86000_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\73e26ea86000_k1.json",
+      "input_sha256": "45fbe382ee84826da6d64e06d1241114a62cab464e753bf56f368669c7620e93",
+      "airport": "PHX",
+      "day": "2025-01-26",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "40546485a254_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\40546485a254_k1.json",
+      "input_sha256": "7a6b284b542db5843786c128e91b78f21dd348522f4523a71ddfd8cdc30c7c00",
+      "airport": "PHX",
+      "day": "2025-01-26",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "40546485a254_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\40546485a254_k1.json",
+      "input_sha256": "7a6b284b542db5843786c128e91b78f21dd348522f4523a71ddfd8cdc30c7c00",
+      "airport": "PHX",
+      "day": "2025-01-26",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "54525b39887e_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\54525b39887e_k1.json",
+      "input_sha256": "efa38b99a681abaa986a540cac12dac95e616a5b3b6c53559b06038649ea1bc5",
+      "airport": "PHX",
+      "day": "2025-01-27",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "54525b39887e_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\54525b39887e_k1.json",
+      "input_sha256": "efa38b99a681abaa986a540cac12dac95e616a5b3b6c53559b06038649ea1bc5",
+      "airport": "PHX",
+      "day": "2025-01-27",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "54525b39887e_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\54525b39887e_k1.json",
+      "input_sha256": "efa38b99a681abaa986a540cac12dac95e616a5b3b6c53559b06038649ea1bc5",
+      "airport": "PHX",
+      "day": "2025-01-27",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "613e128c1ed4_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\613e128c1ed4_k1.json",
+      "input_sha256": "cabbb4e636eba55d109e580e5658f0a900035390a595b196d5174bffb4989e10",
+      "airport": "PHX",
+      "day": "2025-01-27",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "613e128c1ed4_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\613e128c1ed4_k1.json",
+      "input_sha256": "cabbb4e636eba55d109e580e5658f0a900035390a595b196d5174bffb4989e10",
+      "airport": "PHX",
+      "day": "2025-01-27",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "1d27ba32be62_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\1d27ba32be62_k1.json",
+      "input_sha256": "8212c1f0812dd5b9a4d2becb8b35fd0eab5fcdbcf2968132733c9098779d6b7b",
+      "airport": "PHX",
+      "day": "2025-01-27",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "1d27ba32be62_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\1d27ba32be62_k1.json",
+      "input_sha256": "8212c1f0812dd5b9a4d2becb8b35fd0eab5fcdbcf2968132733c9098779d6b7b",
+      "airport": "PHX",
+      "day": "2025-01-27",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "df29de0cd7fb_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\df29de0cd7fb_k1.json",
+      "input_sha256": "155d3a1be2d3f591836a608ea798c32baaa8c2d9005ab9b57451599506e49c3a",
+      "airport": "PHX",
+      "day": "2025-01-27",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "58b5a3dbb489_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\58b5a3dbb489_k1.json",
+      "input_sha256": "d2600704659ba7bf46cca2df5157daac68859c4c0b93aeb1f77c539ec14347b1",
+      "airport": "PHX",
+      "day": "2025-01-27",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "58b5a3dbb489_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\58b5a3dbb489_k1.json",
+      "input_sha256": "d2600704659ba7bf46cca2df5157daac68859c4c0b93aeb1f77c539ec14347b1",
+      "airport": "PHX",
+      "day": "2025-01-27",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "58b5a3dbb489_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\58b5a3dbb489_k1.json",
+      "input_sha256": "d2600704659ba7bf46cca2df5157daac68859c4c0b93aeb1f77c539ec14347b1",
+      "airport": "PHX",
+      "day": "2025-01-27",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "dbd6118c71c5_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\dbd6118c71c5_k1.json",
+      "input_sha256": "5781a2cf49598264d740cb4c206b6b4ca97dfaf93a434209906efe49a53a7389",
+      "airport": "PHX",
+      "day": "2025-01-28",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "dbd6118c71c5_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\dbd6118c71c5_k1.json",
+      "input_sha256": "5781a2cf49598264d740cb4c206b6b4ca97dfaf93a434209906efe49a53a7389",
+      "airport": "PHX",
+      "day": "2025-01-28",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "dbd6118c71c5_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\dbd6118c71c5_k1.json",
+      "input_sha256": "5781a2cf49598264d740cb4c206b6b4ca97dfaf93a434209906efe49a53a7389",
+      "airport": "PHX",
+      "day": "2025-01-28",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "7d7bcfb76f04_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\7d7bcfb76f04_k1.json",
+      "input_sha256": "0c7fcf045a98d9ee476c0759c9b251760de3d3477c1d992d8d721a3cfe1389d3",
+      "airport": "PHX",
+      "day": "2025-01-28",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "7d7bcfb76f04_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\7d7bcfb76f04_k1.json",
+      "input_sha256": "0c7fcf045a98d9ee476c0759c9b251760de3d3477c1d992d8d721a3cfe1389d3",
+      "airport": "PHX",
+      "day": "2025-01-28",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "543cea52342b_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\543cea52342b_k1.json",
+      "input_sha256": "ba08baf493e0028ef2160f054f1c8cc28328c795b738f1d15abdd7046bc5f1c0",
+      "airport": "PHX",
+      "day": "2025-01-28",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "543cea52342b_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\543cea52342b_k1.json",
+      "input_sha256": "ba08baf493e0028ef2160f054f1c8cc28328c795b738f1d15abdd7046bc5f1c0",
+      "airport": "PHX",
+      "day": "2025-01-28",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "bf2ae50a1eca_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\bf2ae50a1eca_k1.json",
+      "input_sha256": "21fbbff0225743ee4370d9c7b01b14a576e7890e1ac66b32a9c1c4ab5a437e41",
+      "airport": "PHX",
+      "day": "2025-01-28",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "bf2ae50a1eca_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\bf2ae50a1eca_k1.json",
+      "input_sha256": "21fbbff0225743ee4370d9c7b01b14a576e7890e1ac66b32a9c1c4ab5a437e41",
+      "airport": "PHX",
+      "day": "2025-01-28",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "bf2ae50a1eca_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\bf2ae50a1eca_k1.json",
+      "input_sha256": "21fbbff0225743ee4370d9c7b01b14a576e7890e1ac66b32a9c1c4ab5a437e41",
+      "airport": "PHX",
+      "day": "2025-01-28",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "7622d022ce69_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\7622d022ce69_k1.json",
+      "input_sha256": "e849d0a4311170e6b68a4d78a132c19bf1e31d3791cd6692a94d69d4b1668f7f",
+      "airport": "PHX",
+      "day": "2025-01-29",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "7622d022ce69_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\7622d022ce69_k1.json",
+      "input_sha256": "e849d0a4311170e6b68a4d78a132c19bf1e31d3791cd6692a94d69d4b1668f7f",
+      "airport": "PHX",
+      "day": "2025-01-29",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "7622d022ce69_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\7622d022ce69_k1.json",
+      "input_sha256": "e849d0a4311170e6b68a4d78a132c19bf1e31d3791cd6692a94d69d4b1668f7f",
+      "airport": "PHX",
+      "day": "2025-01-29",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "69bfcab932fa_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\69bfcab932fa_k1.json",
+      "input_sha256": "f1d1fa23d96faaa62f6d27fd97e65af733d3c909ea34269a522a65f42b4b759f",
+      "airport": "PHX",
+      "day": "2025-01-29",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "69bfcab932fa_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\69bfcab932fa_k1.json",
+      "input_sha256": "f1d1fa23d96faaa62f6d27fd97e65af733d3c909ea34269a522a65f42b4b759f",
+      "airport": "PHX",
+      "day": "2025-01-29",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "1f9cf4206750_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\1f9cf4206750_k1.json",
+      "input_sha256": "2cd21f259ef9132fe4ec2512eb84bf5f955f3be3085fa1116f551dd37eeb89dc",
+      "airport": "PHX",
+      "day": "2025-01-29",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "1f9cf4206750_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\1f9cf4206750_k1.json",
+      "input_sha256": "2cd21f259ef9132fe4ec2512eb84bf5f955f3be3085fa1116f551dd37eeb89dc",
+      "airport": "PHX",
+      "day": "2025-01-29",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "6ee6fe579959_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\6ee6fe579959_k1.json",
+      "input_sha256": "2d094728552661344699ca55df5c1d4799b276ad0b32a48c2bd0c3dc2b293a23",
+      "airport": "PHX",
+      "day": "2025-01-29",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "6ee6fe579959_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\6ee6fe579959_k1.json",
+      "input_sha256": "2d094728552661344699ca55df5c1d4799b276ad0b32a48c2bd0c3dc2b293a23",
+      "airport": "PHX",
+      "day": "2025-01-29",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "6ee6fe579959_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\6ee6fe579959_k1.json",
+      "input_sha256": "2d094728552661344699ca55df5c1d4799b276ad0b32a48c2bd0c3dc2b293a23",
+      "airport": "PHX",
+      "day": "2025-01-29",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "190353191197_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\190353191197_k1.json",
+      "input_sha256": "fc10f1209272cadc2158a454b0d5980d1bd4695e5dfc88b0d565364e8c2b77ae",
+      "airport": "PHX",
+      "day": "2025-01-30",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "190353191197_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\190353191197_k1.json",
+      "input_sha256": "fc10f1209272cadc2158a454b0d5980d1bd4695e5dfc88b0d565364e8c2b77ae",
+      "airport": "PHX",
+      "day": "2025-01-30",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "190353191197_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\190353191197_k1.json",
+      "input_sha256": "fc10f1209272cadc2158a454b0d5980d1bd4695e5dfc88b0d565364e8c2b77ae",
+      "airport": "PHX",
+      "day": "2025-01-30",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "f00701be5e16_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\f00701be5e16_k1.json",
+      "input_sha256": "614510242685dca2005e3660c14793a19ede2dbc0f725454e56e463de4ebb050",
+      "airport": "PHX",
+      "day": "2025-01-30",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "f00701be5e16_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\f00701be5e16_k1.json",
+      "input_sha256": "614510242685dca2005e3660c14793a19ede2dbc0f725454e56e463de4ebb050",
+      "airport": "PHX",
+      "day": "2025-01-30",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "89f9e52e84d9_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\89f9e52e84d9_k1.json",
+      "input_sha256": "cdb4f744f696985b57913112d7e16a163f389bcb4ebeaa82c0c8ae1808cc8ace",
+      "airport": "PHX",
+      "day": "2025-01-30",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "89f9e52e84d9_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\89f9e52e84d9_k1.json",
+      "input_sha256": "cdb4f744f696985b57913112d7e16a163f389bcb4ebeaa82c0c8ae1808cc8ace",
+      "airport": "PHX",
+      "day": "2025-01-30",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "89f9e52e84d9_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\89f9e52e84d9_k1.json",
+      "input_sha256": "cdb4f744f696985b57913112d7e16a163f389bcb4ebeaa82c0c8ae1808cc8ace",
+      "airport": "PHX",
+      "day": "2025-01-30",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "2d79ad6a4c40_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\2d79ad6a4c40_k1.json",
+      "input_sha256": "32f235c7de381131992beb94801f7b576345dde5a9811ab5aafb554b77712b62",
+      "airport": "PHX",
+      "day": "2025-01-30",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "070c4b3750d6_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\070c4b3750d6_k1.json",
+      "input_sha256": "64aca73cc7e038b57ee62b10da677d03e88e87469152c27b81967820fab5e50d",
+      "airport": "PHX",
+      "day": "2025-01-30",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "070c4b3750d6_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\070c4b3750d6_k1.json",
+      "input_sha256": "64aca73cc7e038b57ee62b10da677d03e88e87469152c27b81967820fab5e50d",
+      "airport": "PHX",
+      "day": "2025-01-30",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "60a511c24d8c_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\60a511c24d8c_k1.json",
+      "input_sha256": "d8f631033619918ef657a2bc725383b23aed414629188c9dc3e9fb7e006216f1",
+      "airport": "PHX",
+      "day": "2025-01-31",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "60a511c24d8c_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\60a511c24d8c_k1.json",
+      "input_sha256": "d8f631033619918ef657a2bc725383b23aed414629188c9dc3e9fb7e006216f1",
+      "airport": "PHX",
+      "day": "2025-01-31",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "60a511c24d8c_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\60a511c24d8c_k1.json",
+      "input_sha256": "d8f631033619918ef657a2bc725383b23aed414629188c9dc3e9fb7e006216f1",
+      "airport": "PHX",
+      "day": "2025-01-31",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "95086cf51f85_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\95086cf51f85_k1.json",
+      "input_sha256": "8c4373a007f875e6db5e3e428c7d1c4c1fd801e1f83a8af20e4cf574b351e295",
+      "airport": "PHX",
+      "day": "2025-01-31",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "95086cf51f85_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\95086cf51f85_k1.json",
+      "input_sha256": "8c4373a007f875e6db5e3e428c7d1c4c1fd801e1f83a8af20e4cf574b351e295",
+      "airport": "PHX",
+      "day": "2025-01-31",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "95086cf51f85_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\95086cf51f85_k1.json",
+      "input_sha256": "8c4373a007f875e6db5e3e428c7d1c4c1fd801e1f83a8af20e4cf574b351e295",
+      "airport": "PHX",
+      "day": "2025-01-31",
+      "capacity": "N8",
+      "divisor": 8
+    },
+    {
+      "case_id": "a1e175b31f3e_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\a1e175b31f3e_k1.json",
+      "input_sha256": "b2d0851488c523bbee9bfded80883647ee3e6ff5aae2032f778a56cb8e016fac",
+      "airport": "PHX",
+      "day": "2025-01-31",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "a1e175b31f3e_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\a1e175b31f3e_k1.json",
+      "input_sha256": "b2d0851488c523bbee9bfded80883647ee3e6ff5aae2032f778a56cb8e016fac",
+      "airport": "PHX",
+      "day": "2025-01-31",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "3101f9edb289_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\3101f9edb289_k1.json",
+      "input_sha256": "417d8b1d604e15ac5228e1a65a868ddbd901d3a94dccff43a285a835bfbebfea",
+      "airport": "PHX",
+      "day": "2025-01-31",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "578fe31022e1_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\578fe31022e1_k1.json",
+      "input_sha256": "22bbe05be3ae89d156a59959d90afce85355e28ac9fc80712c08d789efe472de",
+      "airport": "PHX",
+      "day": "2025-01-31",
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "578fe31022e1_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\578fe31022e1_k1.json",
+      "input_sha256": "22bbe05be3ae89d156a59959d90afce85355e28ac9fc80712c08d789efe472de",
+      "airport": "PHX",
+      "day": "2025-01-31",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "578fe31022e1_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\578fe31022e1_k1.json",
+      "input_sha256": "22bbe05be3ae89d156a59959d90afce85355e28ac9fc80712c08d789efe472de",
+      "airport": "PHX",
+      "day": "2025-01-31",
+      "capacity": "N8",
+      "divisor": 8
+    }
+  ],
+  "widths": [
+    1,
+    2,
+    4
+  ],
+  "delays": [
+    1,
+    2
+  ],
+  "budget": 2,
+  "workers": 2,
+  "sources": {
+    "frontier_design.py": "f8fa0a5009b98d488312255d6851e9efc48d9e601e7b68e2599cfb7a298a9a9b",
+    "validate_frontier.py": "013de05f692d86a239963bdd774c688a43f4f92037a4194c419a6a7ebbbf3ee6",
+    "panel_frontier.py": "5542c1564e38469078fbaca55fb3e516a1c832886b8a6d9532db5ffac3ce2430",
+    "band_design.py": "b87a4120de1fb39252c3bb99eff7cfddf7fc2684212c7253798d42ee88d1e61b",
+    "unlimited_band.py": "0b7898b1a409200243ac30fb7506b832572fe528ccacde5d953799b5ade12925",
+    "validate_band.py": "b05380cba59f0747d94509aa8eac00ae6dca34128faba0a05c1ba8e80e7ecd6c"
+  },
+  "evaluation": "All nondominated deterministic policies; no selected monetary weight or tolerated waiting threshold.",
+  "matching": "Every policy preserves all reference takeoffs; equal travel, service calendars, probabilities and limits."
+}

@@ -1,0 +1,7600 @@
+[
+  {
+    "case_id": "473d817f7137_k1",
+    "airport": "DEN",
+    "day": "2024-01-24",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "473d817f7137_k1",
+    "airport": "DEN",
+    "day": "2024-01-24",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "473d817f7137_k1",
+    "airport": "DEN",
+    "day": "2024-01-24",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "473d817f7137_k1",
+    "airport": "DEN",
+    "day": "2024-01-24",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "473d817f7137_k1",
+    "airport": "DEN",
+    "day": "2024-01-24",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "473d817f7137_k1",
+    "airport": "DEN",
+    "day": "2024-01-24",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "c4b6c01141f8_k1",
+    "airport": "DEN",
+    "day": "2024-01-24",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "c4b6c01141f8_k1",
+    "airport": "DEN",
+    "day": "2024-01-24",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "c4b6c01141f8_k1",
+    "airport": "DEN",
+    "day": "2024-01-24",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "c4b6c01141f8_k1",
+    "airport": "DEN",
+    "day": "2024-01-24",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "4853318f0ec9_k1",
+    "airport": "DEN",
+    "day": "2024-01-25",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "4853318f0ec9_k1",
+    "airport": "DEN",
+    "day": "2024-01-25",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 64,
+          "expected_queries": 4.0,
+          "expected_queries_exact": "4",
+          "states": 15,
+          "seconds": 0.00040110002737492323
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 4,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 8
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 9
+            }
+          ],
+          "pairs": 120,
+          "variables": 18
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "4853318f0ec9_k1",
+    "airport": "DEN",
+    "day": "2024-01-25",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "4853318f0ec9_k1",
+    "airport": "DEN",
+    "day": "2024-01-25",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 64,
+          "expected_queries": 4.0,
+          "expected_queries_exact": "4",
+          "states": 15,
+          "seconds": 0.0004203999415040016
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 4,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 8
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 9
+            }
+          ],
+          "pairs": 120,
+          "variables": 18
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "ae2ab6d22677_k1",
+    "airport": "DEN",
+    "day": "2024-01-25",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "ae2ab6d22677_k1",
+    "airport": "DEN",
+    "day": "2024-01-25",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "ae2ab6d22677_k1",
+    "airport": "DEN",
+    "day": "2024-01-25",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "ae2ab6d22677_k1",
+    "airport": "DEN",
+    "day": "2024-01-25",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "3243afd96686_k1",
+    "airport": "DEN",
+    "day": "2024-01-26",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "3243afd96686_k1",
+    "airport": "DEN",
+    "day": "2024-01-26",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "3243afd96686_k1",
+    "airport": "DEN",
+    "day": "2024-01-26",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "3243afd96686_k1",
+    "airport": "DEN",
+    "day": "2024-01-26",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "a9f0dcdc0f1a_k1",
+    "airport": "DEN",
+    "day": "2024-01-26",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "a9f0dcdc0f1a_k1",
+    "airport": "DEN",
+    "day": "2024-01-26",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "a9f0dcdc0f1a_k1",
+    "airport": "DEN",
+    "day": "2024-01-26",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "a9f0dcdc0f1a_k1",
+    "airport": "DEN",
+    "day": "2024-01-26",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "1b72b60d2b7f_k1",
+    "airport": "DEN",
+    "day": "2024-01-26",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "1b72b60d2b7f_k1",
+    "airport": "DEN",
+    "day": "2024-01-26",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 66,
+          "expected_queries": 4.125,
+          "expected_queries_exact": "33/8",
+          "states": 17,
+          "seconds": 0.0004256999818608165
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 8
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 9
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 10
+            }
+          ],
+          "pairs": 120,
+          "variables": 17
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "1b72b60d2b7f_k1",
+    "airport": "DEN",
+    "day": "2024-01-26",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "1b72b60d2b7f_k1",
+    "airport": "DEN",
+    "day": "2024-01-26",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 66,
+          "expected_queries": 4.125,
+          "expected_queries_exact": "33/8",
+          "states": 17,
+          "seconds": 0.00042639998719096184
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 8
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 9
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 10
+            }
+          ],
+          "pairs": 120,
+          "variables": 17
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "f6a8b9476469_k1",
+    "airport": "DEN",
+    "day": "2024-01-27",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "f6a8b9476469_k1",
+    "airport": "DEN",
+    "day": "2024-01-27",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "f6a8b9476469_k1",
+    "airport": "DEN",
+    "day": "2024-01-27",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "f6a8b9476469_k1",
+    "airport": "DEN",
+    "day": "2024-01-27",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "61bd244218d1_k1",
+    "airport": "DEN",
+    "day": "2024-01-28",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "61bd244218d1_k1",
+    "airport": "DEN",
+    "day": "2024-01-28",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "61bd244218d1_k1",
+    "airport": "DEN",
+    "day": "2024-01-28",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "61bd244218d1_k1",
+    "airport": "DEN",
+    "day": "2024-01-28",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "f97180eb25ff_k1",
+    "airport": "DEN",
+    "day": "2024-01-28",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "f97180eb25ff_k1",
+    "airport": "DEN",
+    "day": "2024-01-28",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "f97180eb25ff_k1",
+    "airport": "DEN",
+    "day": "2024-01-28",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "f97180eb25ff_k1",
+    "airport": "DEN",
+    "day": "2024-01-28",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "9a08f1c96ebe_k1",
+    "airport": "DEN",
+    "day": "2024-01-29",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "9a08f1c96ebe_k1",
+    "airport": "DEN",
+    "day": "2024-01-29",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "9a08f1c96ebe_k1",
+    "airport": "DEN",
+    "day": "2024-01-29",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "9a08f1c96ebe_k1",
+    "airport": "DEN",
+    "day": "2024-01-29",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "a294e0034f7e_k1",
+    "airport": "DEN",
+    "day": "2024-01-29",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "a294e0034f7e_k1",
+    "airport": "DEN",
+    "day": "2024-01-29",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "a294e0034f7e_k1",
+    "airport": "DEN",
+    "day": "2024-01-29",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "a294e0034f7e_k1",
+    "airport": "DEN",
+    "day": "2024-01-29",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "e238bc9faa10_k1",
+    "airport": "DEN",
+    "day": "2024-01-30",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "e238bc9faa10_k1",
+    "airport": "DEN",
+    "day": "2024-01-30",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "e238bc9faa10_k1",
+    "airport": "DEN",
+    "day": "2024-01-30",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "e238bc9faa10_k1",
+    "airport": "DEN",
+    "day": "2024-01-30",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "c1d70c79374e_k1",
+    "airport": "DEN",
+    "day": "2024-01-30",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "c1d70c79374e_k1",
+    "airport": "DEN",
+    "day": "2024-01-30",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "c1d70c79374e_k1",
+    "airport": "DEN",
+    "day": "2024-01-30",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "c1d70c79374e_k1",
+    "airport": "DEN",
+    "day": "2024-01-30",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "ac1bc05e9cfe_k1",
+    "airport": "DEN",
+    "day": "2024-01-31",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "ac1bc05e9cfe_k1",
+    "airport": "DEN",
+    "day": "2024-01-31",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 68,
+          "expected_queries": 4.25,
+          "expected_queries_exact": "17/4",
+          "states": 16,
+          "seconds": 0.0004637000383809209
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 8
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 9
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 10
+            }
+          ],
+          "pairs": 120,
+          "variables": 30
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "ac1bc05e9cfe_k1",
+    "airport": "DEN",
+    "day": "2024-01-31",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "ac1bc05e9cfe_k1",
+    "airport": "DEN",
+    "day": "2024-01-31",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 68,
+          "expected_queries": 4.25,
+          "expected_queries_exact": "17/4",
+          "states": 16,
+          "seconds": 0.0004102999810129404
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 8
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 9
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 10
+            }
+          ],
+          "pairs": 120,
+          "variables": 30
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "ac1bc05e9cfe_k1",
+    "airport": "DEN",
+    "day": "2024-01-31",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "ac1bc05e9cfe_k1",
+    "airport": "DEN",
+    "day": "2024-01-31",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 68,
+          "expected_queries": 4.25,
+          "expected_queries_exact": "17/4",
+          "states": 16,
+          "seconds": 0.000421399949118495
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 8
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 9
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 10
+            }
+          ],
+          "pairs": 120,
+          "variables": 30
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "dcd750867fe4_k1",
+    "airport": "DEN",
+    "day": "2024-01-31",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "dcd750867fe4_k1",
+    "airport": "DEN",
+    "day": "2024-01-31",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "dcd750867fe4_k1",
+    "airport": "DEN",
+    "day": "2024-01-31",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "dcd750867fe4_k1",
+    "airport": "DEN",
+    "day": "2024-01-31",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "5579ca1049f4_k1",
+    "airport": "DEN",
+    "day": "2025-01-24",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "5579ca1049f4_k1",
+    "airport": "DEN",
+    "day": "2025-01-24",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "5579ca1049f4_k1",
+    "airport": "DEN",
+    "day": "2025-01-24",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "5579ca1049f4_k1",
+    "airport": "DEN",
+    "day": "2025-01-24",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "48caceee5858_k1",
+    "airport": "DEN",
+    "day": "2025-01-25",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "48caceee5858_k1",
+    "airport": "DEN",
+    "day": "2025-01-25",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "48caceee5858_k1",
+    "airport": "DEN",
+    "day": "2025-01-25",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "48caceee5858_k1",
+    "airport": "DEN",
+    "day": "2025-01-25",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "59045bfeae70_k1",
+    "airport": "DEN",
+    "day": "2025-01-26",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "59045bfeae70_k1",
+    "airport": "DEN",
+    "day": "2025-01-26",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "59045bfeae70_k1",
+    "airport": "DEN",
+    "day": "2025-01-26",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "59045bfeae70_k1",
+    "airport": "DEN",
+    "day": "2025-01-26",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "b7e6843ed1d5_k1",
+    "airport": "DEN",
+    "day": "2025-01-27",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "b7e6843ed1d5_k1",
+    "airport": "DEN",
+    "day": "2025-01-27",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "b7e6843ed1d5_k1",
+    "airport": "DEN",
+    "day": "2025-01-27",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "b7e6843ed1d5_k1",
+    "airport": "DEN",
+    "day": "2025-01-27",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "99d498d9c254_k1",
+    "airport": "DEN",
+    "day": "2025-01-28",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "99d498d9c254_k1",
+    "airport": "DEN",
+    "day": "2025-01-28",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "99d498d9c254_k1",
+    "airport": "DEN",
+    "day": "2025-01-28",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "99d498d9c254_k1",
+    "airport": "DEN",
+    "day": "2025-01-28",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "2b5bf1e65e1a_k1",
+    "airport": "DEN",
+    "day": "2025-01-29",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "2b5bf1e65e1a_k1",
+    "airport": "DEN",
+    "day": "2025-01-29",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "2b5bf1e65e1a_k1",
+    "airport": "DEN",
+    "day": "2025-01-29",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "2b5bf1e65e1a_k1",
+    "airport": "DEN",
+    "day": "2025-01-29",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "9e98e1fec712_k1",
+    "airport": "DEN",
+    "day": "2025-01-30",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "9e98e1fec712_k1",
+    "airport": "DEN",
+    "day": "2025-01-30",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "9e98e1fec712_k1",
+    "airport": "DEN",
+    "day": "2025-01-30",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "9e98e1fec712_k1",
+    "airport": "DEN",
+    "day": "2025-01-30",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "1da1e19f9862_k1",
+    "airport": "DEN",
+    "day": "2025-01-31",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "1da1e19f9862_k1",
+    "airport": "DEN",
+    "day": "2025-01-31",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "1da1e19f9862_k1",
+    "airport": "DEN",
+    "day": "2025-01-31",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "1da1e19f9862_k1",
+    "airport": "DEN",
+    "day": "2025-01-31",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "931988388d77_k1",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "931988388d77_k1",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "931988388d77_k1",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "931988388d77_k1",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "7d9ab330a350_k1",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "7d9ab330a350_k1",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "11e07ec6222d_k1",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "11e07ec6222d_k1",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "11e07ec6222d_k1",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "11e07ec6222d_k1",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "11e07ec6222d_k1",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "11e07ec6222d_k1",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "7d183f703566_k1",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "7d183f703566_k1",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "7d183f703566_k1",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 58,
+          "expected_queries": 3.625,
+          "expected_queries_exact": "29/8",
+          "states": 24,
+          "seconds": 0.0006045999471098185
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 2,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 3,
+              "slot": 9
+            }
+          ],
+          "pairs": 119,
+          "variables": 21
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "7d183f703566_k1",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "02706cf72d9a_k1",
+    "airport": "PHX",
+    "day": "2024-01-25",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "02706cf72d9a_k1",
+    "airport": "PHX",
+    "day": "2024-01-25",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "02706cf72d9a_k1",
+    "airport": "PHX",
+    "day": "2024-01-25",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "02706cf72d9a_k1",
+    "airport": "PHX",
+    "day": "2024-01-25",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "02706cf72d9a_k1",
+    "airport": "PHX",
+    "day": "2024-01-25",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "02706cf72d9a_k1",
+    "airport": "PHX",
+    "day": "2024-01-25",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "fe16ec2c8c14_k1",
+    "airport": "PHX",
+    "day": "2024-01-25",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "fe16ec2c8c14_k1",
+    "airport": "PHX",
+    "day": "2024-01-25",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "b169711b9300_k1",
+    "airport": "PHX",
+    "day": "2024-01-25",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "b169711b9300_k1",
+    "airport": "PHX",
+    "day": "2024-01-25",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "fd79c579e024_k1",
+    "airport": "PHX",
+    "day": "2024-01-25",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "fd79c579e024_k1",
+    "airport": "PHX",
+    "day": "2024-01-25",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "fd79c579e024_k1",
+    "airport": "PHX",
+    "day": "2024-01-25",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "fd79c579e024_k1",
+    "airport": "PHX",
+    "day": "2024-01-25",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "02b530f1ff54_k1",
+    "airport": "PHX",
+    "day": "2024-01-26",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "02b530f1ff54_k1",
+    "airport": "PHX",
+    "day": "2024-01-26",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "02b530f1ff54_k1",
+    "airport": "PHX",
+    "day": "2024-01-26",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "02b530f1ff54_k1",
+    "airport": "PHX",
+    "day": "2024-01-26",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "e7d458760b7a_k1",
+    "airport": "PHX",
+    "day": "2024-01-26",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "e7d458760b7a_k1",
+    "airport": "PHX",
+    "day": "2024-01-26",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "565f11ebb432_k1",
+    "airport": "PHX",
+    "day": "2024-01-26",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "565f11ebb432_k1",
+    "airport": "PHX",
+    "day": "2024-01-26",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 76,
+          "expected_queries": 4.75,
+          "expected_queries_exact": "19/4",
+          "states": 24,
+          "seconds": 0.0005959999980404973
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 8,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 3,
+              "arrival": 5,
+              "slot": 10
+            },
+            {
+              "dispatch": 4,
+              "arrival": 6,
+              "slot": 11
+            },
+            {
+              "dispatch": 6,
+              "arrival": 8,
+              "slot": 13
+            }
+          ],
+          "pairs": 109,
+          "variables": 27
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "565f11ebb432_k1",
+    "airport": "PHX",
+    "day": "2024-01-26",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 66,
+          "expected_queries": 4.125,
+          "expected_queries_exact": "33/8",
+          "states": 36,
+          "seconds": 0.0007930999854579568
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 8,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 2,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 3,
+              "slot": 9
+            },
+            {
+              "dispatch": 3,
+              "arrival": 4,
+              "slot": 10
+            },
+            {
+              "dispatch": 4,
+              "arrival": 5,
+              "slot": 11
+            },
+            {
+              "dispatch": 6,
+              "arrival": 7,
+              "slot": 13
+            }
+          ],
+          "pairs": 117,
+          "variables": 30
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "565f11ebb432_k1",
+    "airport": "PHX",
+    "day": "2024-01-26",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 76,
+          "expected_queries": 4.75,
+          "expected_queries_exact": "19/4",
+          "states": 24,
+          "seconds": 0.0006486000493168831
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 8,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 3,
+              "arrival": 5,
+              "slot": 10
+            },
+            {
+              "dispatch": 4,
+              "arrival": 6,
+              "slot": 11
+            },
+            {
+              "dispatch": 6,
+              "arrival": 8,
+              "slot": 13
+            }
+          ],
+          "pairs": 109,
+          "variables": 27
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "565f11ebb432_k1",
+    "airport": "PHX",
+    "day": "2024-01-26",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 66,
+          "expected_queries": 4.125,
+          "expected_queries_exact": "33/8",
+          "states": 36,
+          "seconds": 0.0007551999296993017
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 8,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 2,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 3,
+              "slot": 9
+            },
+            {
+              "dispatch": 3,
+              "arrival": 4,
+              "slot": 10
+            },
+            {
+              "dispatch": 4,
+              "arrival": 5,
+              "slot": 11
+            },
+            {
+              "dispatch": 6,
+              "arrival": 7,
+              "slot": 13
+            }
+          ],
+          "pairs": 117,
+          "variables": 30
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "565f11ebb432_k1",
+    "airport": "PHX",
+    "day": "2024-01-26",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 76,
+          "expected_queries": 4.75,
+          "expected_queries_exact": "19/4",
+          "states": 24,
+          "seconds": 0.0006036999402567744
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 8,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 3,
+              "arrival": 5,
+              "slot": 10
+            },
+            {
+              "dispatch": 4,
+              "arrival": 6,
+              "slot": 11
+            },
+            {
+              "dispatch": 6,
+              "arrival": 8,
+              "slot": 13
+            }
+          ],
+          "pairs": 109,
+          "variables": 27
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "31657684e212_k1",
+    "airport": "PHX",
+    "day": "2024-01-26",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "31657684e212_k1",
+    "airport": "PHX",
+    "day": "2024-01-26",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "31657684e212_k1",
+    "airport": "PHX",
+    "day": "2024-01-26",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "31657684e212_k1",
+    "airport": "PHX",
+    "day": "2024-01-26",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "52bb3f97e4fd_k1",
+    "airport": "PHX",
+    "day": "2024-01-27",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "52bb3f97e4fd_k1",
+    "airport": "PHX",
+    "day": "2024-01-27",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "52bb3f97e4fd_k1",
+    "airport": "PHX",
+    "day": "2024-01-27",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "52bb3f97e4fd_k1",
+    "airport": "PHX",
+    "day": "2024-01-27",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "52bb3f97e4fd_k1",
+    "airport": "PHX",
+    "day": "2024-01-27",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "52bb3f97e4fd_k1",
+    "airport": "PHX",
+    "day": "2024-01-27",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "e51575848067_k1",
+    "airport": "PHX",
+    "day": "2024-01-27",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "e51575848067_k1",
+    "airport": "PHX",
+    "day": "2024-01-27",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "e51575848067_k1",
+    "airport": "PHX",
+    "day": "2024-01-27",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "e51575848067_k1",
+    "airport": "PHX",
+    "day": "2024-01-27",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "c56e779e7309_k1",
+    "airport": "PHX",
+    "day": "2024-01-27",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "c56e779e7309_k1",
+    "airport": "PHX",
+    "day": "2024-01-27",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "e81c6d61d8cd_k1",
+    "airport": "PHX",
+    "day": "2024-01-27",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "e81c6d61d8cd_k1",
+    "airport": "PHX",
+    "day": "2024-01-27",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "e81c6d61d8cd_k1",
+    "airport": "PHX",
+    "day": "2024-01-27",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "e81c6d61d8cd_k1",
+    "airport": "PHX",
+    "day": "2024-01-27",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "09c88a626481_k1",
+    "airport": "PHX",
+    "day": "2024-01-28",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "09c88a626481_k1",
+    "airport": "PHX",
+    "day": "2024-01-28",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "09c88a626481_k1",
+    "airport": "PHX",
+    "day": "2024-01-28",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "09c88a626481_k1",
+    "airport": "PHX",
+    "day": "2024-01-28",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "09c88a626481_k1",
+    "airport": "PHX",
+    "day": "2024-01-28",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "09c88a626481_k1",
+    "airport": "PHX",
+    "day": "2024-01-28",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "8c6680353b56_k1",
+    "airport": "PHX",
+    "day": "2024-01-28",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "8c6680353b56_k1",
+    "airport": "PHX",
+    "day": "2024-01-28",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "bbb69ab77864_k1",
+    "airport": "PHX",
+    "day": "2024-01-28",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "bbb69ab77864_k1",
+    "airport": "PHX",
+    "day": "2024-01-28",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "bbb69ab77864_k1",
+    "airport": "PHX",
+    "day": "2024-01-28",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 56,
+          "expected_queries": 3.5,
+          "expected_queries_exact": "7/2",
+          "states": 29,
+          "seconds": 0.0005129000637680292
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 2,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 3,
+              "slot": 9
+            },
+            {
+              "dispatch": 3,
+              "arrival": 4,
+              "slot": 10
+            }
+          ],
+          "pairs": 119,
+          "variables": 21
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "bbb69ab77864_k1",
+    "airport": "PHX",
+    "day": "2024-01-28",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "b200ab66dada_k1",
+    "airport": "PHX",
+    "day": "2024-01-28",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "b200ab66dada_k1",
+    "airport": "PHX",
+    "day": "2024-01-28",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "b200ab66dada_k1",
+    "airport": "PHX",
+    "day": "2024-01-28",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "b200ab66dada_k1",
+    "airport": "PHX",
+    "day": "2024-01-28",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "742653e022ee_k1",
+    "airport": "PHX",
+    "day": "2024-01-29",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "742653e022ee_k1",
+    "airport": "PHX",
+    "day": "2024-01-29",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "742653e022ee_k1",
+    "airport": "PHX",
+    "day": "2024-01-29",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "742653e022ee_k1",
+    "airport": "PHX",
+    "day": "2024-01-29",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "742653e022ee_k1",
+    "airport": "PHX",
+    "day": "2024-01-29",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "742653e022ee_k1",
+    "airport": "PHX",
+    "day": "2024-01-29",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "ca45c4476b05_k1",
+    "airport": "PHX",
+    "day": "2024-01-29",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 1,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "ca45c4476b05_k1",
+    "airport": "PHX",
+    "day": "2024-01-29",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "54a5150d4062_k1",
+    "airport": "PHX",
+    "day": "2024-01-29",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "54a5150d4062_k1",
+    "airport": "PHX",
+    "day": "2024-01-29",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "54a5150d4062_k1",
+    "airport": "PHX",
+    "day": "2024-01-29",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "54a5150d4062_k1",
+    "airport": "PHX",
+    "day": "2024-01-29",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "239d60de119d_k1",
+    "airport": "PHX",
+    "day": "2024-01-29",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "239d60de119d_k1",
+    "airport": "PHX",
+    "day": "2024-01-29",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "239d60de119d_k1",
+    "airport": "PHX",
+    "day": "2024-01-29",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "239d60de119d_k1",
+    "airport": "PHX",
+    "day": "2024-01-29",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "e58323f9b070_k1",
+    "airport": "PHX",
+    "day": "2024-01-30",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "e58323f9b070_k1",
+    "airport": "PHX",
+    "day": "2024-01-30",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "e58323f9b070_k1",
+    "airport": "PHX",
+    "day": "2024-01-30",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "e58323f9b070_k1",
+    "airport": "PHX",
+    "day": "2024-01-30",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "e58323f9b070_k1",
+    "airport": "PHX",
+    "day": "2024-01-30",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "e58323f9b070_k1",
+    "airport": "PHX",
+    "day": "2024-01-30",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "96c6142ceaf0_k1",
+    "airport": "PHX",
+    "day": "2024-01-30",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "96c6142ceaf0_k1",
+    "airport": "PHX",
+    "day": "2024-01-30",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "da720273ad96_k1",
+    "airport": "PHX",
+    "day": "2024-01-30",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "da720273ad96_k1",
+    "airport": "PHX",
+    "day": "2024-01-30",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "da720273ad96_k1",
+    "airport": "PHX",
+    "day": "2024-01-30",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "da720273ad96_k1",
+    "airport": "PHX",
+    "day": "2024-01-30",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "8b73d05e0771_k1",
+    "airport": "PHX",
+    "day": "2024-01-30",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "8b73d05e0771_k1",
+    "airport": "PHX",
+    "day": "2024-01-30",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "8b73d05e0771_k1",
+    "airport": "PHX",
+    "day": "2024-01-30",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "8b73d05e0771_k1",
+    "airport": "PHX",
+    "day": "2024-01-30",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "6bcad57aa426_k1",
+    "airport": "PHX",
+    "day": "2024-01-31",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "6bcad57aa426_k1",
+    "airport": "PHX",
+    "day": "2024-01-31",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "6bcad57aa426_k1",
+    "airport": "PHX",
+    "day": "2024-01-31",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "6bcad57aa426_k1",
+    "airport": "PHX",
+    "day": "2024-01-31",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "6bcad57aa426_k1",
+    "airport": "PHX",
+    "day": "2024-01-31",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "6bcad57aa426_k1",
+    "airport": "PHX",
+    "day": "2024-01-31",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "d04ea99d5b1f_k1",
+    "airport": "PHX",
+    "day": "2024-01-31",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 1,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "d04ea99d5b1f_k1",
+    "airport": "PHX",
+    "day": "2024-01-31",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "aaf2b060ae89_k1",
+    "airport": "PHX",
+    "day": "2024-01-31",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "aaf2b060ae89_k1",
+    "airport": "PHX",
+    "day": "2024-01-31",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "aaf2b060ae89_k1",
+    "airport": "PHX",
+    "day": "2024-01-31",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "aaf2b060ae89_k1",
+    "airport": "PHX",
+    "day": "2024-01-31",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "b59ce7d2b1e3_k1",
+    "airport": "PHX",
+    "day": "2024-01-31",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "b59ce7d2b1e3_k1",
+    "airport": "PHX",
+    "day": "2024-01-31",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 72,
+          "expected_queries": 4.5,
+          "expected_queries_exact": "9/2",
+          "states": 17,
+          "seconds": 0.0004485000390559435
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 3,
+              "arrival": 5,
+              "slot": 10
+            }
+          ],
+          "pairs": 115,
+          "variables": 26
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "b59ce7d2b1e3_k1",
+    "airport": "PHX",
+    "day": "2024-01-31",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 64,
+          "expected_queries": 4.0,
+          "expected_queries_exact": "4",
+          "states": 35,
+          "seconds": 0.0006644000532105565
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 2,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 3,
+              "slot": 9
+            },
+            {
+              "dispatch": 4,
+              "arrival": 5,
+              "slot": 11
+            }
+          ],
+          "pairs": 119,
+          "variables": 24
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "b59ce7d2b1e3_k1",
+    "airport": "PHX",
+    "day": "2024-01-31",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 72,
+          "expected_queries": 4.5,
+          "expected_queries_exact": "9/2",
+          "states": 18,
+          "seconds": 0.0004536999622359872
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 4,
+              "arrival": 6,
+              "slot": 11
+            }
+          ],
+          "pairs": 111,
+          "variables": 27
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "b59ce7d2b1e3_k1",
+    "airport": "PHX",
+    "day": "2024-01-31",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 64,
+          "expected_queries": 4.0,
+          "expected_queries_exact": "4",
+          "states": 35,
+          "seconds": 0.0006679999642074108
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 2,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 3,
+              "slot": 9
+            },
+            {
+              "dispatch": 4,
+              "arrival": 5,
+              "slot": 11
+            }
+          ],
+          "pairs": 119,
+          "variables": 24
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "b59ce7d2b1e3_k1",
+    "airport": "PHX",
+    "day": "2024-01-31",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 72,
+          "expected_queries": 4.5,
+          "expected_queries_exact": "9/2",
+          "states": 18,
+          "seconds": 0.00044789991807192564
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 4,
+              "arrival": 6,
+              "slot": 11
+            }
+          ],
+          "pairs": 111,
+          "variables": 27
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "fd6a7e54eebe_k1",
+    "airport": "PHX",
+    "day": "2025-01-24",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "fd6a7e54eebe_k1",
+    "airport": "PHX",
+    "day": "2025-01-24",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 64,
+          "expected_queries": 4.0,
+          "expected_queries_exact": "4",
+          "states": 14,
+          "seconds": 0.0004521000664681196
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 4,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            }
+          ],
+          "pairs": 119,
+          "variables": 15
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "fd6a7e54eebe_k1",
+    "airport": "PHX",
+    "day": "2025-01-24",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "fd6a7e54eebe_k1",
+    "airport": "PHX",
+    "day": "2025-01-24",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 64,
+          "expected_queries": 4.0,
+          "expected_queries_exact": "4",
+          "states": 14,
+          "seconds": 0.0003559000324457884
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 4,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            }
+          ],
+          "pairs": 119,
+          "variables": 15
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "fd6a7e54eebe_k1",
+    "airport": "PHX",
+    "day": "2025-01-24",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "fd6a7e54eebe_k1",
+    "airport": "PHX",
+    "day": "2025-01-24",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 64,
+          "expected_queries": 4.0,
+          "expected_queries_exact": "4",
+          "states": 14,
+          "seconds": 0.00036589999217540026
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 4,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            }
+          ],
+          "pairs": 120,
+          "variables": 20
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "f0ae15964801_k1",
+    "airport": "PHX",
+    "day": "2025-01-24",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "f0ae15964801_k1",
+    "airport": "PHX",
+    "day": "2025-01-24",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "f0ae15964801_k1",
+    "airport": "PHX",
+    "day": "2025-01-24",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "f0ae15964801_k1",
+    "airport": "PHX",
+    "day": "2025-01-24",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "fa66e94dae74_k1",
+    "airport": "PHX",
+    "day": "2025-01-24",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "fa66e94dae74_k1",
+    "airport": "PHX",
+    "day": "2025-01-24",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 70,
+          "expected_queries": 4.375,
+          "expected_queries_exact": "35/8",
+          "states": 20,
+          "seconds": 0.0004960999358445406
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            }
+          ],
+          "pairs": 116,
+          "variables": 29
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "fa66e94dae74_k1",
+    "airport": "PHX",
+    "day": "2025-01-24",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "fa66e94dae74_k1",
+    "airport": "PHX",
+    "day": "2025-01-24",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 70,
+          "expected_queries": 4.375,
+          "expected_queries_exact": "35/8",
+          "states": 20,
+          "seconds": 0.00046440004371106625
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            }
+          ],
+          "pairs": 116,
+          "variables": 29
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "651f9eee1ea0_k1",
+    "airport": "PHX",
+    "day": "2025-01-24",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "651f9eee1ea0_k1",
+    "airport": "PHX",
+    "day": "2025-01-24",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "02a04a0e4cf7_k1",
+    "airport": "PHX",
+    "day": "2025-01-24",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "02a04a0e4cf7_k1",
+    "airport": "PHX",
+    "day": "2025-01-24",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 68,
+          "expected_queries": 4.25,
+          "expected_queries_exact": "17/4",
+          "states": 20,
+          "seconds": 0.0006285000126808882
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 4,
+              "arrival": 6,
+              "slot": 11
+            },
+            {
+              "dispatch": 5,
+              "arrival": 7,
+              "slot": 12
+            }
+          ],
+          "pairs": 120,
+          "variables": 22
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "02a04a0e4cf7_k1",
+    "airport": "PHX",
+    "day": "2025-01-24",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "02a04a0e4cf7_k1",
+    "airport": "PHX",
+    "day": "2025-01-24",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 68,
+          "expected_queries": 4.25,
+          "expected_queries_exact": "17/4",
+          "states": 20,
+          "seconds": 0.0004734001122415066
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 4,
+              "arrival": 6,
+              "slot": 11
+            },
+            {
+              "dispatch": 5,
+              "arrival": 7,
+              "slot": 12
+            }
+          ],
+          "pairs": 120,
+          "variables": 22
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "787a37e38e8f_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "787a37e38e8f_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 64,
+          "expected_queries": 4.0,
+          "expected_queries_exact": "4",
+          "states": 13,
+          "seconds": 0.0003917999565601349
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 4,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            }
+          ],
+          "pairs": 120,
+          "variables": 20
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "787a37e38e8f_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "787a37e38e8f_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 64,
+          "expected_queries": 4.0,
+          "expected_queries_exact": "4",
+          "states": 13,
+          "seconds": 0.00040310004260390997
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 4,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            }
+          ],
+          "pairs": 120,
+          "variables": 20
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "787a37e38e8f_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "787a37e38e8f_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 64,
+          "expected_queries": 4.0,
+          "expected_queries_exact": "4",
+          "states": 13,
+          "seconds": 0.00040309992618858814
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 4,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            }
+          ],
+          "pairs": 120,
+          "variables": 20
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "266990b726bc_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "266990b726bc_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 72,
+          "expected_queries": 4.5,
+          "expected_queries_exact": "9/2",
+          "states": 22,
+          "seconds": 0.0005524000152945518
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 3,
+              "arrival": 5,
+              "slot": 10
+            }
+          ],
+          "pairs": 116,
+          "variables": 26
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "266990b726bc_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "266990b726bc_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 72,
+          "expected_queries": 4.5,
+          "expected_queries_exact": "9/2",
+          "states": 22,
+          "seconds": 0.0006022000452503562
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 3,
+              "arrival": 5,
+              "slot": 10
+            }
+          ],
+          "pairs": 116,
+          "variables": 26
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "266990b726bc_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "266990b726bc_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 72,
+          "expected_queries": 4.5,
+          "expected_queries_exact": "9/2",
+          "states": 22,
+          "seconds": 0.0007121999515220523
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 3,
+              "arrival": 5,
+              "slot": 10
+            }
+          ],
+          "pairs": 116,
+          "variables": 26
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "61febf1486c6_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "61febf1486c6_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "61febf1486c6_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "61febf1486c6_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "61febf1486c6_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "61febf1486c6_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "8f8bea2dca47_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "8f8bea2dca47_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "85117eb5abcf_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "85117eb5abcf_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "85117eb5abcf_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "85117eb5abcf_k1",
+    "airport": "PHX",
+    "day": "2025-01-25",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "36b8ed9894d7_k1",
+    "airport": "PHX",
+    "day": "2025-01-26",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "36b8ed9894d7_k1",
+    "airport": "PHX",
+    "day": "2025-01-26",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 66,
+          "expected_queries": 4.125,
+          "expected_queries_exact": "33/8",
+          "states": 15,
+          "seconds": 0.00038219999987632036
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            }
+          ],
+          "pairs": 120,
+          "variables": 20
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "36b8ed9894d7_k1",
+    "airport": "PHX",
+    "day": "2025-01-26",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "36b8ed9894d7_k1",
+    "airport": "PHX",
+    "day": "2025-01-26",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 66,
+          "expected_queries": 4.125,
+          "expected_queries_exact": "33/8",
+          "states": 15,
+          "seconds": 0.0004463000223040581
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            }
+          ],
+          "pairs": 120,
+          "variables": 20
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "36b8ed9894d7_k1",
+    "airport": "PHX",
+    "day": "2025-01-26",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "36b8ed9894d7_k1",
+    "airport": "PHX",
+    "day": "2025-01-26",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 66,
+          "expected_queries": 4.125,
+          "expected_queries_exact": "33/8",
+          "states": 15,
+          "seconds": 0.0003992000129073858
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            }
+          ],
+          "pairs": 120,
+          "variables": 20
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "f6a422d8ce90_k1",
+    "airport": "PHX",
+    "day": "2025-01-26",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "f6a422d8ce90_k1",
+    "airport": "PHX",
+    "day": "2025-01-26",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "f6a422d8ce90_k1",
+    "airport": "PHX",
+    "day": "2025-01-26",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "f6a422d8ce90_k1",
+    "airport": "PHX",
+    "day": "2025-01-26",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "bc82113c2112_k1",
+    "airport": "PHX",
+    "day": "2025-01-26",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "bc82113c2112_k1",
+    "airport": "PHX",
+    "day": "2025-01-26",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "bc82113c2112_k1",
+    "airport": "PHX",
+    "day": "2025-01-26",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "bc82113c2112_k1",
+    "airport": "PHX",
+    "day": "2025-01-26",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "73e26ea86000_k1",
+    "airport": "PHX",
+    "day": "2025-01-26",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "73e26ea86000_k1",
+    "airport": "PHX",
+    "day": "2025-01-26",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "40546485a254_k1",
+    "airport": "PHX",
+    "day": "2025-01-26",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "40546485a254_k1",
+    "airport": "PHX",
+    "day": "2025-01-26",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 66,
+          "expected_queries": 4.125,
+          "expected_queries_exact": "33/8",
+          "states": 16,
+          "seconds": 0.0003942000912502408
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            }
+          ],
+          "pairs": 120,
+          "variables": 19
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "40546485a254_k1",
+    "airport": "PHX",
+    "day": "2025-01-26",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "40546485a254_k1",
+    "airport": "PHX",
+    "day": "2025-01-26",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 66,
+          "expected_queries": 4.125,
+          "expected_queries_exact": "33/8",
+          "states": 16,
+          "seconds": 0.00042990001384168863
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            }
+          ],
+          "pairs": 120,
+          "variables": 19
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "54525b39887e_k1",
+    "airport": "PHX",
+    "day": "2025-01-27",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "54525b39887e_k1",
+    "airport": "PHX",
+    "day": "2025-01-27",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 70,
+          "expected_queries": 4.375,
+          "expected_queries_exact": "35/8",
+          "states": 14,
+          "seconds": 0.00041009997949004173
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            }
+          ],
+          "pairs": 118,
+          "variables": 20
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "54525b39887e_k1",
+    "airport": "PHX",
+    "day": "2025-01-27",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "54525b39887e_k1",
+    "airport": "PHX",
+    "day": "2025-01-27",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 70,
+          "expected_queries": 4.375,
+          "expected_queries_exact": "35/8",
+          "states": 14,
+          "seconds": 0.0004143000114709139
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            }
+          ],
+          "pairs": 118,
+          "variables": 20
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "54525b39887e_k1",
+    "airport": "PHX",
+    "day": "2025-01-27",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "54525b39887e_k1",
+    "airport": "PHX",
+    "day": "2025-01-27",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 70,
+          "expected_queries": 4.375,
+          "expected_queries_exact": "35/8",
+          "states": 14,
+          "seconds": 0.00048369995784014463
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            }
+          ],
+          "pairs": 117,
+          "variables": 20
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "613e128c1ed4_k1",
+    "airport": "PHX",
+    "day": "2025-01-27",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "613e128c1ed4_k1",
+    "airport": "PHX",
+    "day": "2025-01-27",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 84,
+          "expected_queries": 5.25,
+          "expected_queries_exact": "21/4",
+          "states": 21,
+          "seconds": 0.0005494001088663936
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 7,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 3,
+              "arrival": 5,
+              "slot": 10
+            },
+            {
+              "dispatch": 4,
+              "arrival": 6,
+              "slot": 11
+            }
+          ],
+          "pairs": 116,
+          "variables": 18
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "613e128c1ed4_k1",
+    "airport": "PHX",
+    "day": "2025-01-27",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "613e128c1ed4_k1",
+    "airport": "PHX",
+    "day": "2025-01-27",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 84,
+          "expected_queries": 5.25,
+          "expected_queries_exact": "21/4",
+          "states": 21,
+          "seconds": 0.0005529000191017985
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 7,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 3,
+              "arrival": 5,
+              "slot": 10
+            },
+            {
+              "dispatch": 4,
+              "arrival": 6,
+              "slot": 11
+            }
+          ],
+          "pairs": 116,
+          "variables": 18
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "1d27ba32be62_k1",
+    "airport": "PHX",
+    "day": "2025-01-27",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "1d27ba32be62_k1",
+    "airport": "PHX",
+    "day": "2025-01-27",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "1d27ba32be62_k1",
+    "airport": "PHX",
+    "day": "2025-01-27",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "1d27ba32be62_k1",
+    "airport": "PHX",
+    "day": "2025-01-27",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "df29de0cd7fb_k1",
+    "airport": "PHX",
+    "day": "2025-01-27",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "df29de0cd7fb_k1",
+    "airport": "PHX",
+    "day": "2025-01-27",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "58b5a3dbb489_k1",
+    "airport": "PHX",
+    "day": "2025-01-27",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "58b5a3dbb489_k1",
+    "airport": "PHX",
+    "day": "2025-01-27",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 68,
+          "expected_queries": 4.25,
+          "expected_queries_exact": "17/4",
+          "states": 19,
+          "seconds": 0.0005408000433817506
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 5,
+              "arrival": 7,
+              "slot": 12
+            }
+          ],
+          "pairs": 120,
+          "variables": 21
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "58b5a3dbb489_k1",
+    "airport": "PHX",
+    "day": "2025-01-27",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "58b5a3dbb489_k1",
+    "airport": "PHX",
+    "day": "2025-01-27",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 68,
+          "expected_queries": 4.25,
+          "expected_queries_exact": "17/4",
+          "states": 19,
+          "seconds": 0.00045819999650120735
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 5,
+              "arrival": 7,
+              "slot": 12
+            }
+          ],
+          "pairs": 120,
+          "variables": 21
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "58b5a3dbb489_k1",
+    "airport": "PHX",
+    "day": "2025-01-27",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "58b5a3dbb489_k1",
+    "airport": "PHX",
+    "day": "2025-01-27",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "dbd6118c71c5_k1",
+    "airport": "PHX",
+    "day": "2025-01-28",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "dbd6118c71c5_k1",
+    "airport": "PHX",
+    "day": "2025-01-28",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 72,
+          "expected_queries": 4.5,
+          "expected_queries_exact": "9/2",
+          "states": 16,
+          "seconds": 0.0004398999735713005
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 3,
+              "arrival": 5,
+              "slot": 10
+            }
+          ],
+          "pairs": 118,
+          "variables": 17
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "dbd6118c71c5_k1",
+    "airport": "PHX",
+    "day": "2025-01-28",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "dbd6118c71c5_k1",
+    "airport": "PHX",
+    "day": "2025-01-28",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 72,
+          "expected_queries": 4.5,
+          "expected_queries_exact": "9/2",
+          "states": 16,
+          "seconds": 0.0004990000743418932
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 3,
+              "arrival": 5,
+              "slot": 10
+            }
+          ],
+          "pairs": 118,
+          "variables": 17
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "dbd6118c71c5_k1",
+    "airport": "PHX",
+    "day": "2025-01-28",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "dbd6118c71c5_k1",
+    "airport": "PHX",
+    "day": "2025-01-28",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 72,
+          "expected_queries": 4.5,
+          "expected_queries_exact": "9/2",
+          "states": 16,
+          "seconds": 0.0004635000368580222
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 3,
+              "arrival": 5,
+              "slot": 10
+            }
+          ],
+          "pairs": 117,
+          "variables": 22
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "7d7bcfb76f04_k1",
+    "airport": "PHX",
+    "day": "2025-01-28",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "7d7bcfb76f04_k1",
+    "airport": "PHX",
+    "day": "2025-01-28",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 84,
+          "expected_queries": 5.25,
+          "expected_queries_exact": "21/4",
+          "states": 21,
+          "seconds": 0.0005647999932989478
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 7,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 3,
+              "arrival": 5,
+              "slot": 10
+            },
+            {
+              "dispatch": 4,
+              "arrival": 6,
+              "slot": 11
+            }
+          ],
+          "pairs": 116,
+          "variables": 18
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "7d7bcfb76f04_k1",
+    "airport": "PHX",
+    "day": "2025-01-28",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "7d7bcfb76f04_k1",
+    "airport": "PHX",
+    "day": "2025-01-28",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 84,
+          "expected_queries": 5.25,
+          "expected_queries_exact": "21/4",
+          "states": 21,
+          "seconds": 0.0006900000153109431
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 7,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 3,
+              "arrival": 5,
+              "slot": 10
+            },
+            {
+              "dispatch": 4,
+              "arrival": 6,
+              "slot": 11
+            }
+          ],
+          "pairs": 116,
+          "variables": 18
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "543cea52342b_k1",
+    "airport": "PHX",
+    "day": "2025-01-28",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "543cea52342b_k1",
+    "airport": "PHX",
+    "day": "2025-01-28",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "543cea52342b_k1",
+    "airport": "PHX",
+    "day": "2025-01-28",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 60,
+          "expected_queries": 3.75,
+          "expected_queries_exact": "15/4",
+          "states": 33,
+          "seconds": 0.0005839999066665769
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 2,
+              "slot": 8
+            },
+            {
+              "dispatch": 3,
+              "arrival": 4,
+              "slot": 10
+            },
+            {
+              "dispatch": 7,
+              "arrival": 8,
+              "slot": 14
+            }
+          ],
+          "pairs": 120,
+          "variables": 23
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "543cea52342b_k1",
+    "airport": "PHX",
+    "day": "2025-01-28",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "bf2ae50a1eca_k1",
+    "airport": "PHX",
+    "day": "2025-01-28",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "bf2ae50a1eca_k1",
+    "airport": "PHX",
+    "day": "2025-01-28",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 68,
+          "expected_queries": 4.25,
+          "expected_queries_exact": "17/4",
+          "states": 19,
+          "seconds": 0.00047940004151314497
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 5,
+              "arrival": 7,
+              "slot": 12
+            }
+          ],
+          "pairs": 120,
+          "variables": 21
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "bf2ae50a1eca_k1",
+    "airport": "PHX",
+    "day": "2025-01-28",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "bf2ae50a1eca_k1",
+    "airport": "PHX",
+    "day": "2025-01-28",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 68,
+          "expected_queries": 4.25,
+          "expected_queries_exact": "17/4",
+          "states": 19,
+          "seconds": 0.0004896000027656555
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 5,
+              "arrival": 7,
+              "slot": 12
+            }
+          ],
+          "pairs": 120,
+          "variables": 21
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "bf2ae50a1eca_k1",
+    "airport": "PHX",
+    "day": "2025-01-28",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "bf2ae50a1eca_k1",
+    "airport": "PHX",
+    "day": "2025-01-28",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "7622d022ce69_k1",
+    "airport": "PHX",
+    "day": "2025-01-29",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "7622d022ce69_k1",
+    "airport": "PHX",
+    "day": "2025-01-29",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 66,
+          "expected_queries": 4.125,
+          "expected_queries_exact": "33/8",
+          "states": 16,
+          "seconds": 0.0004403999773785472
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            }
+          ],
+          "pairs": 119,
+          "variables": 17
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "7622d022ce69_k1",
+    "airport": "PHX",
+    "day": "2025-01-29",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "7622d022ce69_k1",
+    "airport": "PHX",
+    "day": "2025-01-29",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 66,
+          "expected_queries": 4.125,
+          "expected_queries_exact": "33/8",
+          "states": 16,
+          "seconds": 0.0004104999825358391
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            }
+          ],
+          "pairs": 119,
+          "variables": 17
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "7622d022ce69_k1",
+    "airport": "PHX",
+    "day": "2025-01-29",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "7622d022ce69_k1",
+    "airport": "PHX",
+    "day": "2025-01-29",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 66,
+          "expected_queries": 4.125,
+          "expected_queries_exact": "33/8",
+          "states": 16,
+          "seconds": 0.0003923999611288309
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            }
+          ],
+          "pairs": 119,
+          "variables": 17
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "69bfcab932fa_k1",
+    "airport": "PHX",
+    "day": "2025-01-29",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "69bfcab932fa_k1",
+    "airport": "PHX",
+    "day": "2025-01-29",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 84,
+          "expected_queries": 5.25,
+          "expected_queries_exact": "21/4",
+          "states": 21,
+          "seconds": 0.0007041000062599778
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 7,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 3,
+              "arrival": 5,
+              "slot": 10
+            },
+            {
+              "dispatch": 4,
+              "arrival": 6,
+              "slot": 11
+            }
+          ],
+          "pairs": 116,
+          "variables": 18
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "69bfcab932fa_k1",
+    "airport": "PHX",
+    "day": "2025-01-29",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "69bfcab932fa_k1",
+    "airport": "PHX",
+    "day": "2025-01-29",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 84,
+          "expected_queries": 5.25,
+          "expected_queries_exact": "21/4",
+          "states": 21,
+          "seconds": 0.0006011000368744135
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 7,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 3,
+              "arrival": 5,
+              "slot": 10
+            },
+            {
+              "dispatch": 4,
+              "arrival": 6,
+              "slot": 11
+            }
+          ],
+          "pairs": 116,
+          "variables": 18
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "1f9cf4206750_k1",
+    "airport": "PHX",
+    "day": "2025-01-29",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "1f9cf4206750_k1",
+    "airport": "PHX",
+    "day": "2025-01-29",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "1f9cf4206750_k1",
+    "airport": "PHX",
+    "day": "2025-01-29",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "1f9cf4206750_k1",
+    "airport": "PHX",
+    "day": "2025-01-29",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "6ee6fe579959_k1",
+    "airport": "PHX",
+    "day": "2025-01-29",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "6ee6fe579959_k1",
+    "airport": "PHX",
+    "day": "2025-01-29",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 68,
+          "expected_queries": 4.25,
+          "expected_queries_exact": "17/4",
+          "states": 19,
+          "seconds": 0.0005717999301850796
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 5,
+              "arrival": 7,
+              "slot": 12
+            }
+          ],
+          "pairs": 120,
+          "variables": 21
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "6ee6fe579959_k1",
+    "airport": "PHX",
+    "day": "2025-01-29",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "6ee6fe579959_k1",
+    "airport": "PHX",
+    "day": "2025-01-29",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 68,
+          "expected_queries": 4.25,
+          "expected_queries_exact": "17/4",
+          "states": 19,
+          "seconds": 0.00046200002543628216
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 5,
+              "arrival": 7,
+              "slot": 12
+            }
+          ],
+          "pairs": 120,
+          "variables": 21
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "6ee6fe579959_k1",
+    "airport": "PHX",
+    "day": "2025-01-29",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "6ee6fe579959_k1",
+    "airport": "PHX",
+    "day": "2025-01-29",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "190353191197_k1",
+    "airport": "PHX",
+    "day": "2025-01-30",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "190353191197_k1",
+    "airport": "PHX",
+    "day": "2025-01-30",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 66,
+          "expected_queries": 4.125,
+          "expected_queries_exact": "33/8",
+          "states": 15,
+          "seconds": 0.0003763999557122588
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            }
+          ],
+          "pairs": 120,
+          "variables": 12
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "190353191197_k1",
+    "airport": "PHX",
+    "day": "2025-01-30",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "190353191197_k1",
+    "airport": "PHX",
+    "day": "2025-01-30",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 66,
+          "expected_queries": 4.125,
+          "expected_queries_exact": "33/8",
+          "states": 15,
+          "seconds": 0.0004344999324530363
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            }
+          ],
+          "pairs": 120,
+          "variables": 12
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "190353191197_k1",
+    "airport": "PHX",
+    "day": "2025-01-30",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "190353191197_k1",
+    "airport": "PHX",
+    "day": "2025-01-30",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 66,
+          "expected_queries": 4.125,
+          "expected_queries_exact": "33/8",
+          "states": 15,
+          "seconds": 0.000390400062315166
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            }
+          ],
+          "pairs": 120,
+          "variables": 22
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "f00701be5e16_k1",
+    "airport": "PHX",
+    "day": "2025-01-30",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "f00701be5e16_k1",
+    "airport": "PHX",
+    "day": "2025-01-30",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "f00701be5e16_k1",
+    "airport": "PHX",
+    "day": "2025-01-30",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "f00701be5e16_k1",
+    "airport": "PHX",
+    "day": "2025-01-30",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "89f9e52e84d9_k1",
+    "airport": "PHX",
+    "day": "2025-01-30",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "89f9e52e84d9_k1",
+    "airport": "PHX",
+    "day": "2025-01-30",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "89f9e52e84d9_k1",
+    "airport": "PHX",
+    "day": "2025-01-30",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "89f9e52e84d9_k1",
+    "airport": "PHX",
+    "day": "2025-01-30",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "89f9e52e84d9_k1",
+    "airport": "PHX",
+    "day": "2025-01-30",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "89f9e52e84d9_k1",
+    "airport": "PHX",
+    "day": "2025-01-30",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "2d79ad6a4c40_k1",
+    "airport": "PHX",
+    "day": "2025-01-30",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "2d79ad6a4c40_k1",
+    "airport": "PHX",
+    "day": "2025-01-30",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "070c4b3750d6_k1",
+    "airport": "PHX",
+    "day": "2025-01-30",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "070c4b3750d6_k1",
+    "airport": "PHX",
+    "day": "2025-01-30",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 68,
+          "expected_queries": 4.25,
+          "expected_queries_exact": "17/4",
+          "states": 20,
+          "seconds": 0.0005984000163152814
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 4,
+              "arrival": 6,
+              "slot": 11
+            },
+            {
+              "dispatch": 5,
+              "arrival": 7,
+              "slot": 12
+            }
+          ],
+          "pairs": 120,
+          "variables": 22
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "070c4b3750d6_k1",
+    "airport": "PHX",
+    "day": "2025-01-30",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "070c4b3750d6_k1",
+    "airport": "PHX",
+    "day": "2025-01-30",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 68,
+          "expected_queries": 4.25,
+          "expected_queries_exact": "17/4",
+          "states": 20,
+          "seconds": 0.000529700075276196
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 4,
+              "arrival": 6,
+              "slot": 11
+            },
+            {
+              "dispatch": 5,
+              "arrival": 7,
+              "slot": 12
+            }
+          ],
+          "pairs": 120,
+          "variables": 22
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "60a511c24d8c_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "60a511c24d8c_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 66,
+          "expected_queries": 4.125,
+          "expected_queries_exact": "33/8",
+          "states": 15,
+          "seconds": 0.0004229999613016844
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            }
+          ],
+          "pairs": 120,
+          "variables": 17
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "60a511c24d8c_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "60a511c24d8c_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 66,
+          "expected_queries": 4.125,
+          "expected_queries_exact": "33/8",
+          "states": 15,
+          "seconds": 0.0007006999803707004
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            }
+          ],
+          "pairs": 120,
+          "variables": 17
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "60a511c24d8c_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "60a511c24d8c_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 66,
+          "expected_queries": 4.125,
+          "expected_queries_exact": "33/8",
+          "states": 15,
+          "seconds": 0.0004335999255999923
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 5,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            }
+          ],
+          "pairs": 120,
+          "variables": 17
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "95086cf51f85_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "95086cf51f85_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 69,
+          "expected_queries": 4.3125,
+          "expected_queries_exact": "69/16",
+          "states": 18,
+          "seconds": 0.0006846000906080008
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 4,
+              "arrival": 6,
+              "slot": 11
+            }
+          ],
+          "pairs": 119,
+          "variables": 19
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "95086cf51f85_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "95086cf51f85_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 69,
+          "expected_queries": 4.3125,
+          "expected_queries_exact": "69/16",
+          "states": 18,
+          "seconds": 0.0004427999956533313
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 4,
+              "arrival": 6,
+              "slot": 11
+            }
+          ],
+          "pairs": 119,
+          "variables": 19
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "95086cf51f85_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 57,
+          "expected_queries": 3.5625,
+          "expected_queries_exact": "57/16",
+          "states": 27,
+          "seconds": 0.0004903000080958009
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 1,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 2,
+              "slot": 8
+            },
+            {
+              "dispatch": 3,
+              "arrival": 4,
+              "slot": 10
+            },
+            {
+              "dispatch": 4,
+              "arrival": 5,
+              "slot": 11
+            }
+          ],
+          "pairs": 120,
+          "variables": 19
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "95086cf51f85_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 69,
+          "expected_queries": 4.3125,
+          "expected_queries_exact": "69/16",
+          "states": 18,
+          "seconds": 0.00042369996663182974
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 4,
+              "arrival": 6,
+              "slot": 11
+            }
+          ],
+          "pairs": 118,
+          "variables": 19
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "a1e175b31f3e_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "a1e175b31f3e_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "a1e175b31f3e_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "a1e175b31f3e_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "3101f9edb289_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "3101f9edb289_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 1,
+    "fixed_min": 1,
+    "extra_solves": []
+  },
+  {
+    "case_id": "578fe31022e1_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "578fe31022e1_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 68,
+          "expected_queries": 4.25,
+          "expected_queries_exact": "17/4",
+          "states": 19,
+          "seconds": 0.0005162999732419848
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 5,
+              "arrival": 7,
+              "slot": 12
+            }
+          ],
+          "pairs": 120,
+          "variables": 21
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "578fe31022e1_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N4",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "578fe31022e1_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N4",
+    "delay": 2,
+    "adaptive_min": 3,
+    "fixed_min": 3,
+    "extra_solves": [
+      {
+        "budget": 3,
+        "adaptive": {
+          "feasible": true,
+          "weighted_cost": 68,
+          "expected_queries": 4.25,
+          "expected_queries_exact": "17/4",
+          "states": 19,
+          "seconds": 0.0004997999640181661
+        },
+        "fixed": {
+          "feasible": true,
+          "optimal": true,
+          "count": 6,
+          "schedule": [
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 5
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 6
+            },
+            {
+              "dispatch": 0,
+              "arrival": 2,
+              "slot": 7
+            },
+            {
+              "dispatch": 1,
+              "arrival": 3,
+              "slot": 8
+            },
+            {
+              "dispatch": 2,
+              "arrival": 4,
+              "slot": 9
+            },
+            {
+              "dispatch": 5,
+              "arrival": 7,
+              "slot": 12
+            }
+          ],
+          "pairs": 120,
+          "variables": 21
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "578fe31022e1_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N8",
+    "delay": 1,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  },
+  {
+    "case_id": "578fe31022e1_k1",
+    "airport": "PHX",
+    "day": "2025-01-31",
+    "capacity": "N8",
+    "delay": 2,
+    "adaptive_min": 2,
+    "fixed_min": 2,
+    "extra_solves": []
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "capacity": "N",
+    "method": "all_available",
+    "windows": 94,
+    "reference_complete": 94,
+    "preserved": 94,
+    "same_release": 94,
+    "requests_complete": 12.904255319148936,
+    "post_release_complete": 10.51063829787234
+  },
+  {
+    "capacity": "N",
+    "method": "travel_cutoff",
+    "windows": 94,
+    "reference_complete": 94,
+    "preserved": 94,
+    "same_release": 94,
+    "requests_complete": 10.904255319148936,
+    "post_release_complete": 10.51063829787234
+  },
+  {
+    "capacity": "N",
+    "method": "chronological",
+    "windows": 94,
+    "reference_complete": 94,
+    "preserved": 94,
+    "same_release": 94,
+    "requests_complete": 10.904255319148936,
+    "post_release_complete": 10.51063829787234
+  },
+  {
+    "capacity": "N",
+    "method": "widest",
+    "windows": 94,
+    "reference_complete": 94,
+    "preserved": 94,
+    "same_release": 94,
+    "requests_complete": 11.22340425531915,
+    "post_release_complete": 10.51063829787234
+  },
+  {
+    "capacity": "N",
+    "method": "selective_available",
+    "windows": 94,
+    "reference_complete": 94,
+    "preserved": 94,
+    "same_release": 94,
+    "requests_complete": 10.904255319148936,
+    "post_release_complete": 10.51063829787234
+  },
+  {
+    "capacity": "N4",
+    "method": "all_available",
+    "windows": 94,
+    "reference_complete": 94,
+    "preserved": 94,
+    "same_release": 94,
+    "requests_complete": 12.904255319148936,
+    "post_release_complete": 10.649443907156673
+  },
+  {
+    "capacity": "N4",
+    "method": "travel_cutoff",
+    "windows": 94,
+    "reference_complete": 94,
+    "preserved": 94,
+    "same_release": 2,
+    "requests_complete": 10.904255319148936,
+    "post_release_complete": 12.645956187915566
+  },
+  {
+    "capacity": "N4",
+    "method": "chronological",
+    "windows": 94,
+    "reference_complete": 94,
+    "preserved": 94,
+    "same_release": 94,
+    "requests_complete": 10.904255319148936,
+    "post_release_complete": 10.649443907156673
+  },
+  {
+    "capacity": "N4",
+    "method": "widest",
+    "windows": 94,
+    "reference_complete": 94,
+    "preserved": 94,
+    "same_release": 94,
+    "requests_complete": 11.22340425531915,
+    "post_release_complete": 10.649443907156673
+  },
+  {
+    "capacity": "N4",
+    "method": "selective_available",
+    "windows": 94,
+    "reference_complete": 94,
+    "preserved": 94,
+    "same_release": 94,
+    "requests_complete": 10.904255319148936,
+    "post_release_complete": 10.649443907156673
+  },
+  {
+    "capacity": "N8",
+    "method": "all_available",
+    "windows": 94,
+    "reference_complete": 77,
+    "preserved": 77,
+    "same_release": 77,
+    "requests_complete": 13.675324675324676,
+    "post_release_complete": 11.467499963570102
+  },
+  {
+    "capacity": "N8",
+    "method": "travel_cutoff",
+    "windows": 94,
+    "reference_complete": 77,
+    "preserved": 77,
+    "same_release": 8,
+    "requests_complete": 11.675324675324676,
+    "post_release_complete": 13.130517994049324
+  },
+  {
+    "capacity": "N8",
+    "method": "chronological",
+    "windows": 94,
+    "reference_complete": 77,
+    "preserved": 77,
+    "same_release": 77,
+    "requests_complete": 11.675324675324676,
+    "post_release_complete": 11.467499963570102
+  },
+  {
+    "capacity": "N8",
+    "method": "widest",
+    "windows": 94,
+    "reference_complete": 77,
+    "preserved": 77,
+    "same_release": 77,
+    "requests_complete": 11.974025974025974,
+    "post_release_complete": 11.467499963570102
+  },
+  {
+    "capacity": "N8",
+    "method": "selective_available",
+    "windows": 94,
+    "reference_complete": 77,
+    "preserved": 77,
+    "same_release": 77,
+    "requests_complete": 11.636363636363637,
+    "post_release_complete": 11.467499963570102
+  }
+]

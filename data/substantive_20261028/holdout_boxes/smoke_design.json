@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-28",
+  "frozen_before_smoke_outcomes": true,
+  "source_sha256": "9a4213ac4849534e811f262ffc97d32fc5847aa2f3fa5e3b182c521e1aac84d9",
+  "acquisition_sha256": "e8c47b5ab7fd51091908bdbb427dc08322f5e216bcf5dafd96d84b854fcd5e0f",
+  "physical_sha256": "45c40c169ee0626f1c1ca19635acd47d8747bc8fbc4357ea2ae4c371aa9222c3",
+  "legacy_manifest_sha256": "870e1bc2ac388cf1cbf56aa5ea2e715dd22ef381edaa31d638c1b27d36620397",
+  "selective_source_sha256": "5c66ddde51b1be121efb972b582717ea908f392b2ddae54ea7a12275aef0e119",
+  "selection": "Two unchanged legacy diagnostic smoke windows; descriptive, not a representative estimate.",
+  "radii": [
+    0,
+    1,
+    2,
+    4
+  ],
+  "capacities": [
+    "original",
+    "ceil_N_over_4",
+    "ceil_N_over_8"
+  ],
+  "availability": "Same L=lag+2 availability for every method.",
+  "methods": [
+    "past_only",
+    "training_static_menu",
+    "all_available",
+    "selective_available"
+  ],
+  "prefix": "Empty reset, t0=0, shared by all policies.",
+  "boxes": "Union of sixteen coordinate boxes centred on the training calendars; +/-r aircraft per two-minute slot, clamped to [0,N]. The structural first-lag zeros remain zero. No total-calendar-mass constraint is added.",
+  "completion_domain": "A box is retained if its upper endpoint clears N under earliest release. This is equivalent to containing at least one completing calendar. All physically evaluated traces and incomplete references remain reported.",
+  "controller": "Receive free past first. Then intersect boxes with exact responses from the method-selected available coordinates. Compute each upper calendar bound and use their maximum. On empty compatible support, release remaining aircraft as early as allowed without further lookahead.",
+  "confirmation_cost": "All-available and training-menu policies skip coordinates logically constant over the current compatible box union. A skipped coordinate is still checked when its free actual observation arrives. No further confirmations are requested after all aircraft have been released. The static ex-ante fee and actual sent confirmations are separate metrics.",
+  "selective": "Stop when the current upper release and the minimum corner lower release after replacing all available unobserved coordinates by their lower endpoints agree. Otherwise query a coordinate using deadline sensitivity. Covered completing calendars require the same release as all-available confirmation. Actual confirmation counts are compared empirically. Outside-support action equality is not required.",
+  "point_policy": "Replay the unchanged optimal adaptive point-support policy at lag+2 and H-1. An unsupported response or free observation triggers the same earliest-remaining fallback.",
+  "metrics": "Full-calendar coverage, first incompatibility, causal fallback, completion deficits, absolute terminal unserved, raw waiting, and excess waiting only when completion is preserved and the actual reference clears N. Incomplete references retain their partial-reference waiting separately.",
+  "rows": [
+    {
+      "case_id": "f6a8b9476469_k1",
+      "key": "DEN_2024-01-27_h14_forecast_calendar_f1.0_prefix_residence_lower_training_q10_c2-3-0",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\smoke_cases\\f6a8b9476469_k1.json",
+      "input_sha256": "14735a38cf6e4ee23949b8f1de5a039aaff0992e420bdf54fa31f6063cf26295"
+    },
+    {
+      "case_id": "54525b39887e_k1",
+      "key": "PHX_2025-01-27_h10_forecast_calendar_f1.0_prefix_residence_lower_training_q10_c2-3-0",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\smoke_cases\\54525b39887e_k1.json",
+      "input_sha256": "efa38b99a681abaa986a540cac12dac95e616a5b3b6c53559b06038649ea1bc5"
+    }
+  ]
+}

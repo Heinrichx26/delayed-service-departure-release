@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-28",
+  "frozen_before_resampling": true,
+  "source_sha256": "31a8ae44a41a02b033b91acbc176f5e9778dbb2b6b88af4b36d0105096593189",
+  "input_sha256": "24bc66daf0b1a71483f2775bac75f2f917af3e1b92c69279d111b5c429c25144",
+  "smoke_sha256": "0e65cbcd27c1e7a752f64c949476acffee72306d7bb3512f6c637f9797c10316",
+  "repeats": 5000,
+  "seed": 20261028,
+  "cluster": "airport-day; all windows within a sampled cluster travel together",
+  "estimand": "window-average paired savings, separately by release capacity",
+  "scope": "descriptive resampling of the record-derived panel"
+}
