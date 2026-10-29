@@ -1,0 +1,89 @@
+{
+  "passed": true,
+  "phase": "smoke",
+  "lags": [
+    4,
+    5,
+    6
+  ],
+  "rows": [
+    {
+      "case_id": "473d817f7137_k1",
+      "airport": "DEN",
+      "day": "2024-01-24",
+      "capacity": "N",
+      "lag": 4,
+      "n": 11,
+      "complete": true,
+      "adaptive_waiting": 8.318181818181818,
+      "adaptive_requests": 3.875,
+      "fixed_waiting": 8.318181818181818,
+      "fixed_requests": 6,
+      "adaptive_gain": 0.0,
+      "states": 536
+    },
+    {
+      "case_id": "473d817f7137_k1",
+      "airport": "DEN",
+      "day": "2024-01-24",
+      "capacity": "N",
+      "lag": 5,
+      "n": 11,
+      "complete": true,
+      "adaptive_waiting": 10.465909090909092,
+      "adaptive_requests": 4.125,
+      "fixed_waiting": 10.488636363636363,
+      "fixed_requests": 6,
+      "adaptive_gain": 0.022727272727271597,
+      "states": 736
+    },
+    {
+      "case_id": "473d817f7137_k1",
+      "airport": "DEN",
+      "day": "2024-01-24",
+      "capacity": "N",
+      "lag": 6,
+      "n": 11,
+      "complete": true,
+      "adaptive_waiting": 12.840909090909092,
+      "adaptive_requests": 3.75,
+      "fixed_waiting": 12.931818181818182,
+      "fixed_requests": 5,
+      "adaptive_gain": 0.09090909090908994,
+      "states": 934
+    }
+  ],
+  "summary": [
+    {
+      "lag": 4,
+      "conditions": 1,
+      "attempted": 1,
+      "adaptive_waiting": 8.318181818181818,
+      "fixed_waiting": 8.318181818181818,
+      "adaptive_gain": 0.0,
+      "adaptive_requests": 3.875,
+      "max_states": 536
+    },
+    {
+      "lag": 5,
+      "conditions": 1,
+      "attempted": 1,
+      "adaptive_waiting": 10.465909090909092,
+      "fixed_waiting": 10.488636363636363,
+      "adaptive_gain": 0.022727272727271597,
+      "adaptive_requests": 4.125,
+      "max_states": 736
+    },
+    {
+      "lag": 6,
+      "conditions": 1,
+      "attempted": 1,
+      "adaptive_waiting": 12.840909090909092,
+      "fixed_waiting": 12.931818181818182,
+      "adaptive_gain": 0.09090909090908994,
+      "adaptive_requests": 3.75,
+      "max_states": 934
+    }
+  ],
+  "source_sha256": "6844a43c286b8f71cabdde2f7a55d9b1c24c4bae79b78e9b01e8107b85a3b791"
+}

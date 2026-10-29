@@ -55,6 +55,11 @@ Outputs in results/revision_20261029/request_value/ include exact policy
 intervals, corrected group-level valuation thresholds, input hashes and
 airport-date bootstrap intervals. This calculation does not rerun optimization.
 
+The travel-time sensitivity is in
+`results/trb_precision_20261028/travel_time_sensitivity/`; its smoke and full
+runs use the same frozen service calendars and independently replay every
+retained policy.
+
 ## Installation
 
 Python 3.11 is the tested interpreter. The retained experiment manifests use
