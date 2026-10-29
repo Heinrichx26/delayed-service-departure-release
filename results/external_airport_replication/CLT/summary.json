@@ -1,0 +1,54 @@
+[
+  {
+    "airport": "CLT",
+    "delay": 1,
+    "budget": 1,
+    "conditions": 240,
+    "exact_waiting": 15.475868055555555,
+    "greedy_waiting": 17.421640625,
+    "saving": 1.9457725694444443,
+    "strictly_improved": 192,
+    "greedy_requests": 4.1046875,
+    "exact_requests": 3.8984375,
+    "replay_checked": true
+  },
+  {
+    "airport": "CLT",
+    "delay": 1,
+    "budget": 2,
+    "conditions": 240,
+    "exact_waiting": 15.253645833333334,
+    "greedy_waiting": 15.733793402777778,
+    "saving": 0.4801475694444445,
+    "strictly_improved": 136,
+    "greedy_requests": 4.6109375,
+    "exact_requests": 3.8526041666666666,
+    "replay_checked": true
+  },
+  {
+    "airport": "CLT",
+    "delay": 2,
+    "budget": 1,
+    "conditions": 240,
+    "exact_waiting": 17.107256944444444,
+    "greedy_waiting": 17.558446180555556,
+    "saving": 0.4511892361111109,
+    "strictly_improved": 184,
+    "greedy_requests": 4.590104166666666,
+    "exact_requests": 4.0953125,
+    "replay_checked": true
+  },
+  {
+    "airport": "CLT",
+    "delay": 2,
+    "budget": 2,
+    "conditions": 240,
+    "exact_waiting": 16.888020833333332,
+    "greedy_waiting": 17.347335069444444,
+    "saving": 0.4593142361111111,
+    "strictly_improved": 184,
+    "greedy_requests": 4.681770833333333,
+    "exact_requests": 4.261979166666666,
+    "replay_checked": true
+  }
+]

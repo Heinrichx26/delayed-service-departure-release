@@ -1,0 +1,38 @@
+[
+  {
+    "airport": "ATL",
+    "month": 3,
+    "delay": 1,
+    "budget": 1,
+    "conditions": 120,
+    "saving": 0.36422277441164164,
+    "improved": 120
+  },
+  {
+    "airport": "ATL",
+    "month": 3,
+    "delay": 1,
+    "budget": 2,
+    "conditions": 120,
+    "saving": 0.14534104755203234,
+    "improved": 120
+  },
+  {
+    "airport": "ATL",
+    "month": 3,
+    "delay": 2,
+    "budget": 1,
+    "conditions": 120,
+    "saving": 0.42520383525469063,
+    "improved": 120
+  },
+  {
+    "airport": "ATL",
+    "month": 3,
+    "delay": 2,
+    "budget": 2,
+    "conditions": 120,
+    "saving": 0.4731837347047988,
+    "improved": 120
+  }
+]

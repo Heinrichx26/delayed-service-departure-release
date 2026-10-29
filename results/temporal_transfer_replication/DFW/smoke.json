@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "row": {
+    "case_id": "29d57bfb1a07",
+    "airport": "DFW",
+    "evaluation_year": 2024,
+    "donor_year": 2025,
+    "day": "2024-01-24",
+    "hour": 14,
+    "n": 3,
+    "capacity": "N4",
+    "delay": 1,
+    "budget": 1,
+    "exact_waiting": 16.125,
+    "greedy_waiting": 16.416666666666668,
+    "saving": 0.29166666666666785,
+    "exact_requests": 3.5,
+    "greedy_requests": 4.9375,
+    "exact_states": 1022,
+    "greedy_states": 501,
+    "exact_optimal": true,
+    "replay_checked": true
+  }
+}

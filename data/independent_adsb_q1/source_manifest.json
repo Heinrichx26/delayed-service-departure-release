@@ -1,0 +1,12 @@
+{
+  "source_name": "MrAirspace aircraft-flight-schedules 2025 Q1 detailed archive",
+  "source_url": "https://github.com/MrAirspace/aircraft-flight-schedules/releases/tag/aircraft_flight_schedules_2025_quarter1",
+  "raw_sha256": "21e43b9982bb252c92a412cadba7f78af3658a36ac0b8380b8786644f50199bd",
+  "processed_file": "data/independent_adsb_q1/processed/airport_departures_2025_q1.csv",
+  "processed_sha256": "2bbebdecafcd406f96ff279b17046ca9cc7be6d1b0c744ea68bcc387574536ec",
+  "processed_rows": 262207,
+  "airport_rows": {"ATL": 103234, "CLT": 72098, "DFW": 86875},
+  "utc_range": ["2025-01-01 00:00:11", "2025-03-31 23:59:41"],
+  "donor_days": "days 3--18 within each month",
+  "evaluation_days": "days 24 to month-end within each month"
+}

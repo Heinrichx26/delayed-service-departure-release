@@ -1,0 +1,820 @@
+{
+  "date": "2026-10-28",
+  "airport": "CLT",
+  "source": "data/third_airport_replication/bts_calendar_corrected.csv.gz",
+  "source_sha256": "2f16ff5e7bf352ed0a8028b29d8ad9e209659fb0d5fab8bd9bfddae2a2ce7035",
+  "selection": "January 3--18 donor dates and January 24--31 evaluation dates in 2024 and 2025; five starts at 10:00--18:00 local time; retain n>=2.",
+  "slot_minutes": 2,
+  "horizon_slots": 36,
+  "lag_slots": 6,
+  "cases": [
+    {
+      "case_id": "d66c443dab80",
+      "input_path": "data/third_airport_replication/CLT/cases/d66c443dab80.json",
+      "input_sha256": "c42876984b1ab4da6d39fa2211b35daea3f8fb3d079c25b25de5fb322418c2e6",
+      "airport": "CLT",
+      "day": "2024-01-24",
+      "hour": 10,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "f148fce2b5ca",
+      "input_path": "data/third_airport_replication/CLT/cases/f148fce2b5ca.json",
+      "input_sha256": "db432ca66e7cfaf06d6380eabfe0ddff378b04d844e704933d62a8a0dbe175fb",
+      "airport": "CLT",
+      "day": "2024-01-24",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "9b7562bcf7a2",
+      "input_path": "data/third_airport_replication/CLT/cases/9b7562bcf7a2.json",
+      "input_sha256": "fd713d3fdc215162b4d9e46fdc0e7dab0339d4cbc9ebbc927f5c7cc1cf4111f2",
+      "airport": "CLT",
+      "day": "2024-01-24",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "d78e0f994c9e",
+      "input_path": "data/third_airport_replication/CLT/cases/d78e0f994c9e.json",
+      "input_sha256": "d3c0e7ddca6b37ea25fc9609b24a1f234f44be96c78c41ee5ac5212f647040f6",
+      "airport": "CLT",
+      "day": "2024-01-24",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "9055f780af02",
+      "input_path": "data/third_airport_replication/CLT/cases/9055f780af02.json",
+      "input_sha256": "db63238d23168693b9e0feabe0f54eca519bf65c564153f18fcf79763165a228",
+      "airport": "CLT",
+      "day": "2024-01-24",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "cd6dce5b673b",
+      "input_path": "data/third_airport_replication/CLT/cases/cd6dce5b673b.json",
+      "input_sha256": "b51474ac40c21567e5bfd40ab3f7480c1c5db1faad7aefded34c464dee49bdcc",
+      "airport": "CLT",
+      "day": "2024-01-25",
+      "hour": 10,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "4ced8c6b3baa",
+      "input_path": "data/third_airport_replication/CLT/cases/4ced8c6b3baa.json",
+      "input_sha256": "181e008d5356b6f08eb140527ad0062fd3178b17cf100935462dcf41910a0e23",
+      "airport": "CLT",
+      "day": "2024-01-25",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "297c1b79bf5d",
+      "input_path": "data/third_airport_replication/CLT/cases/297c1b79bf5d.json",
+      "input_sha256": "d011e97164e656ba56ff0e096056618681dbdb9ccd987398bbf91033ee8ec9c1",
+      "airport": "CLT",
+      "day": "2024-01-25",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "882e8dbbc6ee",
+      "input_path": "data/third_airport_replication/CLT/cases/882e8dbbc6ee.json",
+      "input_sha256": "8a7640baf685d873d9d2b1c6977ebe02208adde1cccfd80be3f4df98e22d5652",
+      "airport": "CLT",
+      "day": "2024-01-25",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "b8750fb15941",
+      "input_path": "data/third_airport_replication/CLT/cases/b8750fb15941.json",
+      "input_sha256": "08dff0a4b930f80fe71f8b47c85919f7d8613ef45db43cd8faf40c92e5f28082",
+      "airport": "CLT",
+      "day": "2024-01-25",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "e2d0afef0bf7",
+      "input_path": "data/third_airport_replication/CLT/cases/e2d0afef0bf7.json",
+      "input_sha256": "fcfcbb18ab2c6db4c0a665fb6e4a6e7c2d8d42845d9a1994d18411f74a738b78",
+      "airport": "CLT",
+      "day": "2024-01-26",
+      "hour": 10,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "d1a9639e253c",
+      "input_path": "data/third_airport_replication/CLT/cases/d1a9639e253c.json",
+      "input_sha256": "4305e1e27985830b745489d80ced3c34ddc88280556e34bdaeacc53afda2a90e",
+      "airport": "CLT",
+      "day": "2024-01-26",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "deff2593999c",
+      "input_path": "data/third_airport_replication/CLT/cases/deff2593999c.json",
+      "input_sha256": "2370507aa4377425fdb40071bf78730afa5fa0480dbfad6bdad2b90b85b88158",
+      "airport": "CLT",
+      "day": "2024-01-26",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "a65a2128e977",
+      "input_path": "data/third_airport_replication/CLT/cases/a65a2128e977.json",
+      "input_sha256": "e9ab5c3211bafc57ea9cea836c21a074697cc204fac4c6affeb48a44b552ff7e",
+      "airport": "CLT",
+      "day": "2024-01-26",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "a5b3052aa9a6",
+      "input_path": "data/third_airport_replication/CLT/cases/a5b3052aa9a6.json",
+      "input_sha256": "f1c0edd0de579f9e9ab662a4346b72edf1e78ad9a7814dd7486de86f852ef058",
+      "airport": "CLT",
+      "day": "2024-01-26",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "b65595ed733a",
+      "input_path": "data/third_airport_replication/CLT/cases/b65595ed733a.json",
+      "input_sha256": "0aa50867573772fa30a0fa9b3923111e2ab1c81662390519450da63918551eb2",
+      "airport": "CLT",
+      "day": "2024-01-27",
+      "hour": 10,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "4591336a3485",
+      "input_path": "data/third_airport_replication/CLT/cases/4591336a3485.json",
+      "input_sha256": "ff117d2370fe8bf34b7487fb6e731c20e1c54e07536965d880eb126d04f11e93",
+      "airport": "CLT",
+      "day": "2024-01-27",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "9b0f9ee4ed96",
+      "input_path": "data/third_airport_replication/CLT/cases/9b0f9ee4ed96.json",
+      "input_sha256": "19221c3c879a3178b2e476b69716e7bfc3097b1d9e9c44f1d2a5523446e340f0",
+      "airport": "CLT",
+      "day": "2024-01-27",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "53771bbcc4b1",
+      "input_path": "data/third_airport_replication/CLT/cases/53771bbcc4b1.json",
+      "input_sha256": "f371b51844e463cbce3f194dff39c32f7cbcb9ab7a50d27a334f7ae11f5f1cb3",
+      "airport": "CLT",
+      "day": "2024-01-27",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "d9533c0b8456",
+      "input_path": "data/third_airport_replication/CLT/cases/d9533c0b8456.json",
+      "input_sha256": "b3050262c6537bf593c2679eb5d1f06acbc8b2eec9e91da1b28b54091353dcf0",
+      "airport": "CLT",
+      "day": "2024-01-27",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "bbdfa7f0b0c7",
+      "input_path": "data/third_airport_replication/CLT/cases/bbdfa7f0b0c7.json",
+      "input_sha256": "9d8e1df4616c1d627cc455daaf5f04055b6e228721e5a259ca92983d122e685b",
+      "airport": "CLT",
+      "day": "2024-01-28",
+      "hour": 10,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "2447ea46fbd2",
+      "input_path": "data/third_airport_replication/CLT/cases/2447ea46fbd2.json",
+      "input_sha256": "9c07f52f25137fcf8a717417739fc8cc7a56268df7b45ad2f03fa2e7f05198e2",
+      "airport": "CLT",
+      "day": "2024-01-28",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "b128b189b37b",
+      "input_path": "data/third_airport_replication/CLT/cases/b128b189b37b.json",
+      "input_sha256": "7286baaf83f79dd3c3d64093b9da02e039704edf0722aace24240df4d2030c6e",
+      "airport": "CLT",
+      "day": "2024-01-28",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "8a4f678c3eea",
+      "input_path": "data/third_airport_replication/CLT/cases/8a4f678c3eea.json",
+      "input_sha256": "2a44a16b90fee50e3fe3c2696b41fdeeb1c0d7daa01e38bfb911398ef4c22075",
+      "airport": "CLT",
+      "day": "2024-01-28",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "b3559ec400f5",
+      "input_path": "data/third_airport_replication/CLT/cases/b3559ec400f5.json",
+      "input_sha256": "f2c4ac61990a5dc55b7b970aa7be265a040ac7e802910013a3f4a6e6a420a4f3",
+      "airport": "CLT",
+      "day": "2024-01-28",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "691d3bf18a50",
+      "input_path": "data/third_airport_replication/CLT/cases/691d3bf18a50.json",
+      "input_sha256": "27bb16ada279d7eb916bc31956d379b0820b9ec07e7e89f45b10d9898cf0ecd8",
+      "airport": "CLT",
+      "day": "2024-01-29",
+      "hour": 10,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "306d013f2b92",
+      "input_path": "data/third_airport_replication/CLT/cases/306d013f2b92.json",
+      "input_sha256": "0725a7e281d7bb49c1006c721661fb10a8e2804cb7c0ded3b40fa7838ff8aeec",
+      "airport": "CLT",
+      "day": "2024-01-29",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "b4c2b55f5990",
+      "input_path": "data/third_airport_replication/CLT/cases/b4c2b55f5990.json",
+      "input_sha256": "2547b50218f6c9b37b01c5157ef24628952fc5613c063924bf8dc49af7d0a576",
+      "airport": "CLT",
+      "day": "2024-01-29",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "5493ac403834",
+      "input_path": "data/third_airport_replication/CLT/cases/5493ac403834.json",
+      "input_sha256": "fc855ac0fc4f3f36f1641935ab91187aa24e5f6ef62d5c1e0565ff3fb6e58af1",
+      "airport": "CLT",
+      "day": "2024-01-29",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "1456984670ef",
+      "input_path": "data/third_airport_replication/CLT/cases/1456984670ef.json",
+      "input_sha256": "dc6809b998334940150f9a46b0a8c49275416c2853dab876247b4393cb25a0a6",
+      "airport": "CLT",
+      "day": "2024-01-29",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "1dab7aca6de3",
+      "input_path": "data/third_airport_replication/CLT/cases/1dab7aca6de3.json",
+      "input_sha256": "0bfc8757fe4eee0fda89383161747e7e2c6469027ae4dedf1a630880ae08b077",
+      "airport": "CLT",
+      "day": "2024-01-30",
+      "hour": 10,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "4a9a42b25e02",
+      "input_path": "data/third_airport_replication/CLT/cases/4a9a42b25e02.json",
+      "input_sha256": "d316825825200a50d8228d4ae04e6d22e38e16b1fb33543aa8aeea13c8e2fcbf",
+      "airport": "CLT",
+      "day": "2024-01-30",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "dcf3dfdd5b9c",
+      "input_path": "data/third_airport_replication/CLT/cases/dcf3dfdd5b9c.json",
+      "input_sha256": "ee80cc02a2a9e50a3d2ed7500417d20c2d2cecee5e2515055d4255c9f9b46847",
+      "airport": "CLT",
+      "day": "2024-01-30",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "ae0456c5fbee",
+      "input_path": "data/third_airport_replication/CLT/cases/ae0456c5fbee.json",
+      "input_sha256": "8ce3f749dec3eec1b6f6688b0a919ebe47dabdf79784afc0e6af012bd46300d1",
+      "airport": "CLT",
+      "day": "2024-01-30",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "52f56a3ebf63",
+      "input_path": "data/third_airport_replication/CLT/cases/52f56a3ebf63.json",
+      "input_sha256": "1a932ccdd07faa835aef70a5c8c4d0ab21d2cb015285d0646e730a5c7ad049d3",
+      "airport": "CLT",
+      "day": "2024-01-30",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "f9444052b035",
+      "input_path": "data/third_airport_replication/CLT/cases/f9444052b035.json",
+      "input_sha256": "8d925a43407c924c2333d3c1058d5cba5dc3e2909ae643771fa2be33e8542d7d",
+      "airport": "CLT",
+      "day": "2024-01-31",
+      "hour": 10,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "235d7ce8a76f",
+      "input_path": "data/third_airport_replication/CLT/cases/235d7ce8a76f.json",
+      "input_sha256": "fed86dca3ff638651dc5b37271e130e9fe067bbbac07b8d592d99b49d3e7ee12",
+      "airport": "CLT",
+      "day": "2024-01-31",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "de1e4e5400d4",
+      "input_path": "data/third_airport_replication/CLT/cases/de1e4e5400d4.json",
+      "input_sha256": "dfe5dd699f9357ae51eea0141e7981a72cb2cdc8155b7a531c51a9751ace123a",
+      "airport": "CLT",
+      "day": "2024-01-31",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "79bf186f2d16",
+      "input_path": "data/third_airport_replication/CLT/cases/79bf186f2d16.json",
+      "input_sha256": "d04dbfa9425045583730713b840673a72744cb70480fd5a7b0ab4fa4d7a62a3a",
+      "airport": "CLT",
+      "day": "2024-01-31",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "84ac50a4ce2c",
+      "input_path": "data/third_airport_replication/CLT/cases/84ac50a4ce2c.json",
+      "input_sha256": "9927ff186f8a4a2f8009194eaf37fdb0928d74529a51e122612ad5560b6c2117",
+      "airport": "CLT",
+      "day": "2024-01-31",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "f1ba8069b63d",
+      "input_path": "data/third_airport_replication/CLT/cases/f1ba8069b63d.json",
+      "input_sha256": "7f43df55721a71ffc882d2a5756d8f3b9b9ce417d826e4fe16e18f9809d15d07",
+      "airport": "CLT",
+      "day": "2025-01-24",
+      "hour": 10,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "5fd36c87010c",
+      "input_path": "data/third_airport_replication/CLT/cases/5fd36c87010c.json",
+      "input_sha256": "a78e2398854137ad3dcf89a3df80f951cd8556c2f0501fe1802eaa672f6179a0",
+      "airport": "CLT",
+      "day": "2025-01-24",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "8355386ed3ee",
+      "input_path": "data/third_airport_replication/CLT/cases/8355386ed3ee.json",
+      "input_sha256": "7065c97ab6375f028799b19acb188e3c4ec9f83f143313e3e753ac3f65199822",
+      "airport": "CLT",
+      "day": "2025-01-24",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "662591589831",
+      "input_path": "data/third_airport_replication/CLT/cases/662591589831.json",
+      "input_sha256": "3088ac31a47581b5aff5043680811526df68b33216d3c20e701f19d06470b056",
+      "airport": "CLT",
+      "day": "2025-01-24",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "e2686fa7f9f4",
+      "input_path": "data/third_airport_replication/CLT/cases/e2686fa7f9f4.json",
+      "input_sha256": "e429fd678d54e0fe14e863813e02962ae702176de302dc30900c63145309adc2",
+      "airport": "CLT",
+      "day": "2025-01-24",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "20eb336bf3f9",
+      "input_path": "data/third_airport_replication/CLT/cases/20eb336bf3f9.json",
+      "input_sha256": "7c787f0e1d413557424c592264f4857660d8d0372408c9f17657dbe03aae60e4",
+      "airport": "CLT",
+      "day": "2025-01-25",
+      "hour": 10,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "b35d2761309e",
+      "input_path": "data/third_airport_replication/CLT/cases/b35d2761309e.json",
+      "input_sha256": "6cfc06e2cd1e50e72bb88118fa3df8258e3bbfed73763a9b90d287847bcf7ca1",
+      "airport": "CLT",
+      "day": "2025-01-25",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "ff299f8b6ac2",
+      "input_path": "data/third_airport_replication/CLT/cases/ff299f8b6ac2.json",
+      "input_sha256": "f04c33106fdb9da4b0e1c94872fa33598eedac2cbb764fb7b27534315ca3aaf1",
+      "airport": "CLT",
+      "day": "2025-01-25",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "b1e43e23227d",
+      "input_path": "data/third_airport_replication/CLT/cases/b1e43e23227d.json",
+      "input_sha256": "bdbced8702b4a8e997ca222996a0b13cf9bff780ab821374469d2295429a2001",
+      "airport": "CLT",
+      "day": "2025-01-25",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "46865b5e694c",
+      "input_path": "data/third_airport_replication/CLT/cases/46865b5e694c.json",
+      "input_sha256": "99943bb135e87dce5ed17b5f33b7353efa16da71f0c70f17f0afd0a17006d157",
+      "airport": "CLT",
+      "day": "2025-01-25",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "7ef743ec9938",
+      "input_path": "data/third_airport_replication/CLT/cases/7ef743ec9938.json",
+      "input_sha256": "c6fff17e2528f846d061d1e72ce5652205c0ce495e45d87582ace22fb298ea33",
+      "airport": "CLT",
+      "day": "2025-01-26",
+      "hour": 10,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "42eee12a4094",
+      "input_path": "data/third_airport_replication/CLT/cases/42eee12a4094.json",
+      "input_sha256": "43ac4fe8364e7dfec82ce42cedaf9abf142be4413afa8426bbade580c9c1bf16",
+      "airport": "CLT",
+      "day": "2025-01-26",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "e59ab05cc8d0",
+      "input_path": "data/third_airport_replication/CLT/cases/e59ab05cc8d0.json",
+      "input_sha256": "26a26b29419a20821a05b4657e5f651e25c716f9fdb7e20b5f9145740f035e81",
+      "airport": "CLT",
+      "day": "2025-01-26",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "041841a928c0",
+      "input_path": "data/third_airport_replication/CLT/cases/041841a928c0.json",
+      "input_sha256": "efd35fbe6ad52fb764fbd4a8e8bb314714a6133f9a45846b303e89a2763011a9",
+      "airport": "CLT",
+      "day": "2025-01-26",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "949302ae1904",
+      "input_path": "data/third_airport_replication/CLT/cases/949302ae1904.json",
+      "input_sha256": "d3aae8896093c52d8c433ecf0ce6cf70c68ff7cec882032f7d1b3eb3acd5b47c",
+      "airport": "CLT",
+      "day": "2025-01-26",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "09a75164c176",
+      "input_path": "data/third_airport_replication/CLT/cases/09a75164c176.json",
+      "input_sha256": "eaff1d301e1612f5929c18b3a108ac8f6b54c08df914da43458a9dddd2412119",
+      "airport": "CLT",
+      "day": "2025-01-27",
+      "hour": 10,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "eb36dcd9b693",
+      "input_path": "data/third_airport_replication/CLT/cases/eb36dcd9b693.json",
+      "input_sha256": "1bc4ffd8179af06e6265be31fe16a7d3bc63b4f6c00e2b954603e78bddddad46",
+      "airport": "CLT",
+      "day": "2025-01-27",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "b495147d0e47",
+      "input_path": "data/third_airport_replication/CLT/cases/b495147d0e47.json",
+      "input_sha256": "79ed8149211d5d4e98eefcc3f912ebdda26caf458815c82f4fbfbbf3fd6eb2e5",
+      "airport": "CLT",
+      "day": "2025-01-27",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "cd33124cd3db",
+      "input_path": "data/third_airport_replication/CLT/cases/cd33124cd3db.json",
+      "input_sha256": "61e17759625ff802f11223ed127edbc98cfaa94e4acad3755e0049ca7617cd14",
+      "airport": "CLT",
+      "day": "2025-01-27",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "ec548f4db045",
+      "input_path": "data/third_airport_replication/CLT/cases/ec548f4db045.json",
+      "input_sha256": "40e67093b7fc16d7fb7725c38a71cccd5fa06288652e4483915bd65139bb12a2",
+      "airport": "CLT",
+      "day": "2025-01-27",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "1c47e52076ae",
+      "input_path": "data/third_airport_replication/CLT/cases/1c47e52076ae.json",
+      "input_sha256": "4d9b7ed40c2adc830f8c3b51158cdfc6047b8575f37d4347f66a026b0e7ac0fd",
+      "airport": "CLT",
+      "day": "2025-01-28",
+      "hour": 10,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "9cde8547abd2",
+      "input_path": "data/third_airport_replication/CLT/cases/9cde8547abd2.json",
+      "input_sha256": "09945dd15579f5b4aed64652cf0445035b55185fc1aa38be5297c0f032692b12",
+      "airport": "CLT",
+      "day": "2025-01-28",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "723ec42e50dc",
+      "input_path": "data/third_airport_replication/CLT/cases/723ec42e50dc.json",
+      "input_sha256": "cb3162c40cb48eb375a60b621f86ff1be12ae718e2a270144a14e48cdc4993a4",
+      "airport": "CLT",
+      "day": "2025-01-28",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "943c3aef58cb",
+      "input_path": "data/third_airport_replication/CLT/cases/943c3aef58cb.json",
+      "input_sha256": "9039d0ddc12582b88cfe4d17223e6756812fd223fa2b759fb7e84ceada1968d4",
+      "airport": "CLT",
+      "day": "2025-01-28",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "118ba93358bf",
+      "input_path": "data/third_airport_replication/CLT/cases/118ba93358bf.json",
+      "input_sha256": "b7f43acd06142fedac6f34b75d3228cb86f5a36194387e71f463b34e6921f3a9",
+      "airport": "CLT",
+      "day": "2025-01-28",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "0ae5b226a26a",
+      "input_path": "data/third_airport_replication/CLT/cases/0ae5b226a26a.json",
+      "input_sha256": "330337ab7b30e7c10fca2ad546e1aeb06e0eb06e6c543332a05200e341948d09",
+      "airport": "CLT",
+      "day": "2025-01-29",
+      "hour": 10,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "acc0f7d819f0",
+      "input_path": "data/third_airport_replication/CLT/cases/acc0f7d819f0.json",
+      "input_sha256": "c43f39db7380b3069eb872b60d4154d9a962774bbd338acad90f63d6989b515b",
+      "airport": "CLT",
+      "day": "2025-01-29",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "6674ba816579",
+      "input_path": "data/third_airport_replication/CLT/cases/6674ba816579.json",
+      "input_sha256": "ab01247c091a11fec3f8820366106a4c21f82d4b3b14eacce745dc202f2e3c24",
+      "airport": "CLT",
+      "day": "2025-01-29",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "fdb7da44a8a1",
+      "input_path": "data/third_airport_replication/CLT/cases/fdb7da44a8a1.json",
+      "input_sha256": "c9c63fae1320f6e5c572e7a6abb39c3605d71e68bb421d8bd52dc0d3b7da8611",
+      "airport": "CLT",
+      "day": "2025-01-29",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "9849ed5495f8",
+      "input_path": "data/third_airport_replication/CLT/cases/9849ed5495f8.json",
+      "input_sha256": "72869a3796ce2db959b3b9c641a45c9de26ebf3e4bae53889424be4401f219b4",
+      "airport": "CLT",
+      "day": "2025-01-29",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "1e084a31d9f8",
+      "input_path": "data/third_airport_replication/CLT/cases/1e084a31d9f8.json",
+      "input_sha256": "0f50980598aa22559031074491141e53a206e213267ad09686622cd1c3d6789a",
+      "airport": "CLT",
+      "day": "2025-01-30",
+      "hour": 10,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "c90de5adbc70",
+      "input_path": "data/third_airport_replication/CLT/cases/c90de5adbc70.json",
+      "input_sha256": "d1319d55f521dee97e9d533b275972b74964106c437871d1047a540961cf4734",
+      "airport": "CLT",
+      "day": "2025-01-30",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "3845a7970212",
+      "input_path": "data/third_airport_replication/CLT/cases/3845a7970212.json",
+      "input_sha256": "3674bc15adb76c2f82131080d3e949f4c63098eadf9ee7116b6b67b306e26105",
+      "airport": "CLT",
+      "day": "2025-01-30",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "3f15d5c5d1b6",
+      "input_path": "data/third_airport_replication/CLT/cases/3f15d5c5d1b6.json",
+      "input_sha256": "e908ea5edb643637b8f1b9b48235e0b91c364350879322e26aaef6b8af6bd8cf",
+      "airport": "CLT",
+      "day": "2025-01-30",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "221f74c7cdb9",
+      "input_path": "data/third_airport_replication/CLT/cases/221f74c7cdb9.json",
+      "input_sha256": "c32529dde7071a08f84b2e547d9bcd8252e9766b3e24358426831249b928fa8c",
+      "airport": "CLT",
+      "day": "2025-01-30",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "c555e586d715",
+      "input_path": "data/third_airport_replication/CLT/cases/c555e586d715.json",
+      "input_sha256": "929254c09454016cd1bf4d7e3b8ead2a8497b0379dc6ed78ff6153cfd1864531",
+      "airport": "CLT",
+      "day": "2025-01-31",
+      "hour": 10,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "a2cfcd222d70",
+      "input_path": "data/third_airport_replication/CLT/cases/a2cfcd222d70.json",
+      "input_sha256": "489cdd4a20c2deda04db61c4cc9fc3fd64bd61edcb96f72d49b8a4ede7156fa2",
+      "airport": "CLT",
+      "day": "2025-01-31",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "784e97c4afbc",
+      "input_path": "data/third_airport_replication/CLT/cases/784e97c4afbc.json",
+      "input_sha256": "3013dca5fc89dcd1bded88e807c4ca73425a84a768d6b38452df6c6af027f1bd",
+      "airport": "CLT",
+      "day": "2025-01-31",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "f76e82d8b439",
+      "input_path": "data/third_airport_replication/CLT/cases/f76e82d8b439.json",
+      "input_sha256": "3ef3b83616b11e1067ae135ecd5a01d0331a8121a000055aff660569f79f0d65",
+      "airport": "CLT",
+      "day": "2025-01-31",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "ebee83061d56",
+      "input_path": "data/third_airport_replication/CLT/cases/ebee83061d56.json",
+      "input_sha256": "343cb4de5ef0fcaae35e5e0570b69608868557177fbbf97a4f4f05e4523af746",
+      "airport": "CLT",
+      "day": "2025-01-31",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    }
+  ],
+  "delays": [
+    1,
+    2
+  ],
+  "budgets": [
+    1,
+    2
+  ]
+}

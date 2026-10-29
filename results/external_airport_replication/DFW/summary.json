@@ -1,0 +1,54 @@
+[
+  {
+    "airport": "DFW",
+    "delay": 1,
+    "budget": 1,
+    "conditions": 168,
+    "exact_waiting": 14.373511904761905,
+    "greedy_waiting": 17.06845238095238,
+    "saving": 2.6949404761904763,
+    "strictly_improved": 144,
+    "greedy_requests": 4.217261904761905,
+    "exact_requests": 4.002976190476191,
+    "replay_checked": true
+  },
+  {
+    "airport": "DFW",
+    "delay": 1,
+    "budget": 2,
+    "conditions": 168,
+    "exact_waiting": 14.34375,
+    "greedy_waiting": 14.598214285714286,
+    "saving": 0.2544642857142857,
+    "strictly_improved": 80,
+    "greedy_requests": 4.616071428571429,
+    "exact_requests": 4.002976190476191,
+    "replay_checked": true
+  },
+  {
+    "airport": "DFW",
+    "delay": 2,
+    "budget": 1,
+    "conditions": 168,
+    "exact_waiting": 17.234623015873016,
+    "greedy_waiting": 18.460813492063494,
+    "saving": 1.2261904761904763,
+    "strictly_improved": 128,
+    "greedy_requests": 4.556547619047619,
+    "exact_requests": 3.556547619047619,
+    "replay_checked": true
+  },
+  {
+    "airport": "DFW",
+    "delay": 2,
+    "budget": 2,
+    "conditions": 168,
+    "exact_waiting": 16.91765873015873,
+    "greedy_waiting": 18.472718253968253,
+    "saving": 1.5550595238095237,
+    "strictly_improved": 168,
+    "greedy_requests": 4.616071428571429,
+    "exact_requests": 3.892857142857143,
+    "replay_checked": true
+  }
+]

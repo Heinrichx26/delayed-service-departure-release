@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "row": {
+    "case_id": "07a2bb4f58a6",
+    "airport": "CLT",
+    "month": 2,
+    "day": "2025-02-24",
+    "hour": 10,
+    "n": 32,
+    "capacity": "N4",
+    "delay": 1,
+    "budget": 1,
+    "saving": 0.09765625,
+    "exact_optimal": true,
+    "replay_checked": true
+  }
+}

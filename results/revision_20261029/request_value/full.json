@@ -1,0 +1,190 @@
+{
+  "passed": true,
+  "phase": "full",
+  "script_sha256": "3ae220391cf505c3a7de422f539b4ecc6e660c822b67bffc81c013ef83a49077",
+  "inputs": {
+    "results\\trb_precision_20261028\\frontier_rows.json": "6da463e5b2492a943eeb76f4a68e0d92fba03b4b061c53510505ac8a5c9c7b91",
+    "results\\independent_adsb_replication\\ATL\\rows.json": "ab83f09d856abcb75069767a1285f751d53c8b9db805428e21323c63291beee3",
+    "results\\independent_adsb_replication\\CLT\\rows.json": "fc953da695ea01f030db5140f046309bb96302d4a2ea60e6a9cfdc9e22958893",
+    "results\\independent_adsb_replication\\DFW\\rows.json": "8e63ddcbd4af7c74515b2609d539e74faeeb8303702e8f8fe0fe36d995fd89bd"
+  },
+  "conditions": 1200,
+  "points": 22442,
+  "supported": 8523,
+  "summary": [
+    {
+      "delay": 1,
+      "width": 1,
+      "conditions": 200,
+      "active": 194,
+      "points": 4411,
+      "supported": 1814,
+      "first_switch_median": 2.0,
+      "first_switch_range": [
+        0.25,
+        8.4
+      ],
+      "no_request_median": 16.875,
+      "no_request_range": [
+        1.6551724137931034,
+        80.0
+      ]
+    },
+    {
+      "delay": 1,
+      "width": 2,
+      "conditions": 200,
+      "active": 191,
+      "points": 5438,
+      "supported": 1858,
+      "first_switch_median": 1.0,
+      "first_switch_range": [
+        0.14285714285714285,
+        7.0
+      ],
+      "no_request_median": 12.0,
+      "no_request_range": [
+        0.5,
+        66.9
+      ]
+    },
+    {
+      "delay": 1,
+      "width": 4,
+      "conditions": 200,
+      "active": 133,
+      "points": 1959,
+      "supported": 734,
+      "first_switch_median": 1.1111111111111112,
+      "first_switch_range": [
+        0.125,
+        9.125
+      ],
+      "no_request_median": 9.5,
+      "no_request_range": [
+        0.125,
+        59.0
+      ]
+    },
+    {
+      "delay": 2,
+      "width": 1,
+      "conditions": 200,
+      "active": 194,
+      "points": 4285,
+      "supported": 1785,
+      "first_switch_median": 0.4444444444444444,
+      "first_switch_range": [
+        0.125,
+        19.142857142857142
+      ],
+      "no_request_median": 15.75,
+      "no_request_range": [
+        1.25,
+        68.42105263157895
+      ]
+    },
+    {
+      "delay": 2,
+      "width": 2,
+      "conditions": 200,
+      "active": 191,
+      "points": 4720,
+      "supported": 1629,
+      "first_switch_median": 0.5,
+      "first_switch_range": [
+        0.1111111111111111,
+        2.4
+      ],
+      "no_request_median": 10.476190476190476,
+      "no_request_range": [
+        0.25,
+        58.9
+      ]
+    },
+    {
+      "delay": 2,
+      "width": 4,
+      "conditions": 200,
+      "active": 129,
+      "points": 1629,
+      "supported": 703,
+      "first_switch_median": 1.0,
+      "first_switch_range": [
+        0.125,
+        7.428571428571429
+      ],
+      "no_request_median": 8.75,
+      "no_request_range": [
+        0.5,
+        50.875
+      ]
+    }
+  ],
+  "external": [
+    {
+      "delay": 1,
+      "budget": 1,
+      "conditions": 285,
+      "clusters": 24,
+      "mean_saving_per_departure": 0.8477270370375273,
+      "mean_group_aircraft_minutes": 12.562280701754387,
+      "mean_extra_requests": 0.4925438596491228,
+      "break_even_aircraft_minutes_per_request": 25.504897595725737,
+      "ci95": [
+        24.179423868312757,
+        27.639810426540283
+      ],
+      "bootstrap_positive_denominator": 5000,
+      "weak_dominance_conditions": 24
+    },
+    {
+      "delay": 1,
+      "budget": 2,
+      "conditions": 285,
+      "clusters": 24,
+      "mean_saving_per_departure": 0.29880788472972025,
+      "mean_group_aircraft_minutes": 4.029824561403511,
+      "mean_extra_requests": 0.19736842105263158,
+      "break_even_aircraft_minutes_per_request": 20.41777777777779,
+      "ci95": [
+        17.35495495495498,
+        25.48277591036411
+      ],
+      "bootstrap_positive_denominator": 5000,
+      "weak_dominance_conditions": 56
+    },
+    {
+      "delay": 2,
+      "budget": 1,
+      "conditions": 285,
+      "clusters": 24,
+      "mean_saving_per_departure": 0.35592948045170136,
+      "mean_group_aircraft_minutes": 5.247368421052632,
+      "mean_extra_requests": 0.48026315789473684,
+      "break_even_aircraft_minutes_per_request": 10.926027397260274,
+      "ci95": [
+        9.073859987154785,
+        15.941018766756036
+      ],
+      "bootstrap_positive_denominator": 5000,
+      "weak_dominance_conditions": 56
+    },
+    {
+      "delay": 2,
+      "budget": 2,
+      "conditions": 285,
+      "clusters": 24,
+      "mean_saving_per_departure": 0.3778243022183164,
+      "mean_group_aircraft_minutes": 5.801754385964914,
+      "mean_extra_requests": 0.6300438596491228,
+      "break_even_aircraft_minutes_per_request": 9.208492864601464,
+      "ci95": [
+        7.88907376594565,
+        12.176100628930818
+      ],
+      "bootstrap_positive_denominator": 5000,
+      "weak_dominance_conditions": 72
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "airport": "DFW",
+    "month": 3,
+    "delay": 1,
+    "budget": 1,
+    "conditions": 120,
+    "saving": 0.5468576620229401,
+    "improved": 120
+  },
+  {
+    "airport": "DFW",
+    "month": 3,
+    "delay": 1,
+    "budget": 2,
+    "conditions": 120,
+    "saving": 0.23562435496821443,
+    "improved": 120
+  },
+  {
+    "airport": "DFW",
+    "month": 3,
+    "delay": 2,
+    "budget": 1,
+    "conditions": 120,
+    "saving": 0.34786780723611344,
+    "improved": 120
+  },
+  {
+    "airport": "DFW",
+    "month": 3,
+    "delay": 2,
+    "budget": 2,
+    "conditions": 120,
+    "saving": 0.38564233515072743,
+    "improved": 120
+  }
+]

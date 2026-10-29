@@ -1,0 +1,812 @@
+[
+  {
+    "case_id": "473d817f7137_k1",
+    "capacity": "N",
+    "airport": "DEN",
+    "day": "2024-01-24",
+    "delay": 1,
+    "width": 1,
+    "n": 11,
+    "points": 22,
+    "supported": 8,
+    "intervals": [
+      {
+        "index": 0,
+        "lower": 0.0,
+        "upper": 6.0,
+        "lower_exact": "0",
+        "upper_exact": "6"
+      },
+      {
+        "index": 1,
+        "lower": 6.0,
+        "upper": 6.222222222222222,
+        "lower_exact": "6",
+        "upper_exact": "56/9"
+      },
+      {
+        "index": 7,
+        "lower": 6.222222222222222,
+        "upper": 10.0,
+        "lower_exact": "56/9",
+        "upper_exact": "10"
+      },
+      {
+        "index": 10,
+        "lower": 10.0,
+        "upper": 14.0,
+        "lower_exact": "10",
+        "upper_exact": "14"
+      },
+      {
+        "index": 11,
+        "lower": 14.0,
+        "upper": 17.333333333333332,
+        "lower_exact": "14",
+        "upper_exact": "52/3"
+      },
+      {
+        "index": 15,
+        "lower": 17.333333333333332,
+        "upper": 20.5,
+        "lower_exact": "52/3",
+        "upper_exact": "41/2"
+      },
+      {
+        "index": 18,
+        "lower": 20.5,
+        "upper": 20.7,
+        "lower_exact": "41/2",
+        "upper_exact": "207/10"
+      },
+      {
+        "index": 21,
+        "lower": 20.7,
+        "upper": null,
+        "lower_exact": "207/10",
+        "upper_exact": null
+      }
+    ],
+    "first_switch": 6.0,
+    "no_request_threshold": 20.7
+  },
+  {
+    "case_id": "473d817f7137_k1",
+    "capacity": "N",
+    "airport": "DEN",
+    "day": "2024-01-24",
+    "delay": 1,
+    "width": 2,
+    "n": 11,
+    "points": 30,
+    "supported": 12,
+    "intervals": [
+      {
+        "index": 0,
+        "lower": 0.0,
+        "upper": 0.25,
+        "lower_exact": "0",
+        "upper_exact": "1/4"
+      },
+      {
+        "index": 1,
+        "lower": 0.25,
+        "upper": 1.0,
+        "lower_exact": "1/4",
+        "upper_exact": "1"
+      },
+      {
+        "index": 2,
+        "lower": 1.0,
+        "upper": 2.0,
+        "lower_exact": "1",
+        "upper_exact": "2"
+      },
+      {
+        "index": 3,
+        "lower": 2.0,
+        "upper": 5.333333333333333,
+        "lower_exact": "2",
+        "upper_exact": "16/3"
+      },
+      {
+        "index": 5,
+        "lower": 5.333333333333333,
+        "upper": 5.4,
+        "lower_exact": "16/3",
+        "upper_exact": "27/5"
+      },
+      {
+        "index": 13,
+        "lower": 5.4,
+        "upper": 7.0,
+        "lower_exact": "27/5",
+        "upper_exact": "7"
+      },
+      {
+        "index": 14,
+        "lower": 7.0,
+        "upper": 7.0,
+        "lower_exact": "7",
+        "upper_exact": "7"
+      },
+      {
+        "index": 16,
+        "lower": 7.0,
+        "upper": 7.0,
+        "lower_exact": "7",
+        "upper_exact": "7"
+      },
+      {
+        "index": 17,
+        "lower": 7.0,
+        "upper": 10.0,
+        "lower_exact": "7",
+        "upper_exact": "10"
+      },
+      {
+        "index": 18,
+        "lower": 10.0,
+        "upper": 13.0,
+        "lower_exact": "10",
+        "upper_exact": "13"
+      },
+      {
+        "index": 19,
+        "lower": 13.0,
+        "upper": 15.058823529411764,
+        "lower_exact": "13",
+        "upper_exact": "256/17"
+      },
+      {
+        "index": 29,
+        "lower": 15.058823529411764,
+        "upper": null,
+        "lower_exact": "256/17",
+        "upper_exact": null
+      }
+    ],
+    "first_switch": 0.25,
+    "no_request_threshold": 15.058823529411764
+  },
+  {
+    "case_id": "473d817f7137_k1",
+    "capacity": "N",
+    "airport": "DEN",
+    "day": "2024-01-24",
+    "delay": 1,
+    "width": 4,
+    "n": 11,
+    "points": 2,
+    "supported": 2,
+    "intervals": [
+      {
+        "index": 0,
+        "lower": 0.0,
+        "upper": 3.75,
+        "lower_exact": "0",
+        "upper_exact": "15/4"
+      },
+      {
+        "index": 1,
+        "lower": 3.75,
+        "upper": null,
+        "lower_exact": "15/4",
+        "upper_exact": null
+      }
+    ],
+    "first_switch": 3.75,
+    "no_request_threshold": 3.75
+  },
+  {
+    "case_id": "473d817f7137_k1",
+    "capacity": "N",
+    "airport": "DEN",
+    "day": "2024-01-24",
+    "delay": 2,
+    "width": 1,
+    "n": 11,
+    "points": 25,
+    "supported": 10,
+    "intervals": [
+      {
+        "index": 0,
+        "lower": 0.0,
+        "upper": 1.0,
+        "lower_exact": "0",
+        "upper_exact": "1"
+      },
+      {
+        "index": 1,
+        "lower": 1.0,
+        "upper": 2.0,
+        "lower_exact": "1",
+        "upper_exact": "2"
+      },
+      {
+        "index": 2,
+        "lower": 2.0,
+        "upper": 4.4,
+        "lower_exact": "2",
+        "upper_exact": "22/5"
+      },
+      {
+        "index": 4,
+        "lower": 4.4,
+        "upper": 6.0,
+        "lower_exact": "22/5",
+        "upper_exact": "6"
+      },
+      {
+        "index": 5,
+        "lower": 6.0,
+        "upper": 8.0,
+        "lower_exact": "6",
+        "upper_exact": "8"
+      },
+      {
+        "index": 7,
+        "lower": 8.0,
+        "upper": 8.0,
+        "lower_exact": "8",
+        "upper_exact": "8"
+      },
+      {
+        "index": 9,
+        "lower": 8.0,
+        "upper": 10.0,
+        "lower_exact": "8",
+        "upper_exact": "10"
+      },
+      {
+        "index": 10,
+        "lower": 10.0,
+        "upper": 10.705882352941176,
+        "lower_exact": "10",
+        "upper_exact": "182/17"
+      },
+      {
+        "index": 21,
+        "lower": 10.705882352941176,
+        "upper": 17.9,
+        "lower_exact": "182/17",
+        "upper_exact": "179/10"
+      },
+      {
+        "index": 24,
+        "lower": 17.9,
+        "upper": null,
+        "lower_exact": "179/10",
+        "upper_exact": null
+      }
+    ],
+    "first_switch": 1.0,
+    "no_request_threshold": 17.9
+  },
+  {
+    "case_id": "473d817f7137_k1",
+    "capacity": "N",
+    "airport": "DEN",
+    "day": "2024-01-24",
+    "delay": 2,
+    "width": 2,
+    "n": 11,
+    "points": 28,
+    "supported": 9,
+    "intervals": [
+      {
+        "index": 0,
+        "lower": 0.0,
+        "upper": 0.7272727272727273,
+        "lower_exact": "0",
+        "upper_exact": "8/11"
+      },
+      {
+        "index": 3,
+        "lower": 0.7272727272727273,
+        "upper": 1.0,
+        "lower_exact": "8/11",
+        "upper_exact": "1"
+      },
+      {
+        "index": 4,
+        "lower": 1.0,
+        "upper": 1.0,
+        "lower_exact": "1",
+        "upper_exact": "1"
+      },
+      {
+        "index": 5,
+        "lower": 1.0,
+        "upper": 1.6,
+        "lower_exact": "1",
+        "upper_exact": "8/5"
+      },
+      {
+        "index": 7,
+        "lower": 1.6,
+        "upper": 5.5,
+        "lower_exact": "8/5",
+        "upper_exact": "11/2"
+      },
+      {
+        "index": 9,
+        "lower": 5.5,
+        "upper": 7.6,
+        "lower_exact": "11/2",
+        "upper_exact": "38/5"
+      },
+      {
+        "index": 20,
+        "lower": 7.6,
+        "upper": 9.538461538461538,
+        "lower_exact": "38/5",
+        "upper_exact": "124/13"
+      },
+      {
+        "index": 24,
+        "lower": 9.538461538461538,
+        "upper": 13.909090909090908,
+        "lower_exact": "124/13",
+        "upper_exact": "153/11"
+      },
+      {
+        "index": 27,
+        "lower": 13.909090909090908,
+        "upper": null,
+        "lower_exact": "153/11",
+        "upper_exact": null
+      }
+    ],
+    "first_switch": 0.7272727272727273,
+    "no_request_threshold": 13.909090909090908
+  },
+  {
+    "case_id": "473d817f7137_k1",
+    "capacity": "N",
+    "airport": "DEN",
+    "day": "2024-01-24",
+    "delay": 2,
+    "width": 4,
+    "n": 11,
+    "points": 2,
+    "supported": 2,
+    "intervals": [
+      {
+        "index": 0,
+        "lower": 0.0,
+        "upper": 1.875,
+        "lower_exact": "0",
+        "upper_exact": "15/8"
+      },
+      {
+        "index": 1,
+        "lower": 1.875,
+        "upper": null,
+        "lower_exact": "15/8",
+        "upper_exact": null
+      }
+    ],
+    "first_switch": 1.875,
+    "no_request_threshold": 1.875
+  },
+  {
+    "case_id": "931988388d77_k1",
+    "capacity": "N",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "delay": 1,
+    "width": 1,
+    "n": 23,
+    "points": 20,
+    "supported": 10,
+    "intervals": [
+      {
+        "index": 0,
+        "lower": 0.0,
+        "upper": 2.0,
+        "lower_exact": "0",
+        "upper_exact": "2"
+      },
+      {
+        "index": 1,
+        "lower": 2.0,
+        "upper": 6.0,
+        "lower_exact": "2",
+        "upper_exact": "6"
+      },
+      {
+        "index": 2,
+        "lower": 6.0,
+        "upper": 8.0,
+        "lower_exact": "6",
+        "upper_exact": "8"
+      },
+      {
+        "index": 3,
+        "lower": 8.0,
+        "upper": 14.0,
+        "lower_exact": "8",
+        "upper_exact": "14"
+      },
+      {
+        "index": 5,
+        "lower": 14.0,
+        "upper": 16.0,
+        "lower_exact": "14",
+        "upper_exact": "16"
+      },
+      {
+        "index": 6,
+        "lower": 16.0,
+        "upper": 28.0,
+        "lower_exact": "16",
+        "upper_exact": "28"
+      },
+      {
+        "index": 8,
+        "lower": 28.0,
+        "upper": 37.0,
+        "lower_exact": "28",
+        "upper_exact": "37"
+      },
+      {
+        "index": 11,
+        "lower": 37.0,
+        "upper": 40.8,
+        "lower_exact": "37",
+        "upper_exact": "204/5"
+      },
+      {
+        "index": 15,
+        "lower": 40.8,
+        "upper": 44.125,
+        "lower_exact": "204/5",
+        "upper_exact": "353/8"
+      },
+      {
+        "index": 19,
+        "lower": 44.125,
+        "upper": null,
+        "lower_exact": "353/8",
+        "upper_exact": null
+      }
+    ],
+    "first_switch": 2.0,
+    "no_request_threshold": 44.125
+  },
+  {
+    "case_id": "931988388d77_k1",
+    "capacity": "N",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "delay": 1,
+    "width": 2,
+    "n": 23,
+    "points": 34,
+    "supported": 10,
+    "intervals": [
+      {
+        "index": 0,
+        "lower": 0.0,
+        "upper": 2.0,
+        "lower_exact": "0",
+        "upper_exact": "2"
+      },
+      {
+        "index": 1,
+        "lower": 2.0,
+        "upper": 2.8,
+        "lower_exact": "2",
+        "upper_exact": "14/5"
+      },
+      {
+        "index": 6,
+        "lower": 2.8,
+        "upper": 3.0,
+        "lower_exact": "14/5",
+        "upper_exact": "3"
+      },
+      {
+        "index": 8,
+        "lower": 3.0,
+        "upper": 4.5,
+        "lower_exact": "3",
+        "upper_exact": "9/2"
+      },
+      {
+        "index": 12,
+        "lower": 4.5,
+        "upper": 8.666666666666666,
+        "lower_exact": "9/2",
+        "upper_exact": "26/3"
+      },
+      {
+        "index": 15,
+        "lower": 8.666666666666666,
+        "upper": 10.444444444444445,
+        "lower_exact": "26/3",
+        "upper_exact": "94/9"
+      },
+      {
+        "index": 22,
+        "lower": 10.444444444444445,
+        "upper": 14.0,
+        "lower_exact": "94/9",
+        "upper_exact": "14"
+      },
+      {
+        "index": 23,
+        "lower": 14.0,
+        "upper": 30.0,
+        "lower_exact": "14",
+        "upper_exact": "30"
+      },
+      {
+        "index": 24,
+        "lower": 30.0,
+        "upper": 35.42857142857143,
+        "lower_exact": "30",
+        "upper_exact": "248/7"
+      },
+      {
+        "index": 33,
+        "lower": 35.42857142857143,
+        "upper": null,
+        "lower_exact": "248/7",
+        "upper_exact": null
+      }
+    ],
+    "first_switch": 2.0,
+    "no_request_threshold": 35.42857142857143
+  },
+  {
+    "case_id": "931988388d77_k1",
+    "capacity": "N",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "delay": 1,
+    "width": 4,
+    "n": 23,
+    "points": 22,
+    "supported": 7,
+    "intervals": [
+      {
+        "index": 0,
+        "lower": 0.0,
+        "upper": 2.0,
+        "lower_exact": "0",
+        "upper_exact": "2"
+      },
+      {
+        "index": 1,
+        "lower": 2.0,
+        "upper": 3.7777777777777777,
+        "lower_exact": "2",
+        "upper_exact": "34/9"
+      },
+      {
+        "index": 5,
+        "lower": 3.7777777777777777,
+        "upper": 4.0,
+        "lower_exact": "34/9",
+        "upper_exact": "4"
+      },
+      {
+        "index": 6,
+        "lower": 4.0,
+        "upper": 6.0,
+        "lower_exact": "4",
+        "upper_exact": "6"
+      },
+      {
+        "index": 7,
+        "lower": 6.0,
+        "upper": 16.0,
+        "lower_exact": "6",
+        "upper_exact": "16"
+      },
+      {
+        "index": 9,
+        "lower": 16.0,
+        "upper": 20.186046511627907,
+        "lower_exact": "16",
+        "upper_exact": "868/43"
+      },
+      {
+        "index": 21,
+        "lower": 20.186046511627907,
+        "upper": null,
+        "lower_exact": "868/43",
+        "upper_exact": null
+      }
+    ],
+    "first_switch": 2.0,
+    "no_request_threshold": 20.186046511627907
+  },
+  {
+    "case_id": "931988388d77_k1",
+    "capacity": "N",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "delay": 2,
+    "width": 1,
+    "n": 23,
+    "points": 19,
+    "supported": 6,
+    "intervals": [
+      {
+        "index": 0,
+        "lower": 0.0,
+        "upper": 0.8571428571428571,
+        "lower_exact": "0",
+        "upper_exact": "6/7"
+      },
+      {
+        "index": 3,
+        "lower": 0.8571428571428571,
+        "upper": 5.0,
+        "lower_exact": "6/7",
+        "upper_exact": "5"
+      },
+      {
+        "index": 4,
+        "lower": 5.0,
+        "upper": 10.4,
+        "lower_exact": "5",
+        "upper_exact": "52/5"
+      },
+      {
+        "index": 7,
+        "lower": 10.4,
+        "upper": 21.625,
+        "lower_exact": "52/5",
+        "upper_exact": "173/8"
+      },
+      {
+        "index": 16,
+        "lower": 21.625,
+        "upper": 39.5,
+        "lower_exact": "173/8",
+        "upper_exact": "79/2"
+      },
+      {
+        "index": 18,
+        "lower": 39.5,
+        "upper": null,
+        "lower_exact": "79/2",
+        "upper_exact": null
+      }
+    ],
+    "first_switch": 0.8571428571428571,
+    "no_request_threshold": 39.5
+  },
+  {
+    "case_id": "931988388d77_k1",
+    "capacity": "N",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "delay": 2,
+    "width": 2,
+    "n": 23,
+    "points": 26,
+    "supported": 10,
+    "intervals": [
+      {
+        "index": 0,
+        "lower": 0.0,
+        "upper": 2.0,
+        "lower_exact": "0",
+        "upper_exact": "2"
+      },
+      {
+        "index": 2,
+        "lower": 2.0,
+        "upper": 3.0,
+        "lower_exact": "2",
+        "upper_exact": "3"
+      },
+      {
+        "index": 4,
+        "lower": 3.0,
+        "upper": 3.2,
+        "lower_exact": "3",
+        "upper_exact": "16/5"
+      },
+      {
+        "index": 7,
+        "lower": 3.2,
+        "upper": 6.5,
+        "lower_exact": "16/5",
+        "upper_exact": "13/2"
+      },
+      {
+        "index": 9,
+        "lower": 6.5,
+        "upper": 11.0,
+        "lower_exact": "13/2",
+        "upper_exact": "11"
+      },
+      {
+        "index": 10,
+        "lower": 11.0,
+        "upper": 11.0,
+        "lower_exact": "11",
+        "upper_exact": "11"
+      },
+      {
+        "index": 11,
+        "lower": 11.0,
+        "upper": 16.0,
+        "lower_exact": "11",
+        "upper_exact": "16"
+      },
+      {
+        "index": 14,
+        "lower": 16.0,
+        "upper": 17.5,
+        "lower_exact": "16",
+        "upper_exact": "35/2"
+      },
+      {
+        "index": 18,
+        "lower": 17.5,
+        "upper": 28.75,
+        "lower_exact": "35/2",
+        "upper_exact": "115/4"
+      },
+      {
+        "index": 25,
+        "lower": 28.75,
+        "upper": null,
+        "lower_exact": "115/4",
+        "upper_exact": null
+      }
+    ],
+    "first_switch": 2.0,
+    "no_request_threshold": 28.75
+  },
+  {
+    "case_id": "931988388d77_k1",
+    "capacity": "N",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "delay": 2,
+    "width": 4,
+    "n": 23,
+    "points": 15,
+    "supported": 4,
+    "intervals": [
+      {
+        "index": 0,
+        "lower": 0.0,
+        "upper": 3.090909090909091,
+        "lower_exact": "0",
+        "upper_exact": "34/11"
+      },
+      {
+        "index": 3,
+        "lower": 3.090909090909091,
+        "upper": 10.666666666666666,
+        "lower_exact": "34/11",
+        "upper_exact": "32/3"
+      },
+      {
+        "index": 5,
+        "lower": 10.666666666666666,
+        "upper": 17.136363636363637,
+        "lower_exact": "32/3",
+        "upper_exact": "377/22"
+      },
+      {
+        "index": 14,
+        "lower": 17.136363636363637,
+        "upper": null,
+        "lower_exact": "377/22",
+        "upper_exact": null
+      }
+    ],
+    "first_switch": 3.090909090909091,
+    "no_request_threshold": 17.136363636363637
+  }
+]

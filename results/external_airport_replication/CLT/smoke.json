@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "row": {
+    "case_id": "d66c443dab80",
+    "airport": "CLT",
+    "day": "2024-01-24",
+    "hour": 10,
+    "n": 3,
+    "capacity": "N4",
+    "delay": 1,
+    "budget": 1,
+    "exact_waiting": 13.333333333333334,
+    "greedy_waiting": 15.916666666666666,
+    "saving": 2.583333333333332,
+    "exact_requests": 3.375,
+    "greedy_requests": 2.875,
+    "exact_states": 677,
+    "greedy_states": 519,
+    "exact_optimal": true,
+    "replay_checked": true
+  }
+}

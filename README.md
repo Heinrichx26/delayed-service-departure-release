@@ -27,6 +27,34 @@ Directory date suffixes identify compatible experiment configurations. The packa
 contains code, derived numerical inputs and numerical outputs. Publication text,
 submission documents and third-party articles are excluded.
 
+## External replications and request valuation
+
+The additional airport cases and saved comparisons are in
+data/third_airport_replication/, data/temporal_transfer_replication/,
+data/independent_adsb/ and data/independent_adsb_q1/, with corresponding
+subdirectories in results/. The processed surveillance-derived data retain
+the source archive's ODbL-1.0 license and attribution in source_manifest.json.
+The raw archive remains available from the original source identified there.
+
+The replication code is in src/stochastic_release_control/. From the repository
+root, first run a monthly smoke test:
+
+    python -m src.stochastic_release_control.build_independent_adsb_q1 smoke --airport ATL --month 1
+
+After it passes, replace smoke with full for that airport and month.
+The supplied processed data allow this comparison without downloading the raw archive.
+
+The request valuation analysis uses saved exact waiting/request pairs and
+measures group costs in aircraft-minutes. Run the smoke test before the full
+analysis:
+
+    python src/trb_objective_20261029/request_value_audit.py smoke
+    python src/trb_objective_20261029/request_value_audit.py full
+
+Outputs in results/revision_20261029/request_value/ include exact policy
+intervals, corrected group-level valuation thresholds, input hashes and
+airport-date bootstrap intervals. This calculation does not rerun optimization.
+
 ## Installation
 
 Python 3.11 is the tested interpreter. The retained experiment manifests use

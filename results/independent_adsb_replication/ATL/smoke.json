@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "row": {
+    "case_id": "e47196faedde",
+    "airport": "ATL",
+    "day": "2025-01-24",
+    "hour": 12,
+    "n": 8,
+    "capacity": "N4",
+    "delay": 1,
+    "budget": 1,
+    "exact_waiting": 12.3125,
+    "greedy_waiting": 12.765625,
+    "saving": 0.453125,
+    "exact_requests": 2.0625,
+    "greedy_requests": 1.75,
+    "exact_states": 278,
+    "greedy_states": 556,
+    "exact_optimal": true,
+    "replay_checked": true
+  }
+}

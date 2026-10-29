@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "row": {
+    "case_id": "14b4e0ec6786",
+    "airport": "DFW",
+    "day": "2025-01-24",
+    "hour": 14,
+    "n": 8,
+    "capacity": "N4",
+    "delay": 1,
+    "budget": 1,
+    "exact_waiting": 13.109375,
+    "greedy_waiting": 13.5625,
+    "saving": 0.453125,
+    "exact_requests": 2.6875,
+    "greedy_requests": 2.25,
+    "exact_states": 908,
+    "greedy_states": 536,
+    "exact_optimal": true,
+    "replay_checked": true
+  }
+}

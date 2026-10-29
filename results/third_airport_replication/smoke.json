@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "row": {
+    "case_id": "f0deba4b68e2",
+    "airport": "ATL",
+    "day": "2024-01-24",
+    "hour": 10,
+    "n": 3,
+    "capacity": "N4",
+    "delay": 1,
+    "budget": 1,
+    "exact_waiting": 14.125,
+    "greedy_waiting": 14.375,
+    "saving": 0.25,
+    "exact_requests": 3.5625,
+    "greedy_requests": 3.625,
+    "exact_states": 740,
+    "greedy_states": 511,
+    "exact_optimal": true,
+    "replay_checked": true
+  }
+}

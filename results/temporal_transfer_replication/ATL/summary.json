@@ -1,0 +1,54 @@
+[
+  {
+    "airport": "ATL",
+    "delay": 1,
+    "budget": 1,
+    "conditions": 216,
+    "exact_waiting": 14.64861111111111,
+    "greedy_waiting": 16.074922839506172,
+    "saving": 1.4263117283950615,
+    "strictly_improved": 208,
+    "greedy_requests": 3.7199074074074074,
+    "exact_requests": 3.6805555555555554,
+    "replay_checked": true
+  },
+  {
+    "airport": "ATL",
+    "delay": 1,
+    "budget": 2,
+    "conditions": 216,
+    "exact_waiting": 14.591898148148148,
+    "greedy_waiting": 15.25408950617284,
+    "saving": 0.6621913580246914,
+    "strictly_improved": 136,
+    "greedy_requests": 4.518518518518518,
+    "exact_requests": 3.740740740740741,
+    "replay_checked": true
+  },
+  {
+    "airport": "ATL",
+    "delay": 2,
+    "budget": 1,
+    "conditions": 216,
+    "exact_waiting": 15.657793209876543,
+    "greedy_waiting": 16.659567901234567,
+    "saving": 1.0017746913580245,
+    "strictly_improved": 160,
+    "greedy_requests": 4.226851851851852,
+    "exact_requests": 3.7569444444444446,
+    "replay_checked": true
+  },
+  {
+    "airport": "ATL",
+    "delay": 2,
+    "budget": 2,
+    "conditions": 216,
+    "exact_waiting": 15.369212962962964,
+    "greedy_waiting": 16.585493827160494,
+    "saving": 1.2162808641975307,
+    "strictly_improved": 184,
+    "greedy_requests": 4.282407407407407,
+    "exact_requests": 4.166666666666667,
+    "replay_checked": true
+  }
+]

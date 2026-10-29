@@ -1,0 +1,152 @@
+{
+  "source": "MrAirspace aircraft-flight-schedules 2025 Q1",
+  "airports": [
+    {
+      "airport": "ATL",
+      "delay": 1,
+      "budget": 1,
+      "conditions": 96,
+      "saving": 0.9428943452380952,
+      "improved": 88
+    },
+    {
+      "airport": "ATL",
+      "delay": 1,
+      "budget": 2,
+      "conditions": 96,
+      "saving": 0.1504836309523808,
+      "improved": 64
+    },
+    {
+      "airport": "ATL",
+      "delay": 2,
+      "budget": 1,
+      "conditions": 96,
+      "saving": 0.12537202380952386,
+      "improved": 48
+    },
+    {
+      "airport": "ATL",
+      "delay": 2,
+      "budget": 2,
+      "conditions": 96,
+      "saving": 0.09933035714285705,
+      "improved": 40
+    },
+    {
+      "airport": "CLT",
+      "delay": 1,
+      "budget": 1,
+      "conditions": 120,
+      "saving": 0.7356809736157562,
+      "improved": 120
+    },
+    {
+      "airport": "CLT",
+      "delay": 1,
+      "budget": 2,
+      "conditions": 120,
+      "saving": 0.20989585655890033,
+      "improved": 120
+    },
+    {
+      "airport": "CLT",
+      "delay": 2,
+      "budget": 1,
+      "conditions": 120,
+      "saving": 0.28768840579710153,
+      "improved": 120
+    },
+    {
+      "airport": "CLT",
+      "delay": 2,
+      "budget": 2,
+      "conditions": 120,
+      "saving": 0.3117006688963213,
+      "improved": 120
+    },
+    {
+      "airport": "DFW",
+      "delay": 1,
+      "budget": 1,
+      "conditions": 69,
+      "saving": 0.9101830663615563,
+      "improved": 69
+    },
+    {
+      "airport": "DFW",
+      "delay": 1,
+      "budget": 2,
+      "conditions": 69,
+      "saving": 0.6598016781083141,
+      "improved": 69
+    },
+    {
+      "airport": "DFW",
+      "delay": 2,
+      "budget": 1,
+      "conditions": 69,
+      "saving": 0.7953852021357742,
+      "improved": 69
+    },
+    {
+      "airport": "DFW",
+      "delay": 2,
+      "budget": 2,
+      "conditions": 69,
+      "saving": 0.8802917620137297,
+      "improved": 69
+    }
+  ],
+  "pooled": [
+    {
+      "delay": 1,
+      "budget": 1,
+      "conditions": 285,
+      "saving": 0.8477270370375273,
+      "saving_ci95_cluster": [
+        0.8255725448174855,
+        0.8972557218279116
+      ],
+      "improved": 277
+    },
+    {
+      "delay": 1,
+      "budget": 2,
+      "conditions": 285,
+      "saving": 0.2988078847297203,
+      "saving_ci95_cluster": [
+        0.25530811376432283,
+        0.4381428880884508
+      ],
+      "improved": 253
+    },
+    {
+      "delay": 2,
+      "budget": 1,
+      "conditions": 285,
+      "saving": 0.3559294804517014,
+      "saving_ci95_cluster": [
+        0.29128804385662227,
+        0.5213581794088369
+      ],
+      "improved": 237
+    },
+    {
+      "delay": 2,
+      "budget": 2,
+      "conditions": 285,
+      "saving": 0.3778243022183164,
+      "saving_ci95_cluster": [
+        0.3012947509520736,
+        0.5637458629131881
+      ],
+      "improved": 229
+    }
+  ],
+  "rows": 1140,
+  "audit": {
+    "replay_checked": true,
+    "exact_optimal": true
+  }
+}

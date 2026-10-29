@@ -1,0 +1,46 @@
+[
+  {
+    "airport": "CLT",
+    "delay": 1,
+    "budget": 1,
+    "conditions": 120,
+    "exact_waiting": 12.562412114455594,
+    "greedy_waiting": 13.298093088071349,
+    "saving": 0.7356809736157562,
+    "strictly_improved": 120,
+    "replay_checked": true
+  },
+  {
+    "airport": "CLT",
+    "delay": 1,
+    "budget": 2,
+    "conditions": 120,
+    "exact_waiting": 12.49850380899294,
+    "greedy_waiting": 12.70839966555184,
+    "saving": 0.20989585655890033,
+    "strictly_improved": 120,
+    "replay_checked": true
+  },
+  {
+    "airport": "CLT",
+    "delay": 2,
+    "budget": 1,
+    "conditions": 120,
+    "exact_waiting": 12.859247259383128,
+    "greedy_waiting": 13.14693566518023,
+    "saving": 0.28768840579710153,
+    "strictly_improved": 120,
+    "replay_checked": true
+  },
+  {
+    "airport": "CLT",
+    "delay": 2,
+    "budget": 2,
+    "conditions": 120,
+    "exact_waiting": 12.782064706428837,
+    "greedy_waiting": 13.093765375325159,
+    "saving": 0.3117006688963213,
+    "strictly_improved": 120,
+    "replay_checked": true
+  }
+]

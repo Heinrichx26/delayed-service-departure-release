@@ -1,0 +1,580 @@
+{
+  "date": "2026-10-28",
+  "airport": "DFW",
+  "source": "data/third_airport_replication/bts_calendar_corrected.csv.gz",
+  "source_sha256": "2f16ff5e7bf352ed0a8028b29d8ad9e209659fb0d5fab8bd9bfddae2a2ce7035",
+  "selection": "January 3--18 donor dates and January 24--31 evaluation dates in 2024 and 2025; five starts at 10:00--18:00 local time; retain n>=2.",
+  "slot_minutes": 2,
+  "horizon_slots": 36,
+  "lag_slots": 6,
+  "cases": [
+    {
+      "case_id": "092523b376bc",
+      "input_path": "data/third_airport_replication/DFW/cases/092523b376bc.json",
+      "input_sha256": "76c620a5e1d33eb69ba1c817967de66c82af61ca4f79b6ebae292d7315a9d0cd",
+      "airport": "DFW",
+      "day": "2024-01-24",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "6c7df96e0843",
+      "input_path": "data/third_airport_replication/DFW/cases/6c7df96e0843.json",
+      "input_sha256": "82745cc4c48c5316720d7424156c35dc8cee65f3baea8cd7f6d341a78f6b7aef",
+      "airport": "DFW",
+      "day": "2024-01-24",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "09bd70dc8339",
+      "input_path": "data/third_airport_replication/DFW/cases/09bd70dc8339.json",
+      "input_sha256": "f44763d290fbddac956535007b0f0907d50cfc7e4c8eebc99f06e37e4af1917c",
+      "airport": "DFW",
+      "day": "2024-01-24",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "5378a64e9dd5",
+      "input_path": "data/third_airport_replication/DFW/cases/5378a64e9dd5.json",
+      "input_sha256": "93ed8c6c5aaf6b934b7a32d3a15d17d871386f98e2eae459fd74330dd95c85b3",
+      "airport": "DFW",
+      "day": "2024-01-24",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "17d6c7b3d74d",
+      "input_path": "data/third_airport_replication/DFW/cases/17d6c7b3d74d.json",
+      "input_sha256": "eccc834ba4d48f53fb93e3282de7365b89a29ffb7eaf86cc26a13397c15ea8c7",
+      "airport": "DFW",
+      "day": "2024-01-25",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "fd899f8f4d3e",
+      "input_path": "data/third_airport_replication/DFW/cases/fd899f8f4d3e.json",
+      "input_sha256": "990d971fdd776de86007499aa8ba34b5996e16c2da1c6fe85d1985da21a0fc96",
+      "airport": "DFW",
+      "day": "2024-01-25",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "1cace1306482",
+      "input_path": "data/third_airport_replication/DFW/cases/1cace1306482.json",
+      "input_sha256": "6bd53a05a9174efa2e0f94e63553618637c83fca1362ee9d309fe169ca436f79",
+      "airport": "DFW",
+      "day": "2024-01-25",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "95a337fff7bc",
+      "input_path": "data/third_airport_replication/DFW/cases/95a337fff7bc.json",
+      "input_sha256": "708bd1858e436c8d2dbea9afe6b697dc7458306d1fc699ba90b5c2db8c85799f",
+      "airport": "DFW",
+      "day": "2024-01-25",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "9f4e1fc54fb2",
+      "input_path": "data/third_airport_replication/DFW/cases/9f4e1fc54fb2.json",
+      "input_sha256": "38182474baca9ffa76156c9dff832661b013956be002fb8955d97e2c26188915",
+      "airport": "DFW",
+      "day": "2024-01-26",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "bd000f17e826",
+      "input_path": "data/third_airport_replication/DFW/cases/bd000f17e826.json",
+      "input_sha256": "90aa6f7bbd078861ae0325d174a70ecfd2b339ec953d405190e523e60e83ca69",
+      "airport": "DFW",
+      "day": "2024-01-26",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "8e9a0279e7cd",
+      "input_path": "data/third_airport_replication/DFW/cases/8e9a0279e7cd.json",
+      "input_sha256": "8127d860589ed19cbc0376596e143bc70cf72b11f48e1d65c6f7ca62c6060871",
+      "airport": "DFW",
+      "day": "2024-01-26",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "b7f4d72f90bf",
+      "input_path": "data/third_airport_replication/DFW/cases/b7f4d72f90bf.json",
+      "input_sha256": "cba621cc9c71feb758af1e0de87c82c726e78d09fbcc19f77c06928183c73df1",
+      "airport": "DFW",
+      "day": "2024-01-26",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "70dc1295292e",
+      "input_path": "data/third_airport_replication/DFW/cases/70dc1295292e.json",
+      "input_sha256": "bb79c383f20b44cfc572c9361fc680f010a6af6cc59d74d8bd223da9ec4e60ea",
+      "airport": "DFW",
+      "day": "2024-01-27",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "bd8009bb4139",
+      "input_path": "data/third_airport_replication/DFW/cases/bd8009bb4139.json",
+      "input_sha256": "6d40aa815989e219e3cc199d219f609a94e5add762ecd395701d88f942131c7d",
+      "airport": "DFW",
+      "day": "2024-01-27",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "1e592e034c13",
+      "input_path": "data/third_airport_replication/DFW/cases/1e592e034c13.json",
+      "input_sha256": "89ee5b4f2f6391cb2abe0838827a5ba7301cf0c37d03303414f600a97b6f2693",
+      "airport": "DFW",
+      "day": "2024-01-27",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "32cde3f2d3ab",
+      "input_path": "data/third_airport_replication/DFW/cases/32cde3f2d3ab.json",
+      "input_sha256": "df2224e8c8f92d0ca680e99b1162cfd6ca8686e77f95a53e1ebc7ea81c09c4af",
+      "airport": "DFW",
+      "day": "2024-01-27",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "8c0307aac529",
+      "input_path": "data/third_airport_replication/DFW/cases/8c0307aac529.json",
+      "input_sha256": "00f220ceb28a95c4da5434780915b444001a06f97367ccdc3641261e71046852",
+      "airport": "DFW",
+      "day": "2024-01-28",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "b47897e9abfd",
+      "input_path": "data/third_airport_replication/DFW/cases/b47897e9abfd.json",
+      "input_sha256": "b100b3a480aaa72870cca23cacc62cc7746179a89c0c5dd8028f4defa5bf8356",
+      "airport": "DFW",
+      "day": "2024-01-28",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "148bd7da41e2",
+      "input_path": "data/third_airport_replication/DFW/cases/148bd7da41e2.json",
+      "input_sha256": "c41a7393a5cf6bbba5a7df0a328a22142f2e42c7b0b5576565f257d820b39573",
+      "airport": "DFW",
+      "day": "2024-01-28",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "632316c0ad9d",
+      "input_path": "data/third_airport_replication/DFW/cases/632316c0ad9d.json",
+      "input_sha256": "b3e26086d96a85f53e2412f9570bb3b8a3f9c2cb43a80d11ba60eecfc778964d",
+      "airport": "DFW",
+      "day": "2024-01-28",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "9889c7219d59",
+      "input_path": "data/third_airport_replication/DFW/cases/9889c7219d59.json",
+      "input_sha256": "4d4d39fcf57d8dd5085a5918346e91a733c3616261654809aa94fde7b3c4f1fa",
+      "airport": "DFW",
+      "day": "2024-01-29",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "2829cd5db3ff",
+      "input_path": "data/third_airport_replication/DFW/cases/2829cd5db3ff.json",
+      "input_sha256": "ab7af8a11a67934b0686eccdf5d25165bdd5194797c9fdf789e22b9ef560dc7e",
+      "airport": "DFW",
+      "day": "2024-01-29",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "498f665a7d6b",
+      "input_path": "data/third_airport_replication/DFW/cases/498f665a7d6b.json",
+      "input_sha256": "076017dfb0b2341108fd25bf7bcce458ac7c147eca8c4b3d15ada8cacc6b25ad",
+      "airport": "DFW",
+      "day": "2024-01-29",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "e806b69e9634",
+      "input_path": "data/third_airport_replication/DFW/cases/e806b69e9634.json",
+      "input_sha256": "31c5bd673987192902d7e967c9960aa953dca47bbd7c8dd84a2e8a24d89a7bed",
+      "airport": "DFW",
+      "day": "2024-01-29",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "5b907f6c5b97",
+      "input_path": "data/third_airport_replication/DFW/cases/5b907f6c5b97.json",
+      "input_sha256": "e417c7fee35e3c541438ac9e0d590b05e9d80dde0cd22df9b80a2082004454fe",
+      "airport": "DFW",
+      "day": "2024-01-30",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "4e8ad5d9c954",
+      "input_path": "data/third_airport_replication/DFW/cases/4e8ad5d9c954.json",
+      "input_sha256": "6e4864782ade0d908e083b44fda91f41183089d4ceead526b688fb3a7b1c8114",
+      "airport": "DFW",
+      "day": "2024-01-30",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "779fd8abcdc4",
+      "input_path": "data/third_airport_replication/DFW/cases/779fd8abcdc4.json",
+      "input_sha256": "57cecef4174bb169292704917be1b937550a6d79f03fa808d764d6981a41decf",
+      "airport": "DFW",
+      "day": "2024-01-30",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "64652f6f3310",
+      "input_path": "data/third_airport_replication/DFW/cases/64652f6f3310.json",
+      "input_sha256": "ce8a3daaa32dc2fb165fa1150e433f3b37c4c086defc170321a24e92d8977ffa",
+      "airport": "DFW",
+      "day": "2024-01-30",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "eb93b90ee237",
+      "input_path": "data/third_airport_replication/DFW/cases/eb93b90ee237.json",
+      "input_sha256": "149ec06fa1d457b399fb3305effe1c97ba0e7fcad768c998719775afb2604551",
+      "airport": "DFW",
+      "day": "2024-01-31",
+      "hour": 12,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "5c457b55b975",
+      "input_path": "data/third_airport_replication/DFW/cases/5c457b55b975.json",
+      "input_sha256": "7ffcdf5a771eb1221bdc5ab3342903ec5cdaeb0d867e00cd37487e3f84549d9c",
+      "airport": "DFW",
+      "day": "2024-01-31",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "c16ebbe175d2",
+      "input_path": "data/third_airport_replication/DFW/cases/c16ebbe175d2.json",
+      "input_sha256": "5499653918eb1f04a4076e44fbbff86b2b27be5e8d5661e7329244460d7dea00",
+      "airport": "DFW",
+      "day": "2024-01-31",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "1c8ecc37c64e",
+      "input_path": "data/third_airport_replication/DFW/cases/1c8ecc37c64e.json",
+      "input_sha256": "22e8fa45b01809263b6c62d8f176aaea9dfa9554c2d270ad2d07834a6aee23c9",
+      "airport": "DFW",
+      "day": "2024-01-31",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "227a544168d5",
+      "input_path": "data/third_airport_replication/DFW/cases/227a544168d5.json",
+      "input_sha256": "42d92f3cdc3420e43c31d45fb27e17488fda373965de362698e72b01421ebf25",
+      "airport": "DFW",
+      "day": "2025-01-24",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "8494edb9e87b",
+      "input_path": "data/third_airport_replication/DFW/cases/8494edb9e87b.json",
+      "input_sha256": "b9aaa31986b20863c8f72fb91d32cab6861f9a183e79eb42d1e73418cf9fbca3",
+      "airport": "DFW",
+      "day": "2025-01-24",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "4b50641eff20",
+      "input_path": "data/third_airport_replication/DFW/cases/4b50641eff20.json",
+      "input_sha256": "a96cde3b6a42e328ebb7788d6ea2a13574a0f8c8fc45d2b7c52627f772a18e56",
+      "airport": "DFW",
+      "day": "2025-01-24",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "db3c832a228c",
+      "input_path": "data/third_airport_replication/DFW/cases/db3c832a228c.json",
+      "input_sha256": "614f6998dac38c8f4d3566d9fd069d4984816ba11c688aab6da3d855f8278165",
+      "airport": "DFW",
+      "day": "2025-01-25",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "6bd2c6d892a2",
+      "input_path": "data/third_airport_replication/DFW/cases/6bd2c6d892a2.json",
+      "input_sha256": "019457e4a945d82f69ce137debf2774d9232670c926cfcb6cb6c9383bcbe154b",
+      "airport": "DFW",
+      "day": "2025-01-25",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "1d3f2f1cdf9b",
+      "input_path": "data/third_airport_replication/DFW/cases/1d3f2f1cdf9b.json",
+      "input_sha256": "1d8c7439c027c31f5082a5478cdde635988c49deedf08056dca55cdd072f7750",
+      "airport": "DFW",
+      "day": "2025-01-25",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "55c67eeec951",
+      "input_path": "data/third_airport_replication/DFW/cases/55c67eeec951.json",
+      "input_sha256": "7c533a80ccfb1920a967c70f3bf2e3885930b7763965d81a22f8c8c9fd578279",
+      "airport": "DFW",
+      "day": "2025-01-26",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "740a4e44dbbb",
+      "input_path": "data/third_airport_replication/DFW/cases/740a4e44dbbb.json",
+      "input_sha256": "459b9d43eab5a2f944acf9eeb7fd8bd1b68269772925235a5b4b0347e4eb72f8",
+      "airport": "DFW",
+      "day": "2025-01-26",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "49db8ea31f60",
+      "input_path": "data/third_airport_replication/DFW/cases/49db8ea31f60.json",
+      "input_sha256": "8443cd6319c7fea0683b301c75e7a3fb502f17c03fcaad522d7c49bf42bfce7b",
+      "airport": "DFW",
+      "day": "2025-01-26",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "fdfaa14262c0",
+      "input_path": "data/third_airport_replication/DFW/cases/fdfaa14262c0.json",
+      "input_sha256": "ecadbc18e04c7ee484f8621ee20040a22c507ab502701b6299e245cabe630bc0",
+      "airport": "DFW",
+      "day": "2025-01-27",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "84821ae2aa4f",
+      "input_path": "data/third_airport_replication/DFW/cases/84821ae2aa4f.json",
+      "input_sha256": "02b1772d02db8f79e5a3443a7a4830e8c6e708978a8017806fb13ec780ca67eb",
+      "airport": "DFW",
+      "day": "2025-01-27",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "da7f6606540b",
+      "input_path": "data/third_airport_replication/DFW/cases/da7f6606540b.json",
+      "input_sha256": "9d21a137950272411b8d320887f58ebd3e7adcd30bcb1c57086078cfbf9ed1cb",
+      "airport": "DFW",
+      "day": "2025-01-27",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "c6af30647e6c",
+      "input_path": "data/third_airport_replication/DFW/cases/c6af30647e6c.json",
+      "input_sha256": "c22b028ca9962056eb1bbbfe2f86c4152a99b03f1513491999766787ef38538d",
+      "airport": "DFW",
+      "day": "2025-01-28",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "73ac0819c230",
+      "input_path": "data/third_airport_replication/DFW/cases/73ac0819c230.json",
+      "input_sha256": "bd98dca2f9e23855c27105058ae32987cb275be6e49d94fec03bab555e1421bb",
+      "airport": "DFW",
+      "day": "2025-01-28",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "68e73627b793",
+      "input_path": "data/third_airport_replication/DFW/cases/68e73627b793.json",
+      "input_sha256": "b90f020b2e10b8c1bf59c415d3bf820f1a5158f27b61a745bd75aac8a0bf0568",
+      "airport": "DFW",
+      "day": "2025-01-28",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "794f02cf5a90",
+      "input_path": "data/third_airport_replication/DFW/cases/794f02cf5a90.json",
+      "input_sha256": "9c4b74025fa4843bb1bb0d897dafd92095e0c8361114ac9609cd50a34487475a",
+      "airport": "DFW",
+      "day": "2025-01-29",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "b220eacfbb66",
+      "input_path": "data/third_airport_replication/DFW/cases/b220eacfbb66.json",
+      "input_sha256": "bfaad70508a042f62c882a491703edbec68d80eb248de9f14adb2a1d4baf48c3",
+      "airport": "DFW",
+      "day": "2025-01-29",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "02f134f89c9d",
+      "input_path": "data/third_airport_replication/DFW/cases/02f134f89c9d.json",
+      "input_sha256": "cd53a70daf58115a7f8b89ce5a4ac14a17e93fddfb2fbc64f0db6a24f41ab672",
+      "airport": "DFW",
+      "day": "2025-01-29",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "4eb12cd77c4c",
+      "input_path": "data/third_airport_replication/DFW/cases/4eb12cd77c4c.json",
+      "input_sha256": "685ac1f1b00b9e4b0f779a107025ec9c474e7cb103dde4217adab545d5dbefdd",
+      "airport": "DFW",
+      "day": "2025-01-30",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "225ac6ba564c",
+      "input_path": "data/third_airport_replication/DFW/cases/225ac6ba564c.json",
+      "input_sha256": "73d50f53c3ed8e9dd4bf53f8f71a2cc05ae60d6ef876d4f131372ccd294bb118",
+      "airport": "DFW",
+      "day": "2025-01-30",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "bf1d6e662139",
+      "input_path": "data/third_airport_replication/DFW/cases/bf1d6e662139.json",
+      "input_sha256": "07b5b6244b153cb7a7ae7579d9e101b9c354e974a9ab017afc7d23d3a280b37e",
+      "airport": "DFW",
+      "day": "2025-01-30",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "4af73138bd3d",
+      "input_path": "data/third_airport_replication/DFW/cases/4af73138bd3d.json",
+      "input_sha256": "a3e56dd0a6d84aa117c05c6f68bdf0f79a5d445cd3f81c0f1a0cd3fc7be4de5b",
+      "airport": "DFW",
+      "day": "2025-01-31",
+      "hour": 14,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "8d220b545089",
+      "input_path": "data/third_airport_replication/DFW/cases/8d220b545089.json",
+      "input_sha256": "044d46757b325f501cc99aa750dce6348266b5edfc38cec4f858474df18cc1aa",
+      "airport": "DFW",
+      "day": "2025-01-31",
+      "hour": 16,
+      "capacity": "N",
+      "divisor": 1
+    },
+    {
+      "case_id": "b0f54e545c6b",
+      "input_path": "data/third_airport_replication/DFW/cases/b0f54e545c6b.json",
+      "input_sha256": "8084f579c3dcf5b9cc4e4bdc53046255099d672fc0ded5681fffce71a0850231",
+      "airport": "DFW",
+      "day": "2025-01-31",
+      "hour": 18,
+      "capacity": "N",
+      "divisor": 1
+    }
+  ],
+  "delays": [
+    1,
+    2
+  ],
+  "budgets": [
+    1,
+    2
+  ]
+}

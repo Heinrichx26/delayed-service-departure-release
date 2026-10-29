@@ -1,0 +1,251 @@
+{
+  "airports": [
+    {
+      "airport": "ATL",
+      "windows": 72,
+      "delay": 1,
+      "budget": 1,
+      "conditions": 216,
+      "saving": 1.4299575617283948,
+      "improved": 208,
+      "exact_waiting": 14.654716435185184,
+      "greedy_waiting": 16.08467399691358,
+      "exact_requests": 3.683738425925926,
+      "greedy_requests": 3.720486111111111
+    },
+    {
+      "airport": "ATL",
+      "windows": 72,
+      "delay": 1,
+      "budget": 2,
+      "conditions": 216,
+      "saving": 0.6625385802469137,
+      "improved": 136,
+      "exact_waiting": 14.59800347222222,
+      "greedy_waiting": 15.260542052469136,
+      "exact_requests": 3.743923611111111,
+      "greedy_requests": 4.520833333333333
+    },
+    {
+      "airport": "ATL",
+      "windows": 72,
+      "delay": 2,
+      "budget": 1,
+      "conditions": 216,
+      "saving": 1.009847608024691,
+      "improved": 160,
+      "exact_waiting": 15.67770061728395,
+      "greedy_waiting": 16.687548225308642,
+      "exact_requests": 3.7581018518518516,
+      "greedy_requests": 4.227141203703703
+    },
+    {
+      "airport": "ATL",
+      "windows": 72,
+      "delay": 2,
+      "budget": 2,
+      "conditions": 216,
+      "saving": 1.2265239197530862,
+      "improved": 184,
+      "exact_waiting": 15.386950231481482,
+      "greedy_waiting": 16.61347415123457,
+      "exact_requests": 4.166666666666667,
+      "greedy_requests": 4.283275462962963
+    },
+    {
+      "airport": "CLT",
+      "windows": 80,
+      "delay": 1,
+      "budget": 1,
+      "conditions": 240,
+      "saving": 1.9457725694444443,
+      "improved": 192,
+      "exact_waiting": 15.475868055555555,
+      "greedy_waiting": 17.421640625000002,
+      "exact_requests": 3.8984375,
+      "greedy_requests": 4.1046875
+    },
+    {
+      "airport": "CLT",
+      "windows": 80,
+      "delay": 1,
+      "budget": 2,
+      "conditions": 240,
+      "saving": 0.4801475694444445,
+      "improved": 136,
+      "exact_waiting": 15.253645833333334,
+      "greedy_waiting": 15.73379340277778,
+      "exact_requests": 3.8526041666666666,
+      "greedy_requests": 4.6109375
+    },
+    {
+      "airport": "CLT",
+      "windows": 80,
+      "delay": 2,
+      "budget": 1,
+      "conditions": 240,
+      "saving": 0.45118923611111084,
+      "improved": 184,
+      "exact_waiting": 17.107256944444444,
+      "greedy_waiting": 17.55844618055556,
+      "exact_requests": 4.0953125,
+      "greedy_requests": 4.590104166666666
+    },
+    {
+      "airport": "CLT",
+      "windows": 80,
+      "delay": 2,
+      "budget": 2,
+      "conditions": 240,
+      "saving": 0.4593142361111111,
+      "improved": 184,
+      "exact_waiting": 16.888020833333336,
+      "greedy_waiting": 17.347335069444444,
+      "exact_requests": 4.261979166666666,
+      "greedy_requests": 4.681770833333333
+    },
+    {
+      "airport": "DFW",
+      "windows": 56,
+      "delay": 1,
+      "budget": 1,
+      "conditions": 168,
+      "saving": 2.6949404761904763,
+      "improved": 144,
+      "exact_waiting": 14.373511904761905,
+      "greedy_waiting": 17.06845238095238,
+      "exact_requests": 4.002976190476191,
+      "greedy_requests": 4.217261904761905
+    },
+    {
+      "airport": "DFW",
+      "windows": 56,
+      "delay": 1,
+      "budget": 2,
+      "conditions": 168,
+      "saving": 0.2544642857142857,
+      "improved": 80,
+      "exact_waiting": 14.34375,
+      "greedy_waiting": 14.598214285714286,
+      "exact_requests": 4.002976190476191,
+      "greedy_requests": 4.616071428571429
+    },
+    {
+      "airport": "DFW",
+      "windows": 56,
+      "delay": 2,
+      "budget": 1,
+      "conditions": 168,
+      "saving": 1.2261904761904763,
+      "improved": 128,
+      "exact_waiting": 17.23462301587302,
+      "greedy_waiting": 18.46081349206349,
+      "exact_requests": 3.556547619047619,
+      "greedy_requests": 4.556547619047619
+    },
+    {
+      "airport": "DFW",
+      "windows": 56,
+      "delay": 2,
+      "budget": 2,
+      "conditions": 168,
+      "saving": 1.5550595238095237,
+      "improved": 168,
+      "exact_waiting": 16.91765873015873,
+      "greedy_waiting": 18.472718253968253,
+      "exact_requests": 3.892857142857143,
+      "greedy_requests": 4.616071428571429
+    }
+  ],
+  "pooled": [
+    {
+      "delay": 1,
+      "budget": 1,
+      "airports": [
+        "ATL",
+        "CLT",
+        "DFW"
+      ],
+      "windows": 208,
+      "conditions": 624,
+      "saving": 1.9689202724358972,
+      "saving_ci95_cluster": [
+        1.6574413519965274,
+        2.2747260561342593
+      ],
+      "improved": 544,
+      "exact_waiting": 14.894835069444444,
+      "greedy_waiting": 16.863755341880342,
+      "exact_requests": 3.852263621794872,
+      "greedy_requests": 4.002003205128205
+    },
+    {
+      "delay": 1,
+      "budget": 2,
+      "airports": [
+        "ATL",
+        "CLT",
+        "DFW"
+      ],
+      "windows": 208,
+      "conditions": 624,
+      "saving": 0.48252203525641024,
+      "saving_ci95_cluster": [
+        0.4188639684606482,
+        0.5180750144675927
+      ],
+      "improved": 352,
+      "exact_waiting": 14.78172075320513,
+      "greedy_waiting": 15.264242788461539,
+      "exact_requests": 3.85546875,
+      "greedy_requests": 4.5811298076923075
+    },
+    {
+      "delay": 2,
+      "budget": 1,
+      "airports": [
+        "ATL",
+        "CLT",
+        "DFW"
+      ],
+      "windows": 208,
+      "conditions": 624,
+      "saving": 0.8532251602564102,
+      "saving_ci95_cluster": [
+        0.7377809244791667,
+        0.9943470052083332
+      ],
+      "improved": 472,
+      "exact_waiting": 16.64670138888889,
+      "greedy_waiting": 17.4999265491453,
+      "exact_requests": 3.8335336538461537,
+      "greedy_requests": 4.455428685897436
+    },
+    {
+      "delay": 2,
+      "budget": 2,
+      "airports": [
+        "ATL",
+        "CLT",
+        "DFW"
+      ],
+      "windows": 208,
+      "conditions": 624,
+      "saving": 1.0198951655982904,
+      "saving_ci95_cluster": [
+        0.8759276258680556,
+        1.2125571831597222
+      ],
+      "improved": 536,
+      "exact_waiting": 16.37639890491453,
+      "greedy_waiting": 17.39629407051282,
+      "exact_requests": 4.129607371794871,
+      "greedy_requests": 4.526141826923077
+    }
+  ],
+  "rows": 2496,
+  "audit": {
+    "replay_checked": true,
+    "exact_optimal": true
+  }
+}

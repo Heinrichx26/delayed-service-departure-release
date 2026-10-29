@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "row": {
+    "case_id": "01ee6a4f22c0",
+    "airport": "CLT",
+    "evaluation_year": 2024,
+    "donor_year": 2025,
+    "day": "2024-01-24",
+    "hour": 10,
+    "n": 3,
+    "capacity": "N4",
+    "delay": 1,
+    "budget": 1,
+    "exact_waiting": 14.083333333333334,
+    "greedy_waiting": 16.458333333333332,
+    "saving": 2.3749999999999982,
+    "exact_requests": 4.1875,
+    "greedy_requests": 3.25,
+    "exact_states": 679,
+    "greedy_states": 519,
+    "exact_optimal": true,
+    "replay_checked": true
+  }
+}

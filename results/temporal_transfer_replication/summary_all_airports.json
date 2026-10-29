@@ -1,0 +1,151 @@
+{
+  "airports": [
+    {
+      "airport": "ATL",
+      "delay": 1,
+      "budget": 1,
+      "conditions": 216,
+      "saving": 1.4263117283950617,
+      "improved": 208
+    },
+    {
+      "airport": "ATL",
+      "delay": 1,
+      "budget": 2,
+      "conditions": 216,
+      "saving": 0.6621913580246913,
+      "improved": 136
+    },
+    {
+      "airport": "ATL",
+      "delay": 2,
+      "budget": 1,
+      "conditions": 216,
+      "saving": 1.0017746913580243,
+      "improved": 160
+    },
+    {
+      "airport": "ATL",
+      "delay": 2,
+      "budget": 2,
+      "conditions": 216,
+      "saving": 1.2162808641975307,
+      "improved": 184
+    },
+    {
+      "airport": "CLT",
+      "delay": 1,
+      "budget": 1,
+      "conditions": 240,
+      "saving": 1.892560763888889,
+      "improved": 192
+    },
+    {
+      "airport": "CLT",
+      "delay": 1,
+      "budget": 2,
+      "conditions": 240,
+      "saving": 0.4882204861111112,
+      "improved": 136
+    },
+    {
+      "airport": "CLT",
+      "delay": 2,
+      "budget": 1,
+      "conditions": 240,
+      "saving": 0.45144965277777754,
+      "improved": 184
+    },
+    {
+      "airport": "CLT",
+      "delay": 2,
+      "budget": 2,
+      "conditions": 240,
+      "saving": 0.4600954861111111,
+      "improved": 184
+    },
+    {
+      "airport": "DFW",
+      "delay": 1,
+      "budget": 1,
+      "conditions": 168,
+      "saving": 2.6984747023809526,
+      "improved": 144
+    },
+    {
+      "airport": "DFW",
+      "delay": 1,
+      "budget": 2,
+      "conditions": 168,
+      "saving": 0.2544642857142857,
+      "improved": 80
+    },
+    {
+      "airport": "DFW",
+      "delay": 2,
+      "budget": 1,
+      "conditions": 168,
+      "saving": 1.228670634920635,
+      "improved": 128
+    },
+    {
+      "airport": "DFW",
+      "delay": 2,
+      "budget": 2,
+      "conditions": 168,
+      "saving": 1.5579117063492065,
+      "improved": 168
+    }
+  ],
+  "pooled": [
+    {
+      "delay": 1,
+      "budget": 1,
+      "conditions": 624,
+      "saving": 1.9481436965811965,
+      "saving_ci95_cluster": [
+        1.649538483796296,
+        2.248696433738426
+      ],
+      "improved": 544
+    },
+    {
+      "delay": 1,
+      "budget": 2,
+      "conditions": 624,
+      "saving": 0.485506810897436,
+      "saving_ci95_cluster": [
+        0.42087536168981476,
+        0.521311668113426
+      ],
+      "improved": 352
+    },
+    {
+      "delay": 2,
+      "budget": 1,
+      "conditions": 624,
+      "saving": 0.8511985844017093,
+      "saving_ci95_cluster": [
+        0.7364824761284722,
+        0.9935563151041665
+      ],
+      "improved": 472
+    },
+    {
+      "delay": 2,
+      "budget": 2,
+      "conditions": 624,
+      "saving": 1.0174178685897435,
+      "saving_ci95_cluster": [
+        0.8760917607060185,
+        1.2141945107542436
+      ],
+      "improved": 536
+    }
+  ],
+  "rows": 2496,
+  "audit": {
+    "replay_checked": true,
+    "exact_optimal": true
+  }
+}

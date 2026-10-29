@@ -1,0 +1,38 @@
+[
+  {
+    "airport": "CLT",
+    "month": 2,
+    "delay": 1,
+    "budget": 1,
+    "conditions": 75,
+    "saving": 0.40766725172975193,
+    "improved": 75
+  },
+  {
+    "airport": "CLT",
+    "month": 2,
+    "delay": 1,
+    "budget": 2,
+    "conditions": 75,
+    "saving": 0.10508973087098046,
+    "improved": 75
+  },
+  {
+    "airport": "CLT",
+    "month": 2,
+    "delay": 2,
+    "budget": 1,
+    "conditions": 75,
+    "saving": 0.24580090048840061,
+    "improved": 75
+  },
+  {
+    "airport": "CLT",
+    "month": 2,
+    "delay": 2,
+    "budget": 2,
+    "conditions": 75,
+    "saving": 0.30062353734228775,
+    "improved": 75
+  }
+]

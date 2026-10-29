@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "row": {
+    "case_id": "f6ad32105b96",
+    "airport": "ATL",
+    "evaluation_year": 2024,
+    "donor_year": 2025,
+    "day": "2024-01-24",
+    "hour": 12,
+    "n": 3,
+    "capacity": "N4",
+    "delay": 1,
+    "budget": 1,
+    "exact_waiting": 14.625,
+    "greedy_waiting": 15.375,
+    "saving": 0.75,
+    "exact_requests": 4.1875,
+    "greedy_requests": 4.5625,
+    "exact_states": 1014,
+    "greedy_states": 513,
+    "exact_optimal": true,
+    "replay_checked": true
+  }
+}
