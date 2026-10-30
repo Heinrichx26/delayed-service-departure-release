@@ -1,0 +1,48 @@
+{
+  "passed": true,
+  "phase": "smoke",
+  "files": 3,
+  "records": [
+    {
+      "file": "LKPR_RUZYNE_Radar_120_520MHz_20201025_091112.xml",
+      "airport": "LKPR (Praha Ruzyne)",
+      "channel": "Radar",
+      "utc_time": "2020-10-25 09:11:12",
+      "segments": 2,
+      "controller_segments": 1,
+      "audio_seconds": 6.85,
+      "mean_segment_seconds": 3.415,
+      "median_turn_gap_seconds": 0.020000000000000018,
+      "p90_turn_gap_seconds": 0.020000000000000018,
+      "controller_speech_seconds": 3.77
+    },
+    {
+      "file": "LKPR_RUZYNE_Radar_120_520MHz_20201025_120512.xml",
+      "airport": "LKPR (Praha Ruzyne)",
+      "channel": "Radar",
+      "utc_time": "2020-10-25 12:05:12",
+      "segments": 1,
+      "controller_segments": 1,
+      "audio_seconds": 10.82,
+      "mean_segment_seconds": 10.82,
+      "median_turn_gap_seconds": null,
+      "p90_turn_gap_seconds": null,
+      "controller_speech_seconds": 10.82
+    },
+    {
+      "file": "LKPR_RUZYNE_Radar_120_520MHz_20201025_121325.xml",
+      "airport": "LKPR (Praha Ruzyne)",
+      "channel": "Radar",
+      "utc_time": "2020-10-25 12:13:25",
+      "segments": 2,
+      "controller_segments": 1,
+      "audio_seconds": 5.78,
+      "mean_segment_seconds": 2.89,
+      "median_turn_gap_seconds": 0.0,
+      "p90_turn_gap_seconds": 0.0,
+      "controller_speech_seconds": 3.48
+    }
+  ],
+  "mean_file_segment_seconds": 5.708333333333334,
+  "source": "ATCO2 XML metadata; audio not analyzed"
+}

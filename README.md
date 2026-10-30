@@ -60,6 +60,14 @@ The travel-time sensitivity is in
 runs use the same frozen service calendars and independently replay every
 retained policy.
 
+The public ATCO2 metadata check is in `src/open_data_atco2/`. It parses the
+freely distributed XML and INFO metadata and excludes the third-party audio
+archive. The current archive contains 560 recordings and 877 timestamped
+speech segments from seven airports. The summaries in `results/open_data_atco2/`
+report communication-segment durations, speaker roles and turn gaps. These
+statistics calibrate public radio-communication timing and occupancy settings;
+they do not identify the model-specific future service-count exchange.
+
 ## Installation
 
 Python 3.11 is the tested interpreter. The retained experiment manifests use
@@ -145,6 +153,7 @@ The preprocessing utilities support tracing the construction of the flight event
 and service calendars. Exact panel reproduction starts from the supplied frozen
 cases. The intermediate flight database and third-party source documents are
 retrieved separately when rebuilding the earlier preprocessing stages.
+
 
 ## License and citation
 
