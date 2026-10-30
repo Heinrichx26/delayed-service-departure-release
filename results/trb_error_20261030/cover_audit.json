@@ -1,0 +1,295 @@
+{
+  "passed": true,
+  "conditions": 48,
+  "enumerated_schedules": 1344,
+  "records": [
+    {
+      "n": 1,
+      "h": 4,
+      "gamma": 0,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 5,
+      "gamma": 1,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 5,
+      "gamma": 0,
+      "minimum_requests": 0
+    },
+    {
+      "n": 2,
+      "h": 4,
+      "gamma": 1,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 4,
+      "gamma": 0,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 4,
+      "gamma": 1,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 5,
+      "gamma": 0,
+      "minimum_requests": 2
+    },
+    {
+      "n": 1,
+      "h": 4,
+      "gamma": 1,
+      "minimum_requests": null
+    },
+    {
+      "n": 2,
+      "h": 3,
+      "gamma": 0,
+      "minimum_requests": null
+    },
+    {
+      "n": 2,
+      "h": 4,
+      "gamma": 1,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 3,
+      "gamma": 0,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 3,
+      "gamma": 1,
+      "minimum_requests": 0
+    },
+    {
+      "n": 2,
+      "h": 5,
+      "gamma": 0,
+      "minimum_requests": null
+    },
+    {
+      "n": 2,
+      "h": 4,
+      "gamma": 1,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 4,
+      "gamma": 0,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 5,
+      "gamma": 1,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 5,
+      "gamma": 0,
+      "minimum_requests": 0
+    },
+    {
+      "n": 1,
+      "h": 4,
+      "gamma": 1,
+      "minimum_requests": 0
+    },
+    {
+      "n": 1,
+      "h": 5,
+      "gamma": 0,
+      "minimum_requests": null
+    },
+    {
+      "n": 2,
+      "h": 3,
+      "gamma": 1,
+      "minimum_requests": null
+    },
+    {
+      "n": 2,
+      "h": 5,
+      "gamma": 0,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 5,
+      "gamma": 1,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 5,
+      "gamma": 0,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 5,
+      "gamma": 1,
+      "minimum_requests": 0
+    },
+    {
+      "n": 1,
+      "h": 5,
+      "gamma": 0,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 3,
+      "gamma": 1,
+      "minimum_requests": null
+    },
+    {
+      "n": 2,
+      "h": 4,
+      "gamma": 0,
+      "minimum_requests": null
+    },
+    {
+      "n": 2,
+      "h": 5,
+      "gamma": 1,
+      "minimum_requests": null
+    },
+    {
+      "n": 2,
+      "h": 5,
+      "gamma": 0,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 4,
+      "gamma": 1,
+      "minimum_requests": null
+    },
+    {
+      "n": 2,
+      "h": 3,
+      "gamma": 0,
+      "minimum_requests": null
+    },
+    {
+      "n": 2,
+      "h": 5,
+      "gamma": 1,
+      "minimum_requests": null
+    },
+    {
+      "n": 2,
+      "h": 4,
+      "gamma": 0,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 5,
+      "gamma": 1,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 5,
+      "gamma": 0,
+      "minimum_requests": null
+    },
+    {
+      "n": 2,
+      "h": 4,
+      "gamma": 1,
+      "minimum_requests": 0
+    },
+    {
+      "n": 1,
+      "h": 4,
+      "gamma": 0,
+      "minimum_requests": 0
+    },
+    {
+      "n": 1,
+      "h": 3,
+      "gamma": 1,
+      "minimum_requests": 0
+    },
+    {
+      "n": 1,
+      "h": 5,
+      "gamma": 0,
+      "minimum_requests": null
+    },
+    {
+      "n": 2,
+      "h": 4,
+      "gamma": 1,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 4,
+      "gamma": 0,
+      "minimum_requests": null
+    },
+    {
+      "n": 2,
+      "h": 5,
+      "gamma": 1,
+      "minimum_requests": null
+    },
+    {
+      "n": 2,
+      "h": 5,
+      "gamma": 0,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 5,
+      "gamma": 1,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 4,
+      "gamma": 0,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 3,
+      "gamma": 1,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 5,
+      "gamma": 0,
+      "minimum_requests": null
+    },
+    {
+      "n": 1,
+      "h": 4,
+      "gamma": 1,
+      "minimum_requests": null
+    }
+  ]
+}

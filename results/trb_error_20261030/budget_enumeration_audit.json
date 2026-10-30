@@ -1,0 +1,1158 @@
+{
+  "passed": true,
+  "conditions": 144,
+  "rows": [
+    {
+      "case": 0,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 0,
+      "exact": 6,
+      "enumeration": 6
+    },
+    {
+      "case": 0,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 1,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 0,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 2,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 0,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 0,
+      "exact": 6,
+      "enumeration": 6
+    },
+    {
+      "case": 0,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 1,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 0,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 2,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 0,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 0,
+      "exact": 6,
+      "enumeration": 6
+    },
+    {
+      "case": 0,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 1,
+      "exact": 6,
+      "enumeration": 6
+    },
+    {
+      "case": 0,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 2,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 0,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 0,
+      "exact": 6,
+      "enumeration": 6
+    },
+    {
+      "case": 0,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 1,
+      "exact": 6,
+      "enumeration": 6
+    },
+    {
+      "case": 0,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 2,
+      "exact": 6,
+      "enumeration": 6
+    },
+    {
+      "case": 1,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 0,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 1,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 1,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 1,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 2,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 1,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 0,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 1,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 1,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 1,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 2,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 1,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 0,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 1,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 1,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 1,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 2,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 1,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 0,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 1,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 1,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 1,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 2,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 2,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 0,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 2,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 1,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 2,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 2,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 2,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 0,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 2,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 1,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 2,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 2,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 2,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 0,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 2,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 1,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 2,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 2,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 2,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 0,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 2,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 1,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 2,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 2,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 3,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 0,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 3,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 1,
+      "exact": 2,
+      "enumeration": 2
+    },
+    {
+      "case": 3,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 2,
+      "exact": 2,
+      "enumeration": 2
+    },
+    {
+      "case": 3,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 0,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 3,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 1,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 3,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 2,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 3,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 0,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 3,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 1,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 3,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 2,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 3,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 0,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 3,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 1,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 3,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 2,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 4,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 0,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 4,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 1,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 4,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 2,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 4,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 0,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 4,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 1,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 4,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 2,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 4,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 0,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 4,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 1,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 4,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 2,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 4,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 0,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 4,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 1,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 4,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 2,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 5,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 0,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 5,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 1,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 5,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 2,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 5,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 0,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 5,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 1,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 5,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 2,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 5,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 0,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 5,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 1,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 5,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 2,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 5,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 0,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 5,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 1,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 5,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 2,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 6,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 0,
+      "exact": 2,
+      "enumeration": 2
+    },
+    {
+      "case": 6,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 1,
+      "exact": 2,
+      "enumeration": 2
+    },
+    {
+      "case": 6,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 2,
+      "exact": 2,
+      "enumeration": 2
+    },
+    {
+      "case": 6,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 0,
+      "exact": 2,
+      "enumeration": 2
+    },
+    {
+      "case": 6,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 1,
+      "exact": 2,
+      "enumeration": 2
+    },
+    {
+      "case": 6,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 2,
+      "exact": 2,
+      "enumeration": 2
+    },
+    {
+      "case": 6,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 0,
+      "exact": 2,
+      "enumeration": 2
+    },
+    {
+      "case": 6,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 1,
+      "exact": 2,
+      "enumeration": 2
+    },
+    {
+      "case": 6,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 2,
+      "exact": 2,
+      "enumeration": 2
+    },
+    {
+      "case": 6,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 0,
+      "exact": 2,
+      "enumeration": 2
+    },
+    {
+      "case": 6,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 1,
+      "exact": 2,
+      "enumeration": 2
+    },
+    {
+      "case": 6,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 2,
+      "exact": 2,
+      "enumeration": 2
+    },
+    {
+      "case": 7,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 0,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 7,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 1,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 7,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 2,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 7,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 0,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 7,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 1,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 7,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 2,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 7,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 0,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 7,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 1,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 7,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 2,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 7,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 0,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 7,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 1,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 7,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 2,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 8,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 0,
+      "exact": 3,
+      "enumeration": 3
+    },
+    {
+      "case": 8,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 1,
+      "exact": 3,
+      "enumeration": 3
+    },
+    {
+      "case": 8,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 2,
+      "exact": 3,
+      "enumeration": 3
+    },
+    {
+      "case": 8,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 0,
+      "exact": 3,
+      "enumeration": 3
+    },
+    {
+      "case": 8,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 1,
+      "exact": 3,
+      "enumeration": 3
+    },
+    {
+      "case": 8,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 2,
+      "exact": 3,
+      "enumeration": 3
+    },
+    {
+      "case": 8,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 0,
+      "exact": 3,
+      "enumeration": 3
+    },
+    {
+      "case": 8,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 1,
+      "exact": 3,
+      "enumeration": 3
+    },
+    {
+      "case": 8,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 2,
+      "exact": 3,
+      "enumeration": 3
+    },
+    {
+      "case": 8,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 0,
+      "exact": 3,
+      "enumeration": 3
+    },
+    {
+      "case": 8,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 1,
+      "exact": 3,
+      "enumeration": 3
+    },
+    {
+      "case": 8,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 2,
+      "exact": 3,
+      "enumeration": 3
+    },
+    {
+      "case": 9,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 0,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 9,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 1,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 9,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 2,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 9,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 0,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 9,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 1,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 9,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 2,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 9,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 0,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 9,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 1,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 9,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 2,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 9,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 0,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 9,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 1,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 9,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 2,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 10,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 0,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 10,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 1,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 10,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 2,
+      "exact": 0,
+      "enumeration": 0
+    },
+    {
+      "case": 10,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 0,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 10,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 1,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 10,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 2,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 10,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 0,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 10,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 1,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 10,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 2,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 10,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 0,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 10,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 1,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 10,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 2,
+      "exact": 1,
+      "enumeration": 1
+    },
+    {
+      "case": 11,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 0,
+      "exact": 6,
+      "enumeration": 6
+    },
+    {
+      "case": 11,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 1,
+      "exact": 3,
+      "enumeration": 3
+    },
+    {
+      "case": 11,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 2,
+      "exact": 3,
+      "enumeration": 3
+    },
+    {
+      "case": 11,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 0,
+      "exact": 6,
+      "enumeration": 6
+    },
+    {
+      "case": 11,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 1,
+      "exact": 6,
+      "enumeration": 6
+    },
+    {
+      "case": 11,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 2,
+      "exact": 6,
+      "enumeration": 6
+    },
+    {
+      "case": 11,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 0,
+      "exact": 6,
+      "enumeration": 6
+    },
+    {
+      "case": 11,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 1,
+      "exact": 6,
+      "enumeration": 6
+    },
+    {
+      "case": 11,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 2,
+      "exact": 6,
+      "enumeration": 6
+    },
+    {
+      "case": 11,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 0,
+      "exact": 6,
+      "enumeration": 6
+    },
+    {
+      "case": 11,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 1,
+      "exact": 6,
+      "enumeration": 6
+    },
+    {
+      "case": 11,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 2,
+      "exact": 6,
+      "enumeration": 6
+    }
+  ]
+}

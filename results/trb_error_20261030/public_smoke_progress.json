@@ -1,0 +1,390 @@
+[
+  {
+    "case_id": "473d817f7137_k1",
+    "airport": "DEN",
+    "day": "2024-01-24",
+    "capacity": "N4",
+    "n": 11,
+    "delay": 1,
+    "budget": 1,
+    "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\473d817f7137_k1.json",
+    "input_sha256": "3fdbb7445f1c4f880cf823d62190a4dc77e34d42d153d3445242c2e9eeba1a38",
+    "accurate": {
+      "optimal": true,
+      "value": 74,
+      "states": 848,
+      "seconds": 0.03475999995134771,
+      "branches": 1318,
+      "bound_prunes": 822,
+      "checks": 576,
+      "worst_minutes_per_departure": 13.454545454545455,
+      "nominal_mean_minutes": 12.488636363636363,
+      "max_requests": 4,
+      "nominal_mean_requests": 2.75
+    },
+    "accurate_deployed_with_error": {
+      "calendars": 16,
+      "calendars_with_loss": 14,
+      "max_shortfall": 3,
+      "histories": 91,
+      "histories_with_shortfall": 29
+    },
+    "robust": {
+      "optimal": true,
+      "value": 87,
+      "states": 6477,
+      "seconds": 0.3476124000735581,
+      "branches": 12433,
+      "bound_prunes": 9361,
+      "checks": 1650,
+      "worst_minutes_per_departure": 15.818181818181818,
+      "nominal_mean_minutes": 12.909090909090908,
+      "max_requests": 6,
+      "nominal_mean_requests": 3.6875
+    },
+    "independent": {
+      "optimal": true,
+      "value": 173,
+      "states": 9968,
+      "seconds": 1.0259622999001294,
+      "branches": 30984,
+      "bound_prunes": 14296,
+      "checks": 849,
+      "worst_minutes_per_departure": 31.454545454545453,
+      "nominal_mean_minutes": 15.204545454545455,
+      "max_requests": 1,
+      "nominal_mean_requests": 1.0
+    },
+    "greedy": {
+      "optimal": false,
+      "value": 175,
+      "states": 7,
+      "seconds": 0.008356799837201834,
+      "branches": 6,
+      "bound_prunes": 0,
+      "checks": 576,
+      "worst_minutes_per_departure": 31.818181818181817,
+      "nominal_mean_minutes": 16.46590909090909,
+      "max_requests": 0,
+      "nominal_mean_requests": 0.0
+    },
+    "none": {
+      "optimal": false,
+      "value": 175,
+      "states": 7,
+      "seconds": 0.0005657000001519918,
+      "branches": 6,
+      "bound_prunes": 0,
+      "checks": 576,
+      "worst_minutes_per_departure": 31.818181818181817,
+      "nominal_mean_minutes": 16.46590909090909,
+      "max_requests": 0,
+      "nominal_mean_requests": 0.0
+    },
+    "fixed_target": {
+      "0": {
+        "feasible": false,
+        "requests": null,
+        "schedule": [],
+        "pairs": 120
+      },
+      "1": {
+        "feasible": false,
+        "requests": null,
+        "schedule": [],
+        "pairs": 120
+      }
+    }
+  },
+  {
+    "case_id": "473d817f7137_k1",
+    "airport": "DEN",
+    "day": "2024-01-24",
+    "capacity": "N4",
+    "n": 11,
+    "delay": 2,
+    "budget": 1,
+    "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\473d817f7137_k1.json",
+    "input_sha256": "3fdbb7445f1c4f880cf823d62190a4dc77e34d42d153d3445242c2e9eeba1a38",
+    "accurate": {
+      "optimal": true,
+      "value": 81,
+      "states": 4320,
+      "seconds": 0.1726867000106722,
+      "branches": 8591,
+      "bound_prunes": 4779,
+      "checks": 576,
+      "worst_minutes_per_departure": 14.727272727272727,
+      "nominal_mean_minutes": 13.159090909090908,
+      "max_requests": 5,
+      "nominal_mean_requests": 3.3125
+    },
+    "accurate_deployed_with_error": {
+      "calendars": 16,
+      "calendars_with_loss": 12,
+      "max_shortfall": 5,
+      "histories": 114,
+      "histories_with_shortfall": 20
+    },
+    "robust": {
+      "optimal": true,
+      "value": 97,
+      "states": 20208,
+      "seconds": 1.1048977000173181,
+      "branches": 54363,
+      "bound_prunes": 27681,
+      "checks": 1512,
+      "worst_minutes_per_departure": 17.636363636363637,
+      "nominal_mean_minutes": 13.738636363636363,
+      "max_requests": 5,
+      "nominal_mean_requests": 4.0625
+    },
+    "independent": {
+      "optimal": true,
+      "value": 174,
+      "states": 29013,
+      "seconds": 2.988866199972108,
+      "branches": 142438,
+      "bound_prunes": 37602,
+      "checks": 699,
+      "worst_minutes_per_departure": 31.636363636363637,
+      "nominal_mean_minutes": 15.556818181818182,
+      "max_requests": 1,
+      "nominal_mean_requests": 1.0
+    },
+    "greedy": {
+      "optimal": false,
+      "value": 175,
+      "states": 7,
+      "seconds": 0.0021744000259786844,
+      "branches": 6,
+      "bound_prunes": 0,
+      "checks": 576,
+      "worst_minutes_per_departure": 31.818181818181817,
+      "nominal_mean_minutes": 16.46590909090909,
+      "max_requests": 0,
+      "nominal_mean_requests": 0.0
+    },
+    "none": {
+      "optimal": false,
+      "value": 175,
+      "states": 7,
+      "seconds": 0.0010025999508798122,
+      "branches": 6,
+      "bound_prunes": 0,
+      "checks": 576,
+      "worst_minutes_per_departure": 31.818181818181817,
+      "nominal_mean_minutes": 16.46590909090909,
+      "max_requests": 0,
+      "nominal_mean_requests": 0.0
+    },
+    "fixed_target": {
+      "0": {
+        "feasible": false,
+        "requests": null,
+        "schedule": [],
+        "pairs": 120
+      },
+      "1": {
+        "feasible": false,
+        "requests": null,
+        "schedule": [],
+        "pairs": 120
+      }
+    }
+  },
+  {
+    "case_id": "931988388d77_k1",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "capacity": "N4",
+    "n": 23,
+    "delay": 1,
+    "budget": 1,
+    "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\931988388d77_k1.json",
+    "input_sha256": "56fa9f2e7d96bb64a4833377bfa717974e32430b8b63401c91d3dccd2b95e228",
+    "accurate": {
+      "optimal": true,
+      "value": 120,
+      "states": 893,
+      "seconds": 0.0345085000153631,
+      "branches": 1473,
+      "bound_prunes": 888,
+      "checks": 560,
+      "worst_minutes_per_departure": 10.434782608695652,
+      "nominal_mean_minutes": 10.233695652173912,
+      "max_requests": 4,
+      "nominal_mean_requests": 2.6875
+    },
+    "accurate_deployed_with_error": {
+      "calendars": 16,
+      "calendars_with_loss": 15,
+      "max_shortfall": 9,
+      "histories": 96,
+      "histories_with_shortfall": 26
+    },
+    "robust": {
+      "optimal": true,
+      "value": 131,
+      "states": 7691,
+      "seconds": 0.34783330000936985,
+      "branches": 18675,
+      "bound_prunes": 9252,
+      "checks": 1536,
+      "worst_minutes_per_departure": 11.391304347826088,
+      "nominal_mean_minutes": 10.456521739130435,
+      "max_requests": 6,
+      "nominal_mean_requests": 3.9375
+    },
+    "independent": {
+      "optimal": true,
+      "value": 170,
+      "states": 21870,
+      "seconds": 1.6957222998607904,
+      "branches": 118476,
+      "bound_prunes": 26041,
+      "checks": 929,
+      "worst_minutes_per_departure": 14.782608695652174,
+      "nominal_mean_minutes": 12.228260869565217,
+      "max_requests": 3,
+      "nominal_mean_requests": 2.125
+    },
+    "greedy": {
+      "optimal": false,
+      "value": 208,
+      "states": 134,
+      "seconds": 0.014517700066789985,
+      "branches": 133,
+      "bound_prunes": 0,
+      "checks": 560,
+      "worst_minutes_per_departure": 18.08695652173913,
+      "nominal_mean_minutes": 13.63586956521739,
+      "max_requests": 0,
+      "nominal_mean_requests": 0.0
+    },
+    "none": {
+      "optimal": false,
+      "value": 208,
+      "states": 134,
+      "seconds": 0.002716700080782175,
+      "branches": 133,
+      "bound_prunes": 0,
+      "checks": 560,
+      "worst_minutes_per_departure": 18.08695652173913,
+      "nominal_mean_minutes": 13.63586956521739,
+      "max_requests": 0,
+      "nominal_mean_requests": 0.0
+    },
+    "fixed_target": {
+      "0": {
+        "feasible": false,
+        "requests": null,
+        "schedule": [],
+        "pairs": 120
+      },
+      "1": {
+        "feasible": false,
+        "requests": null,
+        "schedule": [],
+        "pairs": 120
+      }
+    }
+  },
+  {
+    "case_id": "931988388d77_k1",
+    "airport": "PHX",
+    "day": "2024-01-24",
+    "capacity": "N4",
+    "n": 23,
+    "delay": 2,
+    "budget": 1,
+    "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\931988388d77_k1.json",
+    "input_sha256": "56fa9f2e7d96bb64a4833377bfa717974e32430b8b63401c91d3dccd2b95e228",
+    "accurate": {
+      "optimal": true,
+      "value": 131,
+      "states": 4218,
+      "seconds": 0.21733430004678667,
+      "branches": 9371,
+      "bound_prunes": 5128,
+      "checks": 560,
+      "worst_minutes_per_departure": 11.391304347826088,
+      "nominal_mean_minutes": 10.86413043478261,
+      "max_requests": 5,
+      "nominal_mean_requests": 3.25
+    },
+    "accurate_deployed_with_error": {
+      "calendars": 16,
+      "calendars_with_loss": 11,
+      "max_shortfall": 9,
+      "histories": 114,
+      "histories_with_shortfall": 20
+    },
+    "robust": {
+      "optimal": true,
+      "value": 143,
+      "states": 23160,
+      "seconds": 1.1575352000072598,
+      "branches": 81734,
+      "bound_prunes": 31906,
+      "checks": 1391,
+      "worst_minutes_per_departure": 12.434782608695652,
+      "nominal_mean_minutes": 11.266304347826088,
+      "max_requests": 7,
+      "nominal_mean_requests": 4.5625
+    },
+    "independent": {
+      "optimal": true,
+      "value": 173,
+      "states": 33023,
+      "seconds": 2.513689700048417,
+      "branches": 249711,
+      "bound_prunes": 40087,
+      "checks": 830,
+      "worst_minutes_per_departure": 15.043478260869565,
+      "nominal_mean_minutes": 12.608695652173912,
+      "max_requests": 3,
+      "nominal_mean_requests": 2.125
+    },
+    "greedy": {
+      "optimal": false,
+      "value": 208,
+      "states": 134,
+      "seconds": 0.004287599818781018,
+      "branches": 133,
+      "bound_prunes": 0,
+      "checks": 560,
+      "worst_minutes_per_departure": 18.08695652173913,
+      "nominal_mean_minutes": 13.63586956521739,
+      "max_requests": 0,
+      "nominal_mean_requests": 0.0
+    },
+    "none": {
+      "optimal": false,
+      "value": 208,
+      "states": 134,
+      "seconds": 0.0026666000485420227,
+      "branches": 133,
+      "bound_prunes": 0,
+      "checks": 560,
+      "worst_minutes_per_departure": 18.08695652173913,
+      "nominal_mean_minutes": 13.63586956521739,
+      "max_requests": 0,
+      "nominal_mean_requests": 0.0
+    },
+    "fixed_target": {
+      "0": {
+        "feasible": false,
+        "requests": null,
+        "schedule": [],
+        "pairs": 120
+      },
+      "1": {
+        "feasible": false,
+        "requests": null,
+        "schedule": [],
+        "pairs": 120
+      }
+    }
+  }
+]

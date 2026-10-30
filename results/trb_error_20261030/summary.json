@@ -1,0 +1,39 @@
+{
+  "conditions": 400,
+  "delays": {
+    "2": {
+      "no_requests": 20.624272226941688,
+      "independent": 17.818509810030722,
+      "rollout": 14.572001539076492,
+      "capped_exact": 14.295709733848323,
+      "exact": 14.1996328107714,
+      "request_cap": 5.115,
+      "capped_requests": 4.955,
+      "exact_requests": 5.615,
+      "improved": 94,
+      "checks": 413128,
+      "peak_states": 20209,
+      "saved_seconds": 16.577508313690146,
+      "saved_percent": 1.8960456769597571
+    },
+    "4": {
+      "no_requests": 20.624272226941688,
+      "independent": 18.1440521649373,
+      "rollout": 15.551676627277429,
+      "capped_exact": 15.183330760596437,
+      "exact": 15.120441871707548,
+      "request_cap": 4.655,
+      "capped_requests": 4.57,
+      "exact_requests": 5.015,
+      "improved": 92,
+      "checks": 366905,
+      "peak_states": 73848,
+      "saved_seconds": 22.100752000859494,
+      "saved_percent": 2.3685283298324116
+    }
+  },
+  "unrestricted_checks": 557136,
+  "capped_checks": 780033,
+  "audit_conditions": 384,
+  "cover_schedules": 1344
+}

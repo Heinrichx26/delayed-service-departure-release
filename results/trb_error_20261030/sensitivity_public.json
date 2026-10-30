@@ -1,0 +1,66 @@
+{
+  "passed": true,
+  "selection": "First date/window in frozen panel, N4 at each airport and both delays",
+  "rows": [
+    {
+      "case_id": "473d817f7137_k1",
+      "airport": "DEN",
+      "day": "2024-01-24",
+      "delay": 1,
+      "capacity": "N4",
+      "n": 11,
+      "resolved": true,
+      "gamma0": 13.454545454545455,
+      "gamma1": 15.818181818181818,
+      "gamma2": 22.363636363636363,
+      "states": 18570,
+      "seconds": 1.401744400151074,
+      "checks": 4437
+    },
+    {
+      "case_id": "473d817f7137_k1",
+      "airport": "DEN",
+      "day": "2024-01-24",
+      "delay": 2,
+      "capacity": "N4",
+      "n": 11,
+      "resolved": true,
+      "gamma0": 14.727272727272727,
+      "gamma1": 17.636363636363637,
+      "gamma2": 25.454545454545453,
+      "states": 47270,
+      "seconds": 3.479125900194049,
+      "checks": 3826
+    },
+    {
+      "case_id": "931988388d77_k1",
+      "airport": "PHX",
+      "day": "2024-01-24",
+      "delay": 1,
+      "capacity": "N4",
+      "n": 23,
+      "resolved": true,
+      "gamma0": 10.434782608695652,
+      "gamma1": 11.391304347826088,
+      "gamma2": 12.434782608695652,
+      "states": 24911,
+      "seconds": 1.5444964999333024,
+      "checks": 3766
+    },
+    {
+      "case_id": "931988388d77_k1",
+      "airport": "PHX",
+      "day": "2024-01-24",
+      "delay": 2,
+      "capacity": "N4",
+      "n": 23,
+      "resolved": true,
+      "gamma0": 11.391304347826088,
+      "gamma1": 12.434782608695652,
+      "gamma2": 13.652173913043478,
+      "states": 55589,
+      "seconds": 3.5875427999999374,
+      "checks": 3230
+    }
+  ]
+}

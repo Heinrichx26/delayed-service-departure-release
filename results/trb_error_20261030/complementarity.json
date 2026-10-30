@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "values": {
+    "exact": 4,
+    "independent": 6,
+    "none": 6,
+    "rollout1": 6,
+    "rollout2": 4
+  },
+  "fixed_target": {
+    "feasible": true,
+    "requests": 2,
+    "schedule": [
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        5
+      ]
+    ],
+    "pairs": 1
+  },
+  "distance_checks": 2457
+}

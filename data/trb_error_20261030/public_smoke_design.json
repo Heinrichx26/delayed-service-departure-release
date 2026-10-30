@@ -1,0 +1,39 @@
+{
+  "stage": "public_smoke",
+  "jobs": [
+    {
+      "case_id": "473d817f7137_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\473d817f7137_k1.json",
+      "input_sha256": "3fdbb7445f1c4f880cf823d62190a4dc77e34d42d153d3445242c2e9eeba1a38",
+      "airport": "DEN",
+      "day": "2024-01-24",
+      "capacity": "N4",
+      "divisor": 4
+    },
+    {
+      "case_id": "931988388d77_k1",
+      "input_path": "data\\substantive_20261028\\holdout_boxes\\panel_cases\\931988388d77_k1.json",
+      "input_sha256": "56fa9f2e7d96bb64a4833377bfa717974e32430b8b63401c91d3dccd2b95e228",
+      "airport": "PHX",
+      "day": "2024-01-24",
+      "capacity": "N4",
+      "divisor": 4
+    }
+  ],
+  "delays": [
+    1,
+    2
+  ],
+  "request_limit": 1,
+  "error_allowance": 1,
+  "error_unit": "sum of absolute errors in reported two-minute takeoff counts",
+  "operational_interpretation": "Sensitivity setting, not a measured controller error distribution",
+  "workers": 2,
+  "models": [
+    "accurate",
+    "robust",
+    "independent",
+    "greedy",
+    "none"
+  ]
+}

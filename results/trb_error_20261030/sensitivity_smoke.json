@@ -1,0 +1,37 @@
+{
+  "passed": true,
+  "analytic": [
+    {
+      "gamma": 0,
+      "delay": 1,
+      "value": 4,
+      "requests": 1,
+      "target_feasible": true,
+      "checks": 16
+    },
+    {
+      "gamma": 1,
+      "delay": 1,
+      "value": 4,
+      "requests": 2,
+      "target_feasible": true,
+      "checks": 30
+    },
+    {
+      "gamma": 2,
+      "delay": 1,
+      "value": 6,
+      "requests": null,
+      "target_feasible": false,
+      "checks": 16
+    },
+    {
+      "gamma": 1,
+      "delay": 2,
+      "value": 6,
+      "requests": null,
+      "target_feasible": false,
+      "checks": 16
+    }
+  ]
+}

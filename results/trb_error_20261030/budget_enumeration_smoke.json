@@ -1,0 +1,102 @@
+{
+  "passed": true,
+  "conditions": 12,
+  "rows": [
+    {
+      "case": 0,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 0,
+      "exact": 6,
+      "enumeration": 6
+    },
+    {
+      "case": 0,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 1,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 0,
+      "gamma": 0,
+      "delay": 1,
+      "cap": 2,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 0,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 0,
+      "exact": 6,
+      "enumeration": 6
+    },
+    {
+      "case": 0,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 1,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 0,
+      "gamma": 0,
+      "delay": 2,
+      "cap": 2,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 0,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 0,
+      "exact": 6,
+      "enumeration": 6
+    },
+    {
+      "case": 0,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 1,
+      "exact": 6,
+      "enumeration": 6
+    },
+    {
+      "case": 0,
+      "gamma": 1,
+      "delay": 1,
+      "cap": 2,
+      "exact": 4,
+      "enumeration": 4
+    },
+    {
+      "case": 0,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 0,
+      "exact": 6,
+      "enumeration": 6
+    },
+    {
+      "case": 0,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 1,
+      "exact": 6,
+      "enumeration": 6
+    },
+    {
+      "case": 0,
+      "gamma": 1,
+      "delay": 2,
+      "cap": 2,
+      "exact": 6,
+      "enumeration": 6
+    }
+  ]
+}

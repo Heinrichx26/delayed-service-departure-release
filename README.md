@@ -186,3 +186,48 @@ complete under the perturbed travel profiles. The complete comparison has
 163 combinations, four response/request settings and two travel information
 settings. Saved nominal policies support an independent audit at the same
 takeoff references. Plotting and manuscript production are separate.
+
+
+## Erroneous delayed count reports
+
+The src/trb_error_20261030 module contains exact finite-calendar decisions
+under a whole-period sum of absolute report-count errors. The state records
+the error already used by every retained calendar. It includes delayed
+answers, a per-slot request limit and an optional hard total request cap.
+The error allowance is a specified reporting-accuracy sensitivity input.
+It is not an estimated distribution of tower communication errors.
+
+Run the small checks before public-panel experiments:
+
+    python src/trb_error_20261030/smoke.py smoke
+    python src/trb_error_20261030/smoke.py audit
+    python src/trb_error_20261030/validate_cover.py
+    python src/trb_error_20261030/audit_budget.py smoke
+    python src/trb_error_20261030/audit_budget.py audit
+    python src/trb_error_20261030/public_panel.py public_smoke
+    python src/trb_error_20261030/public_panel.py full
+    python src/trb_error_20261030/matched_evaluation.py smoke
+    python src/trb_error_20261030/matched_evaluation.py full
+    python src/trb_error_20261030/matched_budget_panel.py smoke
+    python src/trb_error_20261030/matched_budget_panel.py full
+
+The full.json file stores 400 solved conditions: 200 fixed window/release-limit
+combinations at each of two response times. The independent-range policy
+must be compared using matched_full.json, which evaluates that policy
+under the same shared error allowance as the exact policy.
+The budget_full.json file additionally constrains each exact policy by the
+maximum whole-period requests used by two-step lookahead in that condition.
+The exact value is between the unrestricted optimum and the lookahead
+value in all 400 conditions. Mean reductions from lookahead are 16.6 and
+22.1 seconds per departure at two- and four-minute responses under the
+same total request ceiling. All averages first take the worst permitted
+history in each condition, then give conditions equal weight.
+
+The sensitivity_public.json file retains four predetermined conditions for
+error allowances zero, one and two. The summary.json file stores numeric
+aggregates; detailed results retain request counts, values, physical
+checks, solve status and input checksums. The independent physical
+enumeration matches 384 unbudgeted and 144 request-capped conditions.
+The fixed-timetable audit covers 1,344 timetables.
+
+This numerical module has no manuscript-generation or plotting dependency.
