@@ -39,6 +39,16 @@ def main():
         lower = [row['initial_lower']]+[v['lower'] for v in row['depths']]
         assert lower == sorted(lower) and lower[-1]<=row['optimum']<=row['upper']
         assert row['certified'] == (lower[-1]==row['upper'])
+    physical_histories=0;exact_evaluations=0
+    for r in rows:
+        seen=set()
+        for depth in (2,4,6):
+            v=r['methods'][str(depth)]
+            physical_histories+=v['lookahead']['histories']
+            ceiling=v['lookahead']['max_requests']
+            if ceiling not in seen:
+                physical_histories+=v['exact']['histories']
+                exact_evaluations+=1;seen.add(ceiling)
     summary=dict(conditions=70, distinct_physical_settings=35, source_windows=95,
         represented_window_conditions=554,
         sample_interpretation='Distinct numerical settings; repeated donor calendars are counted once, without date resampling',
@@ -51,8 +61,9 @@ def main():
         certificate_seconds=mean(r['seconds'] for r in boundrows),
         certificates_by_response={str(d*2):sum(r['certified'] for r in boundrows if r['delay']==d) for d in (1,2)},
         all_bound_checks_resolved=all(r['resolved'] for r in boundrows),
-        total_physical_report_histories=sum(r['methods'][str(depth)][method]['histories']
-            for r in rows for depth in (2,4,6) for method in ('lookahead','exact')),
+        total_physical_report_histories=physical_histories,
+        distinct_exact_policy_evaluations=exact_evaluations,
+        lookahead_policy_evaluations=3*len(rows),
         source_file_sha256={p.relative_to(ROOT).as_posix():sha(p) for p in
             [DATA/'design.json',OUT/'full.json',OUT/'certificate_full.json',OUT/'decision_trace.json']})
     for depth in (2,4,6):

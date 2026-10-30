@@ -295,7 +295,9 @@
     "4": 28
   },
   "all_bound_checks_resolved": true,
-  "total_physical_report_histories": 46991,
+  "total_physical_report_histories": 33488,
+  "distinct_exact_policy_evaluations": 88,
+  "lookahead_policy_evaluations": 210,
   "source_file_sha256": {
     "data/trb_external_error_20261030/design.json": "3cfffd6c83ec5de191b0a2b380b8d537353282ca6f2398be616b169676adaa10",
     "results/trb_external_error_20261030/full.json": "a8e0a2b0a4b277a344c07d2827650dda5c61a7880a2cb73a25273a5705f6e573",
