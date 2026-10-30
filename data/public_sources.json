@@ -11,5 +11,12 @@
       "sha256": "868387dcedaef1b8d8392e608e642219fde50d594c3cf2094aec858167629ccf"
     }
   ],
-  "field_definitions": "https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FGJ"
+  "field_definitions": "https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FGJ",
+  "communication_metadata": {
+    "corpus": "ATCO2",
+    "paper": "https://data.mlr.press/v2/zuluaga-gomez23a.html",
+    "data_page": "https://www.atco2.org/data",
+    "archive_scope": "public XML and INFO metadata; audio excluded from repository",
+    "retrieved": "2026-10-30"
+  }
 }
