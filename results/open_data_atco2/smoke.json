@@ -43,6 +43,15 @@
       "controller_speech_seconds": 3.48
     }
   ],
+  "total_segments": 5,
+  "controller_segments": 3,
+  "pooled_segment_mean_seconds": 4.686,
+  "airports": [
+    "LKPR (Praha Ruzyne)"
+  ],
+  "channels": [
+    "Radar"
+  ],
   "mean_file_segment_seconds": 5.708333333333334,
   "source": "ATCO2 XML metadata; audio not analyzed"
 }

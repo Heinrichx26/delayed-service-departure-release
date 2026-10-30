@@ -59,11 +59,24 @@ def analyze(root: Path, phase: str) -> dict:
             "controller_speech_seconds": sum(r["end"]-r["start"] for r in controller),
         })
     all_durations = [r["mean_segment_seconds"] for r in records]
+    total_segments = sum(r["segments"] for r in records)
+    pooled_segment_seconds = sum(
+        r["mean_segment_seconds"] * r["segments"] for r in records
+    )
+    airports = sorted({r["airport"] for r in records if r["airport"]})
+    channels = sorted({r["channel"] for r in records if r["channel"]})
     return {
         "passed": True,
         "phase": phase,
         "files": len(records),
         "records": records,
+        "total_segments": total_segments,
+        "controller_segments": sum(r["controller_segments"] for r in records),
+        "pooled_segment_mean_seconds": (
+            pooled_segment_seconds / total_segments if total_segments else None
+        ),
+        "airports": airports,
+        "channels": channels,
         "mean_file_segment_seconds": statistics.mean(all_durations) if all_durations else None,
         "source": "ATCO2 XML metadata; audio not analyzed",
     }
