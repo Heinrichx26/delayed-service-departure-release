@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "trajectory_comparisons": 110052,
+  "positive_slot_losses": 69034,
+  "positive_equalities": 9876,
+  "seed": 20261030,
+  "formula": "Range of cumulative actual-minus-donor service counts"
+}

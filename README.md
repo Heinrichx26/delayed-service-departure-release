@@ -292,3 +292,20 @@ python src/trb_external_error_20261030/summarize_independent.py
 ~~~
 
 Saved results retain all 70 conditions. Six-step lookahead is optimal in 67 conditions. Finite-depth lower bounds prove 60 candidates optimal; the other ten require full optimization to close the bound. A Dallas/Fort Worth trace uses identical service and reported counts to isolate the value of changing request order. Input hashes, grouping rules and represented windows are included in the design and results JSON files.
+
+## Chronologically separated service-count ranges
+
+The numerical extension uses January 3-18, 2025 for training, January 19-February 6 for calibration, and February 7-March 31 for evaluation. Airport-hour eligibility and group sizes use training dates. All 53 evaluation dates are kept. The saved design distinguishes 636 count vectors from 1,855 release-limit settings.
+
+Run in this order:
+
+~~~shell
+python src/trb_transfer_20261030/service_mismatch.py
+python src/trb_transfer_20261030/calibrated_service.py smoke
+python src/trb_transfer_20261030/calibrated_service.py full
+python src/trb_transfer_20261030/summarize_transfer.py
+~~~
+
+The 95 percent split-calibration rank assumes exchangeable calibration and next-test scores for a specified airport hour. Observed vector coverage is 617/636; the 90 percent alternative gives 605/636. The release calculation uses observed past counts, zero future-count requests and explicit physical limits. It preserves the early-release departures in 1,854/1,855 settings. The single exception, incomplete-group settings and all count-range alternatives are retained. The service-difference bound is independently checked on 110,052 trajectory pairs.
+
+The separate finite-calendar cross-date smoke test is retained in results/trb_transfer_20261030/smoke.json. It evaluates synthetic bounded report errors against recorded future counts; it has not been expanded to a full run. Its source data, settings and outcomes are available for diagnosis.

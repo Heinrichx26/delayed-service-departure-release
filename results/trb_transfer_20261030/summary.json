@@ -1,0 +1,98 @@
+{
+  "passed": true,
+  "all": {
+    "windows": 636,
+    "settings": 1855,
+    "raw_covered": 265,
+    "calibrated90_covered": 605,
+    "calibrated_covered": 617,
+    "raw_preserved": 1808,
+    "calibrated90_preserved": 1854,
+    "calibrated_preserved": 1854,
+    "reference_complete": 1843,
+    "raw_complete_preserved": 1796,
+    "raw_holding_seconds_per_departure": 122.64929354917786,
+    "calibrated90_complete_preserved": 1842,
+    "calibrated90_holding_seconds_per_departure": 46.50882322754802,
+    "calibrated_complete_preserved": 1842,
+    "calibrated_holding_seconds_per_departure": 42.09242800496388
+  },
+  "airports": {
+    "ATL": {
+      "windows": 212,
+      "settings": 583,
+      "raw_covered": 109,
+      "calibrated90_covered": 205,
+      "calibrated_covered": 210,
+      "raw_preserved": 573,
+      "calibrated90_preserved": 583,
+      "calibrated_preserved": 583,
+      "reference_complete": 583,
+      "raw_complete_preserved": 573,
+      "raw_holding_seconds_per_departure": 18.844427823485415,
+      "calibrated90_complete_preserved": 583,
+      "calibrated90_holding_seconds_per_departure": 9.545454545454545,
+      "calibrated_complete_preserved": 583,
+      "calibrated_holding_seconds_per_departure": 6.818181818181818
+    },
+    "CLT": {
+      "windows": 265,
+      "settings": 795,
+      "raw_covered": 117,
+      "calibrated90_covered": 252,
+      "calibrated_covered": 259,
+      "raw_preserved": 778,
+      "calibrated90_preserved": 795,
+      "calibrated_preserved": 795,
+      "reference_complete": 783,
+      "raw_complete_preserved": 766,
+      "raw_holding_seconds_per_departure": 222.03141454980482,
+      "calibrated90_complete_preserved": 783,
+      "calibrated90_holding_seconds_per_departure": 80.2302746062866,
+      "calibrated_complete_preserved": 783,
+      "calibrated_holding_seconds_per_departure": 73.90204982978597
+    },
+    "DFW": {
+      "windows": 159,
+      "settings": 477,
+      "raw_covered": 39,
+      "calibrated90_covered": 148,
+      "calibrated_covered": 148,
+      "raw_preserved": 457,
+      "calibrated90_preserved": 476,
+      "calibrated_preserved": 476,
+      "reference_complete": 477,
+      "raw_complete_preserved": 457,
+      "raw_holding_seconds_per_departure": 86.22365541863411,
+      "calibrated90_complete_preserved": 476,
+      "calibrated90_holding_seconds_per_departure": 36.31081379920389,
+      "calibrated_complete_preserved": 476,
+      "calibrated_holding_seconds_per_departure": 32.97047766475011
+    }
+  },
+  "interpretation": "Chronologically separated historical reconstruction; all 53 evaluation dates retained at every donor-eligible airport-hour",
+  "units": "Count coverage uses 636 distinct airport-date-hour vectors; takeoff preservation uses 1855 release-limit settings; holding uses group-complete settings with equal takeoffs",
+  "requests": 0,
+  "travel_minutes": 12,
+  "report_errors": "No future counts requested",
+  "calibration_level": 0.95,
+  "probability_condition": "Exchangeability of calibration and test scores for one airport-hour",
+  "residual": [
+    {
+      "airport": "DFW",
+      "hour": 18,
+      "day": "2025-03-08",
+      "n": 19,
+      "cap": 19,
+      "maximum_shortfall": 1,
+      "accumulated_shortfall_aircraftminutes": 16,
+      "final_reference": 19,
+      "final_departures": 19
+    }
+  ],
+  "sha256": {
+    "data/trb_transfer_20261030/calibrated_design.json": "75f47e5dde25e41d42212f09b936319c069eca3b3d4ed6f8923314653c460831",
+    "results/trb_transfer_20261030/calibrated_full.json": "7a18b34531ea8b77cb18d5beb4e1b3800d995f0be0b2270efb312ffd33a10447",
+    "results/trb_transfer_20261030/bound_smoke.json": "deff5543eed5c0a4774ed1ebe7acd5d4cec44e0012c1b803b668196dfb9d825d"
+  }
+}
