@@ -1,0 +1,1774 @@
+{
+  "passed": true,
+  "conditions": 36,
+  "paired_conditions": 36,
+  "same_request_times_and_targets": true,
+  "requests_per_history": 3,
+  "shared_error_gain_seconds": 14.734335839598995,
+  "rows": [
+    {
+      "case_id": "ATL_h14",
+      "cap": 14,
+      "n": 14,
+      "day": "2025-02-07",
+      "delay": 1,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 95,
+          "minimum_gateholding": 7,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 95,
+            "gateholding": 7,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 95,
+          "minimum_gateholding": 7,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 95,
+            "gateholding": 7,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "ATL_h14",
+      "cap": 14,
+      "n": 14,
+      "day": "2025-02-07",
+      "delay": 2,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 95,
+          "minimum_gateholding": 7,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 95,
+            "gateholding": 7,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 95,
+          "minimum_gateholding": 7,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 95,
+            "gateholding": 7,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "ATL_h14",
+      "cap": 14,
+      "n": 14,
+      "day": "2025-03-31",
+      "delay": 1,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 127,
+          "minimum_gateholding": 14,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 124,
+            "gateholding": 17,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 128,
+          "minimum_gateholding": 13,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 126,
+            "gateholding": 15,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "ATL_h14",
+      "cap": 14,
+      "n": 14,
+      "day": "2025-03-31",
+      "delay": 2,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 134,
+          "minimum_gateholding": 7,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 134,
+            "gateholding": 7,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 134,
+          "minimum_gateholding": 7,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 134,
+            "gateholding": 7,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "ATL_h14",
+      "cap": 4,
+      "n": 14,
+      "day": "2025-02-07",
+      "delay": 1,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 88,
+          "minimum_gateholding": 2,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 86,
+            "gateholding": 4,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 89,
+          "minimum_gateholding": 1,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 87,
+            "gateholding": 3,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "ATL_h14",
+      "cap": 4,
+      "n": 14,
+      "day": "2025-02-07",
+      "delay": 2,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 88,
+          "minimum_gateholding": 2,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 86,
+            "gateholding": 4,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 89,
+          "minimum_gateholding": 1,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 87,
+            "gateholding": 3,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "ATL_h14",
+      "cap": 4,
+      "n": 14,
+      "day": "2025-03-31",
+      "delay": 1,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 118,
+          "minimum_gateholding": 5,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 117,
+            "gateholding": 6,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 120,
+          "minimum_gateholding": 3,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 119,
+            "gateholding": 4,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "ATL_h14",
+      "cap": 4,
+      "n": 14,
+      "day": "2025-03-31",
+      "delay": 2,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 122,
+          "minimum_gateholding": 1,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 120,
+            "gateholding": 3,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 122,
+          "minimum_gateholding": 1,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 121,
+            "gateholding": 2,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "ATL_h14",
+      "cap": 2,
+      "n": 14,
+      "day": "2025-02-07",
+      "delay": 1,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 86,
+          "minimum_gateholding": 0,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 86,
+            "gateholding": 0,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 86,
+          "minimum_gateholding": 0,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 86,
+            "gateholding": 0,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "ATL_h14",
+      "cap": 2,
+      "n": 14,
+      "day": "2025-02-07",
+      "delay": 2,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 86,
+          "minimum_gateholding": 0,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 86,
+            "gateholding": 0,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 86,
+          "minimum_gateholding": 0,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 86,
+            "gateholding": 0,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "ATL_h14",
+      "cap": 2,
+      "n": 14,
+      "day": "2025-03-31",
+      "delay": 1,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 99,
+          "minimum_gateholding": 0,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 99,
+            "gateholding": 0,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 99,
+          "minimum_gateholding": 0,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 99,
+            "gateholding": 0,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "ATL_h14",
+      "cap": 2,
+      "n": 14,
+      "day": "2025-03-31",
+      "delay": 2,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 99,
+          "minimum_gateholding": 0,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 99,
+            "gateholding": 0,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 99,
+          "minimum_gateholding": 0,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 99,
+            "gateholding": 0,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "CLT_h16",
+      "cap": 25,
+      "n": 25,
+      "day": "2025-02-07",
+      "delay": 1,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 6,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 269,
+          "minimum_gateholding": 82,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 263,
+            "gateholding": 88,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 6,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 276,
+          "minimum_gateholding": 75,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 271,
+            "gateholding": 80,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "CLT_h16",
+      "cap": 25,
+      "n": 25,
+      "day": "2025-02-07",
+      "delay": 2,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 288,
+          "minimum_gateholding": 63,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 284,
+            "gateholding": 67,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 293,
+          "minimum_gateholding": 58,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 289,
+            "gateholding": 62,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "CLT_h16",
+      "cap": 25,
+      "n": 25,
+      "day": "2025-03-31",
+      "delay": 1,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 6,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 345,
+          "minimum_gateholding": 82,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 338,
+            "gateholding": 89,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 6,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 352,
+          "minimum_gateholding": 75,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 347,
+            "gateholding": 80,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "CLT_h16",
+      "cap": 25,
+      "n": 25,
+      "day": "2025-03-31",
+      "delay": 2,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 6,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 358,
+          "minimum_gateholding": 69,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 351,
+            "gateholding": 76,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 6,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 363,
+          "minimum_gateholding": 64,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 359,
+            "gateholding": 68,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "CLT_h16",
+      "cap": 7,
+      "n": 25,
+      "day": "2025-02-07",
+      "delay": 1,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 6,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 269,
+          "minimum_gateholding": 49,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 263,
+            "gateholding": 55,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 6,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 276,
+          "minimum_gateholding": 42,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 271,
+            "gateholding": 47,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "CLT_h16",
+      "cap": 7,
+      "n": 25,
+      "day": "2025-02-07",
+      "delay": 2,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 288,
+          "minimum_gateholding": 30,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 284,
+            "gateholding": 34,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 293,
+          "minimum_gateholding": 25,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 289,
+            "gateholding": 29,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "CLT_h16",
+      "cap": 7,
+      "n": 25,
+      "day": "2025-03-31",
+      "delay": 1,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 6,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 345,
+          "minimum_gateholding": 49,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 338,
+            "gateholding": 56,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 6,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 352,
+          "minimum_gateholding": 42,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 347,
+            "gateholding": 47,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "CLT_h16",
+      "cap": 7,
+      "n": 25,
+      "day": "2025-03-31",
+      "delay": 2,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 6,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 358,
+          "minimum_gateholding": 36,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 351,
+            "gateholding": 43,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 6,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 363,
+          "minimum_gateholding": 31,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 359,
+            "gateholding": 35,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "CLT_h16",
+      "cap": 4,
+      "n": 25,
+      "day": "2025-02-07",
+      "delay": 1,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 6,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 270,
+          "minimum_gateholding": 15,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 265,
+            "gateholding": 20,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 6,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 275,
+          "minimum_gateholding": 10,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 274,
+            "gateholding": 11,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "CLT_h16",
+      "cap": 4,
+      "n": 25,
+      "day": "2025-02-07",
+      "delay": 2,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 278,
+          "minimum_gateholding": 7,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 277,
+            "gateholding": 8,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 283,
+          "minimum_gateholding": 2,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 280,
+            "gateholding": 5,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "CLT_h16",
+      "cap": 4,
+      "n": 25,
+      "day": "2025-03-31",
+      "delay": 1,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 6,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 346,
+          "minimum_gateholding": 15,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 340,
+            "gateholding": 21,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 6,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 351,
+          "minimum_gateholding": 10,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 350,
+            "gateholding": 11,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "CLT_h16",
+      "cap": 4,
+      "n": 25,
+      "day": "2025-03-31",
+      "delay": 2,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 6,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 348,
+          "minimum_gateholding": 13,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 342,
+            "gateholding": 19,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 6,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 355,
+          "minimum_gateholding": 6,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 351,
+            "gateholding": 10,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "DFW_h18",
+      "cap": 19,
+      "n": 19,
+      "day": "2025-02-07",
+      "delay": 1,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 257,
+          "minimum_gateholding": 45,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 253,
+            "gateholding": 49,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 262,
+          "minimum_gateholding": 40,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 258,
+            "gateholding": 44,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "DFW_h18",
+      "cap": 19,
+      "n": 19,
+      "day": "2025-02-07",
+      "delay": 2,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 267,
+          "minimum_gateholding": 35,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 264,
+            "gateholding": 38,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 270,
+          "minimum_gateholding": 32,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 267,
+            "gateholding": 35,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "DFW_h18",
+      "cap": 19,
+      "n": 19,
+      "day": "2025-03-31",
+      "delay": 1,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 158,
+          "minimum_gateholding": 33,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 155,
+            "gateholding": 36,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 161,
+          "minimum_gateholding": 30,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 158,
+            "gateholding": 33,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "DFW_h18",
+      "cap": 19,
+      "n": 19,
+      "day": "2025-03-31",
+      "delay": 2,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 162,
+          "minimum_gateholding": 29,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 159,
+            "gateholding": 32,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 163,
+          "minimum_gateholding": 28,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 161,
+            "gateholding": 30,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "DFW_h18",
+      "cap": 5,
+      "n": 19,
+      "day": "2025-02-07",
+      "delay": 1,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 259,
+          "minimum_gateholding": 16,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 256,
+            "gateholding": 19,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 264,
+          "minimum_gateholding": 11,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 260,
+            "gateholding": 15,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "DFW_h18",
+      "cap": 5,
+      "n": 19,
+      "day": "2025-02-07",
+      "delay": 2,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 267,
+          "minimum_gateholding": 8,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 264,
+            "gateholding": 11,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 270,
+          "minimum_gateholding": 5,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 267,
+            "gateholding": 8,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "DFW_h18",
+      "cap": 5,
+      "n": 19,
+      "day": "2025-03-31",
+      "delay": 1,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 158,
+          "minimum_gateholding": 6,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 156,
+            "gateholding": 8,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 161,
+          "minimum_gateholding": 3,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 159,
+            "gateholding": 5,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "DFW_h18",
+      "cap": 5,
+      "n": 19,
+      "day": "2025-03-31",
+      "delay": 2,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 162,
+          "minimum_gateholding": 2,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 159,
+            "gateholding": 5,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 163,
+          "minimum_gateholding": 1,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 161,
+            "gateholding": 3,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "DFW_h18",
+      "cap": 3,
+      "n": 19,
+      "day": "2025-02-07",
+      "delay": 1,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 251,
+          "minimum_gateholding": 0,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 251,
+            "gateholding": 0,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 251,
+          "minimum_gateholding": 0,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 251,
+            "gateholding": 0,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "DFW_h18",
+      "cap": 3,
+      "n": 19,
+      "day": "2025-02-07",
+      "delay": 2,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 251,
+          "minimum_gateholding": 0,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 249,
+            "gateholding": 2,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 251,
+          "minimum_gateholding": 0,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 251,
+            "gateholding": 0,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "DFW_h18",
+      "cap": 3,
+      "n": 19,
+      "day": "2025-03-31",
+      "delay": 1,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 140,
+          "minimum_gateholding": 0,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 140,
+            "gateholding": 0,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 140,
+          "minimum_gateholding": 0,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 140,
+            "gateholding": 0,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    },
+    {
+      "case_id": "DFW_h18",
+      "cap": 3,
+      "n": 19,
+      "day": "2025-03-31",
+      "delay": 2,
+      "methods": {
+        "shared": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 140,
+          "minimum_gateholding": 0,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 140,
+            "gateholding": 0,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        },
+        "independent": {
+          "covered": true,
+          "histories": 7,
+          "takeoffs_preserved": true,
+          "worst_shortfall": 0,
+          "maximum_shortfall": 0,
+          "worst_postrelease": 140,
+          "minimum_gateholding": 0,
+          "maximum_requests": 3,
+          "reference_completes_group": true,
+          "nominal": {
+            "postrelease": 140,
+            "gateholding": 0,
+            "shortfall": 0,
+            "maximum_shortfall": 0,
+            "requests": 3,
+            "error_used": 0,
+            "range_exhausted": false
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "cases": 160,
+  "compatible_trajectories": 1494,
+  "checks": "Exact equality with exhaustive integer-calendar release bounds, including incomplete groups and inconsistent reports"
+}

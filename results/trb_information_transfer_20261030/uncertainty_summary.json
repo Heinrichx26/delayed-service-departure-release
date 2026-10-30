@@ -1,0 +1,16 @@
+{
+  "date_clusters": 53,
+  "paired_conditions": 3678,
+  "bootstrap_repetitions": 5000,
+  "interval_interpretation": "Descriptive date-cluster resampling of the common preserved evaluation population",
+  "confidence_intervals_seconds": {
+    "three_request_gain": [
+      35.01461688366967,
+      38.110053059872044
+    ],
+    "shared_error_gain": [
+      10.104610921167328,
+      10.907474929197
+    ]
+  }
+}

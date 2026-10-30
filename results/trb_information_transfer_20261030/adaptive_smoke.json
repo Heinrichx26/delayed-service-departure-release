@@ -1,0 +1,1360 @@
+{
+  "passed": true,
+  "blocks": [
+    {
+      "job": {
+        "case_id": "ATL_h14",
+        "airport": "ATL",
+        "hour": 14,
+        "n": 14,
+        "cap": 4,
+        "input_path": "data/trb_transfer_20261030/calibrated_cases/ATL_h14.json",
+        "input_sha256": "0c22c910ade8987efd55c9c13df5476826a1cca6d23c071f608e889e3d3d6a3f",
+        "delay": 1
+      },
+      "resolved": true,
+      "training": {
+        "two": {
+          "value": 293,
+          "seconds": 0.06905549997463822,
+          "states": 84,
+          "resolved": true,
+          "donor_histories": 78
+        },
+        "six": {
+          "value": 293,
+          "seconds": 0.054128400050103664,
+          "states": 57,
+          "resolved": true,
+          "donor_histories": 60
+        },
+        "exact": {
+          "value": 293,
+          "seconds": 0.01691689994186163,
+          "states": 681,
+          "resolved": true,
+          "donor_histories": 60
+        }
+      },
+      "rows": [
+        {
+          "case_id": "ATL_h14",
+          "airport": "ATL",
+          "hour": 14,
+          "n": 14,
+          "cap": 4,
+          "delay": 1,
+          "day": "2025-02-07",
+          "methods": {
+            "two": {
+              "covered": true,
+              "histories": 5,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 89,
+              "minimum_gateholding": 1,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 88,
+                "gateholding": 2,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 2,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "six": {
+              "covered": true,
+              "histories": 3,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 90,
+              "minimum_gateholding": 0,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 90,
+                "gateholding": 0,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 1,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "exact": {
+              "covered": true,
+              "histories": 3,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 90,
+              "minimum_gateholding": 0,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 90,
+                "gateholding": 0,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 1,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "deadline": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 88,
+              "minimum_gateholding": 2,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 86,
+                "gateholding": 4,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            }
+          }
+        },
+        {
+          "case_id": "ATL_h14",
+          "airport": "ATL",
+          "hour": 14,
+          "n": 14,
+          "cap": 4,
+          "delay": 1,
+          "day": "2025-03-31",
+          "methods": {
+            "two": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 120,
+              "minimum_gateholding": 3,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 118,
+                "gateholding": 5,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "six": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 123,
+              "minimum_gateholding": 0,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 118,
+                "gateholding": 5,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "exact": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 123,
+              "minimum_gateholding": 0,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 118,
+                "gateholding": 5,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "deadline": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 118,
+              "minimum_gateholding": 5,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 117,
+                "gateholding": 6,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            }
+          }
+        }
+      ],
+      "seconds": 0.3374413999263197
+    },
+    {
+      "job": {
+        "case_id": "ATL_h14",
+        "airport": "ATL",
+        "hour": 14,
+        "n": 14,
+        "cap": 4,
+        "input_path": "data/trb_transfer_20261030/calibrated_cases/ATL_h14.json",
+        "input_sha256": "0c22c910ade8987efd55c9c13df5476826a1cca6d23c071f608e889e3d3d6a3f",
+        "delay": 2
+      },
+      "resolved": true,
+      "training": {
+        "two": {
+          "value": 294,
+          "seconds": 0.027995600132271647,
+          "states": 71,
+          "resolved": true,
+          "donor_histories": 91
+        },
+        "six": {
+          "value": 294,
+          "seconds": 0.022871300112456083,
+          "states": 71,
+          "resolved": true,
+          "donor_histories": 91
+        },
+        "exact": {
+          "value": 294,
+          "seconds": 0.008552100043743849,
+          "states": 607,
+          "resolved": true,
+          "donor_histories": 91
+        }
+      },
+      "rows": [
+        {
+          "case_id": "ATL_h14",
+          "airport": "ATL",
+          "hour": 14,
+          "n": 14,
+          "cap": 4,
+          "delay": 2,
+          "day": "2025-02-07",
+          "methods": {
+            "two": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 88,
+              "minimum_gateholding": 2,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 86,
+                "gateholding": 4,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "six": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 88,
+              "minimum_gateholding": 2,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 86,
+                "gateholding": 4,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "exact": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 88,
+              "minimum_gateholding": 2,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 86,
+                "gateholding": 4,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "deadline": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 88,
+              "minimum_gateholding": 2,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 86,
+                "gateholding": 4,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            }
+          }
+        },
+        {
+          "case_id": "ATL_h14",
+          "airport": "ATL",
+          "hour": 14,
+          "n": 14,
+          "cap": 4,
+          "delay": 2,
+          "day": "2025-03-31",
+          "methods": {
+            "two": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 122,
+              "minimum_gateholding": 1,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 120,
+                "gateholding": 3,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "six": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 122,
+              "minimum_gateholding": 1,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 120,
+                "gateholding": 3,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "exact": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 122,
+              "minimum_gateholding": 1,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 120,
+                "gateholding": 3,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "deadline": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 122,
+              "minimum_gateholding": 1,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 120,
+                "gateholding": 3,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            }
+          }
+        }
+      ],
+      "seconds": 0.20560910017229617
+    },
+    {
+      "job": {
+        "case_id": "CLT_h10",
+        "airport": "CLT",
+        "hour": 10,
+        "n": 30,
+        "cap": 8,
+        "input_path": "data/trb_transfer_20261030/calibrated_cases/CLT_h10.json",
+        "input_sha256": "426d598c0f8fb0f1dd4311c8f91fc691234817bbdd401c09788b78ac0c699bf2",
+        "delay": 1
+      },
+      "resolved": true,
+      "training": {
+        "two": {
+          "value": 450,
+          "seconds": 0.13453669985756278,
+          "states": 217,
+          "resolved": true,
+          "donor_histories": 109
+        },
+        "six": {
+          "value": 450,
+          "seconds": 0.32665090006776154,
+          "states": 217,
+          "resolved": true,
+          "donor_histories": 109
+        },
+        "exact": {
+          "value": 450,
+          "seconds": 0.07273530005477369,
+          "states": 4445,
+          "resolved": true,
+          "donor_histories": 109
+        }
+      },
+      "rows": [
+        {
+          "case_id": "CLT_h10",
+          "airport": "CLT",
+          "hour": 10,
+          "n": 30,
+          "cap": 8,
+          "delay": 1,
+          "day": "2025-02-07",
+          "methods": {
+            "two": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 284,
+              "minimum_gateholding": 35,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 280,
+                "gateholding": 39,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "six": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 284,
+              "minimum_gateholding": 35,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 280,
+                "gateholding": 39,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "exact": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 284,
+              "minimum_gateholding": 35,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 280,
+                "gateholding": 39,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "deadline": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 288,
+              "minimum_gateholding": 31,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 284,
+                "gateholding": 35,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            }
+          }
+        },
+        {
+          "case_id": "CLT_h10",
+          "airport": "CLT",
+          "hour": 10,
+          "n": 30,
+          "cap": 8,
+          "delay": 1,
+          "day": "2025-03-31",
+          "methods": {
+            "two": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 367,
+              "minimum_gateholding": 41,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 362,
+                "gateholding": 46,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "six": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 367,
+              "minimum_gateholding": 41,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 362,
+                "gateholding": 46,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "exact": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 367,
+              "minimum_gateholding": 41,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 362,
+                "gateholding": 46,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "deadline": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 363,
+              "minimum_gateholding": 45,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 358,
+                "gateholding": 50,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            }
+          }
+        }
+      ],
+      "seconds": 0.7108531999401748
+    },
+    {
+      "job": {
+        "case_id": "CLT_h10",
+        "airport": "CLT",
+        "hour": 10,
+        "n": 30,
+        "cap": 8,
+        "input_path": "data/trb_transfer_20261030/calibrated_cases/CLT_h10.json",
+        "input_sha256": "426d598c0f8fb0f1dd4311c8f91fc691234817bbdd401c09788b78ac0c699bf2",
+        "delay": 2
+      },
+      "resolved": true,
+      "training": {
+        "two": {
+          "value": 466,
+          "seconds": 0.09550049994140863,
+          "states": 175,
+          "resolved": true,
+          "donor_histories": 109
+        },
+        "six": {
+          "value": 466,
+          "seconds": 0.21262640017084777,
+          "states": 175,
+          "resolved": true,
+          "donor_histories": 109
+        },
+        "exact": {
+          "value": 466,
+          "seconds": 0.0892913001589477,
+          "states": 7595,
+          "resolved": true,
+          "donor_histories": 109
+        }
+      },
+      "rows": [
+        {
+          "case_id": "CLT_h10",
+          "airport": "CLT",
+          "hour": 10,
+          "n": 30,
+          "cap": 8,
+          "delay": 2,
+          "day": "2025-02-07",
+          "methods": {
+            "two": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 295,
+              "minimum_gateholding": 24,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 292,
+                "gateholding": 27,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "six": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 295,
+              "minimum_gateholding": 24,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 292,
+                "gateholding": 27,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "exact": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 295,
+              "minimum_gateholding": 24,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 292,
+                "gateholding": 27,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "deadline": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 298,
+              "minimum_gateholding": 21,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 295,
+                "gateholding": 24,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            }
+          }
+        },
+        {
+          "case_id": "CLT_h10",
+          "airport": "CLT",
+          "hour": 10,
+          "n": 30,
+          "cap": 8,
+          "delay": 2,
+          "day": "2025-03-31",
+          "methods": {
+            "two": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 380,
+              "minimum_gateholding": 28,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 376,
+                "gateholding": 32,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "six": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 380,
+              "minimum_gateholding": 28,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 376,
+                "gateholding": 32,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "exact": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 380,
+              "minimum_gateholding": 28,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 376,
+                "gateholding": 32,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "deadline": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 378,
+              "minimum_gateholding": 30,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 374,
+                "gateholding": 34,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            }
+          }
+        }
+      ],
+      "seconds": 0.5768114000093192
+    },
+    {
+      "job": {
+        "case_id": "DFW_h18",
+        "airport": "DFW",
+        "hour": 18,
+        "n": 19,
+        "cap": 5,
+        "input_path": "data/trb_transfer_20261030/calibrated_cases/DFW_h18.json",
+        "input_sha256": "79911f070e38402381e746757dca6ff3b00ff3427de354470f5a6710286a239e",
+        "delay": 1
+      },
+      "resolved": true,
+      "training": {
+        "two": {
+          "value": 314,
+          "seconds": 0.10203229985199869,
+          "states": 185,
+          "resolved": true,
+          "donor_histories": 104
+        },
+        "six": {
+          "value": 314,
+          "seconds": 0.15707479999400675,
+          "states": 185,
+          "resolved": true,
+          "donor_histories": 104
+        },
+        "exact": {
+          "value": 314,
+          "seconds": 0.03408630006015301,
+          "states": 2436,
+          "resolved": true,
+          "donor_histories": 104
+        }
+      },
+      "rows": [
+        {
+          "case_id": "DFW_h18",
+          "airport": "DFW",
+          "hour": 18,
+          "n": 19,
+          "cap": 5,
+          "delay": 1,
+          "day": "2025-02-07",
+          "methods": {
+            "two": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 260,
+              "minimum_gateholding": 15,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 258,
+                "gateholding": 17,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "six": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 260,
+              "minimum_gateholding": 15,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 258,
+                "gateholding": 17,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "exact": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 260,
+              "minimum_gateholding": 15,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 258,
+                "gateholding": 17,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "deadline": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 259,
+              "minimum_gateholding": 16,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 256,
+                "gateholding": 19,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            }
+          }
+        },
+        {
+          "case_id": "DFW_h18",
+          "airport": "DFW",
+          "hour": 18,
+          "n": 19,
+          "cap": 5,
+          "delay": 1,
+          "day": "2025-03-31",
+          "methods": {
+            "two": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 154,
+              "minimum_gateholding": 10,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 153,
+                "gateholding": 11,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "six": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 154,
+              "minimum_gateholding": 10,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 153,
+                "gateholding": 11,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "exact": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 154,
+              "minimum_gateholding": 10,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 153,
+                "gateholding": 11,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "deadline": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 158,
+              "minimum_gateholding": 6,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 156,
+                "gateholding": 8,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            }
+          }
+        }
+      ],
+      "seconds": 0.4666794000659138
+    },
+    {
+      "job": {
+        "case_id": "DFW_h18",
+        "airport": "DFW",
+        "hour": 18,
+        "n": 19,
+        "cap": 5,
+        "input_path": "data/trb_transfer_20261030/calibrated_cases/DFW_h18.json",
+        "input_sha256": "79911f070e38402381e746757dca6ff3b00ff3427de354470f5a6710286a239e",
+        "delay": 2
+      },
+      "resolved": true,
+      "training": {
+        "two": {
+          "value": 323,
+          "seconds": 0.06717330007813871,
+          "states": 148,
+          "resolved": true,
+          "donor_histories": 104
+        },
+        "six": {
+          "value": 323,
+          "seconds": 0.08643990010023117,
+          "states": 148,
+          "resolved": true,
+          "donor_histories": 104
+        },
+        "exact": {
+          "value": 323,
+          "seconds": 0.051182799972593784,
+          "states": 3178,
+          "resolved": true,
+          "donor_histories": 104
+        }
+      },
+      "rows": [
+        {
+          "case_id": "DFW_h18",
+          "airport": "DFW",
+          "hour": 18,
+          "n": 19,
+          "cap": 5,
+          "delay": 2,
+          "day": "2025-02-07",
+          "methods": {
+            "two": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 269,
+              "minimum_gateholding": 6,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 267,
+                "gateholding": 8,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "six": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 269,
+              "minimum_gateholding": 6,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 267,
+                "gateholding": 8,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "exact": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 269,
+              "minimum_gateholding": 6,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 267,
+                "gateholding": 8,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "deadline": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 267,
+              "minimum_gateholding": 8,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 264,
+                "gateholding": 11,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            }
+          }
+        },
+        {
+          "case_id": "DFW_h18",
+          "airport": "DFW",
+          "hour": 18,
+          "n": 19,
+          "cap": 5,
+          "delay": 2,
+          "day": "2025-03-31",
+          "methods": {
+            "two": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 160,
+              "minimum_gateholding": 4,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 156,
+                "gateholding": 8,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "six": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 160,
+              "minimum_gateholding": 4,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 156,
+                "gateholding": 8,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "exact": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 160,
+              "minimum_gateholding": 4,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 156,
+                "gateholding": 8,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            },
+            "deadline": {
+              "covered": true,
+              "histories": 7,
+              "takeoffs_preserved": true,
+              "worst_shortfall": 0,
+              "maximum_shortfall": 0,
+              "worst_postrelease": 162,
+              "minimum_gateholding": 2,
+              "maximum_requests": 3,
+              "reference_completes_group": true,
+              "nominal": {
+                "postrelease": 159,
+                "gateholding": 5,
+                "shortfall": 0,
+                "maximum_shortfall": 0,
+                "requests": 3,
+                "error_used": 0,
+                "range_exhausted": false
+              }
+            }
+          }
+        }
+      ],
+      "seconds": 0.38377880002371967
+    }
+  ],
+  "conditions": 12,
+  "paired_complete_preserved": 12,
+  "summary": {
+    "two": {
+      "preserved": 12,
+      "mean_holding_seconds": 66.0877192982456,
+      "mean_postrelease_seconds": 1184.9699248120303,
+      "mean_requests": 3.0
+    },
+    "six": {
+      "preserved": 12,
+      "mean_holding_seconds": 63.230576441102755,
+      "mean_postrelease_seconds": 1187.827067669173,
+      "mean_requests": 3.0
+    },
+    "exact": {
+      "preserved": 12,
+      "mean_holding_seconds": 63.230576441102755,
+      "mean_postrelease_seconds": 1187.827067669173,
+      "mean_requests": 3.0
+    },
+    "deadline": {
+      "preserved": 12,
+      "mean_holding_seconds": 66.31829573934839,
+      "mean_postrelease_seconds": 1184.7393483709272,
+      "mean_requests": 3.0
+    }
+  },
+  "seconds": 1.5076275998726487
+}

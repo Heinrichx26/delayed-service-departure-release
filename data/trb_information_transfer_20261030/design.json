@@ -1,0 +1,466 @@
+{
+  "source": "data/independent_adsb_q1/processed/airport_departures_2025_q1.csv",
+  "source_sha256": "2bbebdecafcd406f96ff279b17046ca9cc7be6d1b0c744ea68bcc387574536ec",
+  "training_dates": [
+    "2025-01-03",
+    "2025-01-04",
+    "2025-01-05",
+    "2025-01-06",
+    "2025-01-07",
+    "2025-01-08",
+    "2025-01-09",
+    "2025-01-10",
+    "2025-01-11",
+    "2025-01-12",
+    "2025-01-13",
+    "2025-01-14",
+    "2025-01-15",
+    "2025-01-16",
+    "2025-01-17",
+    "2025-01-18"
+  ],
+  "calibration_dates": [
+    "2025-01-19",
+    "2025-01-20",
+    "2025-01-21",
+    "2025-01-22",
+    "2025-01-23",
+    "2025-01-24",
+    "2025-01-25",
+    "2025-01-26",
+    "2025-01-27",
+    "2025-01-28",
+    "2025-01-29",
+    "2025-01-30",
+    "2025-01-31",
+    "2025-02-01",
+    "2025-02-02",
+    "2025-02-03",
+    "2025-02-04",
+    "2025-02-05",
+    "2025-02-06"
+  ],
+  "evaluation_dates": [
+    "2025-02-07",
+    "2025-02-08",
+    "2025-02-09",
+    "2025-02-10",
+    "2025-02-11",
+    "2025-02-12",
+    "2025-02-13",
+    "2025-02-14",
+    "2025-02-15",
+    "2025-02-16",
+    "2025-02-17",
+    "2025-02-18",
+    "2025-02-19",
+    "2025-02-20",
+    "2025-02-21",
+    "2025-02-22",
+    "2025-02-23",
+    "2025-02-24",
+    "2025-02-25",
+    "2025-02-26",
+    "2025-02-27",
+    "2025-02-28",
+    "2025-03-01",
+    "2025-03-02",
+    "2025-03-03",
+    "2025-03-04",
+    "2025-03-05",
+    "2025-03-06",
+    "2025-03-07",
+    "2025-03-08",
+    "2025-03-09",
+    "2025-03-10",
+    "2025-03-11",
+    "2025-03-12",
+    "2025-03-13",
+    "2025-03-14",
+    "2025-03-15",
+    "2025-03-16",
+    "2025-03-17",
+    "2025-03-18",
+    "2025-03-19",
+    "2025-03-20",
+    "2025-03-21",
+    "2025-03-22",
+    "2025-03-23",
+    "2025-03-24",
+    "2025-03-25",
+    "2025-03-26",
+    "2025-03-27",
+    "2025-03-28",
+    "2025-03-29",
+    "2025-03-30",
+    "2025-03-31"
+  ],
+  "alpha": 0.05,
+  "calibration_count": 19,
+  "order_statistic": 19,
+  "score": "Largest positive two-minute count exceedance over training maxima within one hour",
+  "selection": "Group size and airport-hour eligibility use training dates only; all 53 later dates retained",
+  "coverage_interpretation": "Per-airport-hour simultaneous 60-minute count coverage; nominal 95 percent requires exchangeability of calibration and evaluation scores",
+  "calibration_sensitivity": "Raw training maxima and 90 and 95 percent calibrated upper counts evaluated on the same frozen dates",
+  "missing_records": "Zero recorded counts retained; counts describe the public archive",
+  "decision_period_minutes": 72,
+  "travel_minutes": 12,
+  "source_window_minutes": 60,
+  "slot_minutes": 2,
+  "excluded": [
+    {
+      "airport": "ATL",
+      "hour": 10,
+      "n": 0
+    },
+    {
+      "airport": "DFW",
+      "hour": 10,
+      "n": 1
+    },
+    {
+      "airport": "DFW",
+      "hour": 12,
+      "n": 0
+    }
+  ],
+  "jobs": [
+    {
+      "case_id": "ATL_h12",
+      "airport": "ATL",
+      "hour": 12,
+      "n": 8,
+      "cap": 8,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/ATL_h12.json",
+      "input_sha256": "291360303f2c22eaffbee5588384bfd71c15eeaf989516d40e15957a3af81946"
+    },
+    {
+      "case_id": "ATL_h12",
+      "airport": "ATL",
+      "hour": 12,
+      "n": 8,
+      "cap": 2,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/ATL_h12.json",
+      "input_sha256": "291360303f2c22eaffbee5588384bfd71c15eeaf989516d40e15957a3af81946"
+    },
+    {
+      "case_id": "ATL_h12",
+      "airport": "ATL",
+      "hour": 12,
+      "n": 8,
+      "cap": 1,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/ATL_h12.json",
+      "input_sha256": "291360303f2c22eaffbee5588384bfd71c15eeaf989516d40e15957a3af81946"
+    },
+    {
+      "case_id": "ATL_h14",
+      "airport": "ATL",
+      "hour": 14,
+      "n": 14,
+      "cap": 14,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/ATL_h14.json",
+      "input_sha256": "0c22c910ade8987efd55c9c13df5476826a1cca6d23c071f608e889e3d3d6a3f"
+    },
+    {
+      "case_id": "ATL_h14",
+      "airport": "ATL",
+      "hour": 14,
+      "n": 14,
+      "cap": 4,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/ATL_h14.json",
+      "input_sha256": "0c22c910ade8987efd55c9c13df5476826a1cca6d23c071f608e889e3d3d6a3f"
+    },
+    {
+      "case_id": "ATL_h14",
+      "airport": "ATL",
+      "hour": 14,
+      "n": 14,
+      "cap": 2,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/ATL_h14.json",
+      "input_sha256": "0c22c910ade8987efd55c9c13df5476826a1cca6d23c071f608e889e3d3d6a3f"
+    },
+    {
+      "case_id": "ATL_h16",
+      "airport": "ATL",
+      "hour": 16,
+      "n": 8,
+      "cap": 8,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/ATL_h16.json",
+      "input_sha256": "c2cafcb933a1e376c13afbfbdff0cb7c3d68e56171d07c50ea3bfc5ebaa7d91f"
+    },
+    {
+      "case_id": "ATL_h16",
+      "airport": "ATL",
+      "hour": 16,
+      "n": 8,
+      "cap": 2,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/ATL_h16.json",
+      "input_sha256": "c2cafcb933a1e376c13afbfbdff0cb7c3d68e56171d07c50ea3bfc5ebaa7d91f"
+    },
+    {
+      "case_id": "ATL_h16",
+      "airport": "ATL",
+      "hour": 16,
+      "n": 8,
+      "cap": 1,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/ATL_h16.json",
+      "input_sha256": "c2cafcb933a1e376c13afbfbdff0cb7c3d68e56171d07c50ea3bfc5ebaa7d91f"
+    },
+    {
+      "case_id": "ATL_h18",
+      "airport": "ATL",
+      "hour": 18,
+      "n": 2,
+      "cap": 2,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/ATL_h18.json",
+      "input_sha256": "3c420b00265cd3ce3657aba8be3cc60ab34b4966719475ee782152837d57074e"
+    },
+    {
+      "case_id": "ATL_h18",
+      "airport": "ATL",
+      "hour": 18,
+      "n": 2,
+      "cap": 1,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/ATL_h18.json",
+      "input_sha256": "3c420b00265cd3ce3657aba8be3cc60ab34b4966719475ee782152837d57074e"
+    },
+    {
+      "case_id": "CLT_h10",
+      "airport": "CLT",
+      "hour": 10,
+      "n": 30,
+      "cap": 30,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/CLT_h10.json",
+      "input_sha256": "426d598c0f8fb0f1dd4311c8f91fc691234817bbdd401c09788b78ac0c699bf2"
+    },
+    {
+      "case_id": "CLT_h10",
+      "airport": "CLT",
+      "hour": 10,
+      "n": 30,
+      "cap": 8,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/CLT_h10.json",
+      "input_sha256": "426d598c0f8fb0f1dd4311c8f91fc691234817bbdd401c09788b78ac0c699bf2"
+    },
+    {
+      "case_id": "CLT_h10",
+      "airport": "CLT",
+      "hour": 10,
+      "n": 30,
+      "cap": 4,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/CLT_h10.json",
+      "input_sha256": "426d598c0f8fb0f1dd4311c8f91fc691234817bbdd401c09788b78ac0c699bf2"
+    },
+    {
+      "case_id": "CLT_h12",
+      "airport": "CLT",
+      "hour": 12,
+      "n": 23,
+      "cap": 23,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/CLT_h12.json",
+      "input_sha256": "6b53215ffa29c02b1c5b61b08a9957f53b7adea637efa35f36bf8ff6770794b6"
+    },
+    {
+      "case_id": "CLT_h12",
+      "airport": "CLT",
+      "hour": 12,
+      "n": 23,
+      "cap": 6,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/CLT_h12.json",
+      "input_sha256": "6b53215ffa29c02b1c5b61b08a9957f53b7adea637efa35f36bf8ff6770794b6"
+    },
+    {
+      "case_id": "CLT_h12",
+      "airport": "CLT",
+      "hour": 12,
+      "n": 23,
+      "cap": 3,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/CLT_h12.json",
+      "input_sha256": "6b53215ffa29c02b1c5b61b08a9957f53b7adea637efa35f36bf8ff6770794b6"
+    },
+    {
+      "case_id": "CLT_h14",
+      "airport": "CLT",
+      "hour": 14,
+      "n": 26,
+      "cap": 26,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/CLT_h14.json",
+      "input_sha256": "6b0bcee0265694d236b12b553e2df13c1112af4267e90e81f1c229b823d9fcdb"
+    },
+    {
+      "case_id": "CLT_h14",
+      "airport": "CLT",
+      "hour": 14,
+      "n": 26,
+      "cap": 7,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/CLT_h14.json",
+      "input_sha256": "6b0bcee0265694d236b12b553e2df13c1112af4267e90e81f1c229b823d9fcdb"
+    },
+    {
+      "case_id": "CLT_h14",
+      "airport": "CLT",
+      "hour": 14,
+      "n": 26,
+      "cap": 4,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/CLT_h14.json",
+      "input_sha256": "6b0bcee0265694d236b12b553e2df13c1112af4267e90e81f1c229b823d9fcdb"
+    },
+    {
+      "case_id": "CLT_h16",
+      "airport": "CLT",
+      "hour": 16,
+      "n": 25,
+      "cap": 25,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/CLT_h16.json",
+      "input_sha256": "b6c7431b83064a6aabcf330d51097b1f64b2d6365485d086f9b3ed19f560c257"
+    },
+    {
+      "case_id": "CLT_h16",
+      "airport": "CLT",
+      "hour": 16,
+      "n": 25,
+      "cap": 7,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/CLT_h16.json",
+      "input_sha256": "b6c7431b83064a6aabcf330d51097b1f64b2d6365485d086f9b3ed19f560c257"
+    },
+    {
+      "case_id": "CLT_h16",
+      "airport": "CLT",
+      "hour": 16,
+      "n": 25,
+      "cap": 4,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/CLT_h16.json",
+      "input_sha256": "b6c7431b83064a6aabcf330d51097b1f64b2d6365485d086f9b3ed19f560c257"
+    },
+    {
+      "case_id": "CLT_h18",
+      "airport": "CLT",
+      "hour": 18,
+      "n": 8,
+      "cap": 8,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/CLT_h18.json",
+      "input_sha256": "14577c048f31461c178d89922e259276a980707965b310c798a8567be38e68a3"
+    },
+    {
+      "case_id": "CLT_h18",
+      "airport": "CLT",
+      "hour": 18,
+      "n": 8,
+      "cap": 2,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/CLT_h18.json",
+      "input_sha256": "14577c048f31461c178d89922e259276a980707965b310c798a8567be38e68a3"
+    },
+    {
+      "case_id": "CLT_h18",
+      "airport": "CLT",
+      "hour": 18,
+      "n": 8,
+      "cap": 1,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/CLT_h18.json",
+      "input_sha256": "14577c048f31461c178d89922e259276a980707965b310c798a8567be38e68a3"
+    },
+    {
+      "case_id": "DFW_h14",
+      "airport": "DFW",
+      "hour": 14,
+      "n": 8,
+      "cap": 8,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/DFW_h14.json",
+      "input_sha256": "8533fd977cc5fb42190c99b9e183d50c4afa49df06717106d44b4c476930c093"
+    },
+    {
+      "case_id": "DFW_h14",
+      "airport": "DFW",
+      "hour": 14,
+      "n": 8,
+      "cap": 2,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/DFW_h14.json",
+      "input_sha256": "8533fd977cc5fb42190c99b9e183d50c4afa49df06717106d44b4c476930c093"
+    },
+    {
+      "case_id": "DFW_h14",
+      "airport": "DFW",
+      "hour": 14,
+      "n": 8,
+      "cap": 1,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/DFW_h14.json",
+      "input_sha256": "8533fd977cc5fb42190c99b9e183d50c4afa49df06717106d44b4c476930c093"
+    },
+    {
+      "case_id": "DFW_h16",
+      "airport": "DFW",
+      "hour": 16,
+      "n": 16,
+      "cap": 16,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/DFW_h16.json",
+      "input_sha256": "1bb09ec7dfc67da78cdbf63de9d6c7aa5174cf92a5d6eeac8e3433d3776a2d32"
+    },
+    {
+      "case_id": "DFW_h16",
+      "airport": "DFW",
+      "hour": 16,
+      "n": 16,
+      "cap": 4,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/DFW_h16.json",
+      "input_sha256": "1bb09ec7dfc67da78cdbf63de9d6c7aa5174cf92a5d6eeac8e3433d3776a2d32"
+    },
+    {
+      "case_id": "DFW_h16",
+      "airport": "DFW",
+      "hour": 16,
+      "n": 16,
+      "cap": 2,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/DFW_h16.json",
+      "input_sha256": "1bb09ec7dfc67da78cdbf63de9d6c7aa5174cf92a5d6eeac8e3433d3776a2d32"
+    },
+    {
+      "case_id": "DFW_h18",
+      "airport": "DFW",
+      "hour": 18,
+      "n": 19,
+      "cap": 19,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/DFW_h18.json",
+      "input_sha256": "79911f070e38402381e746757dca6ff3b00ff3427de354470f5a6710286a239e"
+    },
+    {
+      "case_id": "DFW_h18",
+      "airport": "DFW",
+      "hour": 18,
+      "n": 19,
+      "cap": 5,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/DFW_h18.json",
+      "input_sha256": "79911f070e38402381e746757dca6ff3b00ff3427de354470f5a6710286a239e"
+    },
+    {
+      "case_id": "DFW_h18",
+      "airport": "DFW",
+      "hour": 18,
+      "n": 19,
+      "cap": 3,
+      "input_path": "data/trb_transfer_20261030/calibrated_cases/DFW_h18.json",
+      "input_sha256": "79911f070e38402381e746757dca6ff3b00ff3427de354470f5a6710286a239e"
+    }
+  ],
+  "methods": [
+    "none",
+    "one",
+    "three",
+    "six",
+    "three_independent"
+  ],
+  "request_budgets": [
+    0,
+    1,
+    3,
+    6
+  ],
+  "answer_delay_slots": [
+    1,
+    2
+  ],
+  "shared_absolute_error_allowance": 1,
+  "request_rule": "One count requested in each initial slot until budget or release completion; target is the first service slot whose lag-adjusted release deadline is not earlier than answer arrival",
+  "dates_selected_using_test": false,
+  "all_test_dates_retained": true,
+  "paired_outcomes": "All common conditions retained, with preservation and worst-history post-release time reported separately"
+}

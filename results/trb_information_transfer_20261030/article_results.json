@@ -1,0 +1,69 @@
+{
+  "common_settings": 3678,
+  "all_settings": 3710,
+  "stats": {
+    "none": {
+      "preserved": 3708,
+      "holding": 41.97537461860009,
+      "postrelease": 1128.951896906606,
+      "requests": 0.0,
+      "gain": 0.0
+    },
+    "one": {
+      "preserved": 3708,
+      "holding": 49.9427976336273,
+      "postrelease": 1120.9844738915754,
+      "requests": 0.9423599782490484,
+      "gain": 7.96742301503059
+    },
+    "three": {
+      "preserved": 3708,
+      "holding": 78.55840921683105,
+      "postrelease": 1092.3688623083722,
+      "requests": 2.598966829798804,
+      "gain": 36.58303459823378
+    },
+    "six": {
+      "preserved": 3702,
+      "holding": 122.82256719616883,
+      "postrelease": 1048.1047043290334,
+      "requests": 4.668569874932028,
+      "gain": 80.84719257757251
+    },
+    "three_independent": {
+      "preserved": 3708,
+      "holding": 68.05147959471317,
+      "postrelease": 1102.875791930492,
+      "requests": 2.5864600326264275,
+      "gain": 26.07610497611404
+    },
+    "two": {
+      "preserved": 3708,
+      "holding": 76.51227071563534,
+      "postrelease": 1094.415000809568,
+      "requests": 1.9942903752039152,
+      "gain": 34.536896097037925
+    },
+    "lookahead6": {
+      "preserved": 3708,
+      "holding": 76.58269312368807,
+      "postrelease": 1094.3445784015155,
+      "requests": 2.135399673735726,
+      "gain": 34.60731850509046
+    },
+    "exact": {
+      "preserved": 3708,
+      "holding": 76.58269312368807,
+      "postrelease": 1094.3445784015155,
+      "requests": 2.135399673735726,
+      "gain": 34.60731850509046
+    }
+  },
+  "error_histories": 91318,
+  "range_checks": {
+    "passed": true,
+    "cases": 160,
+    "compatible_trajectories": 1494,
+    "checks": "Exact equality with exhaustive integer-calendar release bounds, including incomplete groups and inconsistent reports"
+  }
+}
