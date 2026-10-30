@@ -1,0 +1,339 @@
+{
+  "conditions": 70,
+  "distinct_physical_settings": 35,
+  "source_windows": 95,
+  "represented_window_conditions": 554,
+  "sample_interpretation": "Distinct numerical settings; repeated donor calendars are counted once, without date resampling",
+  "selection": "Previously frozen source windows; donor-only group sizes; inherited completeness screening",
+  "donor_only_sizes_changed": 0,
+  "error_allowance": 1,
+  "requests_per_two_minute_slot": 1,
+  "response_minutes": [
+    2,
+    4
+  ],
+  "lookahead": {
+    "2": {
+      "2": {
+        "conditions": 35,
+        "lookahead_minutes": 19.164000370012467,
+        "exact_minutes": 18.84924260603731,
+        "saved_seconds": 18.885465838509315,
+        "maximum_saved_seconds": 109.5652173913043,
+        "strictly_improved": 14,
+        "lookahead_max_requests": 4.742857142857143,
+        "exact_max_requests": 4.6571428571428575
+      },
+      "4": {
+        "conditions": 35,
+        "lookahead_minutes": 22.32821156809846,
+        "exact_minutes": 21.97658423890591,
+        "saved_seconds": 21.097639751552798,
+        "maximum_saved_seconds": 240.0,
+        "strictly_improved": 9,
+        "lookahead_max_requests": 4.428571428571429,
+        "exact_max_requests": 4.428571428571429
+      }
+    },
+    "4": {
+      "2": {
+        "conditions": 35,
+        "lookahead_minutes": 18.88215989927039,
+        "exact_minutes": 18.684956891751597,
+        "saved_seconds": 11.832180451127822,
+        "maximum_saved_seconds": 60.0,
+        "strictly_improved": 11,
+        "lookahead_max_requests": 4.942857142857143,
+        "exact_max_requests": 4.942857142857143
+      },
+      "4": {
+        "conditions": 35,
+        "lookahead_minutes": 22.07428152560091,
+        "exact_minutes": 21.83372709604877,
+        "saved_seconds": 14.433265773128467,
+        "maximum_saved_seconds": 132.63157894736835,
+        "strictly_improved": 8,
+        "lookahead_max_requests": 4.714285714285714,
+        "exact_max_requests": 4.685714285714286
+      }
+    },
+    "6": {
+      "2": {
+        "conditions": 35,
+        "lookahead_minutes": 18.684956891751597,
+        "exact_minutes": 18.684956891751597,
+        "saved_seconds": 0.0,
+        "maximum_saved_seconds": 0.0,
+        "strictly_improved": 0,
+        "lookahead_max_requests": 4.942857142857143,
+        "exact_max_requests": 4.942857142857143
+      },
+      "4": {
+        "conditions": 35,
+        "lookahead_minutes": 22.023200780259295,
+        "exact_minutes": 21.83372709604877,
+        "saved_seconds": 11.368421052631573,
+        "maximum_saved_seconds": 132.63157894736835,
+        "strictly_improved": 3,
+        "lookahead_max_requests": 4.685714285714286,
+        "exact_max_requests": 4.685714285714286
+      }
+    }
+  },
+  "airport_detail": {
+    "ATL": {
+      "2": {
+        "2": {
+          "conditions": 11,
+          "lookahead_minutes": 26.055194805194805,
+          "exact_minutes": 26.055194805194805,
+          "saved_seconds": 0.0,
+          "maximum_saved_seconds": 0.0,
+          "strictly_improved": 0,
+          "lookahead_max_requests": 2.909090909090909,
+          "exact_max_requests": 2.909090909090909
+        },
+        "4": {
+          "conditions": 11,
+          "lookahead_minutes": 31.883116883116884,
+          "exact_minutes": 31.883116883116884,
+          "saved_seconds": 0.0,
+          "maximum_saved_seconds": 0.0,
+          "strictly_improved": 0,
+          "lookahead_max_requests": 2.090909090909091,
+          "exact_max_requests": 2.090909090909091
+        }
+      },
+      "4": {
+        "2": {
+          "conditions": 11,
+          "lookahead_minutes": 25.532467532467532,
+          "exact_minutes": 25.532467532467532,
+          "saved_seconds": 0.0,
+          "maximum_saved_seconds": 0.0,
+          "strictly_improved": 0,
+          "lookahead_max_requests": 3.3636363636363638,
+          "exact_max_requests": 3.3636363636363638
+        },
+        "4": {
+          "conditions": 11,
+          "lookahead_minutes": 31.474025974025974,
+          "exact_minutes": 31.474025974025974,
+          "saved_seconds": 0.0,
+          "maximum_saved_seconds": 0.0,
+          "strictly_improved": 0,
+          "lookahead_max_requests": 2.4545454545454546,
+          "exact_max_requests": 2.4545454545454546
+        }
+      },
+      "6": {
+        "2": {
+          "conditions": 11,
+          "lookahead_minutes": 25.532467532467532,
+          "exact_minutes": 25.532467532467532,
+          "saved_seconds": 0.0,
+          "maximum_saved_seconds": 0.0,
+          "strictly_improved": 0,
+          "lookahead_max_requests": 3.3636363636363638,
+          "exact_max_requests": 3.3636363636363638
+        },
+        "4": {
+          "conditions": 11,
+          "lookahead_minutes": 31.474025974025974,
+          "exact_minutes": 31.474025974025974,
+          "saved_seconds": 0.0,
+          "maximum_saved_seconds": 0.0,
+          "strictly_improved": 0,
+          "lookahead_max_requests": 2.4545454545454546,
+          "exact_max_requests": 2.4545454545454546
+        }
+      }
+    },
+    "CLT": {
+      "2": {
+        "2": {
+          "conditions": 15,
+          "lookahead_minutes": 14.904033444816054,
+          "exact_minutes": 14.236265328874024,
+          "saved_seconds": 40.06608695652174,
+          "maximum_saved_seconds": 109.5652173913043,
+          "strictly_improved": 11,
+          "lookahead_max_requests": 5.733333333333333,
+          "exact_max_requests": 5.533333333333333
+        },
+        "4": {
+          "conditions": 15,
+          "lookahead_minutes": 16.198909698996655,
+          "exact_minutes": 15.64511259754738,
+          "saved_seconds": 33.227826086956526,
+          "maximum_saved_seconds": 240.0,
+          "strictly_improved": 6,
+          "lookahead_max_requests": 5.666666666666667,
+          "exact_max_requests": 5.666666666666667
+        }
+      },
+      "4": {
+        "2": {
+          "conditions": 15,
+          "lookahead_minutes": 14.506931995540691,
+          "exact_minutes": 14.236265328874024,
+          "saved_seconds": 16.240000000000002,
+          "maximum_saved_seconds": 60.0,
+          "strictly_improved": 8,
+          "lookahead_max_requests": 5.733333333333333,
+          "exact_max_requests": 5.733333333333333
+        },
+        "4": {
+          "conditions": 15,
+          "lookahead_minutes": 15.730967670011148,
+          "exact_minutes": 15.611779264214046,
+          "saved_seconds": 7.151304347826084,
+          "maximum_saved_seconds": 28.800000000000026,
+          "strictly_improved": 5,
+          "lookahead_max_requests": 6,
+          "exact_max_requests": 5.933333333333334
+        }
+      },
+      "6": {
+        "2": {
+          "conditions": 15,
+          "lookahead_minutes": 14.236265328874024,
+          "exact_minutes": 14.236265328874024,
+          "saved_seconds": 0.0,
+          "maximum_saved_seconds": 0.0,
+          "strictly_improved": 0,
+          "lookahead_max_requests": 5.733333333333333,
+          "exact_max_requests": 5.733333333333333
+        },
+        "4": {
+          "conditions": 15,
+          "lookahead_minutes": 15.611779264214046,
+          "exact_minutes": 15.611779264214046,
+          "saved_seconds": 0.0,
+          "maximum_saved_seconds": 0.0,
+          "strictly_improved": 0,
+          "lookahead_max_requests": 5.933333333333334,
+          "exact_max_requests": 5.933333333333334
+        }
+      }
+    },
+    "DFW": {
+      "2": {
+        "2": {
+          "conditions": 9,
+          "lookahead_minutes": 17.841374269005847,
+          "exact_minutes": 17.730263157894736,
+          "saved_seconds": 6.666666666666667,
+          "maximum_saved_seconds": 22.5,
+          "strictly_improved": 3,
+          "lookahead_max_requests": 5.333333333333333,
+          "exact_max_requests": 5.333333333333333
+        },
+        "4": {
+          "conditions": 9,
+          "lookahead_minutes": 20.86549707602339,
+          "exact_minutes": 20.42105263157895,
+          "saved_seconds": 26.666666666666668,
+          "maximum_saved_seconds": 112.5,
+          "strictly_improved": 3,
+          "lookahead_max_requests": 5.222222222222222,
+          "exact_max_requests": 5.222222222222222
+        }
+      },
+      "4": {
+        "2": {
+          "conditions": 9,
+          "lookahead_minutes": 18.04605263157895,
+          "exact_minutes": 17.730263157894736,
+          "saved_seconds": 18.947368421052637,
+          "maximum_saved_seconds": 56.84210526315791,
+          "strictly_improved": 3,
+          "lookahead_max_requests": 5.555555555555555,
+          "exact_max_requests": 5.555555555555555
+        },
+        "4": {
+          "conditions": 9,
+          "lookahead_minutes": 21.157894736842106,
+          "exact_minutes": 20.42105263157895,
+          "saved_seconds": 44.21052631578945,
+          "maximum_saved_seconds": 132.63157894736835,
+          "strictly_improved": 3,
+          "lookahead_max_requests": 5.333333333333333,
+          "exact_max_requests": 5.333333333333333
+        }
+      },
+      "6": {
+        "2": {
+          "conditions": 9,
+          "lookahead_minutes": 17.730263157894736,
+          "exact_minutes": 17.730263157894736,
+          "saved_seconds": 0.0,
+          "maximum_saved_seconds": 0.0,
+          "strictly_improved": 0,
+          "lookahead_max_requests": 5.555555555555555,
+          "exact_max_requests": 5.555555555555555
+        },
+        "4": {
+          "conditions": 9,
+          "lookahead_minutes": 21.157894736842106,
+          "exact_minutes": 20.42105263157895,
+          "saved_seconds": 44.21052631578945,
+          "maximum_saved_seconds": 132.63157894736835,
+          "strictly_improved": 3,
+          "lookahead_max_requests": 5.333333333333333,
+          "exact_max_requests": 5.333333333333333
+        }
+      }
+    }
+  },
+  "certified": 60,
+  "six_step_optimal": 67,
+  "exact_fallback": 10,
+  "certificate_seconds": 0.20604811142132218,
+  "certificates_by_response": {
+    "2": 32,
+    "4": 28
+  },
+  "all_bound_checks_resolved": true,
+  "total_physical_report_histories": 46991,
+  "source_file_sha256": {
+    "data/trb_external_error_20261030/design.json": "3cfffd6c83ec5de191b0a2b380b8d537353282ca6f2398be616b169676adaa10",
+    "results/trb_external_error_20261030/full.json": "a8e0a2b0a4b277a344c07d2827650dda5c61a7880a2cb73a25273a5705f6e573",
+    "results/trb_external_error_20261030/certificate_full.json": "f61bafa1bc67bf2d7e90465871d71797436466a1665cee415c9e4f18dd37e12b",
+    "results/trb_external_error_20261030/decision_trace.json": "fc5d51406a6ee17c41efcb7a105309649521de1c3537313ff853fb16829ba8f2"
+  },
+  "nonmonotone_example": {
+    "condition": {
+      "case_id": "d6f04b7939b5",
+      "airport": "DFW",
+      "day": "2025-01-24",
+      "hour": 18,
+      "n": 19,
+      "cap": 5,
+      "delay": 2,
+      "input_sha256": "c14f17d987e3773717fa28088475fc6572f27ea610741b29a1eb780e0b6ee7c9"
+    },
+    "six_worst_aircraftslots": 166,
+    "exact_worst_aircraftslots": 145,
+    "exact_same_calendar_aircraftslots": 145,
+    "shared_request_counts": [
+      6,
+      8,
+      9
+    ],
+    "six_request_order": [
+      8,
+      6,
+      9
+    ],
+    "exact_request_order": [
+      6,
+      9,
+      8
+    ],
+    "first_different_release_slot": 3,
+    "release_gap_aircraftslots": 21,
+    "group_saved_aircraftminutes": 42,
+    "seconds_per_departure": 132.6315789473684
+  }
+}

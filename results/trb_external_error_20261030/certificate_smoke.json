@@ -1,0 +1,369 @@
+{
+  "passed": true,
+  "conditions": 9,
+  "certified": 5,
+  "rows": [
+    {
+      "case_id": "e47196faedde",
+      "airport": "ATL",
+      "hour": 12,
+      "n": 8,
+      "cap": 8,
+      "delay": 1,
+      "numerical_signature": "69d2dafecd5c33ebe0169a4ea7e325d8efb42db9a9a9d9ec810d940fad81d381",
+      "upper": 113,
+      "optimum": 113,
+      "total_request_limit": 3,
+      "depths": [
+        {
+          "depth": 1,
+          "lower": 113
+        }
+      ],
+      "initial_lower": 48,
+      "certified": true,
+      "first_certifying_depth": 1,
+      "resolved": true,
+      "remaining_bound_gap": 0,
+      "true_gap": 0,
+      "seconds": 0.0010863000061362982,
+      "states": 2
+    },
+    {
+      "case_id": "e47196faedde",
+      "airport": "ATL",
+      "hour": 12,
+      "n": 8,
+      "cap": 8,
+      "delay": 2,
+      "numerical_signature": "4de65875625433f712faf22fd3b36951b760e9273aeed45a8adfccf9234bcb80",
+      "upper": 184,
+      "optimum": 184,
+      "total_request_limit": 0,
+      "depths": [
+        {
+          "depth": 1,
+          "lower": 113
+        },
+        {
+          "depth": 2,
+          "lower": 113
+        },
+        {
+          "depth": 3,
+          "lower": 113
+        },
+        {
+          "depth": 4,
+          "lower": 113
+        },
+        {
+          "depth": 5,
+          "lower": 113
+        },
+        {
+          "depth": 6,
+          "lower": 113
+        },
+        {
+          "depth": 7,
+          "lower": 113
+        },
+        {
+          "depth": 8,
+          "lower": 113
+        }
+      ],
+      "initial_lower": 48,
+      "certified": false,
+      "resolved": true,
+      "remaining_bound_gap": 71,
+      "true_gap": 0,
+      "seconds": 0.00031420006416738033,
+      "states": 16
+    },
+    {
+      "case_id": "5dc695ea48d3",
+      "airport": "CLT",
+      "hour": 10,
+      "n": 30,
+      "cap": 30,
+      "delay": 1,
+      "numerical_signature": "b937efa247677326476dce385c2eeeb4cdac2ec96796874a46a3447296462afb",
+      "upper": 199,
+      "optimum": 199,
+      "total_request_limit": 5,
+      "depths": [
+        {
+          "depth": 1,
+          "lower": 185
+        },
+        {
+          "depth": 2,
+          "lower": 197
+        },
+        {
+          "depth": 3,
+          "lower": 199
+        }
+      ],
+      "initial_lower": 180,
+      "certified": true,
+      "first_certifying_depth": 3,
+      "resolved": true,
+      "remaining_bound_gap": 0,
+      "true_gap": 0,
+      "seconds": 0.020908599952235818,
+      "states": 188
+    },
+    {
+      "case_id": "5dc695ea48d3",
+      "airport": "CLT",
+      "hour": 10,
+      "n": 30,
+      "cap": 30,
+      "delay": 2,
+      "numerical_signature": "b6d5d615d1a4e5b1e2c84d9db1f6ce46ce166efd6130a80c33199faa412a8c29",
+      "upper": 211,
+      "optimum": 211,
+      "total_request_limit": 6,
+      "depths": [
+        {
+          "depth": 1,
+          "lower": 185
+        },
+        {
+          "depth": 2,
+          "lower": 197
+        },
+        {
+          "depth": 3,
+          "lower": 211
+        }
+      ],
+      "initial_lower": 180,
+      "certified": true,
+      "first_certifying_depth": 3,
+      "resolved": true,
+      "remaining_bound_gap": 0,
+      "true_gap": 0,
+      "seconds": 0.014109199866652489,
+      "states": 191
+    },
+    {
+      "case_id": "14b4e0ec6786",
+      "airport": "DFW",
+      "hour": 14,
+      "n": 8,
+      "cap": 8,
+      "delay": 1,
+      "numerical_signature": "a3ed1f457f3047d1b6657efcec1d2c7ce822bdc7cfb9d9c889a95e04270b914b",
+      "upper": 101,
+      "optimum": 101,
+      "total_request_limit": 6,
+      "depths": [
+        {
+          "depth": 1,
+          "lower": 101
+        }
+      ],
+      "initial_lower": 48,
+      "certified": true,
+      "first_certifying_depth": 1,
+      "resolved": true,
+      "remaining_bound_gap": 0,
+      "true_gap": 0,
+      "seconds": 0.0009385000448673964,
+      "states": 2
+    },
+    {
+      "case_id": "14b4e0ec6786",
+      "airport": "DFW",
+      "hour": 14,
+      "n": 8,
+      "cap": 8,
+      "delay": 2,
+      "numerical_signature": "85dfab4f1eb48271724274572529d40779ff17f261318bb539148183618aaa12",
+      "upper": 136,
+      "optimum": 136,
+      "total_request_limit": 5,
+      "depths": [
+        {
+          "depth": 1,
+          "lower": 101
+        },
+        {
+          "depth": 2,
+          "lower": 136
+        }
+      ],
+      "initial_lower": 48,
+      "certified": true,
+      "first_certifying_depth": 2,
+      "resolved": true,
+      "remaining_bound_gap": 0,
+      "true_gap": 0,
+      "seconds": 0.0022142999805510044,
+      "states": 23
+    },
+    {
+      "case_id": "d6f04b7939b5",
+      "airport": "DFW",
+      "hour": 18,
+      "n": 19,
+      "cap": 19,
+      "delay": 2,
+      "numerical_signature": "e73c8ccae04bdff633bfe83d61ec000404898cf66bb888e74a5e46f642eafd8c",
+      "upper": 166,
+      "optimum": 145,
+      "total_request_limit": 6,
+      "depths": [
+        {
+          "depth": 1,
+          "lower": 119
+        },
+        {
+          "depth": 2,
+          "lower": 123
+        },
+        {
+          "depth": 3,
+          "lower": 145
+        },
+        {
+          "depth": 4,
+          "lower": 145
+        },
+        {
+          "depth": 5,
+          "lower": 145
+        },
+        {
+          "depth": 6,
+          "lower": 145
+        },
+        {
+          "depth": 7,
+          "lower": 145
+        },
+        {
+          "depth": 8,
+          "lower": 145
+        }
+      ],
+      "initial_lower": 114,
+      "certified": false,
+      "resolved": true,
+      "remaining_bound_gap": 21,
+      "true_gap": 21,
+      "seconds": 2.440934899961576,
+      "states": 97601
+    },
+    {
+      "case_id": "d6f04b7939b5",
+      "airport": "DFW",
+      "hour": 18,
+      "n": 19,
+      "cap": 5,
+      "delay": 2,
+      "numerical_signature": "61e6ae7bd3edc2f3adbfd0452d7624bcd0dbda1e9e9fa10e5556458d518d1fd0",
+      "upper": 166,
+      "optimum": 145,
+      "total_request_limit": 6,
+      "depths": [
+        {
+          "depth": 1,
+          "lower": 119
+        },
+        {
+          "depth": 2,
+          "lower": 123
+        },
+        {
+          "depth": 3,
+          "lower": 145
+        },
+        {
+          "depth": 4,
+          "lower": 145
+        },
+        {
+          "depth": 5,
+          "lower": 145
+        },
+        {
+          "depth": 6,
+          "lower": 145
+        },
+        {
+          "depth": 7,
+          "lower": 145
+        },
+        {
+          "depth": 8,
+          "lower": 145
+        }
+      ],
+      "initial_lower": 114,
+      "certified": false,
+      "resolved": true,
+      "remaining_bound_gap": 21,
+      "true_gap": 21,
+      "seconds": 2.4458021000027657,
+      "states": 97601
+    },
+    {
+      "case_id": "d6f04b7939b5",
+      "airport": "DFW",
+      "hour": 18,
+      "n": 19,
+      "cap": 3,
+      "delay": 2,
+      "numerical_signature": "3eb313f2fd9c86bee5cfd2d570efb028967acd823c52665d05bbc3f4023cd7c1",
+      "upper": 166,
+      "optimum": 145,
+      "total_request_limit": 6,
+      "depths": [
+        {
+          "depth": 1,
+          "lower": 119
+        },
+        {
+          "depth": 2,
+          "lower": 123
+        },
+        {
+          "depth": 3,
+          "lower": 145
+        },
+        {
+          "depth": 4,
+          "lower": 145
+        },
+        {
+          "depth": 5,
+          "lower": 145
+        },
+        {
+          "depth": 6,
+          "lower": 145
+        },
+        {
+          "depth": 7,
+          "lower": 145
+        },
+        {
+          "depth": 8,
+          "lower": 145
+        }
+      ],
+      "initial_lower": 117,
+      "certified": false,
+      "resolved": true,
+      "remaining_bound_gap": 21,
+      "true_gap": 21,
+      "seconds": 2.3782818000763655,
+      "states": 97742
+    }
+  ]
+}

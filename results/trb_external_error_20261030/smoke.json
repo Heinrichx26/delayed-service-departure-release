@@ -1,0 +1,2768 @@
+{
+  "passed": true,
+  "conditions": 22,
+  "resolved": 22,
+  "seconds": 43.022460400126874,
+  "rows": [
+    {
+      "case_id": "e47196faedde",
+      "airport": "ATL",
+      "day": "2025-01-24",
+      "hour": 12,
+      "n": 8,
+      "cap": 2,
+      "capacity_labels": [
+        "N4"
+      ],
+      "delay": 1,
+      "input_path": "data/trb_external_error_20261030/cases/ATL/e47196faedde.json",
+      "input_sha256": "8b92509432d0ccc103b1a4c2e0ad17a27c3e969cb5d2dc3b1512b91232d56cc9",
+      "numerical_signature": "8a9463e01efbae55ad376fd1cf47376e8b845d40a2b204efb07b190c5c8c536c",
+      "represented_windows": [
+        {
+          "case_id": "e47196faedde",
+          "airport": "ATL",
+          "day": "2025-01-24",
+          "hour": 12
+        },
+        {
+          "case_id": "c3dd51d2d92b",
+          "airport": "ATL",
+          "day": "2025-01-25",
+          "hour": 12
+        },
+        {
+          "case_id": "97bc31cf93a8",
+          "airport": "ATL",
+          "day": "2025-01-26",
+          "hour": 12
+        },
+        {
+          "case_id": "f868ee07ce3b",
+          "airport": "ATL",
+          "day": "2025-01-27",
+          "hour": 12
+        },
+        {
+          "case_id": "caf42a581389",
+          "airport": "ATL",
+          "day": "2025-01-28",
+          "hour": 12
+        },
+        {
+          "case_id": "d6b2c9063aa4",
+          "airport": "ATL",
+          "day": "2025-01-29",
+          "hour": 12
+        },
+        {
+          "case_id": "7cce62fd9b7a",
+          "airport": "ATL",
+          "day": "2025-01-30",
+          "hour": 12
+        },
+        {
+          "case_id": "e058f4f78c89",
+          "airport": "ATL",
+          "day": "2025-01-31",
+          "hour": 12
+        }
+      ],
+      "methods": {
+        "2": {
+          "lookahead": {
+            "value": 92,
+            "minutes": 23.0,
+            "max_requests": 4,
+            "seconds": 0.06266639987006783,
+            "states": 188,
+            "histories": 93
+          },
+          "exact": {
+            "value": 92,
+            "minutes": 23.0,
+            "max_requests": 4,
+            "seconds": 0.056031899992376566,
+            "states": 828,
+            "histories": 93
+          },
+          "resolved": true
+        },
+        "4": {
+          "lookahead": {
+            "value": 92,
+            "minutes": 23.0,
+            "max_requests": 4,
+            "seconds": 0.22245160001330078,
+            "states": 188,
+            "histories": 93
+          },
+          "exact": {
+            "value": 92,
+            "minutes": 23.0,
+            "max_requests": 4,
+            "seconds": 0.056031899992376566,
+            "states": 828,
+            "histories": 93
+          },
+          "resolved": true
+        },
+        "6": {
+          "lookahead": {
+            "value": 92,
+            "minutes": 23.0,
+            "max_requests": 4,
+            "seconds": 0.7168117999099195,
+            "states": 188,
+            "histories": 93
+          },
+          "exact": {
+            "value": 92,
+            "minutes": 23.0,
+            "max_requests": 4,
+            "seconds": 0.056031899992376566,
+            "states": 828,
+            "histories": 93
+          },
+          "resolved": true
+        }
+      },
+      "resolved": true,
+      "seconds": 1.057974300114438
+    },
+    {
+      "case_id": "e47196faedde",
+      "airport": "ATL",
+      "day": "2025-01-24",
+      "hour": 12,
+      "n": 8,
+      "cap": 2,
+      "capacity_labels": [
+        "N4"
+      ],
+      "delay": 2,
+      "input_path": "data/trb_external_error_20261030/cases/ATL/e47196faedde.json",
+      "input_sha256": "8b92509432d0ccc103b1a4c2e0ad17a27c3e969cb5d2dc3b1512b91232d56cc9",
+      "numerical_signature": "58d77515c1c88790a1e1d651038cea62c310a095e1327dc1c3ec7de95045fece",
+      "represented_windows": [
+        {
+          "case_id": "e47196faedde",
+          "airport": "ATL",
+          "day": "2025-01-24",
+          "hour": 12
+        },
+        {
+          "case_id": "c3dd51d2d92b",
+          "airport": "ATL",
+          "day": "2025-01-25",
+          "hour": 12
+        },
+        {
+          "case_id": "97bc31cf93a8",
+          "airport": "ATL",
+          "day": "2025-01-26",
+          "hour": 12
+        },
+        {
+          "case_id": "f868ee07ce3b",
+          "airport": "ATL",
+          "day": "2025-01-27",
+          "hour": 12
+        },
+        {
+          "case_id": "caf42a581389",
+          "airport": "ATL",
+          "day": "2025-01-28",
+          "hour": 12
+        },
+        {
+          "case_id": "d6b2c9063aa4",
+          "airport": "ATL",
+          "day": "2025-01-29",
+          "hour": 12
+        },
+        {
+          "case_id": "7cce62fd9b7a",
+          "airport": "ATL",
+          "day": "2025-01-30",
+          "hour": 12
+        },
+        {
+          "case_id": "e058f4f78c89",
+          "airport": "ATL",
+          "day": "2025-01-31",
+          "hour": 12
+        }
+      ],
+      "methods": {
+        "2": {
+          "lookahead": {
+            "value": 128,
+            "minutes": 32.0,
+            "max_requests": 3,
+            "seconds": 0.05765519989654422,
+            "states": 123,
+            "histories": 78
+          },
+          "exact": {
+            "value": 128,
+            "minutes": 32.0,
+            "max_requests": 3,
+            "seconds": 0.05723569984547794,
+            "states": 1384,
+            "histories": 78
+          },
+          "resolved": true
+        },
+        "4": {
+          "lookahead": {
+            "value": 128,
+            "minutes": 32.0,
+            "max_requests": 3,
+            "seconds": 0.3867158000357449,
+            "states": 123,
+            "histories": 78
+          },
+          "exact": {
+            "value": 128,
+            "minutes": 32.0,
+            "max_requests": 3,
+            "seconds": 0.05723569984547794,
+            "states": 1384,
+            "histories": 78
+          },
+          "resolved": true
+        },
+        "6": {
+          "lookahead": {
+            "value": 128,
+            "minutes": 32.0,
+            "max_requests": 3,
+            "seconds": 1.8061555000022054,
+            "states": 123,
+            "histories": 78
+          },
+          "exact": {
+            "value": 128,
+            "minutes": 32.0,
+            "max_requests": 3,
+            "seconds": 0.05723569984547794,
+            "states": 1384,
+            "histories": 78
+          },
+          "resolved": true
+        }
+      },
+      "resolved": true,
+      "seconds": 2.3077752999961376
+    },
+    {
+      "case_id": "2500931767c1",
+      "airport": "ATL",
+      "day": "2025-01-24",
+      "hour": 14,
+      "n": 14,
+      "cap": 4,
+      "capacity_labels": [
+        "N4"
+      ],
+      "delay": 1,
+      "input_path": "data/trb_external_error_20261030/cases/ATL/2500931767c1.json",
+      "input_sha256": "391fa338d4e11f4eaf83c031c47e6ba3dd3baadc8d1545152418212676762dbf",
+      "methods": {
+        "2": {
+          "lookahead": {
+            "value": 111,
+            "minutes": 15.857142857142858,
+            "max_requests": 4,
+            "seconds": 0.09593950002454221,
+            "states": 221,
+            "histories": 102
+          },
+          "exact": {
+            "value": 111,
+            "minutes": 15.857142857142858,
+            "max_requests": 4,
+            "seconds": 0.06706919986754656,
+            "states": 980,
+            "histories": 102
+          },
+          "resolved": true
+        },
+        "4": {
+          "lookahead": {
+            "value": 111,
+            "minutes": 15.857142857142858,
+            "max_requests": 4,
+            "seconds": 0.2907718999776989,
+            "states": 221,
+            "histories": 102
+          },
+          "exact": {
+            "value": 111,
+            "minutes": 15.857142857142858,
+            "max_requests": 4,
+            "seconds": 0.06706919986754656,
+            "states": 980,
+            "histories": 102
+          },
+          "resolved": true
+        },
+        "6": {
+          "lookahead": {
+            "value": 111,
+            "minutes": 15.857142857142858,
+            "max_requests": 4,
+            "seconds": 0.7973981001414359,
+            "states": 221,
+            "histories": 102
+          },
+          "exact": {
+            "value": 111,
+            "minutes": 15.857142857142858,
+            "max_requests": 4,
+            "seconds": 0.06706919986754656,
+            "states": 980,
+            "histories": 102
+          },
+          "resolved": true
+        }
+      },
+      "resolved": true,
+      "seconds": 1.2511932000052184,
+      "numerical_signature": "3b16a19b135275a0b33a9b5acadd7cb9031dfd5cd8597982e5831e608edcbba8",
+      "represented_windows": [
+        {
+          "case_id": "2500931767c1",
+          "airport": "ATL",
+          "day": "2025-01-24",
+          "hour": 14
+        },
+        {
+          "case_id": "952ba29d601f",
+          "airport": "ATL",
+          "day": "2025-01-25",
+          "hour": 14
+        },
+        {
+          "case_id": "ea14b18ac3b9",
+          "airport": "ATL",
+          "day": "2025-01-26",
+          "hour": 14
+        },
+        {
+          "case_id": "2caa90364bf6",
+          "airport": "ATL",
+          "day": "2025-01-27",
+          "hour": 14
+        },
+        {
+          "case_id": "f80acb500d87",
+          "airport": "ATL",
+          "day": "2025-01-28",
+          "hour": 14
+        },
+        {
+          "case_id": "d40279614c6e",
+          "airport": "ATL",
+          "day": "2025-01-29",
+          "hour": 14
+        },
+        {
+          "case_id": "c7f77dc000c4",
+          "airport": "ATL",
+          "day": "2025-01-30",
+          "hour": 14
+        },
+        {
+          "case_id": "942856c22c64",
+          "airport": "ATL",
+          "day": "2025-01-31",
+          "hour": 14
+        }
+      ]
+    },
+    {
+      "case_id": "2500931767c1",
+      "airport": "ATL",
+      "day": "2025-01-24",
+      "hour": 14,
+      "n": 14,
+      "cap": 4,
+      "capacity_labels": [
+        "N4"
+      ],
+      "delay": 2,
+      "input_path": "data/trb_external_error_20261030/cases/ATL/2500931767c1.json",
+      "input_sha256": "391fa338d4e11f4eaf83c031c47e6ba3dd3baadc8d1545152418212676762dbf",
+      "methods": {
+        "2": {
+          "lookahead": {
+            "value": 168,
+            "minutes": 24.0,
+            "max_requests": 3,
+            "seconds": 0.08975650020875037,
+            "states": 121,
+            "histories": 80
+          },
+          "exact": {
+            "value": 168,
+            "minutes": 24.0,
+            "max_requests": 3,
+            "seconds": 0.11831890000030398,
+            "states": 2123,
+            "histories": 80
+          },
+          "resolved": true
+        },
+        "4": {
+          "lookahead": {
+            "value": 168,
+            "minutes": 24.0,
+            "max_requests": 3,
+            "seconds": 0.6582887000404298,
+            "states": 121,
+            "histories": 80
+          },
+          "exact": {
+            "value": 168,
+            "minutes": 24.0,
+            "max_requests": 3,
+            "seconds": 0.11831890000030398,
+            "states": 2123,
+            "histories": 80
+          },
+          "resolved": true
+        },
+        "6": {
+          "lookahead": {
+            "value": 168,
+            "minutes": 24.0,
+            "max_requests": 3,
+            "seconds": 2.1114219001028687,
+            "states": 121,
+            "histories": 80
+          },
+          "exact": {
+            "value": 168,
+            "minutes": 24.0,
+            "max_requests": 3,
+            "seconds": 0.11831890000030398,
+            "states": 2123,
+            "histories": 80
+          },
+          "resolved": true
+        }
+      },
+      "resolved": true,
+      "seconds": 2.9778020000085235,
+      "numerical_signature": "b8bf6ca2df00a39236c956aadcb41977fe8978e8b70801c9a1112e1bd389efce",
+      "represented_windows": [
+        {
+          "case_id": "2500931767c1",
+          "airport": "ATL",
+          "day": "2025-01-24",
+          "hour": 14
+        },
+        {
+          "case_id": "952ba29d601f",
+          "airport": "ATL",
+          "day": "2025-01-25",
+          "hour": 14
+        },
+        {
+          "case_id": "ea14b18ac3b9",
+          "airport": "ATL",
+          "day": "2025-01-26",
+          "hour": 14
+        },
+        {
+          "case_id": "2caa90364bf6",
+          "airport": "ATL",
+          "day": "2025-01-27",
+          "hour": 14
+        },
+        {
+          "case_id": "f80acb500d87",
+          "airport": "ATL",
+          "day": "2025-01-28",
+          "hour": 14
+        },
+        {
+          "case_id": "d40279614c6e",
+          "airport": "ATL",
+          "day": "2025-01-29",
+          "hour": 14
+        },
+        {
+          "case_id": "c7f77dc000c4",
+          "airport": "ATL",
+          "day": "2025-01-30",
+          "hour": 14
+        },
+        {
+          "case_id": "942856c22c64",
+          "airport": "ATL",
+          "day": "2025-01-31",
+          "hour": 14
+        }
+      ]
+    },
+    {
+      "case_id": "5dc695ea48d3",
+      "airport": "CLT",
+      "day": "2025-01-24",
+      "hour": 10,
+      "n": 30,
+      "cap": 8,
+      "capacity_labels": [
+        "N4"
+      ],
+      "delay": 1,
+      "input_path": "data/trb_external_error_20261030/cases/CLT/5dc695ea48d3.json",
+      "input_sha256": "6c63f07d81603f03b4549f9c5f7124a4c53038e4f24b130a3ddaa14b83cd1f2f",
+      "numerical_signature": "83867df5557d7bb9f735b67ae12b689290431dba9f504b2d306377844660ed63",
+      "represented_windows": [
+        {
+          "case_id": "5dc695ea48d3",
+          "airport": "CLT",
+          "day": "2025-01-24",
+          "hour": 10
+        },
+        {
+          "case_id": "6c06524de98b",
+          "airport": "CLT",
+          "day": "2025-01-25",
+          "hour": 10
+        },
+        {
+          "case_id": "d0458f8cb43b",
+          "airport": "CLT",
+          "day": "2025-01-26",
+          "hour": 10
+        },
+        {
+          "case_id": "2884c957a28e",
+          "airport": "CLT",
+          "day": "2025-01-27",
+          "hour": 10
+        },
+        {
+          "case_id": "4aac4f2c3804",
+          "airport": "CLT",
+          "day": "2025-01-28",
+          "hour": 10
+        },
+        {
+          "case_id": "80780ff5789f",
+          "airport": "CLT",
+          "day": "2025-01-29",
+          "hour": 10
+        },
+        {
+          "case_id": "026d231d133c",
+          "airport": "CLT",
+          "day": "2025-01-30",
+          "hour": 10
+        },
+        {
+          "case_id": "0782e0198eb9",
+          "airport": "CLT",
+          "day": "2025-01-31",
+          "hour": 10
+        }
+      ],
+      "methods": {
+        "2": {
+          "lookahead": {
+            "value": 201,
+            "minutes": 13.4,
+            "max_requests": 6,
+            "seconds": 0.20073090004734695,
+            "states": 728,
+            "histories": 146
+          },
+          "exact": {
+            "value": 199,
+            "minutes": 13.266666666666667,
+            "max_requests": 5,
+            "seconds": 0.6992474000435323,
+            "states": 15510,
+            "histories": 143
+          },
+          "resolved": true
+        },
+        "4": {
+          "lookahead": {
+            "value": 201,
+            "minutes": 13.4,
+            "max_requests": 5,
+            "seconds": 0.5640688999556005,
+            "states": 723,
+            "histories": 143
+          },
+          "exact": {
+            "value": 199,
+            "minutes": 13.266666666666667,
+            "max_requests": 5,
+            "seconds": 0.7010695999488235,
+            "states": 15097,
+            "histories": 143
+          },
+          "resolved": true
+        },
+        "6": {
+          "lookahead": {
+            "value": 199,
+            "minutes": 13.266666666666667,
+            "max_requests": 5,
+            "seconds": 1.4487948000896722,
+            "states": 725,
+            "histories": 143
+          },
+          "exact": {
+            "value": 199,
+            "minutes": 13.266666666666667,
+            "max_requests": 5,
+            "seconds": 0.7010695999488235,
+            "states": 15097,
+            "histories": 143
+          },
+          "resolved": true
+        }
+      },
+      "resolved": true,
+      "seconds": 3.6139246998354793
+    },
+    {
+      "case_id": "5dc695ea48d3",
+      "airport": "CLT",
+      "day": "2025-01-24",
+      "hour": 10,
+      "n": 30,
+      "cap": 8,
+      "capacity_labels": [
+        "N4"
+      ],
+      "delay": 2,
+      "input_path": "data/trb_external_error_20261030/cases/CLT/5dc695ea48d3.json",
+      "input_sha256": "6c63f07d81603f03b4549f9c5f7124a4c53038e4f24b130a3ddaa14b83cd1f2f",
+      "numerical_signature": "06ac95da6a6f937a3a81ce9d97fb54eedc90eafcf911809c63613294402e3282",
+      "represented_windows": [
+        {
+          "case_id": "5dc695ea48d3",
+          "airport": "CLT",
+          "day": "2025-01-24",
+          "hour": 10
+        },
+        {
+          "case_id": "6c06524de98b",
+          "airport": "CLT",
+          "day": "2025-01-25",
+          "hour": 10
+        },
+        {
+          "case_id": "d0458f8cb43b",
+          "airport": "CLT",
+          "day": "2025-01-26",
+          "hour": 10
+        },
+        {
+          "case_id": "2884c957a28e",
+          "airport": "CLT",
+          "day": "2025-01-27",
+          "hour": 10
+        },
+        {
+          "case_id": "4aac4f2c3804",
+          "airport": "CLT",
+          "day": "2025-01-28",
+          "hour": 10
+        },
+        {
+          "case_id": "80780ff5789f",
+          "airport": "CLT",
+          "day": "2025-01-29",
+          "hour": 10
+        },
+        {
+          "case_id": "026d231d133c",
+          "airport": "CLT",
+          "day": "2025-01-30",
+          "hour": 10
+        },
+        {
+          "case_id": "0782e0198eb9",
+          "airport": "CLT",
+          "day": "2025-01-31",
+          "hour": 10
+        }
+      ],
+      "methods": {
+        "2": {
+          "lookahead": {
+            "value": 211,
+            "minutes": 14.066666666666666,
+            "max_requests": 6,
+            "seconds": 0.2616165999788791,
+            "states": 630,
+            "histories": 154
+          },
+          "exact": {
+            "value": 211,
+            "minutes": 14.066666666666666,
+            "max_requests": 6,
+            "seconds": 3.015346599975601,
+            "states": 64414,
+            "histories": 153
+          },
+          "resolved": true
+        },
+        "4": {
+          "lookahead": {
+            "value": 211,
+            "minutes": 14.066666666666666,
+            "max_requests": 6,
+            "seconds": 1.0993709999602288,
+            "states": 641,
+            "histories": 153
+          },
+          "exact": {
+            "value": 211,
+            "minutes": 14.066666666666666,
+            "max_requests": 6,
+            "seconds": 3.015346599975601,
+            "states": 64414,
+            "histories": 153
+          },
+          "resolved": true
+        },
+        "6": {
+          "lookahead": {
+            "value": 211,
+            "minutes": 14.066666666666666,
+            "max_requests": 6,
+            "seconds": 3.436556200031191,
+            "states": 641,
+            "histories": 153
+          },
+          "exact": {
+            "value": 211,
+            "minutes": 14.066666666666666,
+            "max_requests": 6,
+            "seconds": 3.015346599975601,
+            "states": 64414,
+            "histories": 153
+          },
+          "resolved": true
+        }
+      },
+      "resolved": true,
+      "seconds": 7.8129032999277115
+    },
+    {
+      "case_id": "14b4e0ec6786",
+      "airport": "DFW",
+      "day": "2025-01-24",
+      "hour": 14,
+      "n": 8,
+      "cap": 2,
+      "capacity_labels": [
+        "N4"
+      ],
+      "delay": 1,
+      "input_path": "data/trb_external_error_20261030/cases/DFW/14b4e0ec6786.json",
+      "input_sha256": "ca612b5bf106a9aea27aeab4c60bd2be2f4aa38bd39a601c2c40f9473a7bfb18",
+      "numerical_signature": "294e90bcdac443edd43febc938d2bc3a71d0f07a0bebd7e21cec376b820e76d0",
+      "represented_windows": [
+        {
+          "case_id": "14b4e0ec6786",
+          "airport": "DFW",
+          "day": "2025-01-24",
+          "hour": 14
+        },
+        {
+          "case_id": "9388bff5903b",
+          "airport": "DFW",
+          "day": "2025-01-25",
+          "hour": 14
+        },
+        {
+          "case_id": "e0044807296c",
+          "airport": "DFW",
+          "day": "2025-01-26",
+          "hour": 14
+        },
+        {
+          "case_id": "bf98bc908763",
+          "airport": "DFW",
+          "day": "2025-01-27",
+          "hour": 14
+        },
+        {
+          "case_id": "e35a7697f0ef",
+          "airport": "DFW",
+          "day": "2025-01-28",
+          "hour": 14
+        },
+        {
+          "case_id": "7e3e3e72242a",
+          "airport": "DFW",
+          "day": "2025-01-29",
+          "hour": 14
+        },
+        {
+          "case_id": "b35cfe9a3ef3",
+          "airport": "DFW",
+          "day": "2025-01-30",
+          "hour": 14
+        },
+        {
+          "case_id": "5d41f968b295",
+          "airport": "DFW",
+          "day": "2025-01-31",
+          "hour": 14
+        }
+      ],
+      "methods": {
+        "2": {
+          "lookahead": {
+            "value": 99,
+            "minutes": 24.75,
+            "max_requests": 6,
+            "seconds": 0.1276984999421984,
+            "states": 424,
+            "histories": 113
+          },
+          "exact": {
+            "value": 99,
+            "minutes": 24.75,
+            "max_requests": 6,
+            "seconds": 0.1607166000176221,
+            "states": 2655,
+            "histories": 116
+          },
+          "resolved": true
+        },
+        "4": {
+          "lookahead": {
+            "value": 99,
+            "minutes": 24.75,
+            "max_requests": 6,
+            "seconds": 0.459398299921304,
+            "states": 420,
+            "histories": 116
+          },
+          "exact": {
+            "value": 99,
+            "minutes": 24.75,
+            "max_requests": 6,
+            "seconds": 0.1607166000176221,
+            "states": 2655,
+            "histories": 116
+          },
+          "resolved": true
+        },
+        "6": {
+          "lookahead": {
+            "value": 99,
+            "minutes": 24.75,
+            "max_requests": 6,
+            "seconds": 1.2022963999770582,
+            "states": 420,
+            "histories": 116
+          },
+          "exact": {
+            "value": 99,
+            "minutes": 24.75,
+            "max_requests": 6,
+            "seconds": 0.1607166000176221,
+            "states": 2655,
+            "histories": 116
+          },
+          "resolved": true
+        }
+      },
+      "resolved": true,
+      "seconds": 1.950120799941942
+    },
+    {
+      "case_id": "14b4e0ec6786",
+      "airport": "DFW",
+      "day": "2025-01-24",
+      "hour": 14,
+      "n": 8,
+      "cap": 2,
+      "capacity_labels": [
+        "N4"
+      ],
+      "delay": 2,
+      "input_path": "data/trb_external_error_20261030/cases/DFW/14b4e0ec6786.json",
+      "input_sha256": "ca612b5bf106a9aea27aeab4c60bd2be2f4aa38bd39a601c2c40f9473a7bfb18",
+      "numerical_signature": "02a5127a6d7200a2bc94b54607a4a261207269664c83dba117bbedd00e857006",
+      "represented_windows": [
+        {
+          "case_id": "14b4e0ec6786",
+          "airport": "DFW",
+          "day": "2025-01-24",
+          "hour": 14
+        },
+        {
+          "case_id": "9388bff5903b",
+          "airport": "DFW",
+          "day": "2025-01-25",
+          "hour": 14
+        },
+        {
+          "case_id": "e0044807296c",
+          "airport": "DFW",
+          "day": "2025-01-26",
+          "hour": 14
+        },
+        {
+          "case_id": "bf98bc908763",
+          "airport": "DFW",
+          "day": "2025-01-27",
+          "hour": 14
+        },
+        {
+          "case_id": "e35a7697f0ef",
+          "airport": "DFW",
+          "day": "2025-01-28",
+          "hour": 14
+        },
+        {
+          "case_id": "7e3e3e72242a",
+          "airport": "DFW",
+          "day": "2025-01-29",
+          "hour": 14
+        },
+        {
+          "case_id": "b35cfe9a3ef3",
+          "airport": "DFW",
+          "day": "2025-01-30",
+          "hour": 14
+        },
+        {
+          "case_id": "5d41f968b295",
+          "airport": "DFW",
+          "day": "2025-01-31",
+          "hour": 14
+        }
+      ],
+      "methods": {
+        "2": {
+          "lookahead": {
+            "value": 115,
+            "minutes": 28.75,
+            "max_requests": 5,
+            "seconds": 0.15049280016683042,
+            "states": 231,
+            "histories": 100
+          },
+          "exact": {
+            "value": 115,
+            "minutes": 28.75,
+            "max_requests": 5,
+            "seconds": 0.2771792998537421,
+            "states": 7031,
+            "histories": 112
+          },
+          "resolved": true
+        },
+        "4": {
+          "lookahead": {
+            "value": 115,
+            "minutes": 28.75,
+            "max_requests": 5,
+            "seconds": 0.8067992001306266,
+            "states": 252,
+            "histories": 112
+          },
+          "exact": {
+            "value": 115,
+            "minutes": 28.75,
+            "max_requests": 5,
+            "seconds": 0.2771792998537421,
+            "states": 7031,
+            "histories": 112
+          },
+          "resolved": true
+        },
+        "6": {
+          "lookahead": {
+            "value": 115,
+            "minutes": 28.75,
+            "max_requests": 5,
+            "seconds": 2.580056299921125,
+            "states": 252,
+            "histories": 112
+          },
+          "exact": {
+            "value": 115,
+            "minutes": 28.75,
+            "max_requests": 5,
+            "seconds": 0.2771792998537421,
+            "states": 7031,
+            "histories": 112
+          },
+          "resolved": true
+        }
+      },
+      "resolved": true,
+      "seconds": 3.814540300052613
+    },
+    {
+      "case_id": "d6f04b7939b5",
+      "airport": "DFW",
+      "day": "2025-01-24",
+      "hour": 18,
+      "n": 19,
+      "cap": 5,
+      "capacity_labels": [
+        "N4"
+      ],
+      "delay": 1,
+      "input_path": "data/trb_external_error_20261030/cases/DFW/d6f04b7939b5.json",
+      "input_sha256": "c14f17d987e3773717fa28088475fc6572f27ea610741b29a1eb780e0b6ee7c9",
+      "methods": {
+        "2": {
+          "lookahead": {
+            "value": 136,
+            "minutes": 14.31578947368421,
+            "max_requests": 6,
+            "seconds": 0.16742660012096167,
+            "states": 742,
+            "histories": 131
+          },
+          "exact": {
+            "value": 136,
+            "minutes": 14.31578947368421,
+            "max_requests": 6,
+            "seconds": 0.7665911999065429,
+            "states": 20037,
+            "histories": 130
+          },
+          "resolved": true
+        },
+        "4": {
+          "lookahead": {
+            "value": 145,
+            "minutes": 15.263157894736842,
+            "max_requests": 6,
+            "seconds": 0.5482768998481333,
+            "states": 766,
+            "histories": 126
+          },
+          "exact": {
+            "value": 136,
+            "minutes": 14.31578947368421,
+            "max_requests": 6,
+            "seconds": 0.7665911999065429,
+            "states": 20037,
+            "histories": 130
+          },
+          "resolved": true
+        },
+        "6": {
+          "lookahead": {
+            "value": 136,
+            "minutes": 14.31578947368421,
+            "max_requests": 6,
+            "seconds": 1.5913660998921841,
+            "states": 744,
+            "histories": 130
+          },
+          "exact": {
+            "value": 136,
+            "minutes": 14.31578947368421,
+            "max_requests": 6,
+            "seconds": 0.7665911999065429,
+            "states": 20037,
+            "histories": 130
+          },
+          "resolved": true
+        }
+      },
+      "resolved": true,
+      "seconds": 3.0736733998637646,
+      "numerical_signature": "eee864b756f09068c480817c65428922e367490ca3769e45ce503d706ee99517",
+      "represented_windows": [
+        {
+          "case_id": "d6f04b7939b5",
+          "airport": "DFW",
+          "day": "2025-01-24",
+          "hour": 18
+        },
+        {
+          "case_id": "8fb7adcd7c2b",
+          "airport": "DFW",
+          "day": "2025-01-25",
+          "hour": 18
+        },
+        {
+          "case_id": "c2b06ab1f481",
+          "airport": "DFW",
+          "day": "2025-01-26",
+          "hour": 18
+        },
+        {
+          "case_id": "0b0014b60c0c",
+          "airport": "DFW",
+          "day": "2025-01-27",
+          "hour": 18
+        },
+        {
+          "case_id": "fbdea45e59cd",
+          "airport": "DFW",
+          "day": "2025-01-28",
+          "hour": 18
+        },
+        {
+          "case_id": "80bc2dc7e385",
+          "airport": "DFW",
+          "day": "2025-01-29",
+          "hour": 18
+        },
+        {
+          "case_id": "ef5a52929389",
+          "airport": "DFW",
+          "day": "2025-01-30",
+          "hour": 18
+        }
+      ]
+    },
+    {
+      "case_id": "d6f04b7939b5",
+      "airport": "DFW",
+      "day": "2025-01-24",
+      "hour": 18,
+      "n": 19,
+      "cap": 5,
+      "capacity_labels": [
+        "N4"
+      ],
+      "delay": 2,
+      "input_path": "data/trb_external_error_20261030/cases/DFW/d6f04b7939b5.json",
+      "input_sha256": "c14f17d987e3773717fa28088475fc6572f27ea610741b29a1eb780e0b6ee7c9",
+      "methods": {
+        "2": {
+          "lookahead": {
+            "value": 145,
+            "minutes": 15.263157894736842,
+            "max_requests": 6,
+            "seconds": 0.2978491000831127,
+            "states": 621,
+            "histories": 142
+          },
+          "exact": {
+            "value": 145,
+            "minutes": 15.263157894736842,
+            "max_requests": 6,
+            "seconds": 2.9235769000370055,
+            "states": 74258,
+            "histories": 142
+          },
+          "resolved": true
+        },
+        "4": {
+          "lookahead": {
+            "value": 166,
+            "minutes": 17.473684210526315,
+            "max_requests": 6,
+            "seconds": 0.9949574000202119,
+            "states": 640,
+            "histories": 146
+          },
+          "exact": {
+            "value": 145,
+            "minutes": 15.263157894736842,
+            "max_requests": 6,
+            "seconds": 2.9235769000370055,
+            "states": 74258,
+            "histories": 142
+          },
+          "resolved": true
+        },
+        "6": {
+          "lookahead": {
+            "value": 166,
+            "minutes": 17.473684210526315,
+            "max_requests": 6,
+            "seconds": 2.991628299932927,
+            "states": 640,
+            "histories": 146
+          },
+          "exact": {
+            "value": 145,
+            "minutes": 15.263157894736842,
+            "max_requests": 6,
+            "seconds": 2.9235769000370055,
+            "states": 74258,
+            "histories": 142
+          },
+          "resolved": true
+        }
+      },
+      "resolved": true,
+      "seconds": 7.208024100167677,
+      "numerical_signature": "61e6ae7bd3edc2f3adbfd0452d7624bcd0dbda1e9e9fa10e5556458d518d1fd0",
+      "represented_windows": [
+        {
+          "case_id": "d6f04b7939b5",
+          "airport": "DFW",
+          "day": "2025-01-24",
+          "hour": 18
+        },
+        {
+          "case_id": "8fb7adcd7c2b",
+          "airport": "DFW",
+          "day": "2025-01-25",
+          "hour": 18
+        },
+        {
+          "case_id": "c2b06ab1f481",
+          "airport": "DFW",
+          "day": "2025-01-26",
+          "hour": 18
+        },
+        {
+          "case_id": "0b0014b60c0c",
+          "airport": "DFW",
+          "day": "2025-01-27",
+          "hour": 18
+        },
+        {
+          "case_id": "fbdea45e59cd",
+          "airport": "DFW",
+          "day": "2025-01-28",
+          "hour": 18
+        },
+        {
+          "case_id": "80bc2dc7e385",
+          "airport": "DFW",
+          "day": "2025-01-29",
+          "hour": 18
+        },
+        {
+          "case_id": "ef5a52929389",
+          "airport": "DFW",
+          "day": "2025-01-30",
+          "hour": 18
+        }
+      ]
+    },
+    {
+      "case_id": "e47196faedde",
+      "airport": "ATL",
+      "day": "2025-01-24",
+      "hour": 12,
+      "n": 8,
+      "cap": 8,
+      "capacity_labels": [
+        "N"
+      ],
+      "delay": 1,
+      "input_path": "data/trb_external_error_20261030/cases/ATL/e47196faedde.json",
+      "input_sha256": "8b92509432d0ccc103b1a4c2e0ad17a27c3e969cb5d2dc3b1512b91232d56cc9",
+      "numerical_signature": "69d2dafecd5c33ebe0169a4ea7e325d8efb42db9a9a9d9ec810d940fad81d381",
+      "represented_windows": [
+        {
+          "case_id": "e47196faedde",
+          "airport": "ATL",
+          "day": "2025-01-24",
+          "hour": 12
+        },
+        {
+          "case_id": "c3dd51d2d92b",
+          "airport": "ATL",
+          "day": "2025-01-25",
+          "hour": 12
+        },
+        {
+          "case_id": "97bc31cf93a8",
+          "airport": "ATL",
+          "day": "2025-01-26",
+          "hour": 12
+        },
+        {
+          "case_id": "f868ee07ce3b",
+          "airport": "ATL",
+          "day": "2025-01-27",
+          "hour": 12
+        },
+        {
+          "case_id": "caf42a581389",
+          "airport": "ATL",
+          "day": "2025-01-28",
+          "hour": 12
+        },
+        {
+          "case_id": "d6b2c9063aa4",
+          "airport": "ATL",
+          "day": "2025-01-29",
+          "hour": 12
+        },
+        {
+          "case_id": "7cce62fd9b7a",
+          "airport": "ATL",
+          "day": "2025-01-30",
+          "hour": 12
+        },
+        {
+          "case_id": "e058f4f78c89",
+          "airport": "ATL",
+          "day": "2025-01-31",
+          "hour": 12
+        }
+      ],
+      "methods": {
+        "2": {
+          "lookahead": {
+            "value": 113,
+            "minutes": 28.25,
+            "max_requests": 3,
+            "seconds": 0.03445619996637106,
+            "states": 78,
+            "histories": 50
+          },
+          "exact": {
+            "value": 113,
+            "minutes": 28.25,
+            "max_requests": 3,
+            "seconds": 0.02967049996368587,
+            "states": 250,
+            "histories": 50
+          },
+          "resolved": true
+        },
+        "4": {
+          "lookahead": {
+            "value": 113,
+            "minutes": 28.25,
+            "max_requests": 3,
+            "seconds": 0.14787780004553497,
+            "states": 78,
+            "histories": 50
+          },
+          "exact": {
+            "value": 113,
+            "minutes": 28.25,
+            "max_requests": 3,
+            "seconds": 0.02967049996368587,
+            "states": 250,
+            "histories": 50
+          },
+          "resolved": true
+        },
+        "6": {
+          "lookahead": {
+            "value": 113,
+            "minutes": 28.25,
+            "max_requests": 3,
+            "seconds": 0.4493577000685036,
+            "states": 78,
+            "histories": 50
+          },
+          "exact": {
+            "value": 113,
+            "minutes": 28.25,
+            "max_requests": 3,
+            "seconds": 0.02967049996368587,
+            "states": 250,
+            "histories": 50
+          },
+          "resolved": true
+        }
+      },
+      "resolved": true,
+      "seconds": 0.6613739000167698
+    },
+    {
+      "case_id": "e47196faedde",
+      "airport": "ATL",
+      "day": "2025-01-24",
+      "hour": 12,
+      "n": 8,
+      "cap": 8,
+      "capacity_labels": [
+        "N"
+      ],
+      "delay": 2,
+      "input_path": "data/trb_external_error_20261030/cases/ATL/e47196faedde.json",
+      "input_sha256": "8b92509432d0ccc103b1a4c2e0ad17a27c3e969cb5d2dc3b1512b91232d56cc9",
+      "numerical_signature": "4de65875625433f712faf22fd3b36951b760e9273aeed45a8adfccf9234bcb80",
+      "represented_windows": [
+        {
+          "case_id": "e47196faedde",
+          "airport": "ATL",
+          "day": "2025-01-24",
+          "hour": 12
+        },
+        {
+          "case_id": "c3dd51d2d92b",
+          "airport": "ATL",
+          "day": "2025-01-25",
+          "hour": 12
+        },
+        {
+          "case_id": "97bc31cf93a8",
+          "airport": "ATL",
+          "day": "2025-01-26",
+          "hour": 12
+        },
+        {
+          "case_id": "f868ee07ce3b",
+          "airport": "ATL",
+          "day": "2025-01-27",
+          "hour": 12
+        },
+        {
+          "case_id": "caf42a581389",
+          "airport": "ATL",
+          "day": "2025-01-28",
+          "hour": 12
+        },
+        {
+          "case_id": "d6b2c9063aa4",
+          "airport": "ATL",
+          "day": "2025-01-29",
+          "hour": 12
+        },
+        {
+          "case_id": "7cce62fd9b7a",
+          "airport": "ATL",
+          "day": "2025-01-30",
+          "hour": 12
+        },
+        {
+          "case_id": "e058f4f78c89",
+          "airport": "ATL",
+          "day": "2025-01-31",
+          "hour": 12
+        }
+      ],
+      "methods": {
+        "2": {
+          "lookahead": {
+            "value": 184,
+            "minutes": 46.0,
+            "max_requests": 0,
+            "seconds": 0.010933500016108155,
+            "states": 2,
+            "histories": 16
+          },
+          "exact": {
+            "value": 184,
+            "minutes": 46.0,
+            "max_requests": 0,
+            "seconds": 0.008053400088101625,
+            "states": 2,
+            "histories": 16
+          },
+          "resolved": true
+        },
+        "4": {
+          "lookahead": {
+            "value": 184,
+            "minutes": 46.0,
+            "max_requests": 0,
+            "seconds": 0.1228656000457704,
+            "states": 2,
+            "histories": 16
+          },
+          "exact": {
+            "value": 184,
+            "minutes": 46.0,
+            "max_requests": 0,
+            "seconds": 0.008053400088101625,
+            "states": 2,
+            "histories": 16
+          },
+          "resolved": true
+        },
+        "6": {
+          "lookahead": {
+            "value": 184,
+            "minutes": 46.0,
+            "max_requests": 0,
+            "seconds": 0.8900330001488328,
+            "states": 2,
+            "histories": 16
+          },
+          "exact": {
+            "value": 184,
+            "minutes": 46.0,
+            "max_requests": 0,
+            "seconds": 0.008053400088101625,
+            "states": 2,
+            "histories": 16
+          },
+          "resolved": true
+        }
+      },
+      "resolved": true,
+      "seconds": 1.031896600034088
+    },
+    {
+      "case_id": "e47196faedde",
+      "airport": "ATL",
+      "day": "2025-01-24",
+      "hour": 12,
+      "n": 8,
+      "cap": 1,
+      "capacity_labels": [
+        "N8"
+      ],
+      "delay": 1,
+      "input_path": "data/trb_external_error_20261030/cases/ATL/e47196faedde.json",
+      "input_sha256": "8b92509432d0ccc103b1a4c2e0ad17a27c3e969cb5d2dc3b1512b91232d56cc9",
+      "numerical_signature": "99e96461c2d07794bac7b7cbc6ae9073161da2f6a62581ffa2834578864b33b5",
+      "represented_windows": [
+        {
+          "case_id": "e47196faedde",
+          "airport": "ATL",
+          "day": "2025-01-24",
+          "hour": 12
+        },
+        {
+          "case_id": "c3dd51d2d92b",
+          "airport": "ATL",
+          "day": "2025-01-25",
+          "hour": 12
+        },
+        {
+          "case_id": "97bc31cf93a8",
+          "airport": "ATL",
+          "day": "2025-01-26",
+          "hour": 12
+        },
+        {
+          "case_id": "f868ee07ce3b",
+          "airport": "ATL",
+          "day": "2025-01-27",
+          "hour": 12
+        },
+        {
+          "case_id": "caf42a581389",
+          "airport": "ATL",
+          "day": "2025-01-28",
+          "hour": 12
+        },
+        {
+          "case_id": "d6b2c9063aa4",
+          "airport": "ATL",
+          "day": "2025-01-29",
+          "hour": 12
+        },
+        {
+          "case_id": "7cce62fd9b7a",
+          "airport": "ATL",
+          "day": "2025-01-30",
+          "hour": 12
+        },
+        {
+          "case_id": "e058f4f78c89",
+          "airport": "ATL",
+          "day": "2025-01-31",
+          "hour": 12
+        }
+      ],
+      "methods": {
+        "2": {
+          "lookahead": {
+            "value": 65,
+            "minutes": 16.25,
+            "max_requests": 5,
+            "seconds": 0.174816400045529,
+            "states": 376,
+            "histories": 104
+          },
+          "exact": {
+            "value": 65,
+            "minutes": 16.25,
+            "max_requests": 5,
+            "seconds": 0.18563319998793304,
+            "states": 3265,
+            "histories": 112
+          },
+          "resolved": true
+        },
+        "4": {
+          "lookahead": {
+            "value": 65,
+            "minutes": 16.25,
+            "max_requests": 6,
+            "seconds": 0.4787399999331683,
+            "states": 371,
+            "histories": 111
+          },
+          "exact": {
+            "value": 65,
+            "minutes": 16.25,
+            "max_requests": 6,
+            "seconds": 0.19321869988925755,
+            "states": 3186,
+            "histories": 111
+          },
+          "resolved": true
+        },
+        "6": {
+          "lookahead": {
+            "value": 65,
+            "minutes": 16.25,
+            "max_requests": 6,
+            "seconds": 1.018663699971512,
+            "states": 371,
+            "histories": 111
+          },
+          "exact": {
+            "value": 65,
+            "minutes": 16.25,
+            "max_requests": 6,
+            "seconds": 0.19321869988925755,
+            "states": 3186,
+            "histories": 111
+          },
+          "resolved": true
+        }
+      },
+      "resolved": true,
+      "seconds": 2.051084299804643
+    },
+    {
+      "case_id": "e47196faedde",
+      "airport": "ATL",
+      "day": "2025-01-24",
+      "hour": 12,
+      "n": 8,
+      "cap": 1,
+      "capacity_labels": [
+        "N8"
+      ],
+      "delay": 2,
+      "input_path": "data/trb_external_error_20261030/cases/ATL/e47196faedde.json",
+      "input_sha256": "8b92509432d0ccc103b1a4c2e0ad17a27c3e969cb5d2dc3b1512b91232d56cc9",
+      "numerical_signature": "31f4f5ff955ef4a3629c718186bfddb953cdec3e1fa4530f8ddc6ac55760da11",
+      "represented_windows": [
+        {
+          "case_id": "e47196faedde",
+          "airport": "ATL",
+          "day": "2025-01-24",
+          "hour": 12
+        },
+        {
+          "case_id": "c3dd51d2d92b",
+          "airport": "ATL",
+          "day": "2025-01-25",
+          "hour": 12
+        },
+        {
+          "case_id": "97bc31cf93a8",
+          "airport": "ATL",
+          "day": "2025-01-26",
+          "hour": 12
+        },
+        {
+          "case_id": "f868ee07ce3b",
+          "airport": "ATL",
+          "day": "2025-01-27",
+          "hour": 12
+        },
+        {
+          "case_id": "caf42a581389",
+          "airport": "ATL",
+          "day": "2025-01-28",
+          "hour": 12
+        },
+        {
+          "case_id": "d6b2c9063aa4",
+          "airport": "ATL",
+          "day": "2025-01-29",
+          "hour": 12
+        },
+        {
+          "case_id": "7cce62fd9b7a",
+          "airport": "ATL",
+          "day": "2025-01-30",
+          "hour": 12
+        },
+        {
+          "case_id": "e058f4f78c89",
+          "airport": "ATL",
+          "day": "2025-01-31",
+          "hour": 12
+        }
+      ],
+      "methods": {
+        "2": {
+          "lookahead": {
+            "value": 76,
+            "minutes": 19.0,
+            "max_requests": 6,
+            "seconds": 0.19467050000093877,
+            "states": 368,
+            "histories": 123
+          },
+          "exact": {
+            "value": 76,
+            "minutes": 19.0,
+            "max_requests": 6,
+            "seconds": 1.3122733000200242,
+            "states": 23404,
+            "histories": 127
+          },
+          "resolved": true
+        },
+        "4": {
+          "lookahead": {
+            "value": 76,
+            "minutes": 19.0,
+            "max_requests": 6,
+            "seconds": 0.793927300022915,
+            "states": 367,
+            "histories": 127
+          },
+          "exact": {
+            "value": 76,
+            "minutes": 19.0,
+            "max_requests": 6,
+            "seconds": 1.3122733000200242,
+            "states": 23404,
+            "histories": 127
+          },
+          "resolved": true
+        },
+        "6": {
+          "lookahead": {
+            "value": 76,
+            "minutes": 19.0,
+            "max_requests": 6,
+            "seconds": 2.3523212999571115,
+            "states": 367,
+            "histories": 127
+          },
+          "exact": {
+            "value": 76,
+            "minutes": 19.0,
+            "max_requests": 6,
+            "seconds": 1.3122733000200242,
+            "states": 23404,
+            "histories": 127
+          },
+          "resolved": true
+        }
+      },
+      "resolved": true,
+      "seconds": 4.653204900212586
+    },
+    {
+      "case_id": "5dc695ea48d3",
+      "airport": "CLT",
+      "day": "2025-01-24",
+      "hour": 10,
+      "n": 30,
+      "cap": 30,
+      "capacity_labels": [
+        "N"
+      ],
+      "delay": 1,
+      "input_path": "data/trb_external_error_20261030/cases/CLT/5dc695ea48d3.json",
+      "input_sha256": "6c63f07d81603f03b4549f9c5f7124a4c53038e4f24b130a3ddaa14b83cd1f2f",
+      "numerical_signature": "b937efa247677326476dce385c2eeeb4cdac2ec96796874a46a3447296462afb",
+      "represented_windows": [
+        {
+          "case_id": "5dc695ea48d3",
+          "airport": "CLT",
+          "day": "2025-01-24",
+          "hour": 10
+        },
+        {
+          "case_id": "6c06524de98b",
+          "airport": "CLT",
+          "day": "2025-01-25",
+          "hour": 10
+        },
+        {
+          "case_id": "d0458f8cb43b",
+          "airport": "CLT",
+          "day": "2025-01-26",
+          "hour": 10
+        },
+        {
+          "case_id": "2884c957a28e",
+          "airport": "CLT",
+          "day": "2025-01-27",
+          "hour": 10
+        },
+        {
+          "case_id": "4aac4f2c3804",
+          "airport": "CLT",
+          "day": "2025-01-28",
+          "hour": 10
+        },
+        {
+          "case_id": "80780ff5789f",
+          "airport": "CLT",
+          "day": "2025-01-29",
+          "hour": 10
+        },
+        {
+          "case_id": "026d231d133c",
+          "airport": "CLT",
+          "day": "2025-01-30",
+          "hour": 10
+        },
+        {
+          "case_id": "0782e0198eb9",
+          "airport": "CLT",
+          "day": "2025-01-31",
+          "hour": 10
+        }
+      ],
+      "methods": {
+        "2": {
+          "lookahead": {
+            "value": 201,
+            "minutes": 13.4,
+            "max_requests": 6,
+            "seconds": 0.2716866999398917,
+            "states": 728,
+            "histories": 146
+          },
+          "exact": {
+            "value": 199,
+            "minutes": 13.266666666666667,
+            "max_requests": 5,
+            "seconds": 0.6969952001236379,
+            "states": 15510,
+            "histories": 143
+          },
+          "resolved": true
+        },
+        "4": {
+          "lookahead": {
+            "value": 201,
+            "minutes": 13.4,
+            "max_requests": 5,
+            "seconds": 0.5711792998481542,
+            "states": 723,
+            "histories": 143
+          },
+          "exact": {
+            "value": 199,
+            "minutes": 13.266666666666667,
+            "max_requests": 5,
+            "seconds": 0.6902057998813689,
+            "states": 15097,
+            "histories": 143
+          },
+          "resolved": true
+        },
+        "6": {
+          "lookahead": {
+            "value": 199,
+            "minutes": 13.266666666666667,
+            "max_requests": 5,
+            "seconds": 1.4312458999920636,
+            "states": 725,
+            "histories": 143
+          },
+          "exact": {
+            "value": 199,
+            "minutes": 13.266666666666667,
+            "max_requests": 5,
+            "seconds": 0.6902057998813689,
+            "states": 15097,
+            "histories": 143
+          },
+          "resolved": true
+        }
+      },
+      "resolved": true,
+      "seconds": 3.661325099878013
+    },
+    {
+      "case_id": "5dc695ea48d3",
+      "airport": "CLT",
+      "day": "2025-01-24",
+      "hour": 10,
+      "n": 30,
+      "cap": 30,
+      "capacity_labels": [
+        "N"
+      ],
+      "delay": 2,
+      "input_path": "data/trb_external_error_20261030/cases/CLT/5dc695ea48d3.json",
+      "input_sha256": "6c63f07d81603f03b4549f9c5f7124a4c53038e4f24b130a3ddaa14b83cd1f2f",
+      "numerical_signature": "b6d5d615d1a4e5b1e2c84d9db1f6ce46ce166efd6130a80c33199faa412a8c29",
+      "represented_windows": [
+        {
+          "case_id": "5dc695ea48d3",
+          "airport": "CLT",
+          "day": "2025-01-24",
+          "hour": 10
+        },
+        {
+          "case_id": "6c06524de98b",
+          "airport": "CLT",
+          "day": "2025-01-25",
+          "hour": 10
+        },
+        {
+          "case_id": "d0458f8cb43b",
+          "airport": "CLT",
+          "day": "2025-01-26",
+          "hour": 10
+        },
+        {
+          "case_id": "2884c957a28e",
+          "airport": "CLT",
+          "day": "2025-01-27",
+          "hour": 10
+        },
+        {
+          "case_id": "4aac4f2c3804",
+          "airport": "CLT",
+          "day": "2025-01-28",
+          "hour": 10
+        },
+        {
+          "case_id": "80780ff5789f",
+          "airport": "CLT",
+          "day": "2025-01-29",
+          "hour": 10
+        },
+        {
+          "case_id": "026d231d133c",
+          "airport": "CLT",
+          "day": "2025-01-30",
+          "hour": 10
+        },
+        {
+          "case_id": "0782e0198eb9",
+          "airport": "CLT",
+          "day": "2025-01-31",
+          "hour": 10
+        }
+      ],
+      "methods": {
+        "2": {
+          "lookahead": {
+            "value": 211,
+            "minutes": 14.066666666666666,
+            "max_requests": 6,
+            "seconds": 0.27810760005377233,
+            "states": 630,
+            "histories": 154
+          },
+          "exact": {
+            "value": 211,
+            "minutes": 14.066666666666666,
+            "max_requests": 6,
+            "seconds": 3.0944284999277443,
+            "states": 64414,
+            "histories": 153
+          },
+          "resolved": true
+        },
+        "4": {
+          "lookahead": {
+            "value": 211,
+            "minutes": 14.066666666666666,
+            "max_requests": 6,
+            "seconds": 1.1936329000163823,
+            "states": 641,
+            "histories": 153
+          },
+          "exact": {
+            "value": 211,
+            "minutes": 14.066666666666666,
+            "max_requests": 6,
+            "seconds": 3.0944284999277443,
+            "states": 64414,
+            "histories": 153
+          },
+          "resolved": true
+        },
+        "6": {
+          "lookahead": {
+            "value": 211,
+            "minutes": 14.066666666666666,
+            "max_requests": 6,
+            "seconds": 3.631297299871221,
+            "states": 641,
+            "histories": 153
+          },
+          "exact": {
+            "value": 211,
+            "minutes": 14.066666666666666,
+            "max_requests": 6,
+            "seconds": 3.0944284999277443,
+            "states": 64414,
+            "histories": 153
+          },
+          "resolved": true
+        }
+      },
+      "resolved": true,
+      "seconds": 8.197479099966586
+    },
+    {
+      "case_id": "5dc695ea48d3",
+      "airport": "CLT",
+      "day": "2025-01-24",
+      "hour": 10,
+      "n": 30,
+      "cap": 4,
+      "capacity_labels": [
+        "N8"
+      ],
+      "delay": 1,
+      "input_path": "data/trb_external_error_20261030/cases/CLT/5dc695ea48d3.json",
+      "input_sha256": "6c63f07d81603f03b4549f9c5f7124a4c53038e4f24b130a3ddaa14b83cd1f2f",
+      "numerical_signature": "00dffd264d46206793dea180d41fb9b8f125e8bc4d061c74c80ed39c96d55a24",
+      "represented_windows": [
+        {
+          "case_id": "5dc695ea48d3",
+          "airport": "CLT",
+          "day": "2025-01-24",
+          "hour": 10
+        },
+        {
+          "case_id": "6c06524de98b",
+          "airport": "CLT",
+          "day": "2025-01-25",
+          "hour": 10
+        },
+        {
+          "case_id": "d0458f8cb43b",
+          "airport": "CLT",
+          "day": "2025-01-26",
+          "hour": 10
+        },
+        {
+          "case_id": "2884c957a28e",
+          "airport": "CLT",
+          "day": "2025-01-27",
+          "hour": 10
+        },
+        {
+          "case_id": "4aac4f2c3804",
+          "airport": "CLT",
+          "day": "2025-01-28",
+          "hour": 10
+        },
+        {
+          "case_id": "80780ff5789f",
+          "airport": "CLT",
+          "day": "2025-01-29",
+          "hour": 10
+        },
+        {
+          "case_id": "026d231d133c",
+          "airport": "CLT",
+          "day": "2025-01-30",
+          "hour": 10
+        },
+        {
+          "case_id": "0782e0198eb9",
+          "airport": "CLT",
+          "day": "2025-01-31",
+          "hour": 10
+        }
+      ],
+      "methods": {
+        "2": {
+          "lookahead": {
+            "value": 201,
+            "minutes": 13.4,
+            "max_requests": 6,
+            "seconds": 0.19103489979170263,
+            "states": 732,
+            "histories": 146
+          },
+          "exact": {
+            "value": 199,
+            "minutes": 13.266666666666667,
+            "max_requests": 5,
+            "seconds": 0.7332744998857379,
+            "states": 15786,
+            "histories": 142
+          },
+          "resolved": true
+        },
+        "4": {
+          "lookahead": {
+            "value": 201,
+            "minutes": 13.4,
+            "max_requests": 5,
+            "seconds": 0.5900978001300246,
+            "states": 741,
+            "histories": 142
+          },
+          "exact": {
+            "value": 199,
+            "minutes": 13.266666666666667,
+            "max_requests": 5,
+            "seconds": 0.7497044000774622,
+            "states": 15347,
+            "histories": 142
+          },
+          "resolved": true
+        },
+        "6": {
+          "lookahead": {
+            "value": 199,
+            "minutes": 13.266666666666667,
+            "max_requests": 5,
+            "seconds": 1.5588301999960095,
+            "states": 743,
+            "histories": 142
+          },
+          "exact": {
+            "value": 199,
+            "minutes": 13.266666666666667,
+            "max_requests": 5,
+            "seconds": 0.7497044000774622,
+            "states": 15347,
+            "histories": 142
+          },
+          "resolved": true
+        }
+      },
+      "resolved": true,
+      "seconds": 3.8229545999784023
+    },
+    {
+      "case_id": "5dc695ea48d3",
+      "airport": "CLT",
+      "day": "2025-01-24",
+      "hour": 10,
+      "n": 30,
+      "cap": 4,
+      "capacity_labels": [
+        "N8"
+      ],
+      "delay": 2,
+      "input_path": "data/trb_external_error_20261030/cases/CLT/5dc695ea48d3.json",
+      "input_sha256": "6c63f07d81603f03b4549f9c5f7124a4c53038e4f24b130a3ddaa14b83cd1f2f",
+      "numerical_signature": "7972d9fb56f27a0cda2bea499cb253f5fc024f2aa3d87d090eca41040dc51927",
+      "represented_windows": [
+        {
+          "case_id": "5dc695ea48d3",
+          "airport": "CLT",
+          "day": "2025-01-24",
+          "hour": 10
+        },
+        {
+          "case_id": "6c06524de98b",
+          "airport": "CLT",
+          "day": "2025-01-25",
+          "hour": 10
+        },
+        {
+          "case_id": "d0458f8cb43b",
+          "airport": "CLT",
+          "day": "2025-01-26",
+          "hour": 10
+        },
+        {
+          "case_id": "2884c957a28e",
+          "airport": "CLT",
+          "day": "2025-01-27",
+          "hour": 10
+        },
+        {
+          "case_id": "4aac4f2c3804",
+          "airport": "CLT",
+          "day": "2025-01-28",
+          "hour": 10
+        },
+        {
+          "case_id": "80780ff5789f",
+          "airport": "CLT",
+          "day": "2025-01-29",
+          "hour": 10
+        },
+        {
+          "case_id": "026d231d133c",
+          "airport": "CLT",
+          "day": "2025-01-30",
+          "hour": 10
+        },
+        {
+          "case_id": "0782e0198eb9",
+          "airport": "CLT",
+          "day": "2025-01-31",
+          "hour": 10
+        }
+      ],
+      "methods": {
+        "2": {
+          "lookahead": {
+            "value": 211,
+            "minutes": 14.066666666666666,
+            "max_requests": 6,
+            "seconds": 0.26143339998088777,
+            "states": 633,
+            "histories": 152
+          },
+          "exact": {
+            "value": 211,
+            "minutes": 14.066666666666666,
+            "max_requests": 6,
+            "seconds": 3.1842992999590933,
+            "states": 65455,
+            "histories": 153
+          },
+          "resolved": true
+        },
+        "4": {
+          "lookahead": {
+            "value": 211,
+            "minutes": 14.066666666666666,
+            "max_requests": 6,
+            "seconds": 1.103758400073275,
+            "states": 645,
+            "histories": 153
+          },
+          "exact": {
+            "value": 211,
+            "minutes": 14.066666666666666,
+            "max_requests": 6,
+            "seconds": 3.1842992999590933,
+            "states": 65455,
+            "histories": 153
+          },
+          "resolved": true
+        },
+        "6": {
+          "lookahead": {
+            "value": 211,
+            "minutes": 14.066666666666666,
+            "max_requests": 6,
+            "seconds": 3.6097033999394625,
+            "states": 645,
+            "histories": 153
+          },
+          "exact": {
+            "value": 211,
+            "minutes": 14.066666666666666,
+            "max_requests": 6,
+            "seconds": 3.1842992999590933,
+            "states": 65455,
+            "histories": 153
+          },
+          "resolved": true
+        }
+      },
+      "resolved": true,
+      "seconds": 8.159208100056276
+    },
+    {
+      "case_id": "14b4e0ec6786",
+      "airport": "DFW",
+      "day": "2025-01-24",
+      "hour": 14,
+      "n": 8,
+      "cap": 8,
+      "capacity_labels": [
+        "N"
+      ],
+      "delay": 1,
+      "input_path": "data/trb_external_error_20261030/cases/DFW/14b4e0ec6786.json",
+      "input_sha256": "ca612b5bf106a9aea27aeab4c60bd2be2f4aa38bd39a601c2c40f9473a7bfb18",
+      "numerical_signature": "a3ed1f457f3047d1b6657efcec1d2c7ce822bdc7cfb9d9c889a95e04270b914b",
+      "represented_windows": [
+        {
+          "case_id": "14b4e0ec6786",
+          "airport": "DFW",
+          "day": "2025-01-24",
+          "hour": 14
+        },
+        {
+          "case_id": "9388bff5903b",
+          "airport": "DFW",
+          "day": "2025-01-25",
+          "hour": 14
+        },
+        {
+          "case_id": "e0044807296c",
+          "airport": "DFW",
+          "day": "2025-01-26",
+          "hour": 14
+        },
+        {
+          "case_id": "bf98bc908763",
+          "airport": "DFW",
+          "day": "2025-01-27",
+          "hour": 14
+        },
+        {
+          "case_id": "e35a7697f0ef",
+          "airport": "DFW",
+          "day": "2025-01-28",
+          "hour": 14
+        },
+        {
+          "case_id": "7e3e3e72242a",
+          "airport": "DFW",
+          "day": "2025-01-29",
+          "hour": 14
+        },
+        {
+          "case_id": "b35cfe9a3ef3",
+          "airport": "DFW",
+          "day": "2025-01-30",
+          "hour": 14
+        },
+        {
+          "case_id": "5d41f968b295",
+          "airport": "DFW",
+          "day": "2025-01-31",
+          "hour": 14
+        }
+      ],
+      "methods": {
+        "2": {
+          "lookahead": {
+            "value": 101,
+            "minutes": 25.25,
+            "max_requests": 6,
+            "seconds": 0.22650880017317832,
+            "states": 370,
+            "histories": 114
+          },
+          "exact": {
+            "value": 101,
+            "minutes": 25.25,
+            "max_requests": 6,
+            "seconds": 0.104217299958691,
+            "states": 1975,
+            "histories": 109
+          },
+          "resolved": true
+        },
+        "4": {
+          "lookahead": {
+            "value": 101,
+            "minutes": 25.25,
+            "max_requests": 6,
+            "seconds": 0.49343879986554384,
+            "states": 344,
+            "histories": 109
+          },
+          "exact": {
+            "value": 101,
+            "minutes": 25.25,
+            "max_requests": 6,
+            "seconds": 0.104217299958691,
+            "states": 1975,
+            "histories": 109
+          },
+          "resolved": true
+        },
+        "6": {
+          "lookahead": {
+            "value": 101,
+            "minutes": 25.25,
+            "max_requests": 6,
+            "seconds": 1.2544295999687165,
+            "states": 344,
+            "histories": 109
+          },
+          "exact": {
+            "value": 101,
+            "minutes": 25.25,
+            "max_requests": 6,
+            "seconds": 0.104217299958691,
+            "states": 1975,
+            "histories": 109
+          },
+          "resolved": true
+        }
+      },
+      "resolved": true,
+      "seconds": 2.0786062001716346
+    },
+    {
+      "case_id": "14b4e0ec6786",
+      "airport": "DFW",
+      "day": "2025-01-24",
+      "hour": 14,
+      "n": 8,
+      "cap": 8,
+      "capacity_labels": [
+        "N"
+      ],
+      "delay": 2,
+      "input_path": "data/trb_external_error_20261030/cases/DFW/14b4e0ec6786.json",
+      "input_sha256": "ca612b5bf106a9aea27aeab4c60bd2be2f4aa38bd39a601c2c40f9473a7bfb18",
+      "numerical_signature": "85dfab4f1eb48271724274572529d40779ff17f261318bb539148183618aaa12",
+      "represented_windows": [
+        {
+          "case_id": "14b4e0ec6786",
+          "airport": "DFW",
+          "day": "2025-01-24",
+          "hour": 14
+        },
+        {
+          "case_id": "9388bff5903b",
+          "airport": "DFW",
+          "day": "2025-01-25",
+          "hour": 14
+        },
+        {
+          "case_id": "e0044807296c",
+          "airport": "DFW",
+          "day": "2025-01-26",
+          "hour": 14
+        },
+        {
+          "case_id": "bf98bc908763",
+          "airport": "DFW",
+          "day": "2025-01-27",
+          "hour": 14
+        },
+        {
+          "case_id": "e35a7697f0ef",
+          "airport": "DFW",
+          "day": "2025-01-28",
+          "hour": 14
+        },
+        {
+          "case_id": "7e3e3e72242a",
+          "airport": "DFW",
+          "day": "2025-01-29",
+          "hour": 14
+        },
+        {
+          "case_id": "b35cfe9a3ef3",
+          "airport": "DFW",
+          "day": "2025-01-30",
+          "hour": 14
+        },
+        {
+          "case_id": "5d41f968b295",
+          "airport": "DFW",
+          "day": "2025-01-31",
+          "hour": 14
+        }
+      ],
+      "methods": {
+        "2": {
+          "lookahead": {
+            "value": 136,
+            "minutes": 34.0,
+            "max_requests": 4,
+            "seconds": 0.1439599001314491,
+            "states": 168,
+            "histories": 99
+          },
+          "exact": {
+            "value": 136,
+            "minutes": 34.0,
+            "max_requests": 4,
+            "seconds": 0.11228829994797707,
+            "states": 2406,
+            "histories": 92
+          },
+          "resolved": true
+        },
+        "4": {
+          "lookahead": {
+            "value": 136,
+            "minutes": 34.0,
+            "max_requests": 5,
+            "seconds": 0.9467573000583798,
+            "states": 164,
+            "histories": 91
+          },
+          "exact": {
+            "value": 136,
+            "minutes": 34.0,
+            "max_requests": 5,
+            "seconds": 0.14143249997869134,
+            "states": 2685,
+            "histories": 91
+          },
+          "resolved": true
+        },
+        "6": {
+          "lookahead": {
+            "value": 136,
+            "minutes": 34.0,
+            "max_requests": 5,
+            "seconds": 2.730576799949631,
+            "states": 164,
+            "histories": 91
+          },
+          "exact": {
+            "value": 136,
+            "minutes": 34.0,
+            "max_requests": 5,
+            "seconds": 0.14143249997869134,
+            "states": 2685,
+            "histories": 91
+          },
+          "resolved": true
+        }
+      },
+      "resolved": true,
+      "seconds": 4.0750267000403255
+    },
+    {
+      "case_id": "14b4e0ec6786",
+      "airport": "DFW",
+      "day": "2025-01-24",
+      "hour": 14,
+      "n": 8,
+      "cap": 1,
+      "capacity_labels": [
+        "N8"
+      ],
+      "delay": 1,
+      "input_path": "data/trb_external_error_20261030/cases/DFW/14b4e0ec6786.json",
+      "input_sha256": "ca612b5bf106a9aea27aeab4c60bd2be2f4aa38bd39a601c2c40f9473a7bfb18",
+      "numerical_signature": "78f55963abd61c6178fa7ed67ba6dc29e272f20f7239d32af6822891e592558c",
+      "represented_windows": [
+        {
+          "case_id": "14b4e0ec6786",
+          "airport": "DFW",
+          "day": "2025-01-24",
+          "hour": 14
+        },
+        {
+          "case_id": "9388bff5903b",
+          "airport": "DFW",
+          "day": "2025-01-25",
+          "hour": 14
+        },
+        {
+          "case_id": "e0044807296c",
+          "airport": "DFW",
+          "day": "2025-01-26",
+          "hour": 14
+        },
+        {
+          "case_id": "bf98bc908763",
+          "airport": "DFW",
+          "day": "2025-01-27",
+          "hour": 14
+        },
+        {
+          "case_id": "e35a7697f0ef",
+          "airport": "DFW",
+          "day": "2025-01-28",
+          "hour": 14
+        },
+        {
+          "case_id": "7e3e3e72242a",
+          "airport": "DFW",
+          "day": "2025-01-29",
+          "hour": 14
+        },
+        {
+          "case_id": "b35cfe9a3ef3",
+          "airport": "DFW",
+          "day": "2025-01-30",
+          "hour": 14
+        },
+        {
+          "case_id": "5d41f968b295",
+          "airport": "DFW",
+          "day": "2025-01-31",
+          "hour": 14
+        }
+      ],
+      "methods": {
+        "2": {
+          "lookahead": {
+            "value": 95,
+            "minutes": 23.75,
+            "max_requests": 5,
+            "seconds": 0.28930979990400374,
+            "states": 456,
+            "histories": 110
+          },
+          "exact": {
+            "value": 94,
+            "minutes": 23.5,
+            "max_requests": 5,
+            "seconds": 0.3944840000476688,
+            "states": 7146,
+            "histories": 109
+          },
+          "resolved": true
+        },
+        "4": {
+          "lookahead": {
+            "value": 94,
+            "minutes": 23.5,
+            "max_requests": 5,
+            "seconds": 0.5163428001105785,
+            "states": 512,
+            "histories": 109
+          },
+          "exact": {
+            "value": 94,
+            "minutes": 23.5,
+            "max_requests": 5,
+            "seconds": 0.3944840000476688,
+            "states": 7146,
+            "histories": 109
+          },
+          "resolved": true
+        },
+        "6": {
+          "lookahead": {
+            "value": 94,
+            "minutes": 23.5,
+            "max_requests": 5,
+            "seconds": 1.2188712998759001,
+            "states": 512,
+            "histories": 109
+          },
+          "exact": {
+            "value": 94,
+            "minutes": 23.5,
+            "max_requests": 5,
+            "seconds": 0.3944840000476688,
+            "states": 7146,
+            "histories": 109
+          },
+          "resolved": true
+        }
+      },
+      "resolved": true,
+      "seconds": 2.4190197999123484
+    },
+    {
+      "case_id": "14b4e0ec6786",
+      "airport": "DFW",
+      "day": "2025-01-24",
+      "hour": 14,
+      "n": 8,
+      "cap": 1,
+      "capacity_labels": [
+        "N8"
+      ],
+      "delay": 2,
+      "input_path": "data/trb_external_error_20261030/cases/DFW/14b4e0ec6786.json",
+      "input_sha256": "ca612b5bf106a9aea27aeab4c60bd2be2f4aa38bd39a601c2c40f9473a7bfb18",
+      "numerical_signature": "0cdfce16874c51d30476c469d2707dea86332f40297c56cb70e9a9835a813ec9",
+      "represented_windows": [
+        {
+          "case_id": "14b4e0ec6786",
+          "airport": "DFW",
+          "day": "2025-01-24",
+          "hour": 14
+        },
+        {
+          "case_id": "9388bff5903b",
+          "airport": "DFW",
+          "day": "2025-01-25",
+          "hour": 14
+        },
+        {
+          "case_id": "e0044807296c",
+          "airport": "DFW",
+          "day": "2025-01-26",
+          "hour": 14
+        },
+        {
+          "case_id": "bf98bc908763",
+          "airport": "DFW",
+          "day": "2025-01-27",
+          "hour": 14
+        },
+        {
+          "case_id": "e35a7697f0ef",
+          "airport": "DFW",
+          "day": "2025-01-28",
+          "hour": 14
+        },
+        {
+          "case_id": "7e3e3e72242a",
+          "airport": "DFW",
+          "day": "2025-01-29",
+          "hour": 14
+        },
+        {
+          "case_id": "b35cfe9a3ef3",
+          "airport": "DFW",
+          "day": "2025-01-30",
+          "hour": 14
+        },
+        {
+          "case_id": "5d41f968b295",
+          "airport": "DFW",
+          "day": "2025-01-31",
+          "hour": 14
+        }
+      ],
+      "methods": {
+        "2": {
+          "lookahead": {
+            "value": 109,
+            "minutes": 27.25,
+            "max_requests": 5,
+            "seconds": 0.2876452000346035,
+            "states": 274,
+            "histories": 104
+          },
+          "exact": {
+            "value": 108,
+            "minutes": 27.0,
+            "max_requests": 5,
+            "seconds": 1.5505206999368966,
+            "states": 26232,
+            "histories": 126
+          },
+          "resolved": true
+        },
+        "4": {
+          "lookahead": {
+            "value": 108,
+            "minutes": 27.0,
+            "max_requests": 5,
+            "seconds": 0.8459905998315662,
+            "states": 414,
+            "histories": 126
+          },
+          "exact": {
+            "value": 108,
+            "minutes": 27.0,
+            "max_requests": 5,
+            "seconds": 1.5505206999368966,
+            "states": 26232,
+            "histories": 126
+          },
+          "resolved": true
+        },
+        "6": {
+          "lookahead": {
+            "value": 108,
+            "minutes": 27.0,
+            "max_requests": 5,
+            "seconds": 2.644429299980402,
+            "states": 414,
+            "histories": 126
+          },
+          "exact": {
+            "value": 108,
+            "minutes": 27.0,
+            "max_requests": 5,
+            "seconds": 1.5505206999368966,
+            "states": 26232,
+            "histories": 126
+          },
+          "resolved": true
+        }
+      },
+      "resolved": true,
+      "seconds": 5.3285986999981105
+    }
+  ]
+}

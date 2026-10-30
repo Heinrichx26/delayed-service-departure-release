@@ -1,0 +1,18 @@
+{
+  "maximum_depth": 8,
+  "bounds": "Perfect-information continuation after d request decisions",
+  "selection": "First condition at each airport and response time, plus every suboptimal six-step condition",
+  "seconds_limit": 20,
+  "state_limit": 500000,
+  "numerical_signatures": [
+    "69d2dafecd5c33ebe0169a4ea7e325d8efb42db9a9a9d9ec810d940fad81d381",
+    "4de65875625433f712faf22fd3b36951b760e9273aeed45a8adfccf9234bcb80",
+    "b937efa247677326476dce385c2eeeb4cdac2ec96796874a46a3447296462afb",
+    "b6d5d615d1a4e5b1e2c84d9db1f6ce46ce166efd6130a80c33199faa412a8c29",
+    "a3ed1f457f3047d1b6657efcec1d2c7ce822bdc7cfb9d9c889a95e04270b914b",
+    "85dfab4f1eb48271724274572529d40779ff17f261318bb539148183618aaa12",
+    "e73c8ccae04bdff633bfe83d61ec000404898cf66bb888e74a5e46f642eafd8c",
+    "61e6ae7bd3edc2f3adbfd0452d7624bcd0dbda1e9e9fa10e5556458d518d1fd0",
+    "3eb313f2fd9c86bee5cfd2d570efb028967acd823c52665d05bbc3f4023cd7c1"
+  ]
+}

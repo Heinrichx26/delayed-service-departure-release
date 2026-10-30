@@ -275,3 +275,20 @@ of the same model; it is an independently implemented comparison.
 
 These modules use supplied numerical inputs and saved outputs. Publication
 text, LaTeX sources, proofs and manuscript production scripts are excluded.
+
+## Shared report errors in the separate surveillance source
+
+The 2025 January ATL, CLT and DFW reconstruction supplies 35 distinct calendar/release-limit settings, evaluated at two response times (70 numerical conditions). Identical donor calendars across evaluation dates are counted once. All methods use a shared one-count error allowance and one new request per two-minute interval. Each exact comparison matches the respective receding-lookahead policy's maximum total requests.
+
+Run the smoke stage before the full stage:
+
+~~~shell
+python src/trb_external_error_20261030/independent_panel.py smoke
+python src/trb_external_error_20261030/independent_panel.py full
+python src/trb_external_error_20261030/certify_independent.py smoke
+python src/trb_external_error_20261030/certify_independent.py full
+python src/trb_external_error_20261030/decision_trace.py
+python src/trb_external_error_20261030/summarize_independent.py
+~~~
+
+Saved results retain all 70 conditions. Six-step lookahead is optimal in 67 conditions. Finite-depth lower bounds prove 60 candidates optimal; the other ten require full optimization to close the bound. A Dallas/Fort Worth trace uses identical service and reported counts to isolate the value of changing request order. Input hashes, grouping rules and represented windows are included in the design and results JSON files.
