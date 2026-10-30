@@ -1,0 +1,97 @@
+{
+  "passed": true,
+  "rows": [
+    {
+      "gamma": 0,
+      "cap": null,
+      "exact": {
+        "value": 4,
+        "states": 6,
+        "seconds": 0.00019160006195306778,
+        "branches": 5,
+        "bound_prunes": 3
+      },
+      "mip": {
+        "resolved": true,
+        "value": 4,
+        "feasible": true,
+        "dual_bound": 4,
+        "seconds": 0.03076700004749,
+        "iterations": 4,
+        "worlds": 2,
+        "variables": 35,
+        "constraints": 64,
+        "generated_pairs": 3
+      }
+    },
+    {
+      "gamma": 1,
+      "cap": null,
+      "exact": {
+        "value": 4,
+        "states": 15,
+        "seconds": 0.0002677000593394041,
+        "branches": 16,
+        "bound_prunes": 1
+      },
+      "mip": {
+        "resolved": true,
+        "value": 4,
+        "feasible": true,
+        "dual_bound": 4,
+        "seconds": 0.03254259983077645,
+        "iterations": 5,
+        "worlds": 6,
+        "variables": 103,
+        "constraints": 258,
+        "generated_pairs": 20
+      }
+    },
+    {
+      "gamma": 1,
+      "cap": 1,
+      "exact": {
+        "value": 6,
+        "states": 12,
+        "seconds": 0.0002882999833673239,
+        "branches": 15,
+        "bound_prunes": 0
+      },
+      "mip": {
+        "resolved": true,
+        "value": 6,
+        "feasible": true,
+        "dual_bound": 6,
+        "seconds": 0.02904399996623397,
+        "iterations": 4,
+        "worlds": 6,
+        "variables": 103,
+        "constraints": 258,
+        "generated_pairs": 19
+      }
+    },
+    {
+      "gamma": 1,
+      "cap": 2,
+      "exact": {
+        "value": 4,
+        "states": 15,
+        "seconds": 0.0003542001359164715,
+        "branches": 16,
+        "bound_prunes": 1
+      },
+      "mip": {
+        "resolved": true,
+        "value": 4,
+        "feasible": true,
+        "dual_bound": 4,
+        "seconds": 0.03246819996275008,
+        "iterations": 5,
+        "worlds": 6,
+        "variables": 103,
+        "constraints": 264,
+        "generated_pairs": 20
+      }
+    }
+  ]
+}

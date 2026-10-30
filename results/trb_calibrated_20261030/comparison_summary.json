@@ -1,0 +1,137 @@
+{
+  "conditions_per_depth": 400,
+  "delays_minutes": [
+    2,
+    4
+  ],
+  "error_allowance": 1,
+  "requests_per_slot": 1,
+  "matching": "Separate maximum whole-period request ceiling for each lookahead policy and condition",
+  "lookahead": {
+    "2": {
+      "2": {
+        "conditions": 200,
+        "clusters": 32,
+        "lookahead_minutes": 14.572001539076492,
+        "capped_exact_minutes": 14.295709733848323,
+        "saved_seconds": 16.577508313690146,
+        "saved_percent": 1.8960456769597571,
+        "saved_seconds_interval": [
+          10.899713287255311,
+          22.66526142903326
+        ],
+        "strictly_improved": 94,
+        "request_ceiling": 5.115,
+        "exact_max_requests": 4.955
+      },
+      "4": {
+        "conditions": 200,
+        "clusters": 32,
+        "lookahead_minutes": 15.551676627277429,
+        "capped_exact_minutes": 15.183330760596437,
+        "saved_seconds": 22.100752000859494,
+        "saved_percent": 2.3685283298324116,
+        "saved_seconds_interval": [
+          14.91613136110249,
+          29.844790647835797
+        ],
+        "strictly_improved": 92,
+        "request_ceiling": 4.655,
+        "exact_max_requests": 4.57
+      }
+    },
+    "4": {
+      "2": {
+        "conditions": 200,
+        "clusters": 32,
+        "lookahead_minutes": 14.24150309049168,
+        "capped_exact_minutes": 14.2071328107714,
+        "saved_seconds": 2.0622167832167904,
+        "saved_percent": 0.24133884957148316,
+        "saved_seconds_interval": [
+          0.4504256309355398,
+          4.1861933209647475
+        ],
+        "strictly_improved": 17,
+        "request_ceiling": 5.615,
+        "exact_max_requests": 5.53
+      },
+      "4": {
+        "conditions": 200,
+        "clusters": 32,
+        "lookahead_minutes": 15.181146417162093,
+        "capped_exact_minutes": 15.136441871707548,
+        "saved_seconds": 2.6822727272726965,
+        "saved_percent": 0.29447410772619265,
+        "saved_seconds_interval": [
+          1.004004021171837,
+          4.6965295732269245
+        ],
+        "strictly_improved": 21,
+        "request_ceiling": 4.94,
+        "exact_max_requests": 4.915
+      }
+    },
+    "6": {
+      "2": {
+        "conditions": 200,
+        "clusters": 32,
+        "lookahead_minutes": 14.1996328107714,
+        "capped_exact_minutes": 14.1996328107714,
+        "saved_seconds": 0.0,
+        "saved_percent": 0.0,
+        "saved_seconds_interval": [
+          0.0,
+          0.0
+        ],
+        "strictly_improved": 0,
+        "request_ceiling": 5.615,
+        "exact_max_requests": 5.615
+      },
+      "4": {
+        "conditions": 200,
+        "clusters": 32,
+        "lookahead_minutes": 15.120441871707548,
+        "capped_exact_minutes": 15.120441871707548,
+        "saved_seconds": 0.0,
+        "saved_percent": 0.0,
+        "saved_seconds_interval": [
+          0.0,
+          0.0
+        ],
+        "strictly_improved": 0,
+        "request_ceiling": 5.015,
+        "exact_max_requests": 5.015
+      }
+    }
+  },
+  "mip": {
+    "audit_conditions": 96,
+    "public_conditions": 8,
+    "dp_resolved": 8,
+    "mip_resolved": 0,
+    "dp_elapsed_range": [
+      0.2996422001160681,
+      1.388956099981442
+    ],
+    "mip_elapsed_range": [
+      20.809520700015128,
+      26.26779430010356
+    ],
+    "worlds_range": [
+      477,
+      590
+    ],
+    "variables_range": [
+      76505,
+      142191
+    ]
+  },
+  "input_sha256": {
+    "results\\trb_error_20261030\\budget_full.json": "3cc68ad2c68322ace8945bdc7cb024a6d1db810030a889f831287b1a89ad1de9",
+    "results\\trb_calibrated_20261030\\lookahead4_full.json": "60ae88f1f086466e80ece94cf0a7b77a7274ef17fc8510087743c122b7e592dc",
+    "results\\trb_calibrated_20261030\\lookahead6_full.json": "b0c17e08f698714198163d46c7f93e572a5719b289fba13acb237d89bb43fa0e",
+    "results\\trb_calibrated_20261030\\mip_request_ties\\mip_audit.json": "d0d6a841ff160df68e32f622a77e6c5116c0715177cb6dca8f3187bc7610436c",
+    "results\\trb_calibrated_20261030\\mip_request_ties\\mip_public_full.json": "6fe76caec04888dc787f8b0c50a9047b121f80cc7036ea402d183c1fc67382b8"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "depth": 6,
+  "conditions": 4,
+  "selection": "Every condition from the frozen 400-condition report-error panel; smoke uses the first N/4 window per airport and both delays",
+  "error_allowance": 1,
+  "requests_per_slot": 1,
+  "seconds_per_method": 30,
+  "matching": "Exact total-request ceiling equals the lookahead policy maximum over every allowed history",
+  "keys": [
+    [
+      "473d817f7137_k1",
+      "N4",
+      1
+    ],
+    [
+      "473d817f7137_k1",
+      "N4",
+      2
+    ],
+    [
+      "931988388d77_k1",
+      "N4",
+      1
+    ],
+    [
+      "931988388d77_k1",
+      "N4",
+      2
+    ]
+  ]
+}

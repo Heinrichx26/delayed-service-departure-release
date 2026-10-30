@@ -1,0 +1,28 @@
+{
+  "maximum_depth": 8,
+  "selection": "All frozen report-error conditions",
+  "upper_policy": "Independently evaluated six-step receding policy with matching total request cap",
+  "stopping": "First integer depth at which the admissible lower bound equals the feasible policy value",
+  "tasks": [
+    [
+      "473d817f7137_k1",
+      "N4",
+      1
+    ],
+    [
+      "473d817f7137_k1",
+      "N4",
+      2
+    ],
+    [
+      "931988388d77_k1",
+      "N4",
+      1
+    ],
+    [
+      "931988388d77_k1",
+      "N4",
+      2
+    ]
+  ]
+}

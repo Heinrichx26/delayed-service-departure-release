@@ -231,3 +231,47 @@ enumeration matches 384 unbudgeted and 144 request-capped conditions.
 The fixed-timetable audit covers 1,344 timetables.
 
 This numerical module has no manuscript-generation or plotting dependency.
+
+
+## Longer lookahead and independent scenario optimization
+
+The src/trb_calibrated_20261030 directory adds four- and six-step receding
+request policies under the same global count-error allowance and request
+limits. For each policy and condition, the exact comparison uses that
+policy's maximum whole-period request count as a hard ceiling. Four-step
+mean savings are 2.06 and 2.68 seconds per departure at the two response
+times. Six-step policies attain the exact values in all 400 conditions.
+
+Start with the smoke checks, then expand each experiment:
+
+    python src/trb_calibrated_20261030/deep_lookahead.py smoke --depth 4
+    python src/trb_calibrated_20261030/deep_lookahead.py full --depth 4
+    python src/trb_calibrated_20261030/deep_lookahead.py smoke --depth 6
+    python src/trb_calibrated_20261030/deep_lookahead.py full --depth 6
+    python src/trb_calibrated_20261030/lookahead_certificate.py smoke
+    python src/trb_calibrated_20261030/lookahead_certificate.py full
+
+Finite-depth lower bounds certify 301 of the six-step policies by eight
+modeled decisions. The other 99 retain a positive bound gap; their exact
+values are available from the complete recursion. Certificate results
+separately record candidate computation, policy evaluation and bound time.
+
+The independent scenario mixed-integer formulation retains release and
+request variables and generates nonanticipativity constraints. Waiting
+has strict priority over a secondary total-request objective. Run:
+
+    python src/trb_calibrated_20261030/mip_panel.py smoke
+    python src/trb_calibrated_20261030/mip_panel.py audit
+    python src/trb_calibrated_20261030/mip_panel.py public_smoke
+    python src/trb_calibrated_20261030/mip_panel.py public_full
+    python src/trb_calibrated_20261030/summarize_comparison.py
+
+The 96 randomized small checks agree with exact recursion. The eight
+preselected public conditions remain unresolved in the mixed-integer
+formulation at its 20-second optimization allowance; all bounds and elapsed
+times are retained in results/trb_calibrated_20261030/mip_request_ties.
+The recursion proves all eight optima. This is a finite-scenario formulation
+of the same model; it is an independently implemented comparison.
+
+These modules use supplied numerical inputs and saved outputs. Publication
+text, LaTeX sources, proofs and manuscript production scripts are excluded.

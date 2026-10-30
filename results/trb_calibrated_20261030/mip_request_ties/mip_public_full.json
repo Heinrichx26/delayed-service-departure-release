@@ -1,0 +1,222 @@
+{
+  "passed": true,
+  "conditions": 8,
+  "rows": [
+    {
+      "case_id": "473d817f7137_k1",
+      "airport": "DEN",
+      "day": "2024-01-24",
+      "delay": 1,
+      "n": 11,
+      "dp": {
+        "value": 87,
+        "states": 6477,
+        "seconds": 0.38898240006528795,
+        "branches": 12433,
+        "bound_prunes": 9361,
+        "end_to_end_seconds": 0.3889920001383871
+      },
+      "mip": {
+        "resolved": false,
+        "feasible": false,
+        "seconds": 21.256778000155464,
+        "dual_bound": 74,
+        "worlds": 477,
+        "variables": 95878,
+        "constraints": 166487,
+        "generated_pairs": 7225,
+        "iterations": 4,
+        "end_to_end_seconds": 21.363656100118533
+      }
+    },
+    {
+      "case_id": "473d817f7137_k1",
+      "airport": "DEN",
+      "day": "2024-01-24",
+      "delay": 2,
+      "n": 11,
+      "dp": {
+        "value": 97,
+        "states": 20208,
+        "seconds": 1.2918233999516815,
+        "branches": 54363,
+        "bound_prunes": 27681,
+        "end_to_end_seconds": 1.2918310000095516
+      },
+      "mip": {
+        "resolved": false,
+        "feasible": false,
+        "seconds": 21.03234150004573,
+        "dual_bound": 81,
+        "worlds": 477,
+        "variables": 85861,
+        "constraints": 132774,
+        "generated_pairs": 5456,
+        "iterations": 4,
+        "end_to_end_seconds": 21.146353899966925
+      }
+    },
+    {
+      "case_id": "5579ca1049f4_k1",
+      "airport": "DEN",
+      "day": "2025-01-24",
+      "delay": 1,
+      "n": 22,
+      "dp": {
+        "value": 154,
+        "states": 5020,
+        "seconds": 0.2996338999364525,
+        "branches": 9816,
+        "bound_prunes": 5989,
+        "end_to_end_seconds": 0.2996422001160681
+      },
+      "mip": {
+        "resolved": false,
+        "feasible": false,
+        "seconds": 20.655986200086772,
+        "dual_bound": 146,
+        "worlds": 590,
+        "variables": 142191,
+        "constraints": 164520,
+        "generated_pairs": 6261,
+        "iterations": 3,
+        "end_to_end_seconds": 20.809520700015128
+      }
+    },
+    {
+      "case_id": "5579ca1049f4_k1",
+      "airport": "DEN",
+      "day": "2025-01-24",
+      "delay": 2,
+      "n": 22,
+      "dp": {
+        "value": 177,
+        "states": 24584,
+        "seconds": 1.3889472999144346,
+        "branches": 74627,
+        "bound_prunes": 36713,
+        "end_to_end_seconds": 1.388956099981442
+      },
+      "mip": {
+        "resolved": false,
+        "feasible": false,
+        "seconds": 20.991520600160584,
+        "dual_bound": 174,
+        "worlds": 590,
+        "variables": 126851,
+        "constraints": 164166,
+        "generated_pairs": 6541,
+        "iterations": 3,
+        "end_to_end_seconds": 21.13673759996891
+      }
+    },
+    {
+      "case_id": "931988388d77_k1",
+      "airport": "PHX",
+      "day": "2024-01-24",
+      "delay": 1,
+      "n": 23,
+      "dp": {
+        "value": 131,
+        "states": 7691,
+        "seconds": 0.3899322999641299,
+        "branches": 18675,
+        "bound_prunes": 9252,
+        "end_to_end_seconds": 0.3899399000220001
+      },
+      "mip": {
+        "resolved": false,
+        "feasible": false,
+        "seconds": 26.180185300065205,
+        "dual_bound": 121,
+        "worlds": 524,
+        "variables": 86461,
+        "constraints": 148552,
+        "generated_pairs": 6520,
+        "iterations": 4,
+        "end_to_end_seconds": 26.26779430010356
+      }
+    },
+    {
+      "case_id": "931988388d77_k1",
+      "airport": "PHX",
+      "day": "2024-01-24",
+      "delay": 2,
+      "n": 23,
+      "dp": {
+        "value": 143,
+        "states": 23160,
+        "seconds": 1.1658832000102848,
+        "branches": 81734,
+        "bound_prunes": 31906,
+        "end_to_end_seconds": 1.1658898000605404
+      },
+      "mip": {
+        "resolved": false,
+        "feasible": false,
+        "seconds": 21.7665532999672,
+        "dual_bound": 127,
+        "worlds": 524,
+        "variables": 76505,
+        "constraints": 120082,
+        "generated_pairs": 4955,
+        "iterations": 3,
+        "end_to_end_seconds": 21.85565089993179
+      }
+    },
+    {
+      "case_id": "fd6a7e54eebe_k1",
+      "airport": "PHX",
+      "day": "2025-01-24",
+      "delay": 1,
+      "n": 20,
+      "dp": {
+        "value": 112,
+        "states": 6914,
+        "seconds": 0.4150484998244792,
+        "branches": 17105,
+        "bound_prunes": 7699,
+        "end_to_end_seconds": 0.41505539999343455
+      },
+      "mip": {
+        "resolved": false,
+        "feasible": false,
+        "seconds": 24.753568399930373,
+        "dual_bound": 105,
+        "worlds": 527,
+        "variables": 90645,
+        "constraints": 139642,
+        "generated_pairs": 5799,
+        "iterations": 3,
+        "end_to_end_seconds": 24.845399899873883
+      }
+    },
+    {
+      "case_id": "fd6a7e54eebe_k1",
+      "airport": "PHX",
+      "day": "2025-01-24",
+      "delay": 2,
+      "n": 20,
+      "dp": {
+        "value": 115,
+        "states": 17335,
+        "seconds": 1.10338079999201,
+        "branches": 63516,
+        "bound_prunes": 21110,
+        "end_to_end_seconds": 1.1033878000453115
+      },
+      "mip": {
+        "resolved": false,
+        "feasible": false,
+        "seconds": 21.738119600107893,
+        "dual_bound": 108,
+        "worlds": 527,
+        "variables": 80105,
+        "constraints": 126067,
+        "generated_pairs": 5278,
+        "iterations": 3,
+        "end_to_end_seconds": 21.839767700061202
+      }
+    }
+  ]
+}

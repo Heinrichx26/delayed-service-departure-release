@@ -1,0 +1,119 @@
+{
+  "passed": true,
+  "conditions": 4,
+  "seconds": 4.768000999931246,
+  "rows": [
+    {
+      "case_id": "473d817f7137_k1",
+      "airport": "DEN",
+      "day": "2024-01-24",
+      "capacity": "N4",
+      "delay": 1,
+      "n": 11,
+      "depth": 4,
+      "lookahead": {
+        "value": 88,
+        "time": 16.0,
+        "max_requests": 6,
+        "states": 637,
+        "seconds": 0.4944194999989122,
+        "validated_seconds": 0.5170279999729246,
+        "histories": 130
+      },
+      "exact": {
+        "value": 87,
+        "time": 15.818181818181818,
+        "max_requests": 6,
+        "states": 9740,
+        "seconds": 0.45443179993890226,
+        "validated_seconds": 0.4797135000117123,
+        "checks": 2742
+      },
+      "resolved": true
+    },
+    {
+      "case_id": "473d817f7137_k1",
+      "airport": "DEN",
+      "day": "2024-01-24",
+      "capacity": "N4",
+      "delay": 2,
+      "n": 11,
+      "depth": 4,
+      "lookahead": {
+        "value": 97,
+        "time": 17.636363636363637,
+        "max_requests": 5,
+        "states": 499,
+        "seconds": 0.8189473000820726,
+        "validated_seconds": 0.840238300152123,
+        "histories": 135
+      },
+      "exact": {
+        "value": 97,
+        "time": 17.636363636363637,
+        "max_requests": 5,
+        "states": 28889,
+        "seconds": 1.3209859000053257,
+        "validated_seconds": 1.341167900012806,
+        "checks": 2053
+      },
+      "resolved": true
+    },
+    {
+      "case_id": "931988388d77_k1",
+      "airport": "PHX",
+      "day": "2024-01-24",
+      "capacity": "N4",
+      "delay": 1,
+      "n": 23,
+      "depth": 4,
+      "lookahead": {
+        "value": 131,
+        "time": 11.391304347826088,
+        "max_requests": 6,
+        "states": 730,
+        "seconds": 0.44398380001075566,
+        "validated_seconds": 0.46456079999916255,
+        "histories": 135
+      },
+      "exact": {
+        "value": 131,
+        "time": 11.391304347826088,
+        "max_requests": 6,
+        "states": 12808,
+        "seconds": 0.5062996000051498,
+        "validated_seconds": 0.5284086000174284,
+        "checks": 2553
+      },
+      "resolved": true
+    },
+    {
+      "case_id": "931988388d77_k1",
+      "airport": "PHX",
+      "day": "2024-01-24",
+      "capacity": "N4",
+      "delay": 2,
+      "n": 23,
+      "depth": 4,
+      "lookahead": {
+        "value": 143,
+        "time": 12.434782608695652,
+        "max_requests": 7,
+        "states": 537,
+        "seconds": 0.893235599854961,
+        "validated_seconds": 0.9124982000794262,
+        "histories": 156
+      },
+      "exact": {
+        "value": 143,
+        "time": 12.434782608695652,
+        "max_requests": 7,
+        "states": 40963,
+        "seconds": 1.6951129999943078,
+        "validated_seconds": 1.7130042999051511,
+        "checks": 2038
+      },
+      "resolved": true
+    }
+  ]
+}

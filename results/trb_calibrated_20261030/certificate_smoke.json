@@ -1,0 +1,127 @@
+{
+  "passed": true,
+  "conditions": 4,
+  "certified": 4,
+  "rows": [
+    {
+      "case_id": "473d817f7137_k1",
+      "airport": "DEN",
+      "day": "2024-01-24",
+      "capacity": "N4",
+      "delay": 1,
+      "n": 11,
+      "upper": 87,
+      "total_request_limit": 6,
+      "depths": [
+        {
+          "depth": 1,
+          "lower": 70
+        },
+        {
+          "depth": 2,
+          "lower": 74
+        },
+        {
+          "depth": 3,
+          "lower": 87
+        }
+      ],
+      "certified": true,
+      "first_certifying_depth": 3,
+      "resolved": true,
+      "seconds": 0.015594399999827147,
+      "states": 127
+    },
+    {
+      "case_id": "473d817f7137_k1",
+      "airport": "DEN",
+      "day": "2024-01-24",
+      "capacity": "N4",
+      "delay": 2,
+      "n": 11,
+      "upper": 97,
+      "total_request_limit": 5,
+      "depths": [
+        {
+          "depth": 1,
+          "lower": 70
+        },
+        {
+          "depth": 2,
+          "lower": 81
+        },
+        {
+          "depth": 3,
+          "lower": 88
+        },
+        {
+          "depth": 4,
+          "lower": 97
+        }
+      ],
+      "certified": true,
+      "first_certifying_depth": 4,
+      "resolved": true,
+      "seconds": 0.046203300124034286,
+      "states": 715
+    },
+    {
+      "case_id": "931988388d77_k1",
+      "airport": "PHX",
+      "day": "2024-01-24",
+      "capacity": "N4",
+      "delay": 1,
+      "n": 23,
+      "upper": 131,
+      "total_request_limit": 6,
+      "depths": [
+        {
+          "depth": 1,
+          "lower": 119
+        },
+        {
+          "depth": 2,
+          "lower": 131
+        }
+      ],
+      "certified": true,
+      "first_certifying_depth": 2,
+      "resolved": true,
+      "seconds": 0.005862400168552995,
+      "states": 23
+    },
+    {
+      "case_id": "931988388d77_k1",
+      "airport": "PHX",
+      "day": "2024-01-24",
+      "capacity": "N4",
+      "delay": 2,
+      "n": 23,
+      "upper": 143,
+      "total_request_limit": 7,
+      "depths": [
+        {
+          "depth": 1,
+          "lower": 119
+        },
+        {
+          "depth": 2,
+          "lower": 131
+        },
+        {
+          "depth": 3,
+          "lower": 140
+        },
+        {
+          "depth": 4,
+          "lower": 143
+        }
+      ],
+      "certified": true,
+      "first_certifying_depth": 4,
+      "resolved": true,
+      "seconds": 0.07084739999845624,
+      "states": 1393
+    }
+  ]
+}
