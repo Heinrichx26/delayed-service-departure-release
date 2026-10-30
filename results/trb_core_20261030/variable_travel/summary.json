@@ -1,0 +1,90 @@
+[
+  {
+    "mode": "known_variable",
+    "delay": 1,
+    "budget": 1,
+    "eligible": 163,
+    "excluded": 37,
+    "waiting": 12.989335150189255,
+    "requests": 2.4800613496932513,
+    "greedy_saving": 0.7746877111606126,
+    "no_request_saving": 2.8537633107354505
+  },
+  {
+    "mode": "known_variable",
+    "delay": 1,
+    "budget": 2,
+    "eligible": 163,
+    "excluded": 37,
+    "waiting": 12.798837189226806,
+    "requests": 2.807515337423313,
+    "greedy_saving": 0.19089393587927583,
+    "no_request_saving": 3.0442612716979007
+  },
+  {
+    "mode": "known_variable",
+    "delay": 2,
+    "budget": 1,
+    "eligible": 163,
+    "excluded": 37,
+    "waiting": 13.648980129005716,
+    "requests": 2.772622699386503,
+    "greedy_saving": 1.3552237390300843,
+    "no_request_saving": 2.1941183319189905
+  },
+  {
+    "mode": "known_variable",
+    "delay": 2,
+    "budget": 2,
+    "eligible": 163,
+    "excluded": 37,
+    "waiting": 13.539370760934538,
+    "requests": 3.4800613496932513,
+    "greedy_saving": 1.4391595642205428,
+    "no_request_saving": 2.3037276999901684
+  },
+  {
+    "mode": "uncertain_variable",
+    "delay": 1,
+    "budget": 1,
+    "eligible": 163,
+    "excluded": 37,
+    "waiting": 12.989335150189255,
+    "requests": 2.4800613496932513,
+    "greedy_saving": 0.5774933890480071,
+    "no_request_saving": 2.8537633107354505
+  },
+  {
+    "mode": "uncertain_variable",
+    "delay": 1,
+    "budget": 2,
+    "eligible": 163,
+    "excluded": 37,
+    "waiting": 12.798837189226806,
+    "requests": 2.807515337423313,
+    "greedy_saving": 0.18584447044677843,
+    "no_request_saving": 3.0442612716979007
+  },
+  {
+    "mode": "uncertain_variable",
+    "delay": 2,
+    "budget": 1,
+    "eligible": 163,
+    "excluded": 37,
+    "waiting": 13.648980129005716,
+    "requests": 2.772622699386503,
+    "greedy_saving": 0.3101397010254982,
+    "no_request_saving": 2.1941183319189905
+  },
+  {
+    "mode": "uncertain_variable",
+    "delay": 2,
+    "budget": 2,
+    "eligible": 163,
+    "excluded": 37,
+    "waiting": 13.539370760934538,
+    "requests": 3.4800613496932513,
+    "greedy_saving": 0.14583363380841846,
+    "no_request_saving": 2.3037276999901684
+  }
+]

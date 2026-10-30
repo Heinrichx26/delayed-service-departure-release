@@ -1,0 +1,1352 @@
+{
+  "passed": true,
+  "comparisons": 192,
+  "feasibility_checks": 9591,
+  "seed": 2026103007,
+  "rows": [
+    {
+      "attempt": 1,
+      "delay": 1,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 53
+    },
+    {
+      "attempt": 1,
+      "delay": 1,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 53
+    },
+    {
+      "attempt": 1,
+      "delay": 2,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 75
+    },
+    {
+      "attempt": 1,
+      "delay": 2,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 78
+    },
+    {
+      "attempt": 2,
+      "delay": 1,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 60
+    },
+    {
+      "attempt": 2,
+      "delay": 1,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 60
+    },
+    {
+      "attempt": 2,
+      "delay": 2,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 46
+    },
+    {
+      "attempt": 2,
+      "delay": 2,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 46
+    },
+    {
+      "attempt": 3,
+      "delay": 1,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 109
+    },
+    {
+      "attempt": 3,
+      "delay": 1,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 109
+    },
+    {
+      "attempt": 3,
+      "delay": 2,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 136
+    },
+    {
+      "attempt": 3,
+      "delay": 2,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 138
+    },
+    {
+      "attempt": 4,
+      "delay": 1,
+      "budget": 1,
+      "states": 10,
+      "raw_states": 213
+    },
+    {
+      "attempt": 4,
+      "delay": 1,
+      "budget": 2,
+      "states": 10,
+      "raw_states": 213
+    },
+    {
+      "attempt": 4,
+      "delay": 2,
+      "budget": 1,
+      "states": 9,
+      "raw_states": 238
+    },
+    {
+      "attempt": 4,
+      "delay": 2,
+      "budget": 2,
+      "states": 9,
+      "raw_states": 282
+    },
+    {
+      "attempt": 5,
+      "delay": 1,
+      "budget": 1,
+      "states": 9,
+      "raw_states": 86
+    },
+    {
+      "attempt": 5,
+      "delay": 1,
+      "budget": 2,
+      "states": 9,
+      "raw_states": 86
+    },
+    {
+      "attempt": 5,
+      "delay": 2,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 113
+    },
+    {
+      "attempt": 5,
+      "delay": 2,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 113
+    },
+    {
+      "attempt": 6,
+      "delay": 1,
+      "budget": 1,
+      "states": 17,
+      "raw_states": 104
+    },
+    {
+      "attempt": 6,
+      "delay": 1,
+      "budget": 2,
+      "states": 17,
+      "raw_states": 104
+    },
+    {
+      "attempt": 6,
+      "delay": 2,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 146
+    },
+    {
+      "attempt": 6,
+      "delay": 2,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 153
+    },
+    {
+      "attempt": 7,
+      "delay": 1,
+      "budget": 1,
+      "states": 20,
+      "raw_states": 180
+    },
+    {
+      "attempt": 7,
+      "delay": 1,
+      "budget": 2,
+      "states": 21,
+      "raw_states": 182
+    },
+    {
+      "attempt": 7,
+      "delay": 2,
+      "budget": 1,
+      "states": 18,
+      "raw_states": 185
+    },
+    {
+      "attempt": 7,
+      "delay": 2,
+      "budget": 2,
+      "states": 20,
+      "raw_states": 196
+    },
+    {
+      "attempt": 8,
+      "delay": 1,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 53
+    },
+    {
+      "attempt": 8,
+      "delay": 1,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 53
+    },
+    {
+      "attempt": 8,
+      "delay": 2,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 75
+    },
+    {
+      "attempt": 8,
+      "delay": 2,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 78
+    },
+    {
+      "attempt": 9,
+      "delay": 1,
+      "budget": 1,
+      "states": 12,
+      "raw_states": 152
+    },
+    {
+      "attempt": 9,
+      "delay": 1,
+      "budget": 2,
+      "states": 12,
+      "raw_states": 152
+    },
+    {
+      "attempt": 9,
+      "delay": 2,
+      "budget": 1,
+      "states": 13,
+      "raw_states": 216
+    },
+    {
+      "attempt": 9,
+      "delay": 2,
+      "budget": 2,
+      "states": 13,
+      "raw_states": 261
+    },
+    {
+      "attempt": 10,
+      "delay": 1,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 60
+    },
+    {
+      "attempt": 10,
+      "delay": 1,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 60
+    },
+    {
+      "attempt": 10,
+      "delay": 2,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 46
+    },
+    {
+      "attempt": 10,
+      "delay": 2,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 46
+    },
+    {
+      "attempt": 11,
+      "delay": 1,
+      "budget": 1,
+      "states": 11,
+      "raw_states": 67
+    },
+    {
+      "attempt": 11,
+      "delay": 1,
+      "budget": 2,
+      "states": 11,
+      "raw_states": 67
+    },
+    {
+      "attempt": 11,
+      "delay": 2,
+      "budget": 1,
+      "states": 12,
+      "raw_states": 94
+    },
+    {
+      "attempt": 11,
+      "delay": 2,
+      "budget": 2,
+      "states": 12,
+      "raw_states": 98
+    },
+    {
+      "attempt": 12,
+      "delay": 1,
+      "budget": 1,
+      "states": 15,
+      "raw_states": 168
+    },
+    {
+      "attempt": 12,
+      "delay": 1,
+      "budget": 2,
+      "states": 16,
+      "raw_states": 171
+    },
+    {
+      "attempt": 12,
+      "delay": 2,
+      "budget": 1,
+      "states": 13,
+      "raw_states": 199
+    },
+    {
+      "attempt": 12,
+      "delay": 2,
+      "budget": 2,
+      "states": 16,
+      "raw_states": 227
+    },
+    {
+      "attempt": 13,
+      "delay": 1,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 59
+    },
+    {
+      "attempt": 13,
+      "delay": 1,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 59
+    },
+    {
+      "attempt": 13,
+      "delay": 2,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 71
+    },
+    {
+      "attempt": 13,
+      "delay": 2,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 75
+    },
+    {
+      "attempt": 14,
+      "delay": 1,
+      "budget": 1,
+      "states": 13,
+      "raw_states": 165
+    },
+    {
+      "attempt": 14,
+      "delay": 1,
+      "budget": 2,
+      "states": 13,
+      "raw_states": 165
+    },
+    {
+      "attempt": 14,
+      "delay": 2,
+      "budget": 1,
+      "states": 14,
+      "raw_states": 291
+    },
+    {
+      "attempt": 14,
+      "delay": 2,
+      "budget": 2,
+      "states": 14,
+      "raw_states": 334
+    },
+    {
+      "attempt": 15,
+      "delay": 1,
+      "budget": 1,
+      "states": 9,
+      "raw_states": 202
+    },
+    {
+      "attempt": 15,
+      "delay": 1,
+      "budget": 2,
+      "states": 9,
+      "raw_states": 202
+    },
+    {
+      "attempt": 15,
+      "delay": 2,
+      "budget": 1,
+      "states": 9,
+      "raw_states": 254
+    },
+    {
+      "attempt": 15,
+      "delay": 2,
+      "budget": 2,
+      "states": 9,
+      "raw_states": 272
+    },
+    {
+      "attempt": 16,
+      "delay": 1,
+      "budget": 1,
+      "states": 11,
+      "raw_states": 206
+    },
+    {
+      "attempt": 16,
+      "delay": 1,
+      "budget": 2,
+      "states": 11,
+      "raw_states": 206
+    },
+    {
+      "attempt": 16,
+      "delay": 2,
+      "budget": 1,
+      "states": 8,
+      "raw_states": 169
+    },
+    {
+      "attempt": 16,
+      "delay": 2,
+      "budget": 2,
+      "states": 8,
+      "raw_states": 178
+    },
+    {
+      "attempt": 17,
+      "delay": 1,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 47
+    },
+    {
+      "attempt": 17,
+      "delay": 1,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 47
+    },
+    {
+      "attempt": 17,
+      "delay": 2,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 58
+    },
+    {
+      "attempt": 17,
+      "delay": 2,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 58
+    },
+    {
+      "attempt": 18,
+      "delay": 1,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 76
+    },
+    {
+      "attempt": 18,
+      "delay": 1,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 76
+    },
+    {
+      "attempt": 18,
+      "delay": 2,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 96
+    },
+    {
+      "attempt": 18,
+      "delay": 2,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 101
+    },
+    {
+      "attempt": 19,
+      "delay": 1,
+      "budget": 1,
+      "states": 23,
+      "raw_states": 288
+    },
+    {
+      "attempt": 19,
+      "delay": 1,
+      "budget": 2,
+      "states": 24,
+      "raw_states": 306
+    },
+    {
+      "attempt": 19,
+      "delay": 2,
+      "budget": 1,
+      "states": 19,
+      "raw_states": 401
+    },
+    {
+      "attempt": 19,
+      "delay": 2,
+      "budget": 2,
+      "states": 22,
+      "raw_states": 471
+    },
+    {
+      "attempt": 20,
+      "delay": 1,
+      "budget": 1,
+      "states": 11,
+      "raw_states": 139
+    },
+    {
+      "attempt": 20,
+      "delay": 1,
+      "budget": 2,
+      "states": 11,
+      "raw_states": 139
+    },
+    {
+      "attempt": 20,
+      "delay": 2,
+      "budget": 1,
+      "states": 12,
+      "raw_states": 187
+    },
+    {
+      "attempt": 20,
+      "delay": 2,
+      "budget": 2,
+      "states": 12,
+      "raw_states": 195
+    },
+    {
+      "attempt": 21,
+      "delay": 1,
+      "budget": 1,
+      "states": 14,
+      "raw_states": 212
+    },
+    {
+      "attempt": 21,
+      "delay": 1,
+      "budget": 2,
+      "states": 14,
+      "raw_states": 212
+    },
+    {
+      "attempt": 21,
+      "delay": 2,
+      "budget": 1,
+      "states": 11,
+      "raw_states": 184
+    },
+    {
+      "attempt": 21,
+      "delay": 2,
+      "budget": 2,
+      "states": 11,
+      "raw_states": 199
+    },
+    {
+      "attempt": 22,
+      "delay": 1,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 119
+    },
+    {
+      "attempt": 22,
+      "delay": 1,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 119
+    },
+    {
+      "attempt": 22,
+      "delay": 2,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 146
+    },
+    {
+      "attempt": 22,
+      "delay": 2,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 148
+    },
+    {
+      "attempt": 23,
+      "delay": 1,
+      "budget": 1,
+      "states": 1,
+      "raw_states": 65
+    },
+    {
+      "attempt": 23,
+      "delay": 1,
+      "budget": 2,
+      "states": 1,
+      "raw_states": 65
+    },
+    {
+      "attempt": 23,
+      "delay": 2,
+      "budget": 1,
+      "states": 1,
+      "raw_states": 65
+    },
+    {
+      "attempt": 23,
+      "delay": 2,
+      "budget": 2,
+      "states": 1,
+      "raw_states": 65
+    },
+    {
+      "attempt": 24,
+      "delay": 1,
+      "budget": 1,
+      "states": 11,
+      "raw_states": 205
+    },
+    {
+      "attempt": 24,
+      "delay": 1,
+      "budget": 2,
+      "states": 11,
+      "raw_states": 205
+    },
+    {
+      "attempt": 24,
+      "delay": 2,
+      "budget": 1,
+      "states": 12,
+      "raw_states": 278
+    },
+    {
+      "attempt": 24,
+      "delay": 2,
+      "budget": 2,
+      "states": 12,
+      "raw_states": 287
+    },
+    {
+      "attempt": 25,
+      "delay": 1,
+      "budget": 1,
+      "states": 11,
+      "raw_states": 108
+    },
+    {
+      "attempt": 25,
+      "delay": 1,
+      "budget": 2,
+      "states": 11,
+      "raw_states": 108
+    },
+    {
+      "attempt": 25,
+      "delay": 2,
+      "budget": 1,
+      "states": 12,
+      "raw_states": 156
+    },
+    {
+      "attempt": 25,
+      "delay": 2,
+      "budget": 2,
+      "states": 12,
+      "raw_states": 164
+    },
+    {
+      "attempt": 26,
+      "delay": 1,
+      "budget": 1,
+      "states": 9,
+      "raw_states": 132
+    },
+    {
+      "attempt": 26,
+      "delay": 1,
+      "budget": 2,
+      "states": 9,
+      "raw_states": 132
+    },
+    {
+      "attempt": 26,
+      "delay": 2,
+      "budget": 1,
+      "states": 8,
+      "raw_states": 130
+    },
+    {
+      "attempt": 26,
+      "delay": 2,
+      "budget": 2,
+      "states": 8,
+      "raw_states": 130
+    },
+    {
+      "attempt": 27,
+      "delay": 1,
+      "budget": 1,
+      "states": 16,
+      "raw_states": 377
+    },
+    {
+      "attempt": 27,
+      "delay": 1,
+      "budget": 2,
+      "states": 16,
+      "raw_states": 377
+    },
+    {
+      "attempt": 27,
+      "delay": 2,
+      "budget": 1,
+      "states": 10,
+      "raw_states": 428
+    },
+    {
+      "attempt": 27,
+      "delay": 2,
+      "budget": 2,
+      "states": 11,
+      "raw_states": 431
+    },
+    {
+      "attempt": 28,
+      "delay": 1,
+      "budget": 1,
+      "states": 12,
+      "raw_states": 340
+    },
+    {
+      "attempt": 28,
+      "delay": 1,
+      "budget": 2,
+      "states": 12,
+      "raw_states": 340
+    },
+    {
+      "attempt": 28,
+      "delay": 2,
+      "budget": 1,
+      "states": 13,
+      "raw_states": 537
+    },
+    {
+      "attempt": 28,
+      "delay": 2,
+      "budget": 2,
+      "states": 13,
+      "raw_states": 629
+    },
+    {
+      "attempt": 29,
+      "delay": 1,
+      "budget": 1,
+      "states": 1,
+      "raw_states": 34
+    },
+    {
+      "attempt": 29,
+      "delay": 1,
+      "budget": 2,
+      "states": 1,
+      "raw_states": 34
+    },
+    {
+      "attempt": 29,
+      "delay": 2,
+      "budget": 1,
+      "states": 1,
+      "raw_states": 34
+    },
+    {
+      "attempt": 29,
+      "delay": 2,
+      "budget": 2,
+      "states": 1,
+      "raw_states": 34
+    },
+    {
+      "attempt": 30,
+      "delay": 1,
+      "budget": 1,
+      "states": 12,
+      "raw_states": 148
+    },
+    {
+      "attempt": 30,
+      "delay": 1,
+      "budget": 2,
+      "states": 12,
+      "raw_states": 148
+    },
+    {
+      "attempt": 30,
+      "delay": 2,
+      "budget": 1,
+      "states": 13,
+      "raw_states": 204
+    },
+    {
+      "attempt": 30,
+      "delay": 2,
+      "budget": 2,
+      "states": 13,
+      "raw_states": 247
+    },
+    {
+      "attempt": 31,
+      "delay": 1,
+      "budget": 1,
+      "states": 12,
+      "raw_states": 104
+    },
+    {
+      "attempt": 31,
+      "delay": 1,
+      "budget": 2,
+      "states": 12,
+      "raw_states": 104
+    },
+    {
+      "attempt": 31,
+      "delay": 2,
+      "budget": 1,
+      "states": 13,
+      "raw_states": 152
+    },
+    {
+      "attempt": 31,
+      "delay": 2,
+      "budget": 2,
+      "states": 13,
+      "raw_states": 159
+    },
+    {
+      "attempt": 32,
+      "delay": 1,
+      "budget": 1,
+      "states": 16,
+      "raw_states": 218
+    },
+    {
+      "attempt": 32,
+      "delay": 1,
+      "budget": 2,
+      "states": 17,
+      "raw_states": 220
+    },
+    {
+      "attempt": 32,
+      "delay": 2,
+      "budget": 1,
+      "states": 19,
+      "raw_states": 289
+    },
+    {
+      "attempt": 32,
+      "delay": 2,
+      "budget": 2,
+      "states": 23,
+      "raw_states": 336
+    },
+    {
+      "attempt": 33,
+      "delay": 1,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 38
+    },
+    {
+      "attempt": 33,
+      "delay": 1,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 38
+    },
+    {
+      "attempt": 33,
+      "delay": 2,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 45
+    },
+    {
+      "attempt": 33,
+      "delay": 2,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 47
+    },
+    {
+      "attempt": 34,
+      "delay": 1,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 54
+    },
+    {
+      "attempt": 34,
+      "delay": 1,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 54
+    },
+    {
+      "attempt": 34,
+      "delay": 2,
+      "budget": 1,
+      "states": 6,
+      "raw_states": 33
+    },
+    {
+      "attempt": 34,
+      "delay": 2,
+      "budget": 2,
+      "states": 6,
+      "raw_states": 33
+    },
+    {
+      "attempt": 35,
+      "delay": 1,
+      "budget": 1,
+      "states": 12,
+      "raw_states": 83
+    },
+    {
+      "attempt": 35,
+      "delay": 1,
+      "budget": 2,
+      "states": 13,
+      "raw_states": 85
+    },
+    {
+      "attempt": 35,
+      "delay": 2,
+      "budget": 1,
+      "states": 11,
+      "raw_states": 68
+    },
+    {
+      "attempt": 35,
+      "delay": 2,
+      "budget": 2,
+      "states": 13,
+      "raw_states": 72
+    },
+    {
+      "attempt": 36,
+      "delay": 1,
+      "budget": 1,
+      "states": 18,
+      "raw_states": 186
+    },
+    {
+      "attempt": 36,
+      "delay": 1,
+      "budget": 2,
+      "states": 19,
+      "raw_states": 186
+    },
+    {
+      "attempt": 36,
+      "delay": 2,
+      "budget": 1,
+      "states": 9,
+      "raw_states": 270
+    },
+    {
+      "attempt": 36,
+      "delay": 2,
+      "budget": 2,
+      "states": 10,
+      "raw_states": 302
+    },
+    {
+      "attempt": 37,
+      "delay": 1,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 47
+    },
+    {
+      "attempt": 37,
+      "delay": 1,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 47
+    },
+    {
+      "attempt": 37,
+      "delay": 2,
+      "budget": 1,
+      "states": 7,
+      "raw_states": 45
+    },
+    {
+      "attempt": 37,
+      "delay": 2,
+      "budget": 2,
+      "states": 7,
+      "raw_states": 45
+    },
+    {
+      "attempt": 38,
+      "delay": 1,
+      "budget": 1,
+      "states": 9,
+      "raw_states": 58
+    },
+    {
+      "attempt": 38,
+      "delay": 1,
+      "budget": 2,
+      "states": 9,
+      "raw_states": 58
+    },
+    {
+      "attempt": 38,
+      "delay": 2,
+      "budget": 1,
+      "states": 9,
+      "raw_states": 71
+    },
+    {
+      "attempt": 38,
+      "delay": 2,
+      "budget": 2,
+      "states": 9,
+      "raw_states": 73
+    },
+    {
+      "attempt": 39,
+      "delay": 1,
+      "budget": 1,
+      "states": 10,
+      "raw_states": 119
+    },
+    {
+      "attempt": 39,
+      "delay": 1,
+      "budget": 2,
+      "states": 10,
+      "raw_states": 119
+    },
+    {
+      "attempt": 39,
+      "delay": 2,
+      "budget": 1,
+      "states": 12,
+      "raw_states": 169
+    },
+    {
+      "attempt": 39,
+      "delay": 2,
+      "budget": 2,
+      "states": 12,
+      "raw_states": 176
+    },
+    {
+      "attempt": 40,
+      "delay": 1,
+      "budget": 1,
+      "states": 10,
+      "raw_states": 119
+    },
+    {
+      "attempt": 40,
+      "delay": 1,
+      "budget": 2,
+      "states": 10,
+      "raw_states": 119
+    },
+    {
+      "attempt": 40,
+      "delay": 2,
+      "budget": 1,
+      "states": 12,
+      "raw_states": 169
+    },
+    {
+      "attempt": 40,
+      "delay": 2,
+      "budget": 2,
+      "states": 12,
+      "raw_states": 176
+    },
+    {
+      "attempt": 41,
+      "delay": 1,
+      "budget": 1,
+      "states": 10,
+      "raw_states": 70
+    },
+    {
+      "attempt": 41,
+      "delay": 1,
+      "budget": 2,
+      "states": 10,
+      "raw_states": 70
+    },
+    {
+      "attempt": 41,
+      "delay": 2,
+      "budget": 1,
+      "states": 12,
+      "raw_states": 94
+    },
+    {
+      "attempt": 41,
+      "delay": 2,
+      "budget": 2,
+      "states": 12,
+      "raw_states": 94
+    },
+    {
+      "attempt": 42,
+      "delay": 1,
+      "budget": 1,
+      "states": 17,
+      "raw_states": 249
+    },
+    {
+      "attempt": 42,
+      "delay": 1,
+      "budget": 2,
+      "states": 18,
+      "raw_states": 252
+    },
+    {
+      "attempt": 42,
+      "delay": 2,
+      "budget": 1,
+      "states": 19,
+      "raw_states": 271
+    },
+    {
+      "attempt": 42,
+      "delay": 2,
+      "budget": 2,
+      "states": 23,
+      "raw_states": 301
+    },
+    {
+      "attempt": 43,
+      "delay": 1,
+      "budget": 1,
+      "states": 1,
+      "raw_states": 225
+    },
+    {
+      "attempt": 43,
+      "delay": 1,
+      "budget": 2,
+      "states": 1,
+      "raw_states": 225
+    },
+    {
+      "attempt": 43,
+      "delay": 2,
+      "budget": 1,
+      "states": 1,
+      "raw_states": 331
+    },
+    {
+      "attempt": 43,
+      "delay": 2,
+      "budget": 2,
+      "states": 1,
+      "raw_states": 345
+    },
+    {
+      "attempt": 44,
+      "delay": 1,
+      "budget": 1,
+      "states": 12,
+      "raw_states": 126
+    },
+    {
+      "attempt": 44,
+      "delay": 1,
+      "budget": 2,
+      "states": 12,
+      "raw_states": 126
+    },
+    {
+      "attempt": 44,
+      "delay": 2,
+      "budget": 1,
+      "states": 12,
+      "raw_states": 111
+    },
+    {
+      "attempt": 44,
+      "delay": 2,
+      "budget": 2,
+      "states": 12,
+      "raw_states": 111
+    },
+    {
+      "attempt": 45,
+      "delay": 1,
+      "budget": 1,
+      "states": 21,
+      "raw_states": 535
+    },
+    {
+      "attempt": 45,
+      "delay": 1,
+      "budget": 2,
+      "states": 21,
+      "raw_states": 535
+    },
+    {
+      "attempt": 45,
+      "delay": 2,
+      "budget": 1,
+      "states": 20,
+      "raw_states": 685
+    },
+    {
+      "attempt": 45,
+      "delay": 2,
+      "budget": 2,
+      "states": 22,
+      "raw_states": 788
+    },
+    {
+      "attempt": 46,
+      "delay": 1,
+      "budget": 1,
+      "states": 13,
+      "raw_states": 148
+    },
+    {
+      "attempt": 46,
+      "delay": 1,
+      "budget": 2,
+      "states": 13,
+      "raw_states": 148
+    },
+    {
+      "attempt": 46,
+      "delay": 2,
+      "budget": 1,
+      "states": 13,
+      "raw_states": 204
+    },
+    {
+      "attempt": 46,
+      "delay": 2,
+      "budget": 2,
+      "states": 13,
+      "raw_states": 247
+    },
+    {
+      "attempt": 47,
+      "delay": 1,
+      "budget": 1,
+      "states": 18,
+      "raw_states": 198
+    },
+    {
+      "attempt": 47,
+      "delay": 1,
+      "budget": 2,
+      "states": 19,
+      "raw_states": 198
+    },
+    {
+      "attempt": 47,
+      "delay": 2,
+      "budget": 1,
+      "states": 9,
+      "raw_states": 341
+    },
+    {
+      "attempt": 47,
+      "delay": 2,
+      "budget": 2,
+      "states": 10,
+      "raw_states": 407
+    },
+    {
+      "attempt": 48,
+      "delay": 1,
+      "budget": 1,
+      "states": 10,
+      "raw_states": 67
+    },
+    {
+      "attempt": 48,
+      "delay": 1,
+      "budget": 2,
+      "states": 10,
+      "raw_states": 67
+    },
+    {
+      "attempt": 48,
+      "delay": 2,
+      "budget": 1,
+      "states": 12,
+      "raw_states": 95
+    },
+    {
+      "attempt": 48,
+      "delay": 2,
+      "budget": 2,
+      "states": 12,
+      "raw_states": 99
+    }
+  ]
+}

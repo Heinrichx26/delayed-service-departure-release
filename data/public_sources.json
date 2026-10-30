@@ -14,9 +14,10 @@
   "field_definitions": "https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FGJ",
   "communication_metadata": {
     "corpus": "ATCO2",
-    "paper": "https://data.mlr.press/v2/zuluaga-gomez23a.html",
+    "paper": "https://arxiv.org/abs/2211.04054",
     "data_page": "https://www.atco2.org/data",
     "archive_scope": "public XML and INFO metadata; audio excluded from repository",
-    "retrieved": "2026-10-30"
+    "retrieved": "2026-10-30",
+    "interpretation": "Short speech-segment durations; request response times and concurrent task budgets are scenario inputs."
   }
 }

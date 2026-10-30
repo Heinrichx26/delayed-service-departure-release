@@ -1,0 +1,61 @@
+{
+  "passed": true,
+  "full_conditions": 1600,
+  "complete_conditions": 1304,
+  "excluded_combinations": 37,
+  "theory_comparisons": 192,
+  "feasibility_checks": 9591,
+  "median_raw_to_reduced_states": 12.692307692307692,
+  "common_reference_verified": true,
+  "known_slowest_equals_uncertain_all": true,
+  "source_hashes": {
+    "export_travel.py": "64d215522498eb8c8fa1d398ac10588999558772cac9d0865e7680dafd67f0a3",
+    "variable_travel.py": "2d11397f0c788cb7e5e1673c3c505d1d4fe23c14f3e47aef912d20ccb62e90ee"
+  },
+  "summary": [
+    {
+      "delay": 1,
+      "budget": 1,
+      "conditions": 163,
+      "original_preserved": 6,
+      "generalized_preserved": 163,
+      "extra_time": 1.5946585558363395,
+      "greedy_saving": 0.5774933890480071,
+      "request_difference": 0.34049079754601225,
+      "no_request_saving": 2.8537633107354505
+    },
+    {
+      "delay": 1,
+      "budget": 2,
+      "conditions": 163,
+      "original_preserved": 6,
+      "generalized_preserved": 163,
+      "extra_time": 1.5212392335234999,
+      "greedy_saving": 0.18584447044677843,
+      "request_difference": 0.10237730061349694,
+      "no_request_saving": 3.0442612716979007
+    },
+    {
+      "delay": 2,
+      "budget": 1,
+      "conditions": 163,
+      "original_preserved": 6,
+      "generalized_preserved": 163,
+      "extra_time": 1.7695325789644882,
+      "greedy_saving": 0.3101397010254982,
+      "request_difference": 0.24578220858895705,
+      "no_request_saving": 2.1941183319189905
+    },
+    {
+      "delay": 2,
+      "budget": 2,
+      "conditions": 163,
+      "original_preserved": 6,
+      "generalized_preserved": 163,
+      "extra_time": 1.7630736659560433,
+      "greedy_saving": 0.14583363380841846,
+      "request_difference": 0.31403374233128833,
+      "no_request_saving": 2.3037276999901684
+    }
+  ]
+}

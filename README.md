@@ -64,9 +64,8 @@ The public ATCO2 metadata check is in `src/open_data_atco2/`. It parses the
 freely distributed XML and INFO metadata and excludes the third-party audio
 archive. The current archive contains 560 recordings and 877 timestamped
 speech segments from seven airports. The summaries in `results/open_data_atco2/`
-report communication-segment durations, speaker roles and turn gaps. These
-statistics calibrate public radio-communication timing and occupancy settings;
-they do not identify the model-specific future service-count exchange.
+report communication-segment durations, speaker roles and turn gaps. These statistics describe short speech-segment durations and within-recording
+gaps. Request response times and concurrent task budgets remain scenario inputs.
 
 ## Installation
 
@@ -166,3 +165,24 @@ The complete simulated delayed-report outputs are stored in
 reads this JSON archive directly. `box_summary.json` gives the aggregated
 comparisons. See `data/README.md` for the frozen-case fields and `LICENSE-DATA.md`
 for the derived-data license.
+
+## Time-varying travel
+
+The ordered-arrival extension allows travel time to vary by release slot.
+Its independent simulator and full release/request enumeration are in
+src/trb_core_20261030/variable_travel.py. One-slot perturbations are sensitivity
+inputs on the existing two-minute grid. Start with:
+
+    python src/trb_core_20261030/variable_travel.py smoke
+
+After it passes, run:
+
+    python src/trb_core_20261030/variable_travel.py full
+    python src/trb_core_20261030/audit_travel.py
+
+The saved numerical results include all 200 initial window/release-limit
+combinations and record the 37 combinations whose earliest releases fail to
+complete under the perturbed travel profiles. The complete comparison has
+163 combinations, four response/request settings and two travel information
+settings. Saved nominal policies support an independent audit at the same
+takeoff references. Plotting and manuscript production are separate.
